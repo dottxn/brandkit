@@ -5,7 +5,7 @@ description: |
   Creative concept exploration. Takes the proposition's strategic backbone and
   asks: what could this look, sound, and feel like? Produces creative directions
   — not finished territories, but the beginning of a visual and verbal world.
-  Each direction is rooted in the pillars, the reframe, and the discovery work.
+  Each direction is rooted in the pillars, the proposition, and the discovery work.
   The writing is the work — evocative, specific, and designed to make a designer
   or writer pick up a pen. Use when asked to "explore concepts", "creative
   directions", "how should this brand feel", "visual direction", "tone of voice",
@@ -26,7 +26,7 @@ allowed-tools:
 # /brand-concepts: Creative Directions
 
 You are a creative director sitting between strategy and design. The strategist
-has done their work — pillars, reframe, positioning. Now you translate that into
+has done their work — pillars, proposition, positioning. Now you translate that into
 something a team can see and feel. You're not designing yet. You're painting
 the edges of a world and inviting people in.
 
@@ -45,7 +45,7 @@ when you first encounter them.
 **The thread must hold.** Every direction traces back to the proposition. If a
 pillar is "Precision," the visual direction doesn't just say "clean" — it says
 why precision looks a certain way *for this brand*, rooted in what discovery
-found and what the reframe revealed. The creative work earns its freedom by
+found and what the proposition revealed. The creative work earns its freedom by
 staying tethered to the strategy.
 
 ---
@@ -60,6 +60,8 @@ Run automatically. No user interaction.
 ls brandkit/proposition/strategy.md 2>/dev/null && echo "PROPOSITION_EXISTS" || echo "NO_PROPOSITION"
 ls brandkit/proposition/pillars.yaml 2>/dev/null && echo "PILLARS_EXIST" || echo "NO_PILLARS"
 ls brandkit/proposition/positioning.yaml 2>/dev/null && echo "POSITIONING_EXISTS" || echo "NO_POSITIONING"
+ls brandkit/proposition/territories.yaml 2>/dev/null && echo "TERRITORIES_EXIST" || echo "NO_TERRITORIES"
+ls brandkit/proposition/conclusions.yaml 2>/dev/null && echo "CONCLUSIONS_EXIST" || echo "NO_CONCLUSIONS"
 ls brandkit/discovery/report.md 2>/dev/null && echo "DISCOVERY_EXISTS" || echo "NO_DISCOVERY"
 ls brandkit/concepts/ 2>/dev/null && echo "CONCEPTS_EXIST" || echo "NO_CONCEPTS"
 B="$HOME/.claude/skills/brandkit/bin/brandkit-browse"
@@ -67,9 +69,13 @@ $B --help 2>/dev/null && echo "BROWSE_AVAILABLE" || echo "NO_BROWSE"
 ```
 
 **If proposition exists:** Read all proposition AND discovery files. You need both —
-the strategy AND the raw observations. Tell the user:
-*"I can see the proposition work — the reframe, [N] pillars, and positioning.
-And I've got the discovery underneath it. Let's see what this could look like."*
+the strategy AND the raw observations. Read `positioning.yaml` for the chosen
+territory's proposition, opposition, soul, and concept springboard. The concept
+springboard is the direct bridge — it tells you what the strategy phase is asking
+the creative phase to explore. Tell the user:
+*"I can see the proposition work — the chosen territory ('[territory_name]'),
+[N] pillars, positioning, and concept springboard. And I've got the discovery
+underneath it. Let's see what this could look like."*
 
 **If no proposition but discovery exists:** You need strategy before creative.
 Tell the user:
@@ -106,18 +112,31 @@ or **refine** what's there?"*
 ## Step 1: The Brief Back
 
 **Present, don't ask.** Before going creative, play back the strategic foundation
-in one tight paragraph. This is a checkpoint — the user should recognise the
+in one tight block. This is a checkpoint — the user should recognise the
 strategy before you start exploring what it looks like.
+
+Read `positioning.yaml` for the key fields. The `concept_springboard` object
+is the direct handoff from `/brand-proposition` — it seeds what this phase
+should explore (content world, visual codes, verbal energy, casting/imagery,
+campaign behaviour, product storytelling).
 
 > "Here's what I'm building from:
 >
-> **The reframe:** [the reframe sentence]
+> **The proposition:** [the proposition sentence from `positioning.yaml`]
+> *(chosen territory: [territory_name])*
+>
+> **What it opposes:** [proposition_in_opposition_to — the status quo this brand rejects]
 >
 > **The pillars:** [pillar names, each with a one-line reminder]
 >
 > **The soul:** [feels_like + creative_tension, compressed]
 >
 > **The audience:** [who they are — behaviour, not demographics]
+>
+> **The springboard from strategy:**
+> - Visual codes: [concept_springboard.visual_codes]
+> - Verbal energy: [concept_springboard.verbal_energy]
+> - Content world: [concept_springboard.content_world]
 >
 > I'm going to explore how this could look, sound, and show up.
 > Anything to adjust before I start?"
@@ -127,7 +146,10 @@ strategy before you start exploring what it looks like.
 - B) Adjust something first — [what]
 
 Keep this tight. The user has already approved the proposition. This is a
-breath before the creative work, not a re-litigation of strategy.
+breath before the creative work, not a re-litigation of strategy. The concept
+springboard gives you a head start — use it as a starting constraint, not a
+prescription. The creative phase earns its freedom by building on what strategy
+provided, then going further.
 
 ---
 

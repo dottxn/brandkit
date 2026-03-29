@@ -55,7 +55,8 @@ brandkit/
 ├── ETHOS.md                      # Philosophy
 ├── setup                         # Installer
 ├── bin/
-│   └── brandkit-load-context     # Context assembly utility
+│   ├── brandkit-load-context     # Context assembly utility
+│   └── brandkit-browse           # Headless browser for visual research
 └── knowledge/
     ├── brands/                   # 88 brands, 11 YAML chunks each
     └── patterns.md               # Methodology patterns extracted from analysis
@@ -88,5 +89,13 @@ The skills don't query the knowledge base at runtime. The methodology — positi
 ## Requirements
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
-- Python 3 (for `brandkit-load-context`)
-- No other dependencies
+- Python 3 (for `brandkit-load-context` and `brandkit-browse`)
+- **Optional:** [Playwright](https://playwright.dev/python/) for visual research
+
+```bash
+pip3 install playwright && python3 -m playwright install chromium
+```
+
+Without Playwright, the skills work fine — WebFetch handles text extraction and the methodology is baked in. With it, the skills can screenshot competitor websites, test responsive layouts, and visually analyse live brands during research. `brandkit-browse` will also use system Chrome if installed, avoiding the Chromium download.
+
+Browser approach inspired by [gstack](https://github.com/anthropics/gstack).

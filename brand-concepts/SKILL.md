@@ -62,6 +62,8 @@ ls brandkit/proposition/pillars.yaml 2>/dev/null && echo "PILLARS_EXIST" || echo
 ls brandkit/proposition/positioning.yaml 2>/dev/null && echo "POSITIONING_EXISTS" || echo "NO_POSITIONING"
 ls brandkit/discovery/report.md 2>/dev/null && echo "DISCOVERY_EXISTS" || echo "NO_DISCOVERY"
 ls brandkit/concepts/ 2>/dev/null && echo "CONCEPTS_EXIST" || echo "NO_CONCEPTS"
+B="$HOME/.claude/skills/brandkit/bin/brandkit-browse"
+$B --help 2>/dev/null && echo "BROWSE_AVAILABLE" || echo "NO_BROWSE"
 ```
 
 **If proposition exists:** Read all proposition AND discovery files. You need both —
@@ -260,6 +262,31 @@ team understand the territory without restricting it.]
 
 ───────────────────────────────────────────────────
 ```
+
+### Visual Research (if browse available)
+
+Before building directions, ground yourself in visual reality. If browse is
+available from Step 0:
+
+**For existing brands** — screenshot the brand's current site at desktop and mobile.
+This is your "before" picture. Note what to keep and what to shift.
+
+```bash
+mkdir -p /tmp/brandkit/visual-research
+$B responsive https://brand-site.com --output-dir /tmp/brandkit/visual-research/
+```
+
+**For all brands** — screenshot 2-3 reference brands from the visual cluster you're
+exploring. If you're building a direction rooted in geometric-clean, look at
+what Stripe and Aesop actually look like right now. Real references > remembered ones.
+
+```bash
+$B screenshot https://stripe.com --output /tmp/brandkit/visual-research/stripe.png
+$B screenshot https://aesop.com --output /tmp/brandkit/visual-research/aesop.png
+```
+
+Read the screenshots. Let what you see inform the "world" paragraph and the
+reference points. This is how creative directors work — they look before they write.
 
 ### Quality Checks (internal — before presenting)
 

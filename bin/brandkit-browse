@@ -1,0 +1,327 @@
+#!/usr/bin/env python3
+"""
+brandkit-browse — Lightweight headless browser for brand research.
+
+Screenshots, text extraction, and responsive testing for brand strategy work.
+Used by /brand-discover, /brand-proposition, and /brand-concepts when visual
+observation of live websites is needed.
+
+Usage:
+    brandkit-browse screenshot <url> [--output path] [--viewport WxH] [--full-page] [--wait N]
+    brandkit-browse text <url> [--selector css] [--wait N]
+    brandkit-browse html <url> [--selector css] [--output path] [--wait N]
+    brandkit-browse responsive <url> --output-dir path [--breakpoints "375,768,1440"]
+
+Examples:
+    brandkit-browse screenshot https://nike.com --output /tmp/brandkit/nike-home.png
+    brandkit-browse screenshot https://nike.com --viewport 375x812 --output /tmp/brandkit/nike-mobile.png
+    brandkit-browse text https://stripe.com --selector "main"
+    brandkit-browse responsive https://aesop.com --output-dir /tmp/brandkit/aesop/
+
+Requires: pip3 install playwright && python3 -m playwright install chromium
+
+Inspired by gstack's browse tool (https://github.com/anthropics/gstack).
+gstack provides a full browser automation framework with persistent daemon,
+60+ commands, and ref-based element interaction. brandkit-browse takes the
+core insight — that AI agents need programmatic browser access — and reduces
+it to the essentials for brand research: see, read, compare.
+"""
+
+import argparse
+import os
+import re
+import sys
+import time
+
+
+def check_playwright():
+    """Check if playwright is available, exit with helpful message if not."""
+    try:
+        from playwright.sync_api import sync_playwright  # noqa: F401
+        return True
+    except ImportError:
+        print("ERROR: playwright not installed.", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("Install with:", file=sys.stderr)
+        print("  pip3 install playwright && python3 -m playwright install chromium", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("brandkit skills will work without it (using WebFetch for text),", file=sys.stderr)
+        print("but brandkit-browse enables visual research — screenshots,", file=sys.stderr)
+        print("responsive testing, and observation of live brand websites.", file=sys.stderr)
+        sys.exit(1)
+
+
+def launch_browser(playwright):
+    """Launch browser — prefer system Chrome, fall back to Playwright Chromium."""
+    # Try system Chrome first (zero download)
+    try:
+        browser = playwright.chromium.launch(headless=True, channel="chrome")
+        return browser
+    except Exception:
+        pass
+
+    # Fall back to Playwright's bundled Chromium
+    try:
+        browser = playwright.chromium.launch(headless=True)
+        return browser
+    except Exception:
+        print("ERROR: No browser available.", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("Install Chromium with:", file=sys.stderr)
+        print("  python3 -m playwright install chromium", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("Or install Google Chrome — brandkit-browse will use it automatically.", file=sys.stderr)
+        sys.exit(1)
+
+
+def parse_viewport(viewport_str):
+    """Parse 'WIDTHxHEIGHT' string into dict."""
+    match = re.match(r'^(\d+)x(\d+)$', viewport_str)
+    if not match:
+        print(f"ERROR: Invalid viewport format '{viewport_str}'. Use WIDTHxHEIGHT (e.g., 1440x900).", file=sys.stderr)
+        sys.exit(1)
+    return {"width": int(match.group(1)), "height": int(match.group(2))}
+
+
+def slug_from_url(url):
+    """Extract a filename-safe slug from a URL."""
+    from urllib.parse import urlparse
+    parsed = urlparse(url)
+    host = parsed.netloc.replace("www.", "").replace(".", "-")
+    path = parsed.path.strip("/").replace("/", "-")
+    slug = f"{host}{'-' + path if path else ''}"
+    return re.sub(r'[^a-zA-Z0-9-]', '', slug)
+
+
+def navigate(page, url, wait_seconds):
+    """Navigate to URL and wait for content to settle."""
+    try:
+        page.goto(url, wait_until="networkidle", timeout=30000)
+    except Exception:
+        # networkidle can timeout on heavy sites — fall back to load
+        try:
+            page.goto(url, wait_until="load", timeout=30000)
+        except Exception as e:
+            print(f"ERROR: Could not load {url}: {e}", file=sys.stderr)
+            sys.exit(1)
+
+    if wait_seconds > 0:
+        page.wait_for_timeout(int(wait_seconds * 1000))
+
+
+def dismiss_cookie_banners(page):
+    """Try to dismiss common cookie/consent banners."""
+    selectors = [
+        # Common cookie banner button patterns
+        'button:has-text("Accept")',
+        'button:has-text("Accept all")',
+        'button:has-text("Accept All")',
+        'button:has-text("Got it")',
+        'button:has-text("I agree")',
+        'button:has-text("OK")',
+        '[id*="cookie"] button',
+        '[class*="cookie"] button',
+        '[id*="consent"] button',
+        '[class*="consent"] button',
+    ]
+    for selector in selectors:
+        try:
+            el = page.locator(selector).first
+            if el.is_visible(timeout=500):
+                el.click(timeout=1000)
+                page.wait_for_timeout(500)
+                return
+        except Exception:
+            continue
+
+
+# ── Commands ──────────────────────────────────────
+
+
+def cmd_screenshot(args):
+    """Take a screenshot of a URL."""
+    check_playwright()
+    from playwright.sync_api import sync_playwright
+
+    output = args.output
+    if not output:
+        slug = slug_from_url(args.url)
+        os.makedirs("/tmp/brandkit", exist_ok=True)
+        output = f"/tmp/brandkit/{slug}.png"
+
+    # Ensure output directory exists
+    os.makedirs(os.path.dirname(os.path.abspath(output)), exist_ok=True)
+
+    viewport = parse_viewport(args.viewport)
+
+    with sync_playwright() as p:
+        browser = launch_browser(p)
+        context = browser.new_context(
+            viewport=viewport,
+            color_scheme="dark" if args.dark else "light",
+        )
+        page = context.new_page()
+        navigate(page, args.url, args.wait)
+        dismiss_cookie_banners(page)
+        page.screenshot(path=output, full_page=args.full_page)
+        browser.close()
+
+    print(output)
+
+
+def cmd_text(args):
+    """Extract visible text from a URL."""
+    check_playwright()
+    from playwright.sync_api import sync_playwright
+
+    viewport = parse_viewport(args.viewport)
+
+    with sync_playwright() as p:
+        browser = launch_browser(p)
+        context = browser.new_context(viewport=viewport)
+        page = context.new_page()
+        navigate(page, args.url, args.wait)
+        dismiss_cookie_banners(page)
+
+        selector = args.selector or "body"
+        try:
+            text = page.locator(selector).first.inner_text(timeout=5000)
+        except Exception:
+            text = page.locator("body").inner_text(timeout=5000)
+
+        browser.close()
+
+    print(text)
+
+
+def cmd_html(args):
+    """Extract rendered HTML from a URL."""
+    check_playwright()
+    from playwright.sync_api import sync_playwright
+
+    viewport = parse_viewport(args.viewport)
+
+    with sync_playwright() as p:
+        browser = launch_browser(p)
+        context = browser.new_context(viewport=viewport)
+        page = context.new_page()
+        navigate(page, args.url, args.wait)
+        dismiss_cookie_banners(page)
+
+        if args.selector:
+            try:
+                html = page.locator(args.selector).first.inner_html(timeout=5000)
+            except Exception:
+                html = page.content()
+        else:
+            html = page.content()
+
+        browser.close()
+
+    if args.output:
+        os.makedirs(os.path.dirname(os.path.abspath(args.output)), exist_ok=True)
+        with open(args.output, "w", encoding="utf-8") as f:
+            f.write(html)
+        print(args.output)
+    else:
+        print(html)
+
+
+def cmd_responsive(args):
+    """Take screenshots at multiple viewport widths."""
+    check_playwright()
+    from playwright.sync_api import sync_playwright
+
+    output_dir = args.output_dir
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Parse breakpoints
+    if args.breakpoints:
+        widths = [int(w.strip()) for w in args.breakpoints.split(",")]
+    else:
+        widths = [375, 768, 1440]
+
+    labels = {375: "mobile", 768: "tablet", 1440: "desktop"}
+    slug = slug_from_url(args.url)
+
+    with sync_playwright() as p:
+        browser = launch_browser(p)
+        outputs = []
+
+        for width in widths:
+            label = labels.get(width, f"{width}px")
+            height = 812 if width <= 430 else (1024 if width <= 820 else 900)
+            viewport = {"width": width, "height": height}
+
+            context = browser.new_context(viewport=viewport)
+            page = context.new_page()
+            navigate(page, args.url, args.wait)
+            dismiss_cookie_banners(page)
+
+            filename = f"{slug}-{label}.png"
+            filepath = os.path.join(output_dir, filename)
+            page.screenshot(path=filepath, full_page=args.full_page)
+            outputs.append(filepath)
+            context.close()
+
+        browser.close()
+
+    for path in outputs:
+        print(path)
+
+
+# ── CLI ───────────────────────────────────────────
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        prog="brandkit-browse",
+        description="Lightweight headless browser for brand research.",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    # screenshot
+    p_screenshot = subparsers.add_parser("screenshot", help="Take a screenshot of a URL")
+    p_screenshot.add_argument("url", help="URL to screenshot")
+    p_screenshot.add_argument("--output", "-o", help="Output file path (default: /tmp/brandkit/<slug>.png)")
+    p_screenshot.add_argument("--viewport", "-v", default="1440x900", help="Viewport size WxH (default: 1440x900)")
+    p_screenshot.add_argument("--full-page", "-f", action="store_true", help="Capture full scrollable page")
+    p_screenshot.add_argument("--wait", "-w", type=float, default=3, help="Extra wait after load in seconds (default: 3)")
+    p_screenshot.add_argument("--dark", action="store_true", help="Emulate dark color scheme")
+
+    # text
+    p_text = subparsers.add_parser("text", help="Extract visible text from a URL")
+    p_text.add_argument("url", help="URL to extract text from")
+    p_text.add_argument("--selector", "-s", help="CSS selector (default: body)")
+    p_text.add_argument("--viewport", "-v", default="1440x900", help="Viewport size WxH (default: 1440x900)")
+    p_text.add_argument("--wait", "-w", type=float, default=3, help="Extra wait after load in seconds (default: 3)")
+
+    # html
+    p_html = subparsers.add_parser("html", help="Extract rendered HTML from a URL")
+    p_html.add_argument("url", help="URL to extract HTML from")
+    p_html.add_argument("--selector", "-s", help="CSS selector (default: full page)")
+    p_html.add_argument("--output", "-o", help="Output file path (default: stdout)")
+    p_html.add_argument("--viewport", "-v", default="1440x900", help="Viewport size WxH (default: 1440x900)")
+    p_html.add_argument("--wait", "-w", type=float, default=3, help="Extra wait after load in seconds (default: 3)")
+
+    # responsive
+    p_responsive = subparsers.add_parser("responsive", help="Screenshots at multiple viewports")
+    p_responsive.add_argument("url", help="URL to screenshot")
+    p_responsive.add_argument("--output-dir", "-d", required=True, help="Directory for output screenshots")
+    p_responsive.add_argument("--breakpoints", "-b", help='Comma-separated widths (default: "375,768,1440")')
+    p_responsive.add_argument("--full-page", "-f", action="store_true", help="Capture full scrollable page")
+    p_responsive.add_argument("--wait", "-w", type=float, default=3, help="Extra wait after load in seconds (default: 3)")
+
+    args = parser.parse_args()
+
+    commands = {
+        "screenshot": cmd_screenshot,
+        "text": cmd_text,
+        "html": cmd_html,
+        "responsive": cmd_responsive,
+    }
+    commands[args.command](args)
+
+
+if __name__ == "__main__":
+    main()

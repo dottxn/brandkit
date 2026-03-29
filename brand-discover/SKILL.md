@@ -58,7 +58,22 @@ ls brandkit/ 2>/dev/null || echo "NO_BRANDKIT"
 - If `DISCOVERY_EXISTS`: ask the user — "You already have a discovery report. **Update it** with new info, **start fresh**, or **just review** what's there?"
 - If `NO_BRANDKIT`: continue (first run).
 
-**0b. Scan for brand materials in the project:**
+**0b. Check browse tool availability:**
+
+```bash
+B="$HOME/.claude/skills/brandkit/bin/brandkit-browse"
+$B --help 2>/dev/null && echo "BROWSE_AVAILABLE" || echo "NO_BROWSE"
+```
+
+If `BROWSE_AVAILABLE`: you can screenshot competitor websites, capture the brand's
+live site at different viewports, and visually analyse design patterns. This makes
+every observation sharper. Store the result — you'll use it in Step 3.
+
+If `NO_BROWSE`: proceed without it. Use WebFetch for text extraction and your
+built-in knowledge for visual assessment. The skill works fine either way —
+browse just makes it better.
+
+**0c. Scan for brand materials in the project:**
 
 ```bash
 ls README.md DESIGN.md package.json 2>/dev/null
@@ -67,7 +82,7 @@ ls *.md 2>/dev/null | head -10
 
 Look for: brand name, URLs, mission/vision statements, product descriptions, any existing brand work. Note what you find — you'll pre-fill the intake question with it.
 
-**0c. Determine mode:**
+**0d. Determine mode:**
 - If you found a brand name, URL, or existing materials → **Existing Brand** mode
 - If the project is empty or has no brand signals → **New Brand** mode
 - Tell the user which mode and why: *"I can see this is [brand name] from [evidence]. Running in existing brand mode."* or *"Starting fresh — I don't see an existing brand here."*
@@ -190,11 +205,36 @@ For new brands, the questions shift from "what is" to "what could be":
 
 **This is NOT a feature comparison.** It's a personality map. How each brand makes you feel, not what they sell.
 
+**If browse is available** — screenshot each competitor's homepage. This is where
+visual clustering becomes observable, not theoretical. For each:
+
+```bash
+mkdir -p /tmp/brandkit/competitors
+$B screenshot https://competitor.com --output /tmp/brandkit/competitors/competitor-name.png
+```
+
+Read the screenshots. Note: visual temperature (warm/cool), density (sparse/packed),
+type character (refined/bold), photography treatment, colour strategy. These
+observations feed directly into Lens 4.
+
 ### 3b. Brand Materials Review (existing brand only)
 
 If URLs were provided:
 - Use WebFetch to review the website. Look at: homepage messaging, about page, how they describe themselves, visual tone, the gap between what they claim and what you experience.
 - Note specific phrases, patterns, inconsistencies.
+
+**If browse is available** — go further. Screenshot the brand's own site:
+
+```bash
+mkdir -p /tmp/brandkit/brand
+$B screenshot https://brand-site.com --output /tmp/brandkit/brand/homepage.png
+$B responsive https://brand-site.com --output-dir /tmp/brandkit/brand/
+```
+
+Read the screenshots. This reveals what WebFetch can't tell you: the actual visual
+experience, the gap between messaging and design, how the brand handles itself
+at mobile vs. desktop. Note specifically: does the visual execution match the
+brand's claimed positioning? Where's the gap?
 
 If files were provided:
 - Read them. Look for: stated positioning, tone of voice (actual vs. aspirational), visual signals, anything that contradicts what the stakeholder said.
@@ -210,7 +250,8 @@ These become the backdrop against which this brand's distinctiveness (or lack th
 
 ### Graceful Degradation
 
-- WebSearch available → full competitive research
+- Browse + WebSearch available → full visual and textual competitive research (richest output)
+- WebSearch only → full competitive research, text-based visual assessment
 - WebSearch unavailable → work from user's answers + built-in knowledge. Note: *"Search unavailable — working from our conversation and my knowledge of the space."*
 - No competitor names from user → propose likely competitors based on category and ask user to confirm
 

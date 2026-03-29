@@ -52,6 +52,8 @@ ls brandkit/discovery/observations.yaml 2>/dev/null && echo "OBSERVATIONS_EXIST"
 ls brandkit/discovery/challenges.yaml 2>/dev/null && echo "CHALLENGES_EXIST" || echo "NO_CHALLENGES"
 ls brandkit/discovery/landscape.yaml 2>/dev/null && echo "LANDSCAPE_EXISTS" || echo "NO_LANDSCAPE"
 ls brandkit/proposition/ 2>/dev/null && echo "PROPOSITION_EXISTS" || echo "NO_PROPOSITION"
+B="$HOME/.claude/skills/brandkit/bin/brandkit-browse"
+$B --help 2>/dev/null && echo "BROWSE_AVAILABLE" || echo "NO_BROWSE"
 ```
 
 **If discovery exists:** Read all discovery files. This is the foundation. Tell the user:
@@ -217,6 +219,23 @@ where this brand sits relative to the landscape and why that position is defensi
 2. **Find the white space.** What combination of pillars is nobody else occupying? That's the brand's territory.
 3. **Name the norms being broken.** What does every brand in this category do that this brand refuses to do (or should refuse to do)? This is directly from the competitive.template methodology — `industry_norms_it_breaks`.
 4. **Identify the unexpected competitors.** Nike's real competitor isn't Adidas — it's comfort. Who is this brand REALLY competing with? Not category competitors, but the thing that stops people from choosing this brand.
+
+### Visual Positioning Check (if browse available)
+
+If browse is available from Step 0, screenshot the brand and its top 2-3 competitors
+before writing the positioning narrative. Seeing the brands side-by-side makes the
+white space observable:
+
+```bash
+mkdir -p /tmp/brandkit/positioning
+$B screenshot https://brand-site.com --output /tmp/brandkit/positioning/brand.png
+$B screenshot https://competitor1.com --output /tmp/brandkit/positioning/competitor1.png
+$B screenshot https://competitor2.com --output /tmp/brandkit/positioning/competitor2.png
+```
+
+Read the screenshots. Ask: does the visual positioning match the strategic positioning?
+If the brand claims "precision" but looks generic, that gap IS part of the positioning
+narrative — it's what needs to change. If it looks distinctive, name what's working.
 
 ### Positioning Narrative
 

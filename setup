@@ -21,6 +21,7 @@ fi
 
 # ── Make bin scripts executable ──────────────────
 chmod +x "$SCRIPT_DIR/bin/brandkit-load-context" 2>/dev/null || true
+chmod +x "$SCRIPT_DIR/bin/brandkit-browse" 2>/dev/null || true
 
 # ── Verify skills ────────────────────────────────
 echo "Skills:"
@@ -35,6 +36,16 @@ done
 BRAND_COUNT=$(find "$SCRIPT_DIR/knowledge/brands" -mindepth 1 -maxdepth 1 -type d ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')
 echo ""
 echo "Knowledge: $BRAND_COUNT brands loaded"
+# ── Check browser tool (optional) ──────────────
+echo ""
+if python3 -c "from playwright.sync_api import sync_playwright" 2>/dev/null; then
+  echo "Browser:    playwright found ✓"
+else
+  echo "Browser:    playwright not found (optional)"
+  echo "            pip3 install playwright && python3 -m playwright install chromium"
+  echo "            Enables screenshots and visual research during brand discovery."
+fi
+
 echo ""
 echo "Start with: /brand-discover"
 echo "Then:       /brand-proposition"

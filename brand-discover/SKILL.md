@@ -274,26 +274,44 @@ Assertive but grounded.]
 
 ### Methodology Reference (from analysing 88 brands)
 
-When synthesising, use these lenses from the brand knowledge system:
+When synthesising, use these lenses. They come from real data across 88 brands —
+not theory. Use them to see more clearly, not as checklists.
 
-**Positioning scales** — where does this brand sit on:
-- Utility ↔ Theater (pure function vs. pure performance/spectacle)
-- Access ↔ Exclusivity (mass market vs. ultra-exclusive)
-- Heritage ↔ Innovation (tradition-driven vs. future-driven)
+**Positioning scales** — where does this brand sit (1-10)?
+
+- **Utility ↔ Theater:** 1-3 = product IS the message (Amazon, Domino's). 4-6 = experience amplifies product (Nike, Apple). 7-10 = brand IS the product (Chanel, Disney, HBO).
+- **Access ↔ Exclusivity:** 1-3 = available to everyone (McDonald's, H&M). 4-6 = aspirational-accessible (Nike 5, Apple 6). 7-10 = scarcity is the strategy (Hermes 10, Rolex 10).
+- **Heritage ↔ Innovation:** 1-3 = we don't change, that's the point (Coca-Cola 2, Hermes 2). 4-6 = tradition as foundation (Patagonia 4). 7-10 = inventing the future (Tesla 10, all fintech 7-9).
+
+Category norms to benchmark against: luxury averages 8/9/4. Fintech averages 4.5/2.6/8.8. Tech averages 5/4/8.6. Entertainment averages 7.3/3.9/7.3. The interesting brands break their category's pattern (MasterClass scores 8/7/7 in education where the norm is 5.8/3.5/7.3 — it's a luxury brand trapped in an education category).
+
+**Archetype detection** — which archetype is this brand living?
+
+The 88 brands distribute across 12 archetypes. The primary archetype shapes everything — pillar architecture, voice, visual direction. Listen for it in the interview:
+
+- **Creator** (29 brands — most common): "We make things." Technology, luxury, entertainment. Paired with Sage (builds + educates: Stripe, Notion) or Magician (transforms through craft: Chanel, Hermes).
+- **Explorer** (10): "We discover." Travel, sport, automotive. Paired with Creator (discover + build: Airbnb, Rivian).
+- **Hero** (8): "We overcome." Sport, food-beverage. Paired with Magician (Nike: performance + aspiration).
+- **Outlaw** (4): "We disrupt." Food-beverage, fintech. Paired with Jester (Oatly, Duolingo: rebellion + humour).
+- **Ruler** (4): "We set the standard." Luxury, automotive. Paired with Creator (Rolex: authority + craft).
+
+Pairings that never work: Ruler + Jester (authority kills irreverence), Caregiver + Outlaw (nurturing kills rebellion), Innocent + Ruler (naivety kills control).
+
+Category patterns: luxury is always Creator or Ruler. Sport is Hero or Explorer. Fintech splits Magician (transformation) or Outlaw (disruption). Education splits Sage (knowledge) or Jester (engagement).
 
 **Soul indicators** — have the interview answers revealed:
-- A `feels_like` (one evocative sentence capturing brand feeling)?
-- A `core_belief` (what the brand fundamentally believes)?
-- A `creative_tension` (productive contradictions)?
-- A `decision_filter` (what the brand always chooses)?
-- A `signature_move` (the unmistakable thing they do)?
-- `what_would_break_it` (the line they can never cross)?
 
-**Competitive patterns** — from the research:
-- Which `industry_norms` does this brand break (or should it)?
-- What's the `visual_cluster` it falls into (and is that the right one)?
+- A `feels_like`? The best ones use metaphor from OUTSIDE the category. Aesop (skincare) feels like "a bookshop where the staff would rather talk about Tanizaki than moisturiser." Oatly (food) feels like "the punk rock band that played your high school cafeteria." The pattern: scene first, specific sensory detail, the reader is inside the experience, paradox or tension in the description. If the answer is abstract ("innovative and modern"), it's not a feels_like yet — push for the scene.
+- A `creative_tension`? Five structural types recur: commerce ↔ philosophy (Nike), heritage ↔ innovation (Chanel), accessibility ↔ exclusivity (Rolex), scale ↔ intimacy (Spotify), simplicity ↔ sophistication (Stripe). The best tensions are specific: "manufactures shoes; athletes manufacture meaning" (Nike). The weak ones are generic: "quality vs. affordability."
+- A `decision_filter`? The best read as rules: "Does this eliminate distraction or introduce it?" (reMarkable). "Would a patient trust this? Would a researcher respect this? Both must be true" (Pfizer).
+- `what_would_break_it`? This is the anti-pattern seed. Nike would break if it softened messaging at scale. Hermes would break if it expanded distribution. Aesop would break if it "dumbed down" the language.
 
-Don't force these frameworks into the observations. Use them as a lens to see more clearly. If the interview revealed a clear creative tension, that becomes an observation. If the positioning scales show the brand is trying to be both mass-market and exclusive, that's a tension to name.
+**Competitive patterns:**
+
+- Which `visual_cluster` does this brand and its competitors sit in? The 88 brands cluster into: geometric-clean (21), bold-challenger (13), dark-premium (11), warm-humanist (11), editorial-luxury (9), heritage-craft (4), cinematic-narrative (3), expressive-maximalist (3), soft-minimal (4), tech-system (3). When every competitor is geometric-clean, the white space might be warm-humanist. When the category norm is bold-challenger, the interesting move might be quiet precision.
+- Category visual norms: fintech splits geometric-clean/dark-premium/bold-challenger. Technology is geometric-clean dominant. Luxury is editorial-luxury dominant. Food-beverage heritage brands go warm-humanist, challengers go bold-challenger.
+
+Don't force these frameworks into the observations. If the interview revealed a clear creative tension, that becomes an observation. If the positioning scales show the brand is trying to be both mass-market and exclusive, that's a tension to name. If the archetype is mismatched to the category, that's either a problem or a distinctive strategy — name which.
 
 ---
 

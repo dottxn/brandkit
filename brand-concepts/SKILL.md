@@ -337,6 +337,14 @@ specificity and slight imperfection of real creative work. A voice sample
 that sounds like it came from a template defeats the purpose. Write as if
 you're the brand's best copywriter having a good day.
 
+**What makes the best voice work (from 88 brands):** Scene before thesis —
+open with a concrete scene, then pivot to meaning. Use specific sensory
+detail (a name, a number, a texture). Put the reader in the scene with "you."
+Include a paradox the brand resolves. Draw metaphors from outside the category.
+The worst voice work is abstract thesis with no scene ("innovative and modern"),
+dead similes ("like electricity"), or marketing copy masquerading as felt
+experience.
+
 ### Voice Format
 
 ```markdown
@@ -704,23 +712,40 @@ start becoming territories — but stay loose. Still directions, still openings.
 
 ## Methodology: What 88 Brands Taught About Creative Directions
 
-### Visual Clusters
+### Visual Clusters (from 88 brands)
 
-From analysing 88 brands, visual identities cluster into recurring patterns:
+Visual identities cluster into 10 patterns. Know which you're working in — and whether the most distinctive direction tensions two clusters that don't usually sit together.
 
-- **Cinematic-narrative:** Story-driven, editorial, hero imagery. Nike, Apple, Airbnb.
-- **Geometric-clean:** System-driven, precise, functional beauty. Stripe, Aesop, Braun.
-- **Bold-challenger:** High contrast, disruptive, category-breaking. Oatly, Liquid Death, Gymshark.
-- **Warm-humanist:** Approachable, organic, human-centred. Mailchimp, Innocent, Ben & Jerry's.
-- **Heritage-craft:** Time-rich, material-focused, earned authority. Hermès, Patek Philippe, Diptyque.
-- **Tech-minimalist:** Reduced, functional, precision-engineered. Nothing, Teenage Engineering, Rivian.
+| Cluster | Count | Positioning Signature |
+|---|---|---|
+| geometric-clean | 21 | moderate theater, moderate access, innovation-forward |
+| bold-challenger | 13 | mid theater, accessible, innovation-forward |
+| dark-premium | 11 | mid theater, moderate access, very high innovation |
+| warm-humanist | 11 | lower theater, accessible, moderate innovation |
+| editorial-luxury | 9 | high theater, high exclusivity, heritage-leaning |
+| heritage-craft | 4 | low theater, moderate exclusivity, strong heritage |
+| cinematic-narrative | 3 | high theater, moderate exclusivity, balanced |
+| expressive-maximalist | 3 | highest theater, high exclusivity, balanced |
+| soft-minimal | 4 | low theater, accessible, innovation-forward |
+| tech-system | 3 | low-mid theater, maximum access, innovation-forward |
 
-Most brands cluster into one primary and one secondary. The interesting ones
-deliberately tension two clusters that don't usually sit together.
+**Cluster × Positioning Rules** — use these when building directions:
+- If U/T > 7 AND A/E > 7 → editorial-luxury or expressive-maximalist
+- If H/I > 8 AND A/E < 4 → dark-premium, bold-challenger, or geometric-clean
+- If H/I < 4 AND A/E > 7 → editorial-luxury or heritage-craft
+- Heritage-craft is the only cluster pulling LOW on both theater and innovation
 
-When building directions, know which cluster you're working in — and consider
-whether the most distinctive direction might involve an unexpected cluster
-combination.
+**Category norms** — know the default before proposing something different:
+- **Fintech**: split geometric-clean / dark-premium / bold-challenger (Monzo is the only warm-humanist)
+- **Technology**: geometric-clean dominant (Figma breaks with expressive-maximalist)
+- **Luxury**: editorial-luxury dominant (Gucci breaks with expressive-maximalist)
+- **Food-beverage**: heritage brands go warm-humanist, challenger brands go bold-challenger
+
+**Common cluster pairings** — the interesting brands live in the overlap:
+- cinematic-narrative + geometric-clean (Nike, HBO)
+- editorial-luxury + geometric-clean (luxury brands for digital)
+- dark-premium + geometric-clean (Stripe, Spotify)
+- bold-challenger + warm-humanist (Oatly, Duolingo)
 
 ### What Separates Good Visual Direction from Great
 
@@ -737,14 +762,50 @@ From the best brands in the database:
    direction — what it actively pushes away — is as distinctive as what it
    includes.
 
-### Voice Patterns
+### Voice Patterns (from 88 brands)
 
-From the voice chunks of 88 brands:
+Five voice trait clusters recur. When building voice directions, identify which cluster the brand belongs to — then add the specificity that makes it theirs:
 
-- The best voices have 3-5 traits, each with a clear boundary
-- Anti-traits are often more useful than traits (knowing what you're NOT is faster than knowing what you ARE)
-- Voice flexes across contexts: how it sounds in marketing vs. product vs. support should be different registers of the same instrument, not different instruments
-- The most distinctive voices break one expected rule (Oatly's irreverence in FMCG, Aesop's literary density in retail)
+| Cluster | Traits | Example Brands |
+|---|---|---|
+| Confident Restraint | confident, sophisticated, refined, understated | Hermès, Chanel, Rolex |
+| Bold Honesty | bold, honest, direct, provocative | Oatly, Wise, Tesla, Patagonia |
+| Warm Community | inclusive, community-focused, approachable, genuine | Airbnb, Glossier, Strava, Discord |
+| Quiet Precision | precise, understated, clear, considered | Stripe, Uniqlo, Aesop, Notion |
+| Aspirational Empowerment | inspiring, empowering, aspirational, motivating | Nike, MasterClass, Fender |
+
+**Traits that never co-exist** — these are real constraints, not suggestions:
+- playful + sophisticated
+- provocative + refined
+- minimal + community-focused
+- conversational + commanding
+
+**Best trait + boundary pairs** (use as models for personality calibration):
+- Apple: authoritative — but never arrogant
+- Stripe: confident — but never flashy
+- Patagonia: urgent — but never preachy
+- Oatly: provocative — but never corporate
+- Duolingo: friendly nagging — but never shame-based
+- Wise: direct — but never euphemistic
+
+**Anti-traits matter more than traits.** "Corporate" is rejected by 14 of 35 brands — the universal anti-pattern. Knowing what you're NOT is faster for a writer than knowing what you ARE.
+
+**The best "always_sound" guardrails are character-types, not trait lists:**
+- Patagonia: "Like someone who has been outside and wants to protect what is out there"
+- Stripe: "Like the smartest engineer who explains things simply"
+- Spotify: "Like a music-obsessed friend with impeccable taste"
+
+These give a writer an immediate mental model — a person you could imagine meeting.
+
+### Anti-Voice Patterns (from 88 brands)
+
+When writing the anti-voice section for each direction, draw from real patterns:
+
+**Visual anti-patterns** that affect creative direction: thermal inversion (warm brand goes cold), breaking colour discipline, staged photography where documentary is required, abandoning the typography anchor.
+
+**Tonal anti-patterns** for voice direction: earnestness without specificity, jargon replacing human language, guilt/shame boundary violation, over-performed authority, manufacturing enthusiasm with exclamation marks.
+
+**Strategic anti-patterns** that affect content direction: the comparison trap (arguing vs a competitor elevates them), authenticity inversion (explaining your magic kills it), absorbing trends you predate, corporate content where community voice is required.
 
 ---
 

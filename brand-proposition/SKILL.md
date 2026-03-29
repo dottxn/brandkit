@@ -136,12 +136,24 @@ Incorporate feedback before proceeding.
 ### What Pillars Are
 
 Pillars are the 2-4 structural supports of the brand. Everything the brand does
-should trace back to a pillar. Most brands need 2-4 — fewer than 2 is too simple to be useful, more than 4 is
-too complex to remember.
+should trace back to a pillar. Most brands need 2-4 — fewer than 2 is too simple
+to be useful, more than 4 is too complex to remember.
+
+### How Archetypes Inform Pillars
+
+The brand's archetype (identified in discovery) shapes pillar architecture. From 88 brands:
+
+- **Creator brands** build pillars around craft, vision, and tool-making. Stripe's pillars are about precision + enablement. Apple's are about simplicity + capability.
+- **Hero brands** build pillars around performance, overcoming, and empowerment. Nike's pillars centre on athletic transcendence.
+- **Explorer brands** build pillars around discovery, freedom, and new territory. Airbnb's centre on belonging in unfamiliar places.
+- **Outlaw brands** build pillars around disruption, honesty, and refusal. Oatly's centre on transparency + provocation.
+- **Ruler brands** build pillars around standards, permanence, and earned authority. Rolex's centre on endurance + precision.
+
+The secondary archetype adds tension to the pillar set. Nike (Hero + Magician) gets pillars that balance performance with aspiration. Stripe (Creator + Sage) gets pillars that balance building with educating.
 
 ### How to Build Pillars
 
-1. **Group themes.** Some themes naturally combine. Some themes are actually sub-themes of a bigger idea.
+1. **Group themes.** Some themes naturally combine. Some are sub-themes of a bigger idea.
 2. **Find the architecture.** Are the pillars in tension with each other (good — productive friction)? Do they cover different dimensions of the brand? Is there a clear hierarchy (one dominant, others supporting)?
 3. **Name them.** Pillar names should be:
    - Short (1-2 words)
@@ -239,11 +251,11 @@ Examples from real brands:
 2. **Look for the inversion.** What does the brand think it does? What does it actually do? The gap between those two things is often the reframe.
 3. **Apply the "not X, but Y" test.** Fill in: "We are not [what everyone thinks]. We are [what's actually true]." If this produces something surprising and obviously true, you have it.
 4. **Use the soul framework.** From the 88-brand methodology:
-   - **feels_like** — one evocative sentence capturing the brand's feeling
+   - **feels_like** — the best use metaphor from outside the category. Scene first, then meaning. Aesop (skincare): "a bookshop where the staff would rather talk about Tanizaki than moisturiser." Patagonia (clothing): "a conversation at a campfire with someone who has walked the planet and come back angry." If it's abstract ("innovative and modern"), it's not a feels_like yet.
    - **core_belief** — what the brand fundamentally believes about the world
-   - **creative_tension** — the productive contradiction at the heart of the brand
-   - **decision_filter** — when faced with a fork, the brand always chooses...
-   - **what_would_break_it** — the line the brand can never cross
+   - **creative_tension** — five structural types recur across 88 brands: commerce ↔ philosophy (Nike: "manufactures shoes; athletes manufacture meaning"), heritage ↔ innovation (Chanel: "revolutionary choices that appear inevitable in retrospect"), accessibility ↔ exclusivity (Rolex: "must feel unattainable yet accessible enough that someone wears it daily"), scale ↔ intimacy (Spotify: "democratise discovery yet requires massive data aggregation"), simplicity ↔ sophistication (Notion: "freedom without structure = chaos, too much structure destroys the value proposition"). The best tensions name the specific business forces pulling apart. The weak ones are generic ("quality vs. affordability").
+   - **decision_filter** — the best read as rules a team can actually use: "Does this eliminate distraction or introduce it?" (reMarkable). "Would a patient trust this? Would a researcher respect this? Both must be true" (Pfizer).
+   - **what_would_break_it** — this is the anti-pattern seed. Nike: softening messaging at scale. Hermes: expanding distribution. Aesop: dumbing down the language. The strongest are specific actions, not abstract qualities.
 
    The reframe often lives in the creative tension or the core belief.
 
@@ -578,21 +590,25 @@ Present 2-3 alternatives and let the user react.
 From studying 88 brands across 11 dimensions:
 
 **Creative tension** is the most underused tool. Most brands resolve their tensions
-("we're innovative AND reliable"). The best brands hold them open:
-- Nike: commerce ↔ transcendence
-- Apple: simplicity ↔ power
-- Patagonia: growth ↔ environmental responsibility
+("we're innovative AND reliable"). The best brands hold them open. Five structural
+types recur:
+- **Commerce ↔ Philosophy:** Nike manufactures shoes; athletes manufacture meaning. Oatly is values-driven but owned by Blackstone.
+- **Heritage ↔ Innovation:** Chanel worships innovation but refuses to look like it's trying. Disney is a 1923 heritage icon in constant reinvention.
+- **Accessibility ↔ Exclusivity:** Rolex must feel unattainable yet someone actually wears it daily. Prada: ideas are free; execution costs everything.
+- **Scale ↔ Intimacy:** Spotify democratises discovery yet requires massive data aggregation. Sweetgreen scales enterprise without losing farmer relationships.
+- **Simplicity ↔ Sophistication:** Stripe offers unlimited power with beginner-friendly onboarding. Notion: too much structure destroys the value proposition.
 
-A good creative tension names two forces that pull in opposite directions but
-produce better work when held together.
+The weak tensions are generic ("quality vs. affordability"). The strong ones name the specific business forces pulling apart.
 
-**Positioning scales** reveal hidden assumptions:
-- Utility ↔ Theater: Is the brand about function or performance/spectacle?
-- Access ↔ Exclusivity: Mass market or selective?
-- Heritage ↔ Innovation: Tradition-driven or future-driven?
+**Positioning scales** reveal where a brand actually sits — and where the white space is:
 
-Most brands cluster in the middle on all three. The interesting brands go to
-extremes on at least one scale.
+- **Utility ↔ Theater (1-10):** 1-3 = product IS the message (Amazon 2, CVS 2). 4-6 = experience amplifies product (Nike 6, Apple 6). 7-10 = brand IS the product (Chanel 9, Disney 9).
+- **Access ↔ Exclusivity (1-10):** 1-3 = available to everyone (Amazon 1, H&M 2). 4-6 = aspirational-accessible (Nike 5, Apple 6). 7-10 = scarcity is the strategy (Hermès 10, Chanel 10).
+- **Heritage ↔ Innovation (1-10):** 1-3 = we don't change, that's the point (Coca-Cola 2, Rolex 2). 4-6 = tradition as foundation (Patagonia 4, Aesop 4). 7-10 = inventing the future (Tesla 10, all fintech 7-9).
+
+**Category norms matter for positioning.** Some categories are tightly clustered (social-community all score U/T=6, fintech is locked A/E 2-4) — differentiation happens on the one scale with room. Others are spread wide (automotive runs Ford 4/3/4 to Jaguar 9/9/8) — the whole spectrum is available. The interesting brands break their category's pattern: Patagonia is anti-Nike in sport-outdoor (lowest theater, highest exclusivity). Square is the only high-theater fintech. MasterClass is a luxury brand trapped in education.
+
+**No brand occupies the exact centre (5/5/5).** Every brand picks a direction. The white space to watch: high theater + high access + high innovation (8+/1-2/8+) has no occupant. Neither does low theater + high exclusivity + high innovation.
 
 **`what_nobody_copies`** is the ultimate positioning test. For Nike, it's the
 refusal to soften messaging at scale. For Aesop, it's treating retail space
@@ -601,11 +617,15 @@ replicate? That's the moat.
 
 ### Anti-Pattern Categories
 
-From the anti-patterns schema, ensure the proposition addresses:
-- **Visual anti-patterns:** What the brand should never look like
-- **Strategic anti-patterns:** Decisions the brand should never make
-- **Tonal anti-patterns:** How the brand should never sound
-- **Cultural anti-patterns:** Behaviours the brand should never exhibit
+From the anti-patterns schema, ensure the proposition addresses four types:
+
+**Visual anti-patterns:** What the brand should never look like. Watch for thermal inversion (warm brand goes cold), breaking colour discipline, staged photography where documentary is required, or abandoning the typography anchor.
+
+**Strategic anti-patterns:** Decisions the brand should never make. The most common traps: the comparison trap (arguing vs a competitor elevates them), the growth-vs-soul dilemma (expansion that dilutes), authenticity inversion (explaining your magic kills it), and the premiumisation trap (adding tiers that violate egalitarian positioning).
+
+**Tonal anti-patterns:** How the brand should never sound. "Corporate" is rejected by 14 of 35 brands analysed — it's the universal anti-pattern. Beyond that: earnestness without specificity, jargon replacing human language, guilt/shame boundary violation, and over-performed authority.
+
+**Cultural anti-patterns:** Behaviours the brand should never exhibit. Absorbing trends you predate, democratising when exclusion is the strategy, corporate content where community voice is required.
 
 These are as important as the positive positioning. What you refuse to do
 defines you as clearly as what you choose to do.

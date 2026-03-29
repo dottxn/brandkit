@@ -1,0 +1,61 @@
+chunk_id: "oatly-visual-dna"
+brand: oatly
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "oatly-positioning"
+token_count: 97
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Oatly. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#4A90E2"
+    name: ""
+    role: ""
+  - hex: "#7ED321"
+    name: ""
+    role: ""
+  - hex: "#F5A623"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: "Custom Hand-drawn Typography"
+    role: ""
+    style: ""
+  - name: Oatly Typeface
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: focused
+  type_class: custom
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: editorial
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: deconstructed
+  framing_device: housing
+  symbolic_type: wordmark
+  texture_feel: textured
+  shape_language: organic
+  contrast_level: high
+  identity_system: modular
+  signature_device: "typography-led"
+composition_logic: >-
+  Packaging as primary communication channel with every surface used for brand messaging and consumer engagement

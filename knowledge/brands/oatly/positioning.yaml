@@ -1,0 +1,31 @@
+chunk_id: "oatly-positioning"
+brand: oatly
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Oatly. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Oatly
+website: "https://www.oatly.com"
+founded: 1985
+category: "food-beverage"
+sub_category: "plant-based-dairy"
+price_tier: "mid-range"
+primary_archetype: The Outlaw
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 7
+  access_exclusivity: 4
+  heritage_innovation: 9
+key_differentiators: []

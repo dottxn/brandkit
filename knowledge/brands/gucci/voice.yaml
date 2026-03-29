@@ -1,0 +1,48 @@
+chunk_id: "gucci-voice"
+brand: gucci
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "gucci-soul"
+token_count: 102
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Gucci. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci in Florence. Known for its iconic double-G logo and heritage craftsmanship, the brand creates eclectic and contemporary designs
+tone_traits:
+  - bold
+  - authoritative
+  - unapologetic luxury positioning
+  - creative
+  - artistic
+  - visionary storytelling
+  - progressive
+  - innovative
+  - culturally relevant
+anti_traits:
+  - tentative
+  - apologetic
+  - "discount-focused"
+  - literal
+  - mundane
+  - purely functional
+  - outdated
+  - conservative
+  - static
+example_phrases:
+  - Redefining luxury for the 21st century
+  - "Eclectic, contemporary, romantic"
+  - "Unsurpassed in quality, attention to detail and imaginative design"
+  - "Charisma, innovation and a commitment to progress"
+guardrails:
+  never_say: []
+  always_sound: "bold, authoritative, unapologetic luxury positioning, creative, artistic"

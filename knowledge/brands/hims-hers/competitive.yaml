@@ -1,0 +1,38 @@
+chunk_id: "hims-hers-competitive"
+brand: "hims-hers"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "hims-hers-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Hims & Hers. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - glossier
+  - harleymeds
+  - roco
+  - "seed-health"
+  - "cvs-pharmacy"
+industry_norms_it_breaks: "The Access For All motion system—geometric shapes opening pathways, barriers dissolving, visual metaphor for healthcare transformation. An expanding square becoming a diamond becoming interconnected p | The commitment to showing non-retouched film photography in healthcare advertising at scale—most beauty and health brands over-polish imagery, creating impossible standards. Hims & Hers' documentary p | Would someone seeking treatment for a sensitive health issue trust this? Is the interface empowering or patronizing? Does the visual identity inspire confidence or skepticism? Hims & Hers evaluates ev"
+visual_cluster: "soft-minimal"
+visual_fingerprint:
+  - cluster: "soft-minimal"
+    role: "dominant"
+    where: "Clinical warmth, gentle palette, accessible health"
+  - cluster: "bold-challenger"
+    role: "secondary"
+    where: "Campaign challenger, disruptive health messaging"
+  - cluster: "editorial-luxury"
+    role: "accent"
+    where: "Hers editorial softness, lifestyle photography"
+strategic_cluster: "trusted-guide"
+category: "health-wellness"

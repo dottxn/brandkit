@@ -1,0 +1,51 @@
+chunk_id: "square-voice"
+brand: square
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "square-soul"
+token_count: 174
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Square. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="38-12,38-13,38-14">Square set out to change payment accessibility by inventing the first mobile card reader of its kind, allowing businesses to take payments anywhere and keep thriving in
+tone_traits:
+  - supportive
+  - enabling
+  - accessible
+  - clear
+  - honest
+  - simple
+  - welcoming
+  - diverse
+  - "barrier-breaking"
+anti_traits:
+  - condescending
+  - elitist
+  - complicated
+  - jargony
+  - overly technical
+  - confusing
+  - exclusive
+  - discriminatory
+  - gatekeeping
+example_phrases:
+  - "<cite index=\"38-1\">providing an ecosystem of products that empowers economic freedom</cite>"
+  - >-
+    <cite index="55-9,55-10">our purpose of economic empowerment remains the same. No matter how we grow or change, we will continue to build tools to help increase access to the economy</cite>
+  - >-
+    <cite index="13-2,13-23">We champion our customers and their businesses, of all types and sizes, and center them as our 'why' for everything we do</cite>
+  - >-
+    <cite index="58-1,58-2">We're creating tools to help expand access to the economy. Together, we're working to help our diverse audiences overcome barriers to access the economy</cite>
+guardrails:
+  never_say: []
+  always_sound: "supportive, enabling, accessible, clear, honest"

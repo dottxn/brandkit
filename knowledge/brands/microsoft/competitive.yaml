@@ -1,0 +1,39 @@
+chunk_id: "microsoft-competitive"
+brand: microsoft
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "microsoft-positioning"
+token_count: 7
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Microsoft. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - apple
+  - openai
+  - notion
+  - figma
+  - slack
+  - zoom
+industry_norms_it_breaks: "Four colored squares as a visual language of diversity working in unified system | The restraint to keep the four colors consistent across 50+ years of evolution while competitors chase visual trends quarterly | Does it amplify human capability at scale across every economic tier?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Fluent design, systematic, four-square logo, modular"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "M365 productivity, Windows platform, developer tools"
+  - cluster: "dark-premium"
+    role: "accent"
+    where: "Xbox gaming, entertainment sub-brand"
+strategic_cluster: "creative-authority"
+category: technology

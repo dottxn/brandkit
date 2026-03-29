@@ -1,0 +1,28 @@
+chunk_id: "adidas-visual-reasoning"
+brand: adidas
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "adidas-visual-dna"
+  - "adidas-soul"
+token_count: 198
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for adidas. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Adihausen and Helvetica work because they're geometric without being decorative—letters feel as engineered as shoe components. The sans-serif removes any romantic or editorial softness; it's utilitarian, which reinforces that every design decision serves performance. Custom use of Helvetica keeps the brand tethered to industrial modernism, which paradoxically feels like the future
+colour_logic: >-
+  Black (#000000), white (#FFFFFF), and adidas blue (#1E90FF) create high contrast without ornament. Solar red (#FF4444) appears not as a luxury accent but as a safety signal—the color of caution tape and climbing ropes. The palette rejects pastels or gradients; colors either exist or don't, like binary decisions
+composition_philosophy: >-
+  The three stripes dictate everything. They organize layouts vertically, horizontally, diagonally. Grid-based white space isn't empty—it's active. Asymmetry mirrors athletic stance (weight shifted, not centered). Motion is built into still compositions through stripe direction and diagonal photograph angles
+what_would_break_it: >-
+  Rounded corners, gradients, soft shadows, centered symmetry, or any visual treatment that signals comfort over challenge

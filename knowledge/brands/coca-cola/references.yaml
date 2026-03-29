@@ -1,0 +1,93 @@
+# ──────────────────────────────────────────────
+# Coca-Cola — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Wieden+Kennedy London"
+    type: "advertising-agency"
+    url: "https://www.wk.com/"
+    relationship: "Created 'Real Magic' global brand platform and 'Hug' logo framing device (2021)"
+
+  - name: "Landor"
+    type: "branding"
+    url: "https://www.landor.com/"
+    relationship: "Created Dynamic Ribbon design system and 800+ variations for brand applications"
+
+  - name: "Brody Associates"
+    type: "type-foundry"
+    url: "https://www.brodytypes.com/"
+    relationship: "Designed TCCC Unity typeface, Coca-Cola's first custom corporate typeface (2018)"
+
+people:
+  - name: "Neville Brody"
+    role: "Typeface Designer"
+    url: "https://www.brodytypes.com/"
+    context: "Created TCCC Unity typeface inspired by American Modernism (1930s-50s)"
+
+  - name: "Guy Aroch"
+    role: "Photographer"
+    url: "https://artworld.agency/artists/guy-aroch"
+    context: "10-year photography collaboration (2015-2025) with Anna Palma; 70+ shoots defining contemporary nostalgia aesthetic for Coca-Cola"
+
+  - name: "Anna Palma"
+    role: "Photographer"
+    url: "https://artworld.agency/"
+    context: "Co-photographer with Guy Aroch; 'Contour' exhibition at International Center of Photography (2025)"
+
+  - name: "Rapha Abreu"
+    role: "Global VP Design"
+    url: ""
+    context: "Appointed April 2021 as Global VP Design; first Latino in this role; oversees design system"
+
+  - name: "James Sommerville"
+    role: "VP Global Design"
+    url: ""
+    context: "Unveiled TCCC Unity typeface at Museum of Design Atlanta (January 2018)"
+
+  - name: "Frank M. Robinson"
+    role: "Spencerian Script Designer"
+    url: ""
+    context: "Created Spencerian Script logotype (1886); redesigned 1907"
+
+  - name: "Haddon Sundblom"
+    role: "Illustrator"
+    url: ""
+    context: "Created iconic Santa Claus illustrations (1931-1964, 33 years); defined global Santa visual identity"
+
+publications:
+  - title: "Contour: A Decade of Photography for Coca-Cola Global Design"
+    author: "Guy Aroch & Anna Palma"
+    relevance: "Exhibition at International Center of Photography during NYCxDESIGN Festival 2025; 150+ images from Taste the Feeling and Real Magic campaigns"
+
+  - title: "Coca-Cola Company Case Study: Real Magic Platform"
+    author: "Wieden+Kennedy London"
+    relevance: "Documentation of 'Real Magic' brand philosophy and Hug logo framing device"
+
+visuals:
+  - url: "https://www.coca-colacompany.com/media-center/contour-a-decade-of-photography"
+    label: "Contour Exhibition — Guy Aroch & Anna Palma decade-long photography collaboration — Coca-Cola Global Design"
+    section: "visual-language"
+
+  - url: "https://www.icp.org/events/contour-decade-photography-coca-cola-global-design"
+    label: "International Center of Photography — Contour Exhibition (NYCxDESIGN 2025)"
+    section: "visual-world"
+
+  - url: "https://www.designweek.co.uk/issues/8-14-january-2018/coca-cola-unveils-first-brand-typeface-130-year-history"
+    label: "TCCC Unity Typeface — Design Week coverage (January 2018)"
+    section: "visual-language"
+
+  - url: "https://www.dezeen.com/2018/01/12/neville-brody-designs-coca-colas-first-ever-typeface-tccc-unity-graphics/"
+    label: "Neville Brody TCCC Unity Design — Dezeen feature"
+    section: "visual-language"
+
+  - url: "https://www.itsnicethat.com/news/coca-cola-wiedenkennedy-real-magic-campaign-illustration-051021"
+    label: "Real Magic Campaign — Wieden+Kennedy London (2021)"
+    section: "visual-language"
+
+  - url: "https://www.designboom.com/design/coca-cola-new-logo-wraps-around-just-like-a-hug-10-06-2021/"
+    label: "Hug Logo Framing Device — Real Magic Platform"
+    section: "visual-language"
+
+  - url: "https://www.creativereview.co.uk/taste-feeling-guy-aroch-anna-palma/"
+    label: "Taste The Feeling Campaign — Guy Aroch & Anna Palma photography"
+    section: "visual-language"

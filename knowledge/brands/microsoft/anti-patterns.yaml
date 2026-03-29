@@ -1,0 +1,55 @@
+chunk_id: "microsoft-anti-patterns"
+brand: microsoft
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "microsoft-soul"
+  - "microsoft-visual-dna"
+token_count: 295
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Microsoft. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Gradient overlays on product photos
+    reasoning: "Productivity software doesn't need visual softness—it needs clarity"
+  - pattern: "Playful, rounded corners in UI elements"
+    reasoning: Rigorous typeface pairing with geometric precision wins enterprise trust
+  - pattern: Abstract human imagery unrelated to actual work
+    reasoning: Documentary photography of real people solving real problems
+  - pattern: Color cycling through the full spectrum
+    reasoning: "Focused four-color palette creates instant visual recognition"
+strategic:
+  - pattern: Competing on features in marketing
+    reasoning: "Building platforms that make competitors' single-product claims look incomplete"
+  - pattern: "Claiming to \"simplify\" while adding complexity"
+    reasoning: Actually removing friction from existing workflows
+  - pattern: Following design trends of the moment
+    reasoning: "Maintaining 20-year visual consistency through gradual, intentional evolution"
+  - pattern: "Celebrating innovation for innovation's sake"
+    reasoning: Celebrating outcomes that change how millions work daily
+tonal:
+  - pattern: Corporate optimism that feels hollow
+    reasoning: Grounded confidence backed by delivered results
+  - pattern: "Using \"disruptive\" and \"transformative\" as adjectives"
+    reasoning: Letting customers be the ones who use those words
+  - pattern: Performative inclusivity statements
+    reasoning: Inclusive system design that works across vastly different use cases
+  - pattern: "Tech-forward language that alienates non-technical users"
+    reasoning: Meeting each audience in their native language
+cultural:
+  - pattern: "The startup mentality of \"move fast, break things\""
+    reasoning: Enterprise stability that feels like progress
+  - pattern: "Designer-first aesthetics that ignore functional requirements"
+    reasoning: Function determining form completely
+  - pattern: Global brand that becomes culturally neutral (meaningless)
+    reasoning: Global infrastructure that respects local expression
+  - pattern: Celebrating disruption of incumbents
+    reasoning: Becoming the incumbent that enables others to disrupt further

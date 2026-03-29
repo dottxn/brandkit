@@ -1,0 +1,64 @@
+chunk_id: "revolut-visual-dna"
+brand: revolut
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "revolut-positioning"
+token_count: 104
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Revolut. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#191C1F"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#7F84F6"
+    name: ""
+    role: ""
+  - hex: "#00D4AA"
+    name: ""
+    role: ""
+  - hex: "#8B5CF6"
+    name: ""
+    role: ""
+typography:
+  - name: Aeonik Pro
+    role: ""
+    style: ""
+  - name: "Suisse Int'l"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: focused
+  type_class: "sans-serif"
+  type_character: geometric
+  type_weight: bold
+  imagery_medium: "mixed-media"
+  imagery_subject: lifestyle
+  imagery_treatment: candid
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: dimensional
+  shape_language: geometric
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "color-led"
+composition_logic: >-
+  Typography-led hierarchy with big, bold capitalized text as primary graphic element, supported by strategic 3D coin graphics and high-contrast color relationships

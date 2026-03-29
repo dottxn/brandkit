@@ -1,0 +1,33 @@
+chunk_id: "spotify-soul"
+brand: spotify
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "spotify-positioning"
+token_count: 218
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Spotify. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A friend's apartment on a Friday night where they've curated the perfect playlist and you lose track of time discovering music you didn't know you needed.
+core_belief: >-
+  The algorithm isn't the product—discovery is a form of intimacy, a way of understanding who you are through what moves you.
+creative_tension:
+  - >-
+    A platform built to democratize music discovery, yet paradoxically requires massive data aggregation and algorithmic control to function.
+  - >-
+    Spotify positions itself as artist-focused ("unlocking creativity"), yet remains fundamentally a user attention economy that profits from listening behavior data.
+decision_filter: >-
+  When faced with a fork, Spotify asks "Does this deepen the relationship between human and sound?" not "How many users does this acquire?"
+signature_move: >-
+  The Spotify Green (#1DB954) functioning not as brand color but as a signal—a permission slip that says "this is the moment of connection." The color appears only when you need it, letting the content breathe.
+what_would_break_it: >-
+  Adopting a corporate sans-serif like Helvetica or moving to a serif system. It would immediately transform Spotify from "friend" to "corporation," replacing warmth with authority.

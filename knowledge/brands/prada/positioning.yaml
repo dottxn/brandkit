@@ -1,0 +1,31 @@
+chunk_id: "prada-positioning"
+brand: prada
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Prada. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Prada
+website: "https://www.prada.com"
+founded: 1913
+category: luxury
+sub_category: "ready-to-wear-accessories"
+price_tier: luxury
+primary_archetype: The Creator
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 8
+  access_exclusivity: 8
+  heritage_innovation: 6
+key_differentiators: []

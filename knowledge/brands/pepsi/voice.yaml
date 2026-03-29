@@ -1,0 +1,51 @@
+chunk_id: "pepsi-voice"
+brand: pepsi
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "pepsi-soul"
+token_count: 137
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for PepsiCo. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="32-29">PepsiCo is a global food and beverage leader with a product portfolio including over 500 brands spanning from Pepsi and Mountain Dew to Lay's, Gatorade, Tropicana, Doritos, and Qua
+tone_traits:
+  - Optimistic
+  - "smile-focused"
+  - celebratory
+  - "moment-creating"
+  - "<cite index=\"24-2\">Custom typeface done in lowercase letters to convey approachability</cite>"
+  - "human-centric"
+  - inclusive
+  - "Sustainability-focused"
+  - responsible
+  - "community-minded"
+anti_traits:
+  - Cynical
+  - overly serious
+  - pessimistic
+  - Elitist
+  - intimidating
+  - cold corporate
+  - "Purely profit-driven"
+  - irresponsible
+  - disconnected
+example_phrases:
+  - "<cite index=\"1-20\">Smiles are the signature of our success and the currency of our growth</cite>"
+  - >-
+    <cite index="33-1">Creating joyful moments through our delicious and nourishing products and unique brand experiences</cite>
+  - "<cite index=\"2-5,2-6,2-7\">Creating more smiles with every sip and every bite</cite>"
+  - "<cite index=\"1-21\">This is PepsiCo: Food. Drinks. Smiles.</cite>"
+guardrails:
+  never_say: []
+  always_sound: >-
+    Optimistic, smile-focused, celebratory, moment-creating, <cite index="24-2">Custom typeface done in lowercase letters to convey approachability</cite>

@@ -1,0 +1,31 @@
+chunk_id: "starbucks-positioning"
+brand: starbucks
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Starbucks. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Starbucks
+website: "https://www.starbucks.com"
+founded: 1971
+category: "food-beverage"
+sub_category: "coffee-chain"
+price_tier: "mid-range"
+primary_archetype: The Caregiver
+secondary_archetype: The Everyman
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 4
+  heritage_innovation: 7
+key_differentiators: []

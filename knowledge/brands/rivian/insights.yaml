@@ -1,0 +1,32 @@
+chunk_id: "rivian-insights"
+brand: rivian
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "rivian-soul"
+  - "rivian-positioning"
+token_count: 292
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Rivian. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Adventure as a brand lever only works if it's about capability, not aesthetics. The moment you sell the *feeling* of adventure instead of *enabling* adventure, you become indistinguishable from every lifestyle brand selling fake belonging.
+  - >-
+    The most powerful sustainability positioning isn't about guilt—it's about expanding human possibility. "Don't buy this to save the planet" is weaker than "buy this so you can keep exploring a planet worth exploring."
+  - >-
+    Custom typography (Pentagram's work here) matters most at small sizes where it separates signal from noise. The humanist character keeps tech from feeling cold; the custom proportions make Rivian unmistakably Rivian even at favicon scale.
+  - >-
+    Brands built on genuine capability don't need to *tell* you they're reliable—they let real explorers in authentic settings do the telling. User-generated content from someone actually off-grid in a canyon is worth more than your best cinematographer.
+  - >-
+    The Compass Yellow (#DEB526) works because it's warm enough to feel human but bright enough to read as "innovation"—it sits in the rare intersection of approachable and cutting-edge, which is exactly where Rivian lives.
+what_nobody_copies: >-
+  The willingness to show vehicles in *actually difficult* terrain covered in actual dirt, with *real* fatigue on the drivers' faces. Most automotive brands sterilize their imagery. Rivian leans into the consequence of adventure—sweat, mud, genuine challenge.

@@ -1,0 +1,64 @@
+chunk_id: "microsoft-visual-dna"
+brand: microsoft
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "microsoft-positioning"
+token_count: 104
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Microsoft. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#F25022"
+    name: ""
+    role: ""
+  - hex: "#7FBA00"
+    name: ""
+    role: ""
+  - hex: "#00A4EF"
+    name: ""
+    role: ""
+  - hex: "#FFB900"
+    name: ""
+    role: ""
+  - hex: "#737373"
+    name: ""
+    role: ""
+typography:
+  - name: Segoe UI
+    role: ""
+    style: ""
+  - name: Segoe Pro
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: focused
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  Grid-based layouts with generous white space, clear hierarchy, and consistent use of the four-square logo placement

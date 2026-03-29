@@ -1,0 +1,36 @@
+chunk_id: "spotify-voice"
+brand: spotify
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "spotify-soul"
+token_count: 41
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Spotify. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Spotify is a digital music streaming platform that provides access to millions of songs, podcasts, and playlists through both free and premium subscription models. The company uses data-driven persona
+tone_traits:
+  - "cultural"
+  - "conversational"
+  - "playful"
+  - "inclusive"
+  - "music-literate"
+anti_traits:
+  - corporate
+  - technical
+  - condescending
+  - stiff
+  - generic
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a music-obsessed friend with impeccable taste"

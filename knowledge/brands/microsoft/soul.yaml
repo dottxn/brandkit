@@ -1,0 +1,27 @@
+chunk_id: "microsoft-soul"
+brand: microsoft
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "microsoft-positioning"
+token_count: 101
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Microsoft. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: A global nervous system learning to think faster than uncertainty itself
+core_belief: "When humans have better tools, they don't just work harder—they imagine differently"
+creative_tension:
+  - "Enterprise-scale infrastructure that enables individual creativity to flourish"
+  - Democratizing the most advanced technology while maintaining premium performance standards
+decision_filter: "Does it amplify human capability at scale across every economic tier?"
+signature_move: Four colored squares as a visual language of diversity working in unified system
+what_would_break_it: >-
+  Adopting Apple's consumer-first exclusivity or neutralizing the four-color palette into monochrome corporate grey

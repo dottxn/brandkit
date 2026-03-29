@@ -1,0 +1,31 @@
+chunk_id: "zara-strategy"
+brand: zara
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "zara-positioning"
+token_count: 59
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Zara. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe fashion should be accessible, inspiring, and constantly evolving to reflect the zeitgeist of contemporary culture
+mission: >-
+  To democratize fashion by making the latest trends accessible to everyone through rapid design cycles and global distribution
+vision: >-
+  To be the world's leading fashion retailer by anticipating and responding to customer desires faster than anyone else
+values:
+  - Speed to Market
+  - Trend Sensitivity
+  - Global Accessibility
+  - Quality Craftsmanship
+  - Customer Centricity

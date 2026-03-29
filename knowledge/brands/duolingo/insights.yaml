@@ -1,0 +1,32 @@
+chunk_id: "duolingo-insights"
+brand: duolingo
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "duolingo-soul"
+  - "duolingo-positioning"
+token_count: 296
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Duolingo. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Duolingo's real product isn't language learning—it's habit architecture wrapped in emotional investment. The learning outcome matters, but the daily login and streak maintenance is what creates lifetime value and network effects.
+  - >-
+    Feather Green (#58CC02) works because it's too bright to ignore on mobile, yet feels natural and organic (not synthetic or artificial). It reads as "go" and "growth" and "alive" simultaneously at 1x4 pixel scale (notification badge).
+  - >-
+    Duolingo's mascot-first strategy works because Duo is a character with agency and personality that users feel socially obligated to maintain streaks for. You don't let down an algorithm; you let down Duo. Personification creates responsibility.
+  - >-
+    Duolingo's freemium model succeeds because the free tier is functionally complete and emotionally satisfying (you can actually learn). The paid tier removes annoyances rather than enabling core features. This builds trust before asking for payment.
+  - >-
+    Duolingo's viral success depends on the willingness to be culturally weird and absurdist. The brand's meme-literacy and willingness to make jokes about its own motivational tactics creates permission for users to evangelize publicly (it's funny to share Duo guilt-tripping you).
+what_nobody_copies: >-
+  The rigor of experience design within bite-sized constraints. Most competitors copy the "5-minute lesson" format, but Duolingo's lesson architecture (lesson length, difficulty progression, feedback timing, celebration moments) is psychologically optimized in ways competitors haven't reverse-engineered yet.

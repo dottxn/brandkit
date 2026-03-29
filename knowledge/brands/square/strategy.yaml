@@ -1,0 +1,31 @@
+chunk_id: "square-strategy"
+brand: square
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "square-positioning"
+token_count: 76
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Square. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="53-9,53-11,53-12">We believe economic empowerment is the purpose driving Block forward. We're building tools to help more people overcome barriers to participating in the economy. Equity and access are essential to our shared purpose of economic empowerment</cite>.
+mission: >-
+  <cite index="51-11,54-1,54-10">To empower people with economic tools to access and thrive in the economy</cite>.
+vision: >-
+  <cite index="51-18,54-15">To be the leading global technology company empowering anyone to participate and thrive in the economy by providing accessible, innovative, and integrated financial and commerce solutions</cite>.
+values:
+  - Economic Empowerment
+  - Financial Inclusion
+  - Accessibility
+  - Innovation
+  - Community Building

@@ -1,0 +1,58 @@
+chunk_id: "square-visual-dna"
+brand: square
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "square-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Square. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#6C757D"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: "Custom Sans-serif"
+    role: ""
+    style: ""
+  - name: "Square-specific typeface"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: neutral
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: geometric
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: knockout
+  symbolic_type: "abstract-mark"
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="41-36,41-37">Three concentric squares with rounded corners, with the middle square being white and the other two being gray, creating a visually appealing icon</cite>.

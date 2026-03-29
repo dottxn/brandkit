@@ -1,0 +1,58 @@
+chunk_id: "coca-cola-visual-dna"
+brand: "coca-cola"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "coca-cola-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Coca-Cola. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#F40009"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: TCCC Unity
+    role: ""
+    style: ""
+  - name: Spencerian Script
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: script
+  type_character: editorial
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: lifestyle
+  imagery_treatment: candid
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: heritage
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "typography-led"
+composition_logic: >-
+  <cite index="11-4">We then liberated these elements from the rules and regulations and started to play, so everything Coca-Cola touched glowed with the joy of the brand.</cite> Elements are arranged with generous white space to create uplifting, optimistic layouts.

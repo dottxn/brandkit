@@ -1,0 +1,55 @@
+chunk_id: "nothing-anti-patterns"
+brand: nothing
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "nothing-soul"
+  - "nothing-visual-dna"
+token_count: 262
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Nothing. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Apple's white-box minimalism translated directly"
+    reasoning: "80s mainframe grid systems as genuine structural decision, not visual reference"
+  - pattern: Flat design with dead letterforms
+    reasoning: Monochromatic rigidity with strategic red to break rhythm
+  - pattern: Aspirational lifestyle imagery
+    reasoning: "Product-as-hero photography showing mechanical detail"
+  - pattern: "Rounded, friendly interface elements"
+    reasoning: Harsh geometric grids emphasizing precision over warmth
+strategic:
+  - pattern: Competing on processing power specs
+    reasoning: Competing on philosophical honesty about what technology should feel like
+  - pattern: Marketing to the mainstream first
+    reasoning: Building credibility in communities of makers and designers first
+  - pattern: "Following Samsung and Apple's playbook"
+    reasoning: Creating a third operating system philosophy entirely
+  - pattern: Hiding manufacturing complexity
+    reasoning: Celebrating manufacturing as part of the aesthetic experience
+tonal:
+  - pattern: Consumer electronics marketing enthusiasm
+    reasoning: Intellectual rigor paired with genuine humor
+  - pattern: "\"Innovation\" as hollow claim"
+    reasoning: "Specific decisions clearly explained (Glyph, OS philosophy, transparency)"
+  - pattern: Lifestyle aspirationalism
+    reasoning: "Community-first, peer-to-peer tone"
+  - pattern: Avoiding technical depth for mass appeal
+    reasoning: "Inviting technically-minded people into design conversations"
+cultural:
+  - pattern: The smartphone as black mirror
+    reasoning: The smartphone as window to its own mechanism
+  - pattern: Technology as fashion object
+    reasoning: Technology as philosophical statement about visibility
+  - pattern: Disruption through features
+    reasoning: "Disruption through honesty about the device's own transparency"
+  - pattern: Built for Instagram moments
+    reasoning: Built for people who actually understand what computers do

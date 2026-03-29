@@ -1,0 +1,31 @@
+chunk_id: "bmw-positioning"
+brand: bmw
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for BMW. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: BMW
+website: "https://www.bmw.com"
+founded: 1916
+category: automotive
+sub_category: premium vehicles
+price_tier: luxury
+primary_archetype: The Creator
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 7
+  access_exclusivity: 8
+  heritage_innovation: 6
+key_differentiators: []

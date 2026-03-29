@@ -1,0 +1,46 @@
+# ──────────────────────────────────────────────
+# Sephora — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Mucca Design"
+    type: "branding"
+    url: "https://www.mucca.com/"
+    project_url: "https://www.mucca.com/our-work/sephora"
+    relationship: "Designed comprehensive custom type system (Sephora Sans, Serif Text, Serif Display, Script Editor, Script Collection) (2015-2016)"
+
+people:
+  - name: "Matteo Bologna"
+    role: "Founder and Creative Director, Mucca Design"
+    url: "https://www.mucca.com/about"
+    context: "Led design of Sephora's custom type system comprising 6 families across 22 styles"
+
+  - name: "Zena Srivatsa Arnold"
+    role: "US Chief Marketing Officer, Sephora"
+    context: "Oversees brand marketing and positioning ('We Belong to Something Beautiful')"
+
+publications:
+  - title: "Sephora Type System: Custom Typefaces for Global Prestige Beauty Retail"
+    author: "Mucca Design"
+    relevance: "Documents the systematic approach to custom typography across multiple typeface families and styles"
+
+  - title: "Sephora 2024 Store Redesign: 111 Stores"
+    author: "Sephora"
+    relevance: "Details the largest capital project in Sephora history, updating retail environment and brand experience"
+
+visuals:
+  - url: "https://www.sephora.com/"
+    label: "Sephora.com and app — Black and white stripe pattern, Flame mark logo, custom type system"
+    section: "visual-language"
+
+  - url: "https://www.mucca.com/"
+    label: "Mucca Design portfolio — Sephora type system case study"
+    section: "visual-language"
+
+  - url: "https://www.sephora.com/beauty-advice"
+    label: "Sephora editorial and content — Custom typeface system in action"
+    section: "visual-language"
+
+  - url: "https://www.sephora.com/products-stores"
+    label: "Sephora retail store experience — Physical implementation of brand identity (2024 redesign)"
+    section: "visual-world"

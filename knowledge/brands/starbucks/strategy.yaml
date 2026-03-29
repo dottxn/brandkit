@@ -1,0 +1,29 @@
+chunk_id: "starbucks-strategy"
+brand: starbucks
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "starbucks-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Starbucks. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in the power of human connection through coffee - creating moments that inspire and nurture the human spirit
+mission: "To inspire and nurture the human spirit — one person, one cup and one neighborhood at a time"
+vision: >-
+  To be the premier purveyor of the finest coffee in the world while maintaining our uncompromising principles as we grow
+values:
+  - "Craft - Excellence in every detail and product"
+  - "Courage - Doing what's right even when difficult"
+  - "Connection - Creating human moments and community"
+  - "Collaboration - Working together with warmth and dignity"

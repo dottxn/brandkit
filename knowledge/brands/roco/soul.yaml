@@ -1,0 +1,29 @@
+chunk_id: "roco-soul"
+brand: roco
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "roco-positioning"
+token_count: 124
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Ro. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: Medical care meeting you where you are—the dissolution of distance between expert and patient
+core_belief: >-
+  Healthcare succeeds when it removes friction; friction removal starts with access and continues through treatment
+creative_tension:
+  - "Telehealth platform that doesn't feel clinical or sterile—warm professionalism"
+  - >-
+    Specialized healthcare (weight loss, sexual health, hair loss) treated with dignity and directness, never judgment
+decision_filter: "Would a patient feel shame accessing this, or empowered? Shame means we designed wrong"
+signature_move: "Color-coded textual tags functioning as both visual organization and treatment categorization system"
+what_would_break_it: >-
+  Adopting clinical healthcare aesthetic (beige, minimal photography) or wellness industry's lifestyle aspirationalism would destroy Ro's patient-first positioning

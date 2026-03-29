@@ -1,0 +1,33 @@
+chunk_id: "vercel-soul"
+brand: vercel
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "vercel-positioning"
+token_count: 170
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Vercel. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A thought made manifest instantly—the space between "what if" and "live on the internet" collapses to seconds, making creation feel like thinking.
+core_belief: >-
+  The fastest way to iterate is the only way to innovate; friction in deployment is friction in thought itself.
+creative_tension:
+  - >-
+    Building for experienced developers while maintaining such clarity that beginners can ship on day one.
+  - >-
+    Celebrating performance metrics and speed while avoiding tech-bro optimization culture and its dehumanizing side.
+decision_filter: >-
+  Can someone ship to the internet in the time it takes to brew coffee? If the answer is no, we're adding friction.
+signature_move: >-
+  The triangular geometric element (#0070F3 to #7928CA gradient) representing the collapse of space-time between local development and global deployment.
+what_would_break_it: >-
+  Introducing ornamental design, illustration, or visual elements that slow down information comprehension. Visual clarity is the only aesthetic that matters.

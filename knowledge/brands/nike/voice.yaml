@@ -1,0 +1,48 @@
+chunk_id: "nike-voice"
+brand: nike
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "nike-soul"
+token_count: 85
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Nike. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Nike is the world's leading designer, marketer and distributor of authentic athletic footwear, apparel, equipment and accessories. Based in Oregon, the company includes the Nike, Converse, and Jordan 
+tone_traits:
+  - motivating
+  - empowering
+  - aspirational
+  - real
+  - honest
+  - relatable
+  - bold
+  - confident
+  - challenging
+anti_traits:
+  - preachy
+  - corporate
+  - passive
+  - fake
+  - manufactured
+  - overly polished
+  - cautious
+  - tentative
+  - boring
+example_phrases:
+  - "Why Do It?"
+  - Just Do It
+  - "If you have a body, you are an athlete"
+  - Greatness is a choice
+guardrails:
+  never_say: []
+  always_sound: "motivating, empowering, aspirational, real, honest"

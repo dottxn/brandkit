@@ -1,0 +1,32 @@
+chunk_id: "nothing-insights"
+brand: nothing
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "nothing-soul"
+  - "nothing-positioning"
+token_count: 165
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Nothing. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    "transparency" in tech usually means privacy policy opacity, so Nothing proved it by literally making devices transparent
+  - >-
+    Analog nostalgia only works when it's rooted in actual missing functionality (tactile buttons, visible mechanics) not retro aesthetics for aesthetics' sake
+  - >-
+    Custom typography (NDot, NType 82) isn't about uniqueness—it's about making dot-matrix typography mean something in 2024
+  - >-
+    The most design-forward brands often come from founders (Carl Pei) who understand what incumbents deliberately avoid
+  - >-
+    Community-driven product development makes the brand story credible in a way no copywriter could manufacture
+what_nobody_copies: >-
+  The architectural decision to make transparency a mechanical requirement (thermal management) rather than a surface treatment, forcing the entire product design to be built around visible internals

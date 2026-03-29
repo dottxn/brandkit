@@ -1,0 +1,31 @@
+chunk_id: "hulu-positioning"
+brand: hulu
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Hulu. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Hulu
+website: "https://www.hulu.com"
+founded: 2007
+category: entertainment
+sub_category: streaming television
+price_tier: "mid-range"
+primary_archetype: The Magician
+secondary_archetype: The Jester
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 4
+  heritage_innovation: 7
+key_differentiators: []

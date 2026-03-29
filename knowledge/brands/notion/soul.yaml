@@ -1,0 +1,32 @@
+chunk_id: "notion-soul"
+brand: notion
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "notion-positioning"
+token_count: 193
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Notion. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: A construction kit disguised as software—you hand someone a toolbox and they build their own house.
+core_belief: >-
+  Constraint breeds creativity; the more customizable a tool becomes, the more essential clarity becomes.
+creative_tension:
+  - >-
+    "Freedom without structure = chaos. Yet too much structure destroys the entire value proposition of infinite customization."
+  - >-
+    "The more powerful Notion becomes, the steeper the learning curve. Simplicity and feature-richness are in permanent tension."
+decision_filter: >-
+  "Does this feature enable or disable the user's ability to shape their own system? Will it add cognitive load or remove it?"
+signature_move: >-
+  The transparent cube logo with the serif 'N'—a single gesture showing structure (the grid), openness (you can see through it), and humanity (serif letterform in otherwise sans-serif system).
+what_would_break_it: >-
+  Replacing the monochromatic palette with a colorful brand palette. The moment Notion adds chromatic visual noise, it stops feeling like a blank canvas and starts feeling like a tool imposing its aesthetic on your work.

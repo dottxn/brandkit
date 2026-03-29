@@ -1,0 +1,65 @@
+# ──────────────────────────────────────────────
+# Chanel — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Peter Marino Architect"
+    type: architecture
+    url: "https://petermarinoarchitect.com/"
+    relationship: "Architecture and interior design of 200+ Chanel boutiques worldwide; flagship 31 Rue Cambon design."
+
+people:
+  - name: "Inez & Vinoodh"
+    role: "Campaign Photographers"
+    context: "Primary campaign photographers (2023-present); signature cinematic chiaroscuro 'day for night' style."
+
+  - name: "Karim Sadli"
+    role: "Photographer"
+    context: "Eyewear campaign photography (SS24); high-end commercial and editorial work."
+
+  - name: "Mikael Jansson"
+    role: "Photographer"
+    url: "https://www.mikaeljansson.com/"
+    context: "Pre-Fall 2024 campaign photography; high-end fashion and editorial direction."
+
+  - name: "Jamie Hawkesworth"
+    role: "Photographer"
+    context: "Cruise 2025 campaign photography; contemporary fashion direction."
+
+  - name: "Craig McDean"
+    role: "Photographer"
+    context: "February 2026 campaign photography; high-end commercial and fashion work."
+
+  - name: "Wim Wenders"
+    role: "Film Director"
+    context: "Directed Métiers d'art 2024/25 campaign film; auteur director approach to Chanel storytelling."
+
+  - name: "Matthieu Blazy"
+    role: "Creative Director"
+    context: "Appointed December 2024 (first external director since Karl Lagerfeld in 1983); first collection October 2025."
+
+publications:
+  - title: "Chanel design heritage documentation"
+    author: "Chanel Design Archive"
+    relevance: "Fashion monographs and design references documenting visual heritage and aesthetic principles."
+
+  - title: "Chanel Métiers d'art collection documentation"
+    author: "Chanel Creative Team"
+    relevance: "Annual programme celebrating specialist workshops and craft heritage since 2002."
+
+visuals:
+  - url: "https://www.chanel.com/"
+    label: "Official Chanel website and campaigns — chanel.com"
+    section: visual-world
+
+  - url: "https://petermarinoarchitect.com/"
+    label: "Boutique and retail design — Peter Marino Architect"
+    section: visual-world
+
+  - url: "https://www.mikaeljansson.com/"
+    label: "Campaign photography — Mikael Jansson"
+    section: visual-language
+
+  - url: "https://www.mariotestino.com/"
+    label: "Campaign photography — Mario Testino"
+    section: visual-language

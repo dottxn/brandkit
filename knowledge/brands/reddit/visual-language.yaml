@@ -1,0 +1,335 @@
+chunk_id: "reddit-visual-language"
+brand: "reddit"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "reddit-visual-dna"
+  - "reddit-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Reddit. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-orangered"
+      touchpoints:
+        - "reddit.com and new Reddit interface"
+        - "Reddit app"
+        - "Reddit brand marketing and campaigns"
+        - "Reddit social media channels"
+        - "Reddit corporate communications"
+      description: >-
+        OrangeRed (#FF4500, Pantone PMS 1655 C) dominant — the colour
+        that gives both the brand and the custom typeface their name.
+        The 2023 Pentagram rebrand (Natasha Jen) established the current
+        visual system: Reddit Sans (Stephen Hutchings/OrangeRed, November
+        2023), the 3D Snoo mascot redesign, and the conversation-bubble
+        logo. The colour palette was reduced from 100+ hues to 15 —
+        a dramatic simplification. The Snoo mascot (originally sketched by
+        Alexis Ohanian in 2005, redesigned from 2D to 3D by Pentagram in
+        2023 with opposable thumbs) anchors the visual identity. Reddit
+        Sans is available on Google Fonts (June 2024) under SIL open-source
+        licence. The March 2024 IPO ($34/share) made the visual identity
+        a public-market-facing brand asset. Compared to Twitter/X (blue,
+        corporate, news-coded) or Tumblr (blue, creative-community-coded),
+        Reddit's visual language is the most mascot-driven and community-
+        coded.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this OrangeRed-
+        dominant, Snoo-anchored, Reddit Sans-set register.
+
+    - name: "subreddit-community"
+      touchpoints:
+        - "Individual subreddit branding and banners"
+        - "Community-created Snoo avatars and decorations"
+        - "r/place (collaborative pixel-art events)"
+        - "Subreddit-specific visual cultures"
+      description: >-
+        Community-defined visual chaos. Each of Reddit's 100,000+ active
+        subreddits can customise its visual appearance — banners, icons,
+        colour schemes, and CSS themes. This creates a visual ecosystem
+        ranging from carefully designed community brands (r/Apple mimics
+        Apple's aesthetic) to deliberately chaotic or absurdist visual
+        treatments. r/place (collaborative pixel-art canvas events in
+        2017, 2022, 2023) demonstrated the community's capacity for
+        collective visual creation — millions of users placing individual
+        pixels to create elaborate artwork.
+      differs_from_default_by: >-
+        Community visual identity overrides the brand system. Each
+        subreddit defines its own visual rules. The brand provides the
+        framework (upvote/downvote, threading, Snoo avatars) but
+        communities control the visual expression.
+
+    - name: "advertising-business"
+      touchpoints:
+        - "Reddit Ads platform"
+        - "Reddit for Business marketing"
+        - "Advertiser-facing documentation and case studies"
+        - "Reddit IPO and investor materials"
+      description: >-
+        More structured, more corporate. The advertising and investor-
+        facing visual language adopts a polished register — case studies
+        with data visualisations, structured layouts, and professional
+        photography. The OrangeRed palette remains but the visual tone
+        shifts from community-native to business-credible. Post-IPO
+        (March 2024), investor materials and business communications
+        require a visual standard that bridges community authenticity
+        with corporate credibility.
+      differs_from_default_by: >-
+        More corporate and structured. Data visualisations and case
+        studies replace community content. The visual language serves
+        advertisers and investors rather than community members.
+
+  notes: >-
+    Reddit's visual system must accommodate extreme contrasts — from
+    highly curated subreddit designs to raw text-based discussions to
+    corporate investor communications. The Pentagram rebrand (2023)
+    established a unified brand framework while preserving community
+    visual autonomy.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "low"
+  primary_sources:
+    - "reddit.com (observed February 2026)"
+    - "Reddit marketing materials"
+    - "2023 Pentagram rebrand materials"
+  subject_and_framing: >-
+    Reddit uses minimal brand photography — the platform's visual content
+    is user-generated (memes, screenshots, text posts, linked images).
+    Brand marketing uses a mix of community screenshots, Snoo-based
+    graphics, and occasional lifestyle photography showing people
+    engaging with Reddit. Compared to other social platforms (Instagram —
+    aspirational photography; TikTok — creator video; Twitter/X — news
+    imagery), Reddit's visual identity relies the least on photography.
+  casting_observed: >-
+    Limited brand photography means limited casting data. Marketing
+    materials show diverse, everyday people — not aspirational or
+    celebrity-coded. Reddit's visual identity relies on Snoo and
+    community-generated content rather than people photography.
+  lighting_and_colour: >-
+    When photography appears, it is neutral and documentary. OrangeRed
+    appears in branding elements around photography but doesn't influence
+    the photographic palette.
+  post_production: >-
+    Minimal. Photography is not a significant brand tool. User-generated
+    imagery is uncontrolled and unprocessed.
+  visual_boundaries:
+    stated_exclusions: >-
+      Reddit avoids aspirational lifestyle photography, celebrity
+      endorsement imagery, and polished corporate photography. The brand
+      positions as authentic and community-driven.
+    observed_exceptions: >-
+      Super Bowl advertising (2023, first Super Bowl ad — 5-second spot)
+      and IPO-era marketing adopted more conventional advertising
+      photography conventions.
+    genuine_absence: >-
+      Based on reddit.com review: no hero photography, no lifestyle
+      campaigns, no celebrity partnerships, no product photography. The
+      brand communicates primarily through Snoo, typography, OrangeRed
+      colour, and community content.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Snoo mascot (Alexis Ohanian sketch, 2005; Pentagram 3D redesign, 2023)"
+    - "2023 Pentagram rebrand by Natasha Jen"
+    - "Conversation-bubble logo"
+    - "reddit.com (observed February 2026)"
+  uses_illustration: true
+  illustration_style: >-
+    Snoo-centric. The Snoo mascot IS Reddit's illustration system. The
+    2023 Pentagram redesign evolved Snoo from a flat 2D character to a
+    3D mascot with opposable thumbs, more expressive features, and
+    multiple customisable variants. Users create their own Snoo avatars —
+    making the mascot a participatory illustration system. The style is
+    friendly, simple, approachable — a rounded, antenna-headed alien that
+    reads across all sizes. Subreddit communities create their own Snoo
+    variants (r/gaming has a gaming Snoo, r/science has a lab-coat Snoo).
+    Compared to Discord (Clyde is similar in mascot-centricity but more
+    geometric) or Duolingo (Duo owl is more character-driven, more
+    narrative), Snoo is the most community-customisable mascot in tech.
+  illustration_role: >-
+    Snoo appears across all brand contexts — marketing, advertising, app
+    interface, error states, loading screens, and community branding. The
+    mascot functions as Reddit's visual ambassador. Beyond Snoo, Reddit
+    uses minimal illustration — the upvote/downvote arrows, the award
+    icons, and the subreddit default icons form a functional illustration
+    vocabulary.
+  icon_style: >-
+    The upvote/downvote arrows — Reddit's most culturally significant
+    icons, adopted as a visual metaphor across internet culture. Community
+    awards icons (Gold, Silver, Platinum, and custom community awards)
+    form a gamification icon system. Navigation icons follow standard
+    mobile conventions. The OrangeRed upvote arrow is as recognisable as
+    Snoo in internet culture.
+  graphic_devices: >-
+    Snoo (the alien mascot) — the primary graphic device, customisable
+    by communities and individual users. The conversation-bubble logo
+    (introduced 2023 Pentagram rebrand) — the Reddit wordmark sits within
+    a speech bubble, reinforcing the 'conversation' positioning. OrangeRed
+    (#FF4500) as a colour device — instantly identifiable. The upvote/
+    downvote system — a visual grammar that has influenced how the entire
+    internet signals approval and disapproval. The reduced 15-hue palette
+    (down from 100+) creates cleaner visual distinction.
+  motion_language: >-
+    Snoo animates with simple, character-driven movements — waving,
+    bouncing, expressing emotions. App loading states use Snoo
+    animations. The upvote/downvote interaction has a satisfying tap
+    animation. Reddit's motion language is simple and functional —
+    nothing cinematic or atmospheric.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Reddit Sans (Stephen Hutchings / OrangeRed, November 2023)"
+    - "Reddit Sans Condensed, Reddit Mono, Reddit Display"
+    - "Google Fonts listing (June 2024, SIL open-source licence)"
+    - "reddit.com (observed February 2026)"
+  signature_move: >-
+    Reddit Sans (Stephen Hutchings/OrangeRed, November 2023) — a humanist
+    sans-serif with a distinctive 67.5° slash angle. The type family
+    includes Reddit Sans, Reddit Sans Condensed, Reddit Mono, and Reddit
+    Display — a comprehensive system for all contexts. The 67.5° slash
+    angle is a distinctive detail — an unusual, ownable typographic
+    feature that creates a subtle but recognisable character. The typeface
+    is open-source (SIL licence, available on Google Fonts since June 2024)
+    — matching Reddit's open, community-driven ethos. Compared to
+    Discord (gg sans — geometric, gaming-coded) or Twitter/X (Chirp —
+    more corporate), Reddit Sans is the most humanist and community-
+    friendly.
+  what_would_look_wrong: >-
+    A geometric sans-serif (Reddit Sans is deliberately humanist). A serif
+    typeface in any context (Reddit is entirely sans-serif). A closed-
+    source, premium typeface (contradicts the open-source ethos). The
+    pre-2023 typography (Noto Sans — generic, not brand-specific).
+  case_convention: >-
+    The 'reddit' wordmark uses lowercase. Subreddit names use the r/
+    prefix with lowercase (r/askscience, r/todayilearned). Product names
+    use title case ('Reddit Premium,' 'Reddit Talk'). Marketing text
+    uses sentence case. The lowercase convention reinforces the
+    community-native, unpretentious tone.
+  display_vs_body: >-
+    Display: Reddit Display for brand-moment type — campaign headlines,
+    marketing heroes, event graphics. Reddit Sans at bold weights for
+    standard marketing headlines. Body: Reddit Sans at regular weight
+    for interface text, comments, post titles. Reddit Mono for code blocks
+    and technical contexts. Reddit Sans Condensed for space-constrained
+    contexts (data tables, navigation). The four-face family provides
+    comprehensive coverage without external typefaces.
+  type_and_image: >-
+    Type dominates Reddit's visual experience — the platform is
+    fundamentally text-based. Post titles, comments, and usernames are
+    the primary visual content. Photography and images are user-submitted
+    and uncontrolled. In brand marketing, type and Snoo share visual
+    weight — the conversation-bubble wordmark is both typographic and
+    illustrative.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "reddit.com — new Reddit interface (observed February 2026)"
+    - "Reddit app"
+    - "2023 Pentagram rebrand"
+  signature_composition: >-
+    Feed-based vertical scroll — the visual composition that defines
+    internet forums. Reddit's layout is a chronological (or algorithmic)
+    feed of posts with threaded comments. The 'new Reddit' interface
+    introduced card-based post presentation (similar to Facebook's news
+    feed) alongside the classic compact-list view. The threaded comment
+    system — with indented replies and upvote/downvote indicators — is
+    Reddit's most distinctive compositional element. Compared to Twitter/X
+    (single-column feed, no threading depth) or Hacker News (minimalist,
+    text-only), Reddit's layout supports the deepest discussion structure.
+  density_and_whitespace: >-
+    Users control density through view preferences — card view (lower
+    density, more imagery), compact view (high density, text-focused),
+    or classic view (moderate density, traditional forum layout). The
+    new Reddit interface uses more whitespace than old Reddit (which was
+    famously dense and functional). The Pentagram rebrand brought more
+    generous spacing and cleaner information hierarchy.
+  format_preferences: >-
+    Vertical feed as the primary format. Posts support text, images, video,
+    links, and polls. The threaded comment format is inherently vertical.
+    r/place events use a fixed square canvas. Marketing materials use
+    standard digital advertising formats.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Reddit's visual identity has historically lagged behind design trends
+    (the old Reddit interface was famously lo-fi). The 2023 Pentagram
+    rebrand was a deliberate modernisation that brought the visual
+    identity up to contemporary standards.
+  examples:
+    - trend: "Open-source brand typography"
+      stance: "leader"
+      evidence: >-
+        Reddit Sans released under SIL open-source licence and available
+        on Google Fonts (June 2024). This makes Reddit one of the few
+        major tech companies to open-source its custom brand typeface —
+        a move that aligns with Reddit's community-driven, open-platform
+        ethos.
+      reasoning: >-
+        Open-sourcing the brand typeface is both a community gesture and
+        a distribution strategy — it allows Reddit Sans to appear in
+        community-created content, extending brand visibility organically.
+    - trend: "3D mascot branding"
+      stance: "early-adopter"
+      evidence: >-
+        The 2023 Snoo 3D redesign (Pentagram, Natasha Jen) moved the mascot
+        from flat 2D to expressive 3D with opposable thumbs and more
+        articulated features. This followed a broader trend of tech mascots
+        gaining dimensionality (Discord's Clyde, Duolingo's Duo).
+      reasoning: >-
+        The 3D Snoo redesign modernised Reddit's most recognisable asset
+        while maintaining the simple, friendly character that communities
+        had already adopted and customised.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "chameleon"
+  what_stays: >-
+    OrangeRed (#FF4500). The Snoo mascot (in some form). Reddit Sans.
+    The upvote/downvote interaction pattern. The conversation-bubble
+    wordmark.
+  what_bends: >-
+    Subreddit communities customise the visual identity extensively —
+    banners, icons, themes, custom Snoo variants, and CSS styling. r/place
+    events create entirely community-defined visual outcomes. Reddit's
+    advertising visual language adapts to advertiser and business contexts.
+    User avatars (customised Snoos) create individual visual expression.
+  notable_examples: >-
+    r/place (2017, 2022, 2023): collaborative pixel-art canvas events
+    where millions of users placed individual pixels — creating elaborate
+    artwork, national flags, brand logos, and cultural references. This
+    is Reddit's most radical visual collaboration — the brand creates the
+    canvas and the community creates the content. Subreddit branding:
+    100,000+ communities with custom visual identities — Reddit is the
+    most visually user-customisable major platform. Reddit x Super Bowl
+    (2023): the 5-second Super Bowl ad was a deliberate visual disruption
+    — a text-heavy, anti-advertising aesthetic that contrasted with every
+    other Super Bowl spot.

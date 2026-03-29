@@ -1,0 +1,61 @@
+chunk_id: "delta-air-lines-visual-dna"
+brand: "delta-air-lines"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "delta-air-lines-positioning"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Delta Air Lines. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#E01A34"
+    name: ""
+    role: ""
+  - hex: "#0F172D"
+    name: ""
+    role: ""
+  - hex: "#003366"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Delta Sans
+    role: ""
+    style: ""
+  - name: Delta Serif
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: expansive
+  type_class: custom
+  type_character: mixed
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: editorial
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: uniform
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: dimensional
+  shape_language: geometric
+  contrast_level: medium
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  Motion-driven layouts inspired by the dynamic triangular logo with four behavioral elements: Connecting Line (journey forward), Explorative Space (discovery), Amplified Burst (emotional moments), and Focus Frame (key stories)

@@ -1,0 +1,32 @@
+chunk_id: "gucci-soul"
+brand: gucci
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "gucci-positioning"
+token_count: 153
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Gucci. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: A Renaissance palace that teaches you how to wear rebellion with authority
+core_belief: >-
+  True luxury is the freedom to be illogical, unexpected, and unapologetically eclectic without sacrificing excellence
+creative_tension:
+  - >-
+    We honor 100+ years of Italian tradition while constantly dismantling it through radical contemporary subversion
+  - >-
+    We are simultaneously maximalist and refined—more is more, but every element earns its place through impeccable craftsmanship
+decision_filter: >-
+  If it doesn't create a small moment of delightful cognitive dissonance between heritage and chaos, it's not Gucci enough
+signature_move: >-
+  The double-G interlocking monogram rendered in gold on unexpected surfaces (not as logo, but as permission slip for excess)
+what_would_break_it: >-
+  Removing the emotional narrative from the product. Gucci dies the moment it becomes about technical specs instead of poetry and personality

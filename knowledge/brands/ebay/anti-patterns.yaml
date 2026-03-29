@@ -1,0 +1,56 @@
+chunk_id: "ebay-anti-patterns"
+brand: ebay
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "ebay-soul"
+  - "ebay-visual-dna"
+token_count: 361
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for eBay. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Streamlined minimalist design that removes the visual chaos of actual marketplaces
+    reasoning: Prettifies marketplace in ways that feel inauthentic to how eBay actually operates
+  - pattern: "Professional, styled product photography"
+    reasoning: "Contradicts the authentic, sometimes imperfect real-item aesthetic"
+  - pattern: "Luxury-signaling color palettes or design language"
+    reasoning: "Misses that eBay's power is democratic access, not exclusive luxury"
+  - pattern: "Symmetrical, centered, heavily organized layouts"
+    reasoning: Conflicts with the serendipitous discovery and controlled chaos of browsing
+strategic:
+  - pattern: Marketing that emphasizes company scale or profitability
+    reasoning: "Places eBay above the seller-buyer relationship"
+  - pattern: Premium tier expansion that creates exclusive access categories
+    reasoning: "Contradicts the democratic \"anyone can grow\" positioning"
+  - pattern: Hiding seller diversity in favor of brand partnerships
+    reasoning: Misses the authentic human commerce narrative that differentiates eBay
+  - pattern: "Treating authentication and trust services as add-ons rather than core brand narrative"
+    reasoning: Underutilizes the major competitive advantage in collectibles market
+tonal:
+  - pattern: "Overly enthusiastic, exclamation-heavy language"
+    reasoning: Sounds forced instead of letting discoveries speak for themselves
+  - pattern: Expert or authoritative tone in seller guidance
+    reasoning: "Contradicts the \"anyone can sell\" empowerment positioning"
+  - pattern: "Cautious, risk-averse language about marketplace dynamics"
+    reasoning: Undermines confidence in the platform
+  - pattern: Corporate announcements prioritizing company over community
+    reasoning: Misses that marketplace culture (sellers and buyers) is the real brand
+cultural:
+  - pattern: >-
+      Representation centered on mainstream, wealthy collectors while ignoring global and under-resourced sellers
+    reasoning: Wastes opportunity to celebrate diverse seller communities
+  - pattern: Marketing that emphasizes rare luxury items while downplaying the everyday item commerce
+    reasoning: "Misses that volume and diversity are eBay's true moat"
+  - pattern: Ignoring that seller power dynamics vary globally and by category
+    reasoning: "One-size-fits-all seller support misses real needs"
+  - pattern: Treating authentication primarily as fraud prevention rather than as collector community service
+    reasoning: Misses genuine value eBay provides to passionate enthusiast communities

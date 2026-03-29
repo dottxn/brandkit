@@ -1,0 +1,55 @@
+chunk_id: "revolut-anti-patterns"
+brand: revolut
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "revolut-soul"
+  - "revolut-visual-dna"
+token_count: 230
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Revolut. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Traditional banking's navy and gold formality"
+    reasoning: Contemporary geometric color system with gradient sophistication
+  - pattern: "Neo-bank's playful, rounded aesthetic"
+    reasoning: Geometric precision suggesting maturity and control
+  - pattern: Flat design minimalism avoiding depth
+    reasoning: 3D graphic elements creating physicality in digital context
+  - pattern: Single primary color throughout
+    reasoning: "Multiple accent colors (#7F84F6 blue, #00D4AA teal, #8B5CF6 purple) working in harmony"
+strategic:
+  - pattern: Disrupting incumbent banks directly
+    reasoning: Creating third way between traditional and disruptive
+  - pattern: Maximizing feature count
+    reasoning: Maximizing capability per interface interaction
+  - pattern: Targeting young consumers first
+    reasoning: Targeting adults who want financial control
+  - pattern: Building hype through brand personality
+    reasoning: Building trust through consistent capability delivery
+tonal:
+  - pattern: Startup irreverence toward regulation
+    reasoning: "Mature confidence about what's actually possible"
+  - pattern: "Selling products (cards, crypto trading)"
+    reasoning: Selling transformation of financial relationship
+  - pattern: "\"We're different\" shouting"
+    reasoning: Quiet confidence about being better
+  - pattern: Consumer experience alone
+    reasoning: Consumer experience embedded in corporate responsibility
+cultural:
+  - pattern: Money as scarce resource
+    reasoning: Money as tool for possibility
+  - pattern: Financial complexity as inevitable
+    reasoning: Financial complexity as solvable problem
+  - pattern: Banks as gatekeepers
+    reasoning: Banks as enablers
+  - pattern: Financial control as luxury
+    reasoning: Financial control as right

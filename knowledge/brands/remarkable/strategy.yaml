@@ -1,0 +1,29 @@
+chunk_id: "remarkable-strategy"
+brand: remarkable
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "remarkable-positioning"
+token_count: 59
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for reMarkable. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that the best ideas come from focused, distraction-free thinking and that the tactile experience of pen on paper is irreplaceable
+mission: "To replace paper notebooks and printed documents with the world's thinnest tablet"
+vision: To become the global standard for focused digital writing and reading
+values:
+  - Focus over distraction
+  - Simplicity in design
+  - Tactile authenticity
+  - Environmental responsibility
+  - Creative empowerment

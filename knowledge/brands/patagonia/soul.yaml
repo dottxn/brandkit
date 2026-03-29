@@ -1,0 +1,33 @@
+chunk_id: "patagonia-soul"
+brand: patagonia
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "patagonia-positioning"
+token_count: 314
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Patagonia. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A conversation at a campfire with someone who has walked the planet and come back angry about what they've seen. They're not trying to convince you; they're already convinced and they're testing whether you're serious.
+core_belief: >-
+  Authenticity and activism are inseparable — you cannot claim to care for the planet while hiding your impact. Business should be a weapon against the status quo, not a tool for it.
+creative_tension:
+  - >-
+    Patagonia is simultaneously the most successful outdoor apparel brand and the company that discourages you from buying its products ("Don't Buy This Jacket"). Profit and integrity exist in permanent tension.
+  - >-
+    The brand is politically radical in its environmental activism, yet its products are mainstream and accessible — this creates the contradiction that activism gets funded by consumerism.
+decision_filter: >-
+  When faced with a fork, Patagonia asks: Does this make us complicit in the system we're trying to dismantle? The decision filter is activist, not commercial. This often means forgoing profit.
+signature_move: >-
+  The Mount Fitz Roy silhouette logo rendered in black (#000000) against sky gradients. A single geographical form that contains both beauty and protest — the mountain stands as it has for millennia, untouched and untamed, a rebuke to industrial extraction.
+what_would_break_it: >-
+  A sleek, modern sans-serif like Montserrat or Geometric Sans. Patagonia's use of Belwe Bold (an editorial serif from 1912) signals timelessness and ruggedness, not contemporary optimization. A modern typeface would suggest the brand is fashionable first and activist second, destroying the core belief in durability over trend.

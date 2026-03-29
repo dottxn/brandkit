@@ -1,0 +1,36 @@
+chunk_id: "youtube-voice"
+brand: youtube
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "youtube-soul"
+token_count: 39
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for YouTube. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  YouTube is the world's largest video-sharing platform where users can upload, watch, and share videos across every imaginable topic. The platform democratizes content creation and distribution, enabli
+tone_traits:
+  - "inclusive"
+  - "empowering"
+  - "creative"
+  - "accessible"
+  - "platform-neutral"
+anti_traits:
+  - corporate
+  - controlling
+  - exclusive
+  - gatekeeping
+  - stiff
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a platform that believes everyone has a story worth sharing"

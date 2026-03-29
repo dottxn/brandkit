@@ -1,0 +1,50 @@
+chunk_id: "aesop-voice"
+brand: aesop
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "aesop-soul"
+token_count: 133
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: full
+summary: Voice and tone for Aesop. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Australian luxury cosmetics brand that produces skincare, haircare, and fragrance products using plant-based and laboratory-developed ingredients with a focus on quality and thoughtful design. Founded
+tone_traits:
+  - thoughtful
+  - considered
+  - literary
+  - understated
+  - assured
+  - minimal
+  - refined
+  - knowledgeable
+  - artistic
+anti_traits:
+  - "dumbed-down"
+  - generic
+  - shallow
+  - shouty
+  - overselling
+  - flashy
+  - "mass-market"
+  - "trend-driven"
+  - superficial
+example_phrases:
+  - >-
+    We advocate the use of our products as part of a balanced life that includes a healthy diet, sensible exercise, a moderate intake of red wine and a regular dose of stimulating literature
+  - >-
+    Aesop values all human endeavours undertaken with intellectual rigor vision and a nod to the whimsical
+  - Well considered design improves our lives
+  - Formulations of the finest quality
+guardrails:
+  never_say: []
+  always_sound: "thoughtful, considered, literary, understated, assured"

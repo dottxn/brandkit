@@ -1,0 +1,324 @@
+chunk_id: "hims-hers-visual-language"
+brand: "hims-hers"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "hims-hers-visual-dna"
+  - "hims-hers-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Hims & Hers. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "hims-clinical-warmth"
+      touchpoints:
+        - "forhims.com product pages and landing pages"
+        - "Hims app onboarding and treatment flows"
+        - "Hims Instagram (@haborhims) and paid social"
+        - "Hims product packaging (neutral tones, minimal type)"
+      description: >-
+        Warm neutrals — sand, cream, soft taupe — with product as the focal
+        point. Photography by Brayden Olson: soft directional light, skin
+        texture visible, men shot alone in domestic environments (bathroom,
+        bedroom). Products are unboxed, held, applied — never floating on
+        white. Typography in Sofia Pro at medium weight, sentence case. The
+        visual register destigmatises men's health by making it look like
+        skincare, not pharmaceuticals.
+      differs_from_default_by: >-
+        This is the Hims baseline. Warm, minimal, product-forward, deliberately
+        un-medical.
+
+    - name: "hers-editorial-softness"
+      touchpoints:
+        - "forhers.com product pages and landing pages"
+        - "Hers Instagram (@forhers)"
+        - "Hers product packaging (softer palette, lighter tones)"
+      description: >-
+        Softer, pinker, more editorial. Photography by Stine Nielsen (and
+        Stephanie Dinkel for product): women in natural light, more variety
+        in setting (outdoors, studios, mirrors). The palette shifts toward
+        blush, rose, soft pink alongside the shared neutrals. Composition
+        is more editorial — wider shots, more negative space, more atmosphere.
+        Still minimal but with a warmer, more lifestyle-inflected quality
+        than Hims.
+      differs_from_default_by: >-
+        Lighter palette, more editorial framing, different photographer
+        aesthetic. Hers feels like a wellness brand; Hims feels like a
+        grooming brand. The visual systems are siblings, not twins.
+
+    - name: "campaign-challenger"
+      touchpoints:
+        - "'Sick of the System' Super Bowl spot (February 2024, The Sweetshop, dir. Jakob Marky)"
+        - "'Rich People Live Longer' Super Bowl spot (February 2026, Ways & Means, narrator Common)"
+        - "OOH and digital campaign extensions"
+      description: >-
+        Bold, confrontational, politically charged. High-contrast type on
+        solid colour fields. The palette shifts to darker, more intense tones.
+        The photography (when present) is documentary and raw. Headlines are
+        short, provocative, and designed to create social conversation. This
+        mode is where Hims & Hers stops being warm and starts being angry
+        about healthcare access.
+      differs_from_default_by: >-
+        Maximum contrast with the product-page warmth. This mode exists to
+        get attention and position the brand as a healthcare disruptor, not
+        a DTC wellness brand.
+
+    - name: "corporate-investor"
+      touchpoints:
+        - "hims.com/investors"
+        - "Earnings presentations"
+        - "LinkedIn corporate content"
+      description: >-
+        Clean, data-forward, more conventional. Sofia Pro at conservative
+        sizes. Charts and growth metrics replace lifestyle photography. The
+        warm palette is present but muted. The telehealth category context
+        (GoodRx, Ro, Thirty Madison) requires some visual conformity for
+        institutional credibility.
+      differs_from_default_by: >-
+        The personality recedes. The brand voice is still present in
+        typography choices but the visual warmth and editorial quality
+        give way to corporate convention.
+
+  notes: >-
+    Hims and Hers operate as visually distinct sub-brands sharing a type
+    system and layout architecture. They are increasingly diverging —
+    Hers has adopted a more editorial, wellness-adjacent aesthetic while
+    Hims has moved toward a more clinical-minimal look. Each may warrant
+    separate visual-language chunks at depth.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "Brayden Olson — primary Hims photographer (verified via portfolio and credits)"
+    - "Stine Nielsen — Hers photographer (verified via Strand Studio credits)"
+    - "Stephanie Dinkel — product photographer (verified via forhers.com credits)"
+    - "Strand Studio — Hers creative direction"
+    - "Aaron Poe — VP Brand Design, Hims & Hers (oversees visual system)"
+  subject_and_framing: >-
+    Hims: close to medium shots of men in domestic settings. Skin is the
+    subject as much as the product — face close-ups showing texture, pores,
+    hair. Products are held, applied, or placed on bathroom surfaces.
+    Brayden Olson's work is characterised by tight framing and intimate
+    distance. Hers: slightly wider framing, more environmental context.
+    Stine Nielsen's approach is more editorial — mirrors, natural backdrops,
+    the subject aware of the camera but not performing. Product photography
+    (Stephanie Dinkel): products on tonal surfaces, soft shadows, grouped
+    by routine rather than isolated.
+  casting_observed: >-
+    Hims: men aged 25-45, diverse ethnicity, healthy-looking but not
+    model-perfect. Visible skin concerns (acne, thinning hair) appear in
+    some contexts — this is deliberate destigmatisation. No celebrities
+    in product photography. Hers: women aged 25-45, similar diversity,
+    natural makeup or no makeup. The casting is explicitly anti-aspirational
+    — these are people dealing with real health concerns, not selling a
+    lifestyle. Campaign casting (Super Bowl) is different — Common narrates
+    the 2026 spot, and campaign subjects are more stylised.
+  lighting_and_colour: >-
+    Hims: warm, soft directional light from camera-left in most of
+    Brayden Olson's work. Window light or soft studio that mimics window
+    light. Warm colour temperature — slightly amber, never blue or cool.
+    Differs from Ro (cooler, more clinical) and Roman (darker, more
+    masculine-coded). Hers: similar warmth but higher-key — more fill
+    light, fewer shadows. The palette skews pinker in grading.
+  post_production: >-
+    Skin texture preserved — visible pores, fine lines, natural skin
+    variation. This is a deliberate choice for a health brand. No heavy
+    retouching on faces or bodies. Colour grading is warm and consistent
+    across both sub-brands — the warmth is the unifying thread. Products
+    are colour-accurate (important for a health brand where customers need
+    to recognise their medication packaging).
+  visual_boundaries:
+    stated_exclusions: >-
+      The brand positions itself against traditional pharmaceutical
+      advertising — white coats, sterile environments, blue-and-white
+      palettes, anxiety-inducing 'ask your doctor' framing.
+    observed_exceptions: >-
+      The Super Bowl campaigns ('Sick of the System', 'Rich People Live
+      Longer') break the warm, minimal aesthetic entirely — they are dark,
+      confrontational, and use documentary/editorial photography that
+      contradicts the everyday product-page warmth.
+    genuine_absence: >-
+      Based on forhims.com, forhers.com, and social media review: no
+      white-coat medical imagery, no clinical/hospital settings, no
+      before-and-after comparison photography (common in the category),
+      no celebrity endorsement in product contexts.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "MOUTHWASH Studio — 'Access For All' motion system"
+    - "forhims.com and forhers.com UI elements"
+    - "Hims & Hers app interface"
+  uses_illustration: true
+  illustration_style: >-
+    Minimal line illustrations for medical/health concepts — body systems,
+    treatment areas, how-it-works diagrams. Clean, thin-line, single-colour
+    (usually the brand's warm neutrals). Not whimsical or characterful —
+    these are informational graphics that explain without intimidating.
+  illustration_role: >-
+    Explaining treatment processes and health conditions. Illustration
+    appears in the app (treatment journey, consultation flows), on product
+    pages (how-it-works sections), and in educational content. It replaces
+    clinical diagrams with something approachable — the visual equivalent
+    of the brand's plain-language health communication.
+  icon_style: >-
+    Thin-line, rounded, consistent weight. Functional and warm. The icon
+    set mirrors the illustration language — minimal, medical but not
+    clinical. Treatment category icons (hair, skin, sexual health, mental
+    health) are simple enough to work at small sizes in the app navigation.
+  graphic_devices: >-
+    Colour blocking in warm neutrals — sand, cream, and blush fields that
+    separate content sections. Rounded containers and pill-shaped buttons
+    that echo the physical product (medication capsules, skincare tubes).
+    The product packaging itself is a graphic device — the minimal,
+    colour-coded boxes are designed to look good on a bathroom shelf and
+    in a social media photo.
+  motion_language: >-
+    MOUTHWASH Studio's 'Access For All' motion system: smooth, organic
+    transitions, soft easing curves. Motion is calm and reassuring — nothing
+    snaps or jolts. Loading states and transitions in the app feel medical
+    in their precision but warm in their execution. Campaign motion (Super
+    Bowl spots) is much more aggressive — fast cuts, hard impacts, urgency.
+    The two motion registers reflect the two visual modes.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "medium"
+  primary_sources:
+    - "Sofia Pro (Olivier Gourvat / Mostardesign Type Foundry)"
+    - "forhims.com and forhers.com observed February 2026"
+    - "Aaron Poe VP Brand Design — oversees type system"
+  signature_move: >-
+    Sofia Pro at medium weight in sentence case. The rounded geometric
+    terminals of Sofia Pro are the brand's typographic signature — warm,
+    approachable, modern without being trendy. Every other telehealth brand
+    uses a grotesque or neo-grotesque (Ro uses Suisse, Roman uses a custom
+    grotesque). Sofia Pro's softness is the distinguishing decision — it
+    makes healthcare feel like skincare.
+  what_would_look_wrong: >-
+    Bold condensed type (too aggressive for a health brand). Serif type
+    (too traditional/pharmaceutical). All-uppercase headlines (too shouty
+    for the warm register). Blue as the primary colour (too medical). A
+    grotesque sans-serif body font would pull the brand toward the clinical
+    territory it is deliberately avoiding.
+  case_convention: >-
+    Sentence case throughout. Product names in sentence case. Headlines in
+    sentence case. This is consistent and deliberate — sentence case is
+    conversational and approachable. The brand name 'hims' and 'hers'
+    appears in lowercase in most contexts.
+  display_vs_body: >-
+    Sofia Pro serves both display and body roles at different weights.
+    Display: Sofia Pro Medium to Bold, generous size, warm neutrals or
+    white on tonal backgrounds. Body: Sofia Pro Regular, comfortable
+    reading size, dark on light. The single-family approach creates
+    consistency but limits typographic range — the brand relies on colour
+    and weight variation rather than typeface contrast.
+  type_and_image: >-
+    Type sits alongside or below photography, rarely overlaid. On product
+    pages, type is secondary to the product image — small, descriptive,
+    functional. In campaign mode, type becomes primary — bold statements
+    on colour fields with no photography. The brand has two typographic
+    gears: quiet and functional (product), or loud and political (campaign).
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "forhims.com and forhers.com observed February 2026"
+    - "Hims & Hers app interface"
+  signature_composition: >-
+    Product-page layouts are generous and editorial — large product images,
+    ample whitespace, information progressively disclosed as the user
+    scrolls. The treatment journey (quiz → consultation → prescription →
+    delivery) drives the layout architecture. Each step is a distinct
+    visual section with its own colour block. Compared to Ro (denser, more
+    clinical) or GoodRx (more cluttered, comparison-driven), Hims & Hers
+    pages feel like a lifestyle brand that happens to sell medication.
+  density_and_whitespace: >-
+    Generous whitespace on marketing pages. The app is denser by necessity
+    (treatment tracking, messaging, pharmacy information) but manages
+    density through colour-coded sections and progressive disclosure.
+    Campaign OOH is very sparse — one statement, one colour field, done.
+  format_preferences: >-
+    Vertical for mobile and social (the brand is mobile-first — most
+    conversions happen on phone). Square for Instagram product posts.
+    Wide landscape only for campaign OOH and web hero banners. The
+    vertical orientation is structurally important because the product
+    journey is a top-to-bottom scroll.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "early-adopter"
+  relationship_to_trends: >-
+    Hims & Hers helped define the DTC health/wellness visual language
+    (warm neutrals, destigmatised photography, lifestyle-coded packaging)
+    and continues to adopt trends that reinforce the approachable health
+    positioning. The brand moves quickly on visual trends that serve its
+    mission of making healthcare accessible.
+  examples:
+    - trend: "Warm, destigmatised health photography"
+      stance: "leader"
+      evidence: >-
+        The brand's photography approach (skin texture visible, domestic
+        settings, warm lighting, no white coats) has been widely copied
+        by Ro, Keeps, Nurx, and other DTC health brands since Hims
+        launched in 2017. Brayden Olson's photographic style for Hims
+        is now the category default.
+      reasoning: >-
+        Hims defined this visual convention. The warm, minimal, un-medical
+        health photography is now so widespread that newer entrants have
+        to differentiate against it.
+    - trend: "Brand activism in healthcare advertising"
+      stance: "leader"
+      evidence: >-
+        'Sick of the System' (Super Bowl 2024, The Sweetshop, dir. Jakob
+        Marky) and 'Rich People Live Longer' (Super Bowl 2026, Ways & Means,
+        narrator Common) are among the most confrontational healthcare ads
+        on mainstream broadcast. The brand used Super Bowl slots to attack
+        the healthcare system rather than sell products.
+      reasoning: >-
+        Few health brands use paid media for systemic critique. Hims & Hers
+        is leading this approach in the category, though it creates tension
+        with the warm, non-confrontational product experience.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    Sofia Pro typography. The warm neutral palette. The destigmatised,
+    un-medical visual approach. No collaboration makes the brand look
+    clinical, pharmaceutical, or inaccessible.
+  what_bends: >-
+    Photography style can shift for campaign or editorial partnerships.
+    The supporting colour palette can expand. The packaging design system
+    can accommodate co-branded products with adjusted palette.
+  notable_examples: >-
+    Hims & Hers x celebrity partnerships (e.g. campaign spokespeople)
+    maintain the brand's visual system — the celebrity appears within the
+    brand's photographic style rather than bringing their own visual
+    identity. The partnership with Common for the 2026 Super Bowl kept
+    Common's voice but used the brand's campaign visual system. Product
+    collaborations have been limited — the brand controls its visual
+    identity tightly because trust is essential in healthcare.

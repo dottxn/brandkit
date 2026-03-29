@@ -1,0 +1,61 @@
+chunk_id: "airbnb-visual-dna"
+brand: airbnb
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "airbnb-positioning"
+token_count: 94
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Airbnb. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FF385C"
+    name: ""
+    role: ""
+  - hex: "#FF5A5F"
+    name: ""
+    role: ""
+  - hex: "#222222"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Airbnb Cereal
+    role: ""
+    style: ""
+  - name: Circular
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: focused
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: candid
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: dimensional
+  shape_language: rounded
+  contrast_level: medium
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="15-11,15-12">Immersive photography with bold colors and cleaner listing information, featuring photo mosaics for discovery sections designed to inspire users by showing potential travel destinations</cite>

@@ -1,0 +1,36 @@
+chunk_id: "openai-competitive"
+brand: openai
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "openai-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for OpenAI. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - microsoft
+  - apple
+  - vercel
+industry_norms_it_breaks: "The Blossom logo (three intertwined triangles) suggesting connection and emergence rather than precision | The decision to use motion and organic flow in an AI context—counterintuitive because AI is defined by computation, yet this choice fundamentally positioned OpenAI as human-facing rather than technica | Does it make AI feel like a collaborator or a tool? OpenAI defaults to collaborator"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Clean, neutral, precise identity, hexagonal logo"
+  - cluster: "soft-minimal"
+    role: "secondary"
+    where: "ChatGPT product, gentle conversational UI"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "API developer documentation, platform tools"
+strategic_cluster: "creative-authority"
+category: technology

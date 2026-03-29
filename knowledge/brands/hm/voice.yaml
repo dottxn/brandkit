@@ -1,0 +1,49 @@
+chunk_id: "hm-voice"
+brand: hm
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "hm-soul"
+token_count: 97
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Voice and tone for H&M. How the brand sounds and what it avoids."
+
+# ── Data
+personality: >-
+  Swedish multinational fast fashion retailer offering on-trend clothing and accessories at accessible prices with a growing focus on sustainable fashion practices.
+tone_traits:
+  - uplifting
+  - energetic
+  - "positive outlook on fashion's future"
+  - approachable
+  - inclusive
+  - democratic
+  - bold
+  - "fashion-forward"
+  - "trend-setting"
+anti_traits:
+  - cynical
+  - dismissive
+  - pessimistic
+  - elitist
+  - exclusive
+  - intimidating
+  - hesitant
+  - follower
+  - uncertain
+example_phrases:
+  - Fashion and quality at the best price
+  - >-
+    We're not rebranding, but re-igniting, re-energising, and re-boosting what we've always stood for: fashion
+  - Lead the change towards circular and renewable fashion
+  - Fashion for everyone
+guardrails:
+  never_say: []
+  always_sound: "uplifting, energetic, positive outlook on fashion's future, approachable, inclusive"

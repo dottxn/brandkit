@@ -1,0 +1,70 @@
+# ──────────────────────────────────────────────
+# Airbnb — Creative References
+# ──────────────────────────────────────────────
+
+channels:
+  website: "https://www.airbnb.com"
+  instagram: "https://www.instagram.com/airbnb/"
+  tiktok: "https://www.tiktok.com/@airbnb"
+  youtube: "https://www.youtube.com/@Airbnb"
+  x: "https://x.com/Airbnb"
+  app_store: "https://apps.apple.com/us/app/airbnb/id401626263"
+
+studios:
+  - name: "DesignStudio (London)"
+    type: branding
+    url: "https://www.further.group/"
+    relationship: "Created the iconic Bélo symbol and 2014 brand identity redesign."
+
+  - name: "Dalton Maag"
+    type: type-foundry
+    url: "https://www.daltonmaag.com/"
+    relationship: "Designed Airbnb Cereal custom typeface (May 2018, 6 weights)."
+
+  - name: "STUDIOS Architecture"
+    type: architecture
+    url: "https://www.studiosarchitecture.com/"
+    relationship: "Architecture and interior design of Airbnb office and corporate spaces."
+
+people:
+  - name: "Brian Chesky"
+    role: "CEO and Design Leader"
+    context: "RISD graduate; deeply involved in brand's visual direction and design culture."
+
+  - name: "Hiroki Asai"
+    role: "Chief Experience Officer"
+    context: "Former Apple VP Marketing; oversees experience design at Airbnb."
+
+  - name: "Karri Saarinen"
+    role: "Design Systems Lead"
+    context: "Developed the 3D isometric category icons system (launched May 2022)."
+
+  - name: "Alex Schleifer"
+    role: "VP Design"
+    context: "Built foundational design systems; now at HUMAN COMPUTER."
+
+publications:
+  - title: "airbnb.design case studies"
+    author: "Airbnb Design Team"
+    relevance: "Official design system documentation and philosophy."
+
+visuals:
+  - url: "https://airbnb.design/"
+    label: "Official design system — airbnb.design"
+    section: visual-world
+
+  - url: "https://www.dezeen.com/"
+    label: "Rebrand coverage — Dezeen"
+    section: visual-world
+
+  - url: "https://www.creativereview.co.uk/"
+    label: "Identity case study — Creative Review"
+    section: visual-world
+
+  - url: "https://www.daltonmaag.com/"
+    label: "Airbnb Cereal typeface — Dalton Maag"
+    section: visual-language
+
+  - url: "https://www.itsnicethat.com/"
+    label: "Design and brand journalism — It's Nice That"
+    section: visual-language

@@ -1,0 +1,35 @@
+chunk_id: "redfin-competitive"
+brand: redfin
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "redfin-positioning"
+token_count: 2
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Redfin. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - zillow
+  - opendoor
+industry_norms_it_breaks: "Signature red (#D32F2F) functioning as trust anchor in industry built on agent commissions and hidden costs | The architectural decision to center the brand around transparency-through-information rather than around agent relationships or lifestyle dreaming | Would a first-time homebuyer understand this immediately, or did we assume expertise?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Systematic, structured, clean property platform"
+  - cluster: "data-native"
+    role: "secondary"
+    where: "Search maps, property data, market statistics"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Home-buying emotional content, agent community"
+strategic_cluster: "trusted-guide"
+category: "real-estate"

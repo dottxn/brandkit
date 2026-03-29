@@ -1,0 +1,36 @@
+chunk_id: "nothing-competitive"
+brand: nothing
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "nothing-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Nothing. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - apple
+  - bose
+  - remarkable
+industry_norms_it_breaks: "Glyph Interface—the LED notification system transformed into narrative design language | The architectural decision to make transparency a mechanical requirement (thermal management) rather than a surface treatment, forcing the entire product design to be built around visible internals | Does it reveal or conceal? Nothing ships anything that hides its methodology"
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Monochromatic, high contrast, anti-glossy ideology"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Dot-matrix precision, systematic product design"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Nothing OS interface, widget system"
+strategic_cluster: "rebel-provocateur"
+category: "consumer-hardware"

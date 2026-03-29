@@ -1,0 +1,37 @@
+chunk_id: "hermès-competitive"
+brand: hermès
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "hermès-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Hermès. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - chanel
+  - "louis-vuitton"
+  - rolex
+  - prada
+industry_norms_it_breaks: "The horse-drawn carriage logo created by Robert Ledoux in the 1954, inspired by Alfred de Dreux's 19th-century painting, remains unmodified and unanimated—a historical artifact that refuses modernizat | Hermès' vertical integration combined with family control and multi-generational thinking. The brand owns its leather tanneries, its silk mills, its distribution. This structural barrier means Hermès  | Would an artisan in the Hermès workshops of 1837 recognize this method? Would this object justify a customer keeping it for 50 years? Does this choice serve longevity or quarterly earnings? The filter"
+visual_cluster: "editorial-luxury"
+visual_fingerprint:
+  - cluster: "editorial-luxury"
+    role: "dominant"
+    where: "Maison editorial, warm photography, refined composition"
+  - cluster: "heritage-craft"
+    role: "secondary"
+    where: "Product craft, artisanal hand-finishing, saddlery"
+  - cluster: "expressive-maximalist"
+    role: "accent"
+    where: "Illustration narrative, playful scarves, whimsy"
+strategic_cluster: "heritage-guardian"
+category: luxury

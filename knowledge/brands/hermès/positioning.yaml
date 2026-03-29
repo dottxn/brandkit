@@ -1,0 +1,31 @@
+chunk_id: "hermès-positioning"
+brand: hermès
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Hermès. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Hermès
+website: "https://www.hermes.com"
+founded: 1837
+category: luxury
+sub_category: "leather-goods-accessories"
+price_tier: luxury
+primary_archetype: The Creator
+secondary_archetype: The Ruler
+positioning_scales:
+  utility_theater: 8
+  access_exclusivity: 10
+  heritage_innovation: 2
+key_differentiators: []

@@ -1,0 +1,72 @@
+chunk_id: "hulu-anti-patterns"
+brand: hulu
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "hulu-soul"
+  - "hulu-visual-dna"
+token_count: 808
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Hulu. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Dark, serious color palettes common to streaming competitors"
+    reasoning: >-
+      Black and dark blue signal premium seriousness; they're used by Netflix, HBO, Disney+. Hulu green signals something different: that entertainment should feel fresh, alive, and joyful rather than serious and corporate.
+  - pattern: Serif or highly geometric typefaces suggesting broadcast authority
+    reasoning: >-
+      These would position Hulu as traditional television with streaming delivery. Graphik's warmth suggests that Hulu is designed for humans having fun, not for broadcasters maximizing engagement metrics.
+  - pattern: "Grid-based, high-density layouts (similar to Netflix, Disney+)"
+    reasoning: >-
+      These maximize visible content and optimize for browsing efficiency. Hulu's asymmetrical composition with generous whitespace and Vessel framing suggests curation and taste rather than algorithmic abundance.
+  - pattern: "Minimalist, corporate design language from parent company"
+    reasoning: >-
+      Disney's corporate aesthetic would destroy Hulu's personality. The brand must maintain visual distinctiveness from Disney+, or it becomes redundant infrastructure rather than vibrant consumer brand.
+strategic:
+  - pattern: Competing with Netflix on library size or content exclusivity
+    reasoning: >-
+      Hulu's moat is fresh, current content (live TV + on-demand) and discovery experience, not content library breadth. Competing on quantity of shows would be unwinnable against Netflix and would distract from core strategic advantage.
+  - pattern: Positioning toward premium audiences instead of mainstream
+    reasoning: >-
+      Hulu's value is in being the accessible streaming option with current network content. Attempting to compete with HBO Max on prestige or Disney+ on family content would abandon the core positioning.
+  - pattern: Losing personality in pursuit of corporate consistency with Disney
+    reasoning: >-
+      The Disney integration creates pressure to homogenize design and voice. Maintaining Hulu personality within Disney infrastructure will be the core challenge. Succumbing to corporate standardization would destroy the brand.
+  - pattern: Implementing algorithmic recommendations without transparency about curation
+    reasoning: >-
+      If Hulu's recommendations feel purely algorithmic, the brand positioning ("we have taste, we curate for you") collapses. The algorithms should feel like they're helping humans make discoveries, not replacing human judgment.
+tonal:
+  - pattern: Corporate speak about entertainment or overly serious messaging
+    reasoning: >-
+      The tone should be waffle-free and playful. Entertainment marketing that takes itself too seriously sounds tone-deaf. Hulu should sound like a friend who loves watching TV, not a network executive selling advertising.
+  - pattern: "Trying too hard to be trendy or youth-focused through slang or references"
+    reasoning: >-
+      Hulu's voice should sound current without being trendy. References date quickly. The tone should age well and feel relevant in 5 years, not stuck in current moment.
+  - pattern: "Overly earnest positioning about \"quality television\""
+    reasoning: >-
+      Hulu includes reality TV, dramas, comedies, documentaries, sports, news—a diverse library. Claiming only "prestige content" would contradict the actual offering. The tone should celebrate the breadth without apology.
+  - pattern: Defensive positioning against Netflix or other competitors
+    reasoning: >-
+      Hulu should be confident in what it offers (current network content, live TV, original programming) without comparing itself to Netflix. Defensiveness signals weakness. Confidence in distinct positioning is stronger.
+cultural:
+  - pattern: >-
+      Response to cable TV decline requires repositioning from "cable replacement" to "entertainment destination"
+    reasoning: >-
+      Hulu started as "place to watch current TV shows online" and evolved to "place where all kinds of entertainment lives." The positioning must evolve as cultural consumption habits change.
+  - pattern: Streaming fragmentation creates demand for curation rather than more abundance
+    reasoning: >-
+      As consumers face infinite choice across multiple platforms, the value shifts from content library to curation. Hulu's positioning around discovery and curation becomes increasingly valuable in fragmented streaming landscape.
+  - pattern: "Disney's integration requires maintaining Hulu's distinct personality within larger ecosystem"
+    reasoning: >-
+      The strategic challenge is preserving Hulu brand while integrating infrastructure. This requires commitment to distinct visual language and voice that can't be subordinated to parent company aesthetic.
+  - pattern: "Live TV streaming has become viable; Hulu's unique position is timely"
+    reasoning: >-
+      As cord-cutting accelerates, Hulu's hybrid approach (live + on-demand) addresses the real friction point: people want current events, live sports, and real-time entertainment alongside on-demand content. This positioning should become increasingly valuable.

@@ -1,0 +1,72 @@
+# ──────────────────────────────────────────────
+# Prada — Creative References
+# ──────────────────────────────────────────────
+
+channels:
+  website: "https://www.prada.com"
+  instagram: "https://www.instagram.com/prada/"
+  tiktok: "https://www.tiktok.com/@prada"
+  youtube: "https://www.youtube.com/@Prada"
+  x: "https://x.com/Prada"
+  app_store: ""
+
+studios:
+  - name: "2x4"
+    type: "design-studio"
+    url: "https://2x4.org/"
+    project_url: "https://2x4.org/work/fondazione-prada-2/"
+    relationship: "Develops visual identity for Fondazione Prada exhibitions and cultural communications; art-institutional typography and minimal aesthetic"
+
+  - name: "OMA"
+    type: "architecture"
+    url: "https://www.oma.com/"
+    relationship: "Designed Fondazione Prada Milan (opened 2015) and Prada Epicenter stores; three-dimensional graphic statements in architecture"
+
+people:
+  - name: "Miuccia Prada"
+    role: "Co-Creative Director"
+    url: ""
+    context: "Co-creative director (since April 2020) alongside Raf Simons; sets fashion direction that visual language serves"
+
+  - name: "Raf Simons"
+    role: "Co-Creative Director"
+    url: ""
+    context: "Co-creative director (since April 2020) alongside Miuccia Prada; influences casting and conceptual direction"
+
+  - name: "Rem Koolhaas"
+    role: "Architect"
+    url: "https://www.oma.com/about"
+    context: "Founder of OMA, designed Fondazione Prada Milan and Prada Epicenter stores"
+
+  - name: "Ferdinando Verderi"
+    role: "Creative Director of Campaigns"
+    url: ""
+    context: "Directs seasonal campaign visual direction (2023-2025)"
+
+  - name: "Willy Vanderperre"
+    role: "Campaign Photographer"
+    url: ""
+    context: "SS24 and FW24 campaign photographer bringing controlled studio precision"
+
+  - name: "Steven Meisel"
+    role: "Campaign Photographer"
+    url: ""
+    context: "SS25 campaign photographer, signature controlled studio light with precise shadows"
+
+publications:
+  - title: "Prada Menswear Spring Summer 2024: A Riot of Colours and Thoughts"
+    author: "Vogue"
+    relevance: "Documents Miuccia and Raf's collaborative creative direction"
+
+visuals:
+  - url: "https://www.prada.com/"
+    label: "Prada homepage with full-bleed campaign photography and minimal navigation"
+    section: "visual-language"
+
+  - url: "https://www.fondazioneprada.org/"
+    label: "Fondazione Prada website showcasing art-institutional visual identity and 2x4 design"
+    section: "visual-world"
+
+  - url: "https://www.oma.com/projects/fondazione-prada"
+    label: "Fondazione Prada architectural documentation by OMA/Rem Koolhaas"
+    section: "visual-world"

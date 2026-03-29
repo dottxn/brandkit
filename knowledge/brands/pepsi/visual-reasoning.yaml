@@ -1,0 +1,28 @@
+chunk_id: "pepsi-visual-reasoning"
+brand: pepsi
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "pepsi-visual-dna"
+  - "pepsi-soul"
+token_count: 226
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for PepsiCo. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Custom PepsiCo Sans in lowercase breaks the convention that corporate typefaces should be uppercase and formal—this lowercase choice simultaneously suggests personability and demonstrates confidence (only brands secure enough in their dominance can break convention). The humanist characteristics prevent the lowercase from feeling weak or cute; it feels intentional and powerful.
+colour_logic: >-
+  Earthier, muted tones (tan #D4A574, sky blue #87CEEB, sage green #98D982, forest green #228B22) represent movement away from artificial brightness toward natural palette. This shift acknowledges consumer consciousness about authenticity while maintaining the vibrancy that Pepsi brand represents. The white (#FFFFFF) provides the crispness needed for iconic clarity.
+composition_philosophy: >-
+  Circular composition in the logo demonstrates unity—individual symbolic elements arranged around a central point suggests harmony and balance. In applications, composition tends toward dynamic asymmetry (movement and energy) balanced by clear typography hierarchy. The smile motif in composition everywhere (implied in layout, imagery selection) reinforces the core belief continuously.
+what_would_break_it: >-
+  Adopting the minimalist health aesthetic of wellness competitors or shifting to lowercase across all communications would dilute brand authority and destroy the balance between approachability and ubiquity.

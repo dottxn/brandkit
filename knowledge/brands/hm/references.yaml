@@ -1,0 +1,75 @@
+# ──────────────────────────────────────────────
+# H&M — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Forsman & Bodenfors"
+    type: creative-direction
+    url: "https://www.forsman.com/"
+    relationship: "Swedish creative agency; lead strategic and creative direction for H&M campaigns"
+
+people:
+  - name: "Toshi Omagari"
+    role: "Type Designer"
+    url: "https://www.monotype.com/designer/toshi-omagari"
+    context: "Designed HM Amperserif typeface for H&M (2013)"
+
+  - name: "Monotype"
+    role: "Foundry"
+    url: "https://www.monotype.com/"
+    context: "Developed HM Ampersand and HM Amperserif custom typefaces (2007-2015)"
+
+  - name: "The Studio"
+    role: "Design Consultancy"
+    url: "https://www.thestudio.se/"
+    context: "Collaborated with Monotype on HM Amperserif typeface (2013)"
+
+  - name: "Sam Rock"
+    role: "Photographer"
+    url: "https://samrockphoto.com/"
+    context: "Photographer for SS25 'Notes On Being' campaign"
+
+  - name: "Jörgen Andersson"
+    role: "Chief Creative Officer"
+    url: "https://www.linkedin.com/in/jörgenanderssoncc/"
+    context: "CCO at H&M since December 2022; oversees visual direction"
+
+  - name: "Ann-Sofie Johansson"
+    role: "Creative Advisor"
+    url: "https://www.linkedin.com/in/ann-sofie-johansson/"
+    context: "Creative Advisor since 2015; career spanning from 1987"
+
+  - name: "Oliver Hadlee Pearch"
+    role: "Photographer"
+    url: "https://www.oliverhadleepearch.com/"
+    context: "Photographer for COS sub-brand; minimal architectural style"
+
+publications:
+  - title: "H&M: Fashion Democracy and Accessible Aspiration"
+    author: "Brand Strategy Documentation"
+    relevance: "Documents H&M's positioning between Zara's editorial and Primark's accessibility"
+
+  - title: "The H&M Group: Multi-Brand Portfolio Strategy"
+    author: "Corporate Communications"
+    relevance: "Overview of distinct visual identities within H&M Group (COS, ARKET, & Other Stories, Weekday, Monki)"
+
+visuals:
+  - url: "https://www.hm.com/"
+    label: "H&M Brand Website — Live Visual System"
+    section: visual-language
+
+  - url: "https://www.cosstores.com/"
+    label: "COS Sub-Brand — Premium Minimalist Visual Identity"
+    section: visual-language
+
+  - url: "https://www.arket.com/"
+    label: "ARKET Sub-Brand — Scandinavian Visual Identity"
+    section: visual-language
+
+  - url: "https://www.stories.com/"
+    label: "& Other Stories Sub-Brand — Eclectic Visual Identity"
+    section: visual-language
+
+  - url: "https://www.weekday.com/"
+    label: "Weekday Sub-Brand — Youth-Oriented Visual Identity"
+    section: visual-language

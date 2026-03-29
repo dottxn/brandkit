@@ -1,0 +1,28 @@
+chunk_id: "reddit-visual-reasoning"
+brand: reddit
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "reddit-visual-dna"
+  - "reddit-soul"
+token_count: 223
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Reddit. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Reddit Sans (custom humanist sans-serif) pairs with Reddit Display (more distinctive, personality-forward) creating two-tier system where product interfaces feel clear while brand identity feels distinctive. The custom typefaces were essential because existing typefaces couldn't capture Reddit's specific personality—not quite tech startup, not quite corporate, genuinely weird.
+colour_logic: >-
+  Signature orangered (#FF4500) is distinctive because it's not borrowed from design convention—it's a genuine oddity that somehow works. The black (#000000) and white (#FFFFFF) provide neutral foundation while the orangered does all the personality work. The minimal palette paradoxically creates maximum distinctiveness because every major tech company has adopted blue/purple/pink combinations.
+composition_philosophy: >-
+  Conversation bubbles as compositional anchor everywhere—they're not decorative, they're the actual functional element that Reddit's interface is built around. The composition naturally creates movement and depth because comments nest into bubbles, which nest into further comments. The visual system is organic, not imposed; it emerges from the actual mechanic of conversation.
+what_would_break_it: >-
+  Adopting algorithmic personalization that surfaces content Reddit's algorithm chooses rather than content communities choose would destroy Reddit's core value proposition and authentic conversation culture.

@@ -1,0 +1,28 @@
+chunk_id: "stripe-visual-reasoning"
+brand: stripe
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "stripe-visual-dna"
+  - "stripe-soul"
+token_count: 266
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Stripe. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Inter was chosen because it's become the standard sans-serif for technical interfaces—not because it's beautiful, but because it has achieved neutral legibility consensus. System fonts as fallbacks reinforce that design serves technical consistency, not visual distinctiveness. The typography hierarchy is built on scale alone, not on decorative weight variations or stylistic flourishes.
+colour_logic: >-
+  The palette operates on information architecture principles, not aesthetic harmony. #635BFF is used only for interactive elements (links, buttons, focus states) to create visual affordance. Supporting colors (#F6F9FC backgrounds, #E3E8EE borders, #8898AA text) are chosen for legibility ratios and reduce cognitive load. This is the palette of safety-critical systems: every color communicates function.
+composition_philosophy: >-
+  Documentation and interfaces use grid-based, left-aligned layouts where information hierarchy is created through scale and positioning, never through color or decorative elements. The philosophy treats dense information as acceptable (because developers can handle it) while ensuring that density is organized, not cluttered. Negative space serves clarity, not aesthetic beauty.
+what_would_break_it: >-
+  Introducing playful illustrations, color gradients, or emotional design language would immediately undermine the brand's technical credibility. Stripe succeeds because the interface communicates "this is built by experts who focus on the hard problems, not on making the interface feel fun." The moment it feels designed for emotional appeal, the trust fractures.

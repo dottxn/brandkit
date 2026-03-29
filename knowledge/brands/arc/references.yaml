@@ -1,0 +1,49 @@
+# ──────────────────────────────────────────────
+# Arc — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "The Browser Company"
+    type: digital-design
+    url: "https://arc.net/"
+    relationship: "In-house design and engineering team defining Arc's visual language and browser interface."
+
+people:
+  - name: "Dustin Senos"
+    role: "Head of Design"
+    context: "Established Arc's warm, design-forward visual identity and brand philosophy."
+
+  - name: "Karla Cole"
+    role: "Brand Lead"
+    context: "Former Facebook/Instagram/NYT; developed Arc's brand positioning and visual guidelines."
+
+  - name: "Josh Miller"
+    role: "CEO and Founder"
+    context: "Appears regularly in product videos; established brand's human-centered, transparent communication style."
+
+  - name: "Marco Triverio"
+    role: "Lead Designer"
+    context: "Former Apple Safari designer (joined January 2026); brings Apple-level design craft to Arc."
+
+  - name: "Nate Parrott"
+    role: "Founding Designer"
+    url: "https://nateparrott.com/"
+    context: "Original browser interface designer; established Arc's distinctive sidebar-first layout paradigm."
+
+publications:
+  - title: "Arc browser design philosophy"
+    author: "The Browser Company Design Team"
+    relevance: "Documentation of sidebar-first browser design and user experience principles."
+
+visuals:
+  - url: "https://arc.net/"
+    label: "Official browser website and design system — arc.net"
+    section: visual-world
+
+  - url: "https://www.youtube.com/c/thebrowsercompany"
+    label: "Product update videos and design documentation — YouTube"
+    section: visual-language
+
+  - url: "https://nateparrott.com/"
+    label: "Design philosophy — Nate Parrott"
+    section: visual-language

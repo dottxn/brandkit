@@ -1,0 +1,32 @@
+chunk_id: "square-insights"
+brand: square
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "square-soul"
+  - "square-positioning"
+token_count: 214
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Square. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Square's genius was understanding payment as a device problem first, not a software problem—the design philosophy flows from Jack Dorsey's obsession with designing the product you could recognize in a dark room.
+  - >-
+    Monochromatic color palettes (#000000, #6C757D, #FFFFFF) actually convey more trust in financial services than color diversity—simplicity reads as confidence in this category.
+  - >-
+    The rounded corners on the square shape were a deliberate humanization choice—sharp corners would feel corporate and cold for a tool meant to give economic power to individuals.
+  - >-
+    Square's visual evolution from playful to serious coincided with the shift from merchant payment device to infrastructure platform; the design follows business reality.
+  - >-
+    Custom typefaces in financial services usually betray insecurity; Square's confident, geometric sans-serif says "we know exactly what we're doing."
+what_nobody_copies: >-
+  The decision to make physical form language central to digital design. The concentric squares literally represent the card reader; competitors just abstract payment into flow diagrams.

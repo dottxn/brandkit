@@ -1,0 +1,390 @@
+chunk_id: "microsoft-visual-language"
+brand: "microsoft"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "microsoft-visual-dna"
+  - "microsoft-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Microsoft. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-corporate"
+      touchpoints:
+        - "microsoft.com homepage and corporate pages"
+        - "Microsoft brand campaigns and advertising"
+        - "Microsoft social media channels"
+        - "Corporate communications and investor materials"
+        - "Microsoft Events (Build, Ignite, Inspire)"
+      description: >-
+        Four-square logo dominant — Orange (#F25022), Green (#7FBA00), Blue
+        (#00A4EF), Yellow (#FFB900) arranged in a 2×2 grid that has
+        represented Microsoft since the 2012 rebrand. The corporate visual
+        language uses Segoe UI Variable (Steve Matteson, 2021 — updated
+        for Windows 11 as a variable font with optical sizing) and the
+        Fluent 2 Design System (May 2023). Michael Gough (CDO, Applications
+        Group) and Jon Friedman (GM Design) oversee the visual system.
+        Grey (#737373) serves as a neutral workhorse. The October 2025
+        M365 icon refresh introduced fluid, curved shapes with vibrant
+        gradients — replacing the more geometric 2019 icon generation.
+        Compared to Google (multicolour but playful, Material You) or
+        Apple (monochrome, hardware-coded), Microsoft's visual language
+        is the most enterprise-coded among the three — the four-square
+        palette signals productivity rather than consumer delight.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this four-square,
+        Segoe-set, Fluent-governed register.
+
+    - name: "windows-fluent"
+      touchpoints:
+        - "Windows 11 operating system interface"
+        - "Windows marketing and campaigns"
+        - "Microsoft Store"
+        - "Windows developer documentation"
+      description: >-
+        Fluent 2 material system dominant — Mica (wallpaper-tinted opaque
+        surfaces for base layers) and Acrylic (frosted-glass translucency
+        for transient surfaces like menus and flyouts) define the Windows
+        11 visual language. The September 2024 update introduced 3D Fluent
+        illustration style across system assets. Rounded corners (8px
+        radius) replaced the sharp edges of Windows 10. The colour palette
+        is softer and more pastel than corporate Microsoft — designed for
+        all-day screen use. Segoe UI Variable provides optical sizing that
+        adapts from 8px captions to 68px display headers. Compared to
+        macOS (frosted glass but warmer, more opinionated) or ChromeOS
+        (Material You, simpler), Windows Fluent is the most layered and
+        material-aware.
+      differs_from_default_by: >-
+        Material-system-driven rather than logo-driven. Mica and Acrylic
+        surfaces dominate. The four-square colours appear as accent choices
+        rather than brand signals. The visual register is ambient and
+        functional — the OS should disappear behind user content.
+
+    - name: "m365-productivity"
+      touchpoints:
+        - "Microsoft 365 apps (Word, Excel, PowerPoint, Outlook, Teams)"
+        - "M365 marketing and subscription pages"
+        - "Microsoft Teams interface and branding"
+        - "OneDrive and SharePoint"
+      description: >-
+        Product-colour-coded. Each M365 app owns a distinct colour: Word
+        blue (#0078D4), Excel green (#107C10), PowerPoint red (#C4461C),
+        Teams purple (#6264A7), Outlook blue (#0078D4, slightly different
+        from Word), OneNote purple (#7719AA). The October 2025 icon refresh
+        gave these icons fluid, curved forms with vibrant gradients —
+        moving from the flat-geometric 2019 generation to a more organic,
+        AI-era aesthetic. The product interfaces use Aptos (Steve Matteson,
+        2023) as the default document font, replacing Calibri after 16
+        years. Segoe UI Variable remains the UI chrome typeface. Copilot
+        integration introduces new visual elements — the Copilot icon
+        (multicolour gradient swirl) appears across all M365 apps.
+      differs_from_default_by: >-
+        Product colour replaces the four-square as the primary identifier.
+        Each app has its own colour territory. The October 2025 icon
+        generation is more organic and gradient-rich than the corporate
+        baseline. Copilot visual elements add a new AI-coded layer.
+
+    - name: "xbox-gaming"
+      touchpoints:
+        - "Xbox console interface"
+        - "Xbox Game Pass marketing"
+        - "Xbox social media and community"
+        - "Xbox hardware and packaging"
+      description: >-
+        Xbox Green (#107C10) dominant with darker, more entertainment-
+        coded palettes. The Xbox sphere logo and the green-black colour
+        scheme create a visual identity that operates largely independently
+        of corporate Microsoft. The gaming visual language is bolder,
+        more dynamic, and more youth-coded — larger type, more dramatic
+        photography, more motion. Game Pass marketing uses vibrant,
+        collage-style compositions featuring game characters. Compared to
+        PlayStation (blue, more cinematic, Japanese-design-influenced) or
+        Nintendo (red, playful, family-coded), Xbox's visual language is
+        the most aggressive and community-coded.
+      differs_from_default_by: >-
+        Xbox Green replaces the four-square. Darker, more entertainment-
+        coded. The visual register is bolder and more dynamic than
+        corporate Microsoft. The Xbox brand operates as a semi-autonomous
+        visual identity within the Microsoft portfolio.
+
+  notes: >-
+    Microsoft's visual system spans consumer, enterprise, gaming, and
+    developer contexts — arguably the broadest visual range of any tech
+    company. The Fluent 2 Design System (May 2023) provides coherence,
+    but sub-brands (Xbox, LinkedIn, GitHub) maintain significant visual
+    autonomy. The AI era (Copilot) is introducing new visual elements
+    across the entire portfolio.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "microsoft.com (observed February 2026)"
+    - "Microsoft brand campaigns"
+    - "Surface product photography"
+    - "Microsoft Advertising creative guidelines"
+  subject_and_framing: >-
+    Two primary modes: people-using-technology and product hardware.
+    Lifestyle photography shows diverse people in work, education, and
+    creative contexts — always with Microsoft products visible but not
+    dominant. Surface product photography follows Apple's lead in clean,
+    studio-lit hardware presentation but with warmer, more contextual
+    staging. Microsoft Events (Build, Ignite) use standard tech-conference
+    photography — stage shots, audience reactions, demo close-ups.
+    Compared to Apple (more controlled, more aspirational, more minimal)
+    or Google (more candid, more colourful, more everyday), Microsoft's
+    photography is the most workplace-contextualised.
+  casting_observed: >-
+    Deliberately diverse — Microsoft's photography casting is among the
+    most inclusive in tech, reflecting stated corporate values. Age range
+    spans students to executives. Accessibility representation is notably
+    present — people with disabilities using adaptive controllers, screen
+    readers, and assistive technology. Global representation across
+    ethnicities and contexts.
+  lighting_and_colour: >-
+    Warm, natural-feeling, often daylight or daylight-simulated. Interiors
+    are bright and contemporary — open offices, creative studios, schools.
+    The photography colour palette tends warm-neutral, allowing the four-
+    square brand colours to provide accent when needed. Surface product
+    photography uses clean studio lighting with subtle environmental
+    context.
+  post_production: >-
+    Clean, moderate processing. Skin tones are natural. Environments read
+    as contemporary and aspirational without being luxury-coded. No
+    distinctive artistic treatment — the photography serves information
+    and aspiration rather than artistic expression.
+  visual_boundaries:
+    stated_exclusions: >-
+      Microsoft photography avoids overtly luxury or exclusive imagery —
+      the brand positions as democratising technology for everyone. The
+      brand avoids dark, moody, or edgy aesthetics in corporate contexts
+      (that territory belongs to Xbox).
+    observed_exceptions: >-
+      Surface product launches adopt a more premium, Apple-influenced
+      register — cleaner, more minimal, more hardware-focused. Xbox
+      marketing uses dramatically different photography conventions.
+    genuine_absence: >-
+      Based on microsoft.com review: no celebrity endorsement photography,
+      no abstract or artistic photography in brand contexts, no food or
+      lifestyle photography unconnected to technology use.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Fluent 2 Design System (May 2023)"
+    - "Four-square logo (2012 rebrand)"
+    - "3D Fluent illustration style (September 2024)"
+    - "October 2025 M365 icon refresh"
+  uses_illustration: true
+  illustration_style: >-
+    3D Fluent illustration — introduced September 2024, this style uses
+    soft 3D renders with the Microsoft colour palette, gentle gradients,
+    and rounded forms. The illustrations feel tactile and approachable —
+    closer to claymation than photorealism. The October 2025 M365 icon
+    refresh extended this organic, curved aesthetic to product icons —
+    replacing the flatter, more geometric 2019 generation. Compared to
+    Google (flatter, more geometric Material illustration) or Apple (no
+    brand illustration system — relies on photography and product renders),
+    Microsoft's 3D Fluent illustration is the most dimensionally rich
+    among the three.
+  illustration_role: >-
+    Instructional, navigational, and celebratory. Illustrations appear in
+    onboarding flows, empty states, feature explanations, and marketing
+    hero sections. The 3D Fluent style carries warmth and approachability
+    that the corporate brand palette alone cannot — it humanises what
+    could otherwise feel enterprise-cold. Copilot's visual identity uses
+    illustration heavily — the multicolour gradient swirl and supporting
+    graphics establish AI as friendly rather than threatening.
+  icon_style: >-
+    The Fluent 2 icon system: monoline at small sizes, filled at larger
+    sizes, with consistent 1.5px stroke weight and 24px base grid. The
+    October 2025 M365 product icons use fluid, curved gradients within
+    their product colours — Word's blue swoosh, Excel's green grid,
+    PowerPoint's red presentation shape. Approximately 4,000+ icons in
+    the Fluent system. The four-square logo functions as both corporate
+    mark and favicon.
+  graphic_devices: >-
+    The four-square logo — four coloured squares (Orange #F25022, Green
+    #7FBA00, Blue #00A4EF, Yellow #FFB900) arranged in a 2×2 grid. This
+    2012 mark replaced the italicised wordmark and represents Microsoft's
+    most significant visual simplification. Mica and Acrylic materials —
+    these translucent surface treatments are graphic devices unique to
+    the Windows ecosystem. The Copilot gradient swirl — a new graphic
+    device establishing the AI product family's visual identity.
+  motion_language: >-
+    Fluent 2 motion: purposeful, natural, responsive. Animations use
+    spring-based physics (not linear easing) for natural-feeling
+    interactions. Windows 11 transitions emphasise connected motion —
+    elements animate along shared axes to show spatial relationships.
+    The Copilot interaction uses a pulsing, thinking animation during
+    processing. Compared to Apple (more theatrical, more narrative in
+    motion) or Google (Material motion with emphasis/deceleration curves),
+    Microsoft's Fluent motion is the most physics-based.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Segoe UI Variable (Steve Matteson, 2021 — variable font for Windows 11)"
+    - "Aptos (Steve Matteson, 2023 — replaced Calibri in M365)"
+    - "Fluent 2 type ramp"
+    - "microsoft.com (observed February 2026)"
+  signature_move: >-
+    Segoe UI Variable (Steve Matteson, 2021) — a variable font update
+    of Segoe UI with optical sizing that adapts weight and spacing based
+    on text size. Steve Matteson (Monotype, now independent) also designed
+    Aptos (2023), which replaced Calibri as the default font across
+    Microsoft 365 after 16 years — the most significant default-font
+    change in productivity software since Calibri replaced Times New Roman
+    in 2007. Segoe UI has been Microsoft's system typeface since Windows
+    Vista (2006); the Variable update added the optical sophistication
+    needed for Windows 11's refined typography. The Fluent 2 type ramp
+    defines 13 named sizes from Caption (12px) to Display (68px). Compared
+    to Apple (San Francisco — more humanist, optical sizes since 2015) or
+    Google (Roboto — more geometric, less personality), Segoe is the most
+    neutral and enterprise-readable.
+  what_would_look_wrong: >-
+    A serif typeface in the Windows or M365 interface (Segoe is the system
+    identity). A geometric sans-serif like Futura (too stylised for
+    Microsoft's neutral register). Calibri in new marketing (signals the
+    pre-2023 era). Any typeface with strong personality or quirkiness —
+    Microsoft's typography is deliberately invisible, serving content
+    rather than expressing brand character.
+  case_convention: >-
+    The 'Microsoft' wordmark uses title case. Product names use title case
+    ('Microsoft 365,' 'Windows 11,' 'Azure,' 'Copilot'). Body text uses
+    sentence case. Marketing headlines typically use sentence case. The
+    brand avoids ALL CAPS in most contexts — the tone is accessible and
+    professional, not declarative.
+  display_vs_body: >-
+    Display: Segoe UI Variable at heavier weights (Semibold, Bold) for
+    marketing headlines and Windows 11 display text. The variable optical
+    sizing adjusts spacing and weight for optimal display rendering. Body:
+    Segoe UI Variable at Regular weight for all interface chrome. Aptos at
+    Regular weight for document content within M365. The two-typeface
+    system (Segoe for UI, Aptos for documents) creates a clear separation
+    between operating system and content.
+  type_and_image: >-
+    Typography provides functional context — product names, navigation,
+    interface labels. In Windows 11, type is subordinate to content and
+    the Mica/Acrylic material system. In marketing, type shares space with
+    product photography and the four-square logo. The Fluent 2 type ramp
+    ensures consistent hierarchy across all Microsoft products, creating
+    typographic coherence even when visual identities differ (Windows vs
+    Xbox vs M365).
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "microsoft.com (observed February 2026)"
+    - "Windows 11 interface"
+    - "Fluent 2 Design System layout guidelines"
+    - "M365 product interfaces"
+  signature_composition: >-
+    Centred, structured, grid-based. Windows 11 uses a centred taskbar
+    (a significant departure from the left-aligned Windows tradition) and
+    centred Start menu — the most visually notable change from Windows 10.
+    microsoft.com uses wide, sectioned layouts with generous whitespace
+    and centred content blocks. M365 apps follow a ribbon-toolbar-plus-
+    canvas composition that Microsoft established with Office 2007 and
+    that remains the dominant productivity-app layout pattern. Compared
+    to macOS (more minimal, more opinionated about layout) or Google
+    Workspace (simpler, more web-native), Microsoft's layouts are the
+    most information-dense while maintaining order.
+  density_and_whitespace: >-
+    Variable density across contexts. Windows 11 introduced more whitespace
+    than Windows 10 — larger spacing between taskbar icons, more padding
+    in context menus, rounded corners creating visual breathing room.
+    Microsoft marketing uses generous whitespace. M365 productivity apps
+    remain relatively dense — the ribbon interface packs considerable
+    functionality into visible space. The Fluent 2 spacing scale (4px
+    base unit) governs consistency.
+  format_preferences: >-
+    Landscape-dominant for productivity (monitors and laptops are the
+    primary context). Windows 11 supports responsive layouts across
+    screen sizes from tablets to ultrawide monitors. Marketing materials
+    adapt to standard digital and print formats. The four-square logo
+    is square (1:1 aspect ratio).
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Microsoft selectively adopts design trends that serve its enterprise
+    and productivity mission. The Fluent 2 system represents a considered,
+    systematic approach to contemporary design rather than trend-chasing.
+  examples:
+    - trend: "AI-native visual design"
+      stance: "leader"
+      evidence: >-
+        Copilot's visual identity — the multicolour gradient swirl, the
+        thinking animation, the inline AI suggestions with distinctive
+        purple-gradient highlighting — establishes visual conventions for
+        AI integration in productivity software. Microsoft is defining
+        what AI looks like in the workplace before competitors.
+      reasoning: >-
+        Microsoft's scale in enterprise software means its Copilot visual
+        conventions will likely become the default expectation for how AI
+        appears in productivity tools.
+    - trend: "Material-based UI design (glass, blur, translucency)"
+      stance: "early-adopter"
+      evidence: >-
+        Mica and Acrylic materials in Windows 11 (2021) predated the
+        broader trend toward glassmorphism in UI design. Microsoft had
+        experimented with Aero glass in Windows Vista/7 (2006-2009),
+        abandoned it in Windows 8 (2012), and returned with a more
+        sophisticated approach in Windows 11.
+      reasoning: >-
+        Microsoft's cyclical relationship with translucency reflects
+        both design trends and hardware capability — modern GPUs make
+        real-time blur effects performant enough for system-wide use.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    The four-square logo. Segoe UI Variable as the system typeface. The
+    Fluent 2 Design System as the governing framework. The four-colour
+    palette (Orange, Green, Blue, Yellow). Product-colour coding for
+    M365 apps.
+  what_bends: >-
+    Sub-brands operate with significant visual autonomy: Xbox (green,
+    gaming-coded, bolder), LinkedIn (blue, professional-network-coded,
+    its own type system), GitHub (black, developer-coded, Mona mascot).
+    Surface hardware marketing adopts Apple-influenced minimal registers.
+    Azure uses its own blue-gradient visual system for cloud and developer
+    contexts. Regional marketing adapts to local cultural contexts.
+  notable_examples: >-
+    Microsoft x Xbox: the most visually autonomous sub-brand — Xbox's
+    green-black gaming aesthetic bears little resemblance to corporate
+    Microsoft, yet both operate under the same parent. Microsoft x
+    LinkedIn: acquired in 2016, LinkedIn maintains its entirely separate
+    visual identity (blue, professional, its own typography). Microsoft x
+    GitHub: acquired in 2018, GitHub maintains its developer-community
+    visual identity (Mona octocat mascot, dark-mode-default, monospace-
+    coded). These acquisitions demonstrate Microsoft's willingness to
+    preserve sub-brand visual equity rather than imposing corporate
+    visual standards.

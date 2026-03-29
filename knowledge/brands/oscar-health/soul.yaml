@@ -1,0 +1,29 @@
+chunk_id: "oscar-health-soul"
+brand: "oscar-health"
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "oscar-health-positioning"
+token_count: 123
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Oscar Health. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: Health insurance broken down into human conversation instead of bureaucratic process
+core_belief: >-
+  Healthcare systems fail when they optimize for finance instead of optimizing for the person trying to get better
+creative_tension:
+  - "Hot Blue (vibrant #0066FF) energy paired with institutional healthcare credibility"
+  - "Whimsical illustration style introducing joy to an industry designed around loss (illness, cost)"
+decision_filter: "Would a patient understand this? If not, we made it too complicated"
+signature_move: >-
+  Hot Blue anchor color refreshed from original royal blue, maintaining equity while adding contemporary zing
+what_would_break_it: >-
+  Adopting traditional healthcare's beige-and-navy palette or clinical imagery—would destroy the humanizing energy that makes Oscar distinctive

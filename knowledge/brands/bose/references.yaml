@@ -1,0 +1,40 @@
+studios:
+- name: COLLINS
+  type: branding
+  url: https://www.wearecollins.com/
+  relationship: Led October 2024 rebrand with 'Sound is Power' positioning and comprehensive
+    visual system redesign.
+  project_url: https://www.wearecollins.com/case-studies/bose/
+- name: Tekio
+  type: type-foundry
+  url: https://store.tekio.work/
+  relationship: Jan Estrada-Osmycki designed custom Bose typeface derived from 1960s
+    hand-drawn italic wordmark.
+people:
+- name: Brian Collins
+  role: Creative Director
+  url: https://www.wearecollins.com/
+  context: Led Bose's October 2024 rebrand; positioned brand from engineering to cultural
+    authority.
+- name: Jan Estrada-Osmycki
+  role: Type Designer
+  url: https://store.tekio.work/
+  context: Translated Bose's 1960s hand-drawn wordmark into contemporary digital typeface
+    system (Tekio).
+publications:
+- title: Bose brand guidelines (2024)
+  author: Bose Design Team
+  relevance: Official rebrand documentation and design system specifications.
+visuals:
+- url: https://www.bose.com/
+  label: Official Bose brand website and 'Sound is Power' campaign — bose.com
+  section: visual-world
+- url: https://www.wearecollins.com/
+  label: October 2024 rebrand case study — COLLINS
+  section: visual-language
+- url: https://store.tekio.work/
+  label: Custom Bose typeface — Tekio
+  section: visual-language
+- url: https://www.itsnicethat.com/
+  label: Rebrand design journalism — It's Nice That
+  section: visual-language

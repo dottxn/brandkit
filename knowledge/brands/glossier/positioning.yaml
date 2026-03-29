@@ -1,0 +1,31 @@
+chunk_id: "glossier-positioning"
+brand: glossier
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Glossier. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Glossier
+website: "https://glossier.com"
+founded: 2014
+category: beauty
+sub_category: "direct-to-consumer-beauty"
+price_tier: "mid-range"
+primary_archetype: The Creator
+secondary_archetype: The Everyman
+positioning_scales:
+  utility_theater: 4
+  access_exclusivity: 4
+  heritage_innovation: 7
+key_differentiators: []

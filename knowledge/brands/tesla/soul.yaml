@@ -1,0 +1,32 @@
+chunk_id: "tesla-soul"
+brand: tesla
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "tesla-positioning"
+token_count: 184
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Tesla. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A physics lecture taught by someone who genuinely believes electrons will save civilization. The kind of person who will stand in front of your car and explain battery chemistry when you just want to know the range.
+core_belief: "Technology doesn't compromise with beauty—at sufficient scale, they become the same thing."
+creative_tension:
+  - >-
+    A company obsessed with preventing the future apocalypse, run by someone who actively posts apocalyptic memes.
+  - >-
+    Tesla sells cars with the emotional restraint of a Swiss watchmaker, but the brand personality is pure Id energy.
+decision_filter: >-
+  When faced with a fork, Tesla always chooses the harder engineering problem over the easier marketing solution.
+signature_move: >-
+  The horizontal 'T' wordmark positioned impossibly small and centered on vast negative space—demanding the architecture of the environment to complete the communication.
+what_would_break_it: >-
+  A warm, rounded typeface like Brandon Grotesque or a curved, humanistic sans-serif. Tesla dies the moment it looks friendly.

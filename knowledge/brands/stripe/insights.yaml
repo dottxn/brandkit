@@ -1,0 +1,32 @@
+chunk_id: "stripe-insights"
+brand: stripe
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "stripe-soul"
+  - "stripe-positioning"
+token_count: 209
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Stripe. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Developer-first means boring is a feature—the most technically excellent design often looks understated to non-technical eyes. This is correct.
+  - >-
+    Inter typeface was chosen because it's the current standard for technical interfaces, not because of personality. Rejecting personality is the right strategy in this category.
+  - >-
+    The color palette (#635BFF, whites, grays) was built around readability and signal hierarchy, not aesthetic harmony. No color combinations exist to please the eye; every color exists to communicate function.
+  - >-
+    Stripe's visual minimalism comes from genuine technical precision, not design fashion. This authenticity is palpable and creates the trust required in fintech.
+  - >-
+    The company's willingness to update design systems and components based on technical evolution shows design follows engineering, not the reverse. This is philosophically correct for developer tools.
+what_nobody_copies: >-
+  The radical restraint in visual design. Competitors try to project sophistication through detailed design systems; Stripe projects sophistication through elimination of non-essential elements.

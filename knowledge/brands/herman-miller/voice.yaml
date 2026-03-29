@@ -1,0 +1,47 @@
+chunk_id: "herman-miller-voice"
+brand: "herman-miller"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "herman-miller-soul"
+token_count: 111
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Herman Miller. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Modern furniture and design solutions company known for creating timeless, problem-solving designs for office, home, and healthcare environments. Founded in 1905, Herman Miller has become synonymous w
+tone_traits:
+  - Empathetic
+  - "research-based"
+  - "solution-focused"
+  - Expert
+  - considered
+  - historically grounded
+  - "Forward-thinking"
+  - bold
+  - purposeful
+anti_traits:
+  - Cold
+  - purely aesthetic
+  - "trend-driven"
+  - Arrogant
+  - overly academic
+  - disconnected
+  - Radical for its own sake
+  - disruptive without purpose
+example_phrases:
+  - "Problem-solving designs that are beautiful and useful"
+  - Design for the good of humankind
+  - Solutions that stand the test of time
+  - "Inspire the best in people wherever they live, work, learn, heal, and play"
+guardrails:
+  never_say: []
+  always_sound: "Empathetic, research-based, solution-focused, Expert, considered"

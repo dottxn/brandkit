@@ -1,0 +1,67 @@
+chunk_id: "ford-motor-company-visual-dna"
+brand: "ford-motor-company"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "ford-motor-company-positioning"
+token_count: 114
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Ford Motor Company. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#081534"
+    name: ""
+    role: ""
+  - hex: "#133A7C"
+    name: ""
+    role: ""
+  - hex: "#2A6BAC"
+    name: ""
+    role: ""
+  - hex: "#47A8E5"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#C6C6C6"
+    name: ""
+    role: ""
+typography:
+  - name: Ford Spencerian Script (Custom)
+    role: ""
+    style: ""
+  - name: "Supporting Sans-serif"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: focused
+  type_class: script
+  type_character: geometric
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: heritage
+  conceptual_approach: uniform
+  framing_device: housing
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: high
+  identity_system: fixed
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="29-5,29-40">The blue oval brings unity across all Ford branding, from models to marketing materials to dealerships, with the script typography always contained within the oval frame</cite>

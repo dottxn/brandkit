@@ -1,0 +1,30 @@
+chunk_id: "bose-strategy"
+brand: bose
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "bose-positioning"
+token_count: 40
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Bose. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe sound is the most powerful force on earth
+mission: "To think of better solutions, create better products, help people enjoy the things they love"
+vision: >-
+  To create breakthrough audio solutions that transform how people experience sound through immersive, life-like audio
+values:
+  - Innovation
+  - Excellence
+  - Integrity
+  - Passion
+  - Respect
+  - "Customer-centricity"

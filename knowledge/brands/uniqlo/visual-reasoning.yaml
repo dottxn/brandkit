@@ -1,0 +1,28 @@
+chunk_id: "uniqlo-visual-reasoning"
+brand: uniqlo
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "uniqlo-visual-dna"
+  - "uniqlo-soul"
+token_count: 293
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for UNIQLO. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Helvetica was selected in the 1950s as the most universal, most neutral typeface—the font of public systems and functional communication. Uniqlo's choice of Helvetica (rather than a custom typeface) is a philosophical statement: we're not a design brand, we're a functional brand. The typeface has no personality; the clothing has all the personality the customer brings.
+colour_logic: >-
+  The palette is aggressively minimal: red (#FF0000) for the logo mark, white for backgrounds, black and gray for text and structure. This isn't a curated designer's palette; it's the palette of certification marks and safety signage. Every color serves function. The red square isn't branding; it's a mark of quality assurance that this garment will perform.
+composition_philosophy: >-
+  Product photography uses white backgrounds, neutral lighting, flat lay and on-body shots to emphasize fabric and construction. No artistic composition, no staged environments, no lifestyle context. The clothing is presented as object for inspection, not subject for admiration. Retail displays use clean grid systems and readable labels. Information hierarchy prioritizes size, material content, and price.
+what_would_break_it: >-
+  Introducing fashion-forward design aesthetics, seasonal trend colors, or lifestyle imagery would immediately corrupt the brand's core positioning as timeless basics. The moment Uniqlo's visual system starts to suggest "fashion," it becomes just another apparel brand competing on expression rather than function. The brand's power is that it achieves the impossible: making basics exciting by refusing to make them fashionable.

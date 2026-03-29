@@ -1,0 +1,324 @@
+chunk_id: "hulu-visual-language"
+brand: "hulu"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "hulu-visual-dna"
+  - "hulu-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Hulu. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-hulu-green"
+      touchpoints:
+        - "hulu.com homepage and marketing pages"
+        - "Hulu app across devices"
+        - "Hulu brand campaigns and subscriber acquisition"
+        - "Hulu social media channels"
+      description: >-
+        Hulu Green (#1CE783, Pantone 7479 C) dominant against Rich Black
+        (#040405) — a high-contrast, screen-optimised palette. The 2021
+        DixonBaxi rebrand established the current visual system: Graphik
+        (exclusive brand typeface), the 'Vessel' rounded rectangular
+        graphic device (inspired by the 'u' in Hulu), and a more
+        confident, entertainment-forward visual register. The green is
+        bright enough to command attention on any device screen — it
+        reads as energetic and contemporary against the dark background.
+        Asad Ayaz (Disney Chief Brand Officer) oversees brand expression
+        within the broader Disney portfolio. Compared to Netflix (red-
+        and-black, algorithm-driven, global) or HBO Max (prestige-coded,
+        monochrome base), Hulu's visual language is the most colour-
+        ownable in streaming — no other major platform uses green.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this green-on-
+        black, Graphik-set, Vessel-framed register.
+
+    - name: "hulu-originals"
+      touchpoints:
+        - "Hulu Original series key art and campaigns"
+        - "Hulu Original documentary marketing"
+        - "FX on Hulu branded content"
+      description: >-
+        Series-specific visual identities within the Hulu framework. Hulu
+        Originals (The Bear, Only Murders in the Building, The Handmaid's
+        Tale) develop their own key art, typography, and colour palettes
+        — similar to HBO's series-specific approach but with Hulu Green
+        appearing as a framing element. FX on Hulu brings FX's own
+        prestige visual identity (darker, more cinematic) into the Hulu
+        ecosystem. The Hulu Originals visual approach balances series
+        distinctiveness with platform identity.
+      differs_from_default_by: >-
+        Series-specific visual identities take precedence. Hulu Green
+        appears as framing rather than dominant colour. The visual
+        register varies by series genre — from comedy (lighter, more
+        playful) to drama (darker, more cinematic).
+
+    - name: "disney-bundle"
+      touchpoints:
+        - "Disney Bundle marketing (Disney+, Hulu, ESPN+)"
+        - "Hulu on Disney+ integrated experience"
+        - "Bundle subscription acquisition campaigns"
+      description: >-
+        Teal gradient combining Disney blue and Hulu green — a visual
+        compromise that signals the convergence of the two platforms. The
+        Disney integration (2024-2026) progressively merged Hulu content
+        into the Disney+ interface, with the standalone Hulu app scheduled
+        for discontinuation by 2026. The bundle visual language must
+        communicate three distinct brands (Disney+, Hulu, ESPN+) in a
+        single visual context.
+      differs_from_default_by: >-
+        Hulu Green blends with Disney Blue into a teal gradient. The
+        visual register is broader and more family-friendly than standalone
+        Hulu — accommodating Disney+ content alongside Hulu's more
+        adult-skewing library. The brand identity becomes subsidiary to
+        the Disney ecosystem.
+
+  notes: >-
+    Hulu's visual identity exists in an unusual state — the brand is
+    simultaneously distinctive (the green is highly ownable) and
+    transitional (Disney integration may subsume the standalone identity).
+    The 2021 DixonBaxi rebrand established the strongest visual system
+    in Hulu's history just as the Disney merger began reshaping the
+    brand's future.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "hulu.com (observed February 2026)"
+    - "Hulu Original series key art"
+    - "Hulu marketing campaigns"
+  subject_and_framing: >-
+    Content-first — Hulu's photography is primarily series key art and
+    promotional stills. Hulu Originals (The Bear, Only Murders in the
+    Building) have series-specific photography that follows entertainment-
+    industry key-art conventions. Subscriber-acquisition marketing uses
+    montage compositions featuring multiple shows. The photography
+    positions Hulu's content library as current, culturally relevant, and
+    personality-rich. Compared to Netflix (more diverse genre coverage,
+    more algorithmic variant testing) or Apple TV+ (more cinematic, fewer
+    titles, higher production value per image), Hulu's photography
+    emphasises culturally-of-the-moment content.
+  casting_observed: >-
+    Determined by series cast. Hulu Originals feature diverse, culturally
+    relevant talent. Brand-level marketing montages showcase the breadth
+    of the content library. No distinctive brand-level casting direction
+    beyond the content slate.
+  lighting_and_colour: >-
+    Series-specific. The Bear uses warm, kitchen-environment-coded
+    photography. The Handmaid's Tale uses desaturated, dystopian-coded
+    imagery. Only Murders in the Building uses theatrical, mystery-coded
+    lighting. Brand-level photography uses the green-on-black palette as
+    a framing device around content imagery.
+  post_production: >-
+    Series-specific post-production matching each show's visual identity.
+    Brand-level composites add the Hulu Green glow and dark background
+    treatment to unify diverse content imagery.
+  visual_boundaries:
+    stated_exclusions: >-
+      Hulu avoids generic streaming-platform imagery (abstract grids of
+      faces, generic 'watch now' overlays). The brand positions as
+      curated and culturally aware rather than library-quantity-focused.
+    observed_exceptions: >-
+      Subscriber-acquisition advertising can adopt more conventional
+      streaming-platform promotional conventions — free trial offers,
+      price-point graphics, content-quantity messaging.
+    genuine_absence: >-
+      Based on hulu.com review: no brand-specific lifestyle photography,
+      no product photography (Hulu is software), no celebrity endorsement
+      imagery beyond series-related content.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "2021 DixonBaxi rebrand"
+    - "'Vessel' rounded rectangular graphic device"
+    - "Hulu Green (#1CE783)"
+    - "hulu.com (observed February 2026)"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    The Hulu wordmark functions as the primary icon — lowercase, Graphik-
+    set, instantly recognisable in green on dark backgrounds. The app
+    icon uses a simplified green rectangle with the white Hulu wordmark.
+    Content-category icons follow standard streaming-platform conventions.
+    The Vessel shape (rounded rectangle inspired by the 'u' in Hulu)
+    appears as a framing device rather than an icon per se.
+  graphic_devices: >-
+    The Vessel — a rounded rectangular shape (inspired by the 'u'
+    letterform in Hulu) that frames content, creates compositional
+    structure, and provides a distinctive graphic element. DixonBaxi
+    designed the Vessel as Hulu's primary graphic device in the 2021
+    rebrand. Hulu Green (#1CE783) itself is the strongest graphic device
+    — the colour identifies the brand instantly in streaming contexts.
+    The green glow — Hulu Green appears as a soft radiance around content
+    imagery, creating a distinctive treatment that unifies diverse
+    programme art.
+  motion_language: >-
+    The Vessel animates — expanding, contracting, and transitioning
+    between content elements. The Hulu Green glow pulses and shifts.
+    Content transitions use smooth, cinema-coded movements. The motion
+    language is more atmospheric than functional — it creates mood
+    rather than communicating information. Compared to Netflix (more
+    functional, auto-play previews as motion) or Disney+ (more
+    theatrical, castle-animation-coded), Hulu's motion is the most
+    colour-atmosphere-driven.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Graphik (Grilli Type — exclusive Hulu use since 2021 DixonBaxi rebrand)"
+    - "HuluStyle (Psy/Ops, 2016 — custom marketing typeface)"
+    - "hulu.com (observed February 2026)"
+  signature_move: >-
+    Graphik (Grilli Type, Zurich) — used exclusively by Hulu since the
+    2021 DixonBaxi rebrand. Graphik is a neo-grotesque with a distinctive
+    geometric clarity — it reads as contemporary and confident without
+    being cold. Grilli Type (the Zurich foundry behind GT America, GT
+    Walsheim, and GT Flexa) is one of the most respected independent
+    type foundries in the design industry. Hulu's exclusive licence
+    means the typeface becomes uniquely associated with the brand in
+    streaming contexts. HuluStyle (Psy/Ops, 2016) was an earlier custom
+    typeface for marketing contexts. Compared to Netflix (Netflix Sans,
+    custom) or HBO (HBO Street, custom, Carvalho Bernau + LettError),
+    Hulu's approach of licensing an existing premium typeface exclusively
+    is a distinctive strategy — getting quality without the multi-year
+    custom-type development process.
+  what_would_look_wrong: >-
+    A serif typeface (Hulu is entirely sans-serif). A rounded, playful
+    typeface (contradicts Graphik's geometric precision). A condensed,
+    aggressive display typeface (too intense for Hulu's contemporary-
+    entertainment register). The pre-2021 typography (associated with
+    the less confident earlier brand).
+  case_convention: >-
+    The 'hulu' wordmark uses lowercase. Product names use title case
+    ('Hulu Originals'). Series titles follow their own conventions. Body
+    text uses sentence case. Marketing headlines use sentence case. The
+    lowercase wordmark reinforces a casual, approachable tone.
+  display_vs_body: >-
+    Display: Graphik at heavier weights for marketing headlines and
+    campaign type — the geometric precision is most visible at display
+    sizes. HuluStyle may still appear in select marketing contexts. Body:
+    Graphik at regular weight for interface text, content descriptions,
+    and navigation. The single-typeface system (Graphik for everything)
+    creates clean consistency across the streaming experience.
+  type_and_image: >-
+    Type provides content metadata — series titles, episode descriptions,
+    genre labels. Content imagery (key art, promotional stills) dominates
+    the visual hierarchy. The Hulu wordmark in green provides brand
+    identification. In marketing, type sits against the dark background
+    with the Hulu Green glow creating a distinctive environmental
+    treatment around typographic elements.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "hulu.com (observed February 2026)"
+    - "Hulu app interface"
+    - "2021 DixonBaxi rebrand"
+  signature_composition: >-
+    Content-grid streaming layout — horizontal scrolling rows of title
+    cards, hero banners for featured content, algorithmic personalisation.
+    The layout follows the streaming-platform conventions that Netflix
+    established: hero banner at top, category rows below, hover-to-
+    expand preview. The Vessel shape provides a distinctive framing
+    device for content cards and promotional elements. The dark background
+    with Hulu Green accents creates a high-contrast, screen-optimised
+    composition. Compared to Netflix (similar structure, red accents) or
+    Disney+ (similar structure, more family-friendly visual weight),
+    Hulu's layout is distinguished primarily by the green-on-black
+    colour treatment rather than structural innovation.
+  density_and_whitespace: >-
+    Standard streaming density — content-rich with multiple category rows.
+    The dark background creates visual depth. Content cards use consistent
+    spacing. Marketing pages use more generous whitespace with the Vessel
+    shape creating compositional rhythm.
+  format_preferences: >-
+    Landscape for hero banners and standard content cards (16:9). Portrait
+    for some key-art contexts. The app adapts from mobile single-column
+    to TV-screen multi-row grid layouts. The Hulu wordmark is horizontal.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Hulu adopts streaming-platform visual conventions established by
+    Netflix while maintaining its distinctive green-on-black identity.
+    The 2021 DixonBaxi rebrand was a significant visual investment that
+    elevated Hulu's design credibility.
+  examples:
+    - trend: "Colour-ownable streaming brand identity"
+      stance: "leader"
+      evidence: >-
+        Hulu Green (#1CE783) is the most distinctive colour in streaming
+        — no other major platform uses bright green. While Netflix owns
+        red, Disney+ owns blue, and HBO owns black-and-white, Hulu's
+        green stands out in the increasingly crowded streaming market.
+      reasoning: >-
+        In a category where content libraries increasingly overlap, brand
+        colour becomes a critical differentiator. Hulu's green is
+        instantly identifiable — a significant brand asset regardless of
+        the platform's corporate future.
+    - trend: "Streaming platform consolidation and bundling"
+      stance: "early-adopter"
+      evidence: >-
+        The Disney Bundle (Disney+, Hulu, ESPN+) and the progressive
+        integration of Hulu into Disney+ (2024-2026) required visual
+        solutions for multi-brand streaming contexts — the teal gradient
+        combining Disney blue and Hulu green.
+      reasoning: >-
+        Hulu's visual identity is being tested by consolidation — how does
+        a distinctive brand identity survive absorption into a larger
+        platform? The green-on-black system may become a visual chapter
+        in streaming history rather than an ongoing identity.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    Hulu Green (#1CE783). The lowercase wordmark. Graphik typeface. The
+    dark background default. The Vessel graphic device.
+  what_bends: >-
+    Series-specific visual identities (Hulu Originals, FX on Hulu)
+    operate with significant creative freedom. Disney Bundle marketing
+    blends Hulu's identity with Disney+ and ESPN+. Subscriber-acquisition
+    advertising adapts to promotional conventions. Content-partner
+    marketing accommodates network and studio visual identities.
+  notable_examples: >-
+    Hulu x DixonBaxi (2021 rebrand): the London-based agency created
+    Hulu's most confident visual identity — the Vessel device, the
+    exclusive Graphik licence, and the green-on-black system that
+    elevated Hulu from 'second streaming service' to visually distinctive
+    brand. DixonBaxi also designed HBO's Max identity — making them
+    responsible for two major streaming visual identities. Hulu x FX:
+    'FX on Hulu' brought FX's prestige-television visual identity into
+    the Hulu ecosystem — a visual collaboration between a streaming
+    platform and a cable network brand. Hulu x Disney+ integration
+    (2024-2026): the most significant visual collaboration in Hulu's
+    history — merging two distinct streaming visual identities into a
+    single platform experience.

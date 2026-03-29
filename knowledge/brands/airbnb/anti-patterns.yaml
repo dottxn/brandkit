@@ -1,0 +1,71 @@
+chunk_id: "airbnb-anti-patterns"
+brand: airbnb
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "airbnb-soul"
+  - "airbnb-visual-dna"
+token_count: 691
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Airbnb. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Using photography that's too polished or styled"
+    reasoning: >-
+      Staged luxury photography signals distance. The brand works because the photography shows lives being lived, not lives being performed for cameras. Overstyled imagery would destroy the "authentic connection" promise.
+  - pattern: Muting the Rausch color or introducing competing coral tones
+    reasoning: >-
+      The color is the emotional center. Diluting it to "coral" or "coral-adjacent" weakens the immediate recognition. The brand's warmth depends on the color's unapologetic boldness.
+  - pattern: Centering the Belo symbol on layouts with loads of explanation
+    reasoning: >-
+      The symbol should feel intuitive, not didactic. Over-designing around it (frames, shadows, badges) would make it feel precious rather than alive. Let it sit in white space.
+  - pattern: Mixing serif typefaces with Airbnb Cereal
+    reasoning: >-
+      Cereal's humanist warmth depends on consistency. Adding serifs signals formality and distance, contradicting the "belonging" narrative.
+strategic:
+  - pattern: Positioning as a cheaper hotel alternative
+    reasoning: >-
+      This positions the brand downmarket and transactional. Airbnb's positioning is cultural and emotional—you stay in an Airbnb not to save money but to be part of a story. Competing on price erases the community narrative.
+  - pattern: Expanding too rapidly into services without maintaining personal connection
+    reasoning: >-
+      As Airbnb adds Experiences, Adventures, and longer-stay programs, each expansion dilutes the core brand if it loses the "connection between humans" thesis.
+  - pattern: "Treating hosts as customer service rather than co-creators"
+    reasoning: >-
+      The moment Airbnb loses the sense that hosts are equal partners (rather than inventory), the brand becomes just another marketplace. The emotional moat depends on viewing hosts as creative equals.
+  - pattern: Leaning into luxury positioning
+    reasoning: >-
+      This would contradict "Belong Anywhere." Belonging is democratic. Once Airbnb starts positioning some homes as "premium," it fragments the core narrative and becomes complicit in wealth-signaling.
+tonal:
+  - pattern: "Corporate earnestness about \"changing travel\""
+    reasoning: >-
+      Overplaying the transformational narrative feels grandiose. The brand's strength is understated—we're just helping you stay somewhere interesting, not revolutionizing civilization.
+  - pattern: "Using fear-based safety messaging (\"Don't worry, you're protected!\")"
+    reasoning: >-
+      This signals that the brand itself doesn't trust its community. The anti-pattern is leading with safety guarantees rather than leading with trust-building through culture.
+  - pattern: Explaining how the matching algorithm works
+    reasoning: >-
+      Mystery is more powerful than transparency here. Users want to believe connection was fated, not calculated. Explaining the algorithm murders the brand magic.
+  - pattern: "Positioning hosts as \"entrepreneurs\" rather than \"people sharing their home\""
+    reasoning: >-
+      The moment the brand emphasizes monetization, it loses the gift-economy feel that makes connection feel genuine. Belonging is built on generosity, not transaction.
+cultural:
+  - pattern: Appropriating local culture in marketing without economic investment
+    reasoning: >-
+      If Airbnb showcases local traditions (food, music, craft) in photography without ensuring hosts receive fair compensation or cultural credit, it becomes extractive rather than connective.
+  - pattern: Pretending to be neutral about gentrification
+    reasoning: >-
+      In many cities, Airbnb has accelerated housing crises. The brand's "Belong Anywhere" messaging rings hollow if the community that originally welcomed guests can no longer afford to live there.
+  - pattern: "Over-celebrating diversity in campaigns without systemic changes"
+    reasoning: >-
+      If the photography shows global diversity but the algorithm or host verification systematically discriminates, the brand becomes performative.
+  - pattern: "Treating \"adventure\" as a product rather than a mindset"
+    reasoning: >-
+      The anti-pattern is positioning adventure as something Airbnb sells, rather than something the brand empowers travelers to discover. Adventure can't be commodified without losing its meaning.

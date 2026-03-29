@@ -1,0 +1,38 @@
+# ──────────────────────────────────────────────
+# Rivian — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Pentagram"
+    type: "branding"
+    url: "https://www.pentagram.com/"
+    project_url: "https://www.pentagram.com/work/rivian"
+    relationship: "Designed custom typeface and brand identity system for Rivian electric vehicles"
+
+people:
+  - name: "Eddie Opara"
+    role: "Partner, Pentagram"
+    url: "https://www.pentagram.com/about/eddie-opara"
+    context: "Led custom typeface design reflecting Rivian's innovation and adventure positioning"
+
+  - name: "Jeff Hammoud"
+    role: "Chief Design Officer, Rivian"
+    context: "Collaborated on custom typeface development and visual brand strategy"
+
+  - name: "Shaun Harris"
+    role: "Senior Director of Experience Design, Rivian"
+    context: "Collaborated on typeface design and visual system development"
+
+publications:
+  - title: "Custom Typeface Design for Rivian: From Dashboard to Brand"
+    author: "Pentagram"
+    relevance: "Documents the development of Rivian's custom typeface from vehicle UI requirements to full brand system"
+
+visuals:
+  - url: "https://www.pentagram.com/work/rivian"
+    label: "Pentagram case study — Complete brand identity and custom typeface"
+    section: "visual-language"
+
+  - url: "https://www.rivianforums.com/"
+    label: "Rivian visual identity in vehicle interfaces and marketing"
+    section: "visual-world"

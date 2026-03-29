@@ -1,0 +1,28 @@
+chunk_id: "redfin-visual-reasoning"
+brand: redfin
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "redfin-visual-dna"
+  - "redfin-soul"
+token_count: 200
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Redfin. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  System fonts and clean sans-serif web fonts prioritize function over personality—the choice is intentional. In data-heavy contexts, typeface shouldn't compete with information. The hierarchy emerges from size, weight, and color relationships, not from typeface personality. This restraint signals respect for the user's intelligence.
+colour_logic: >-
+  Signature red (#D32F2F) functions as the trust anchor and status indicator—it's warm enough to feel human but saturated enough to command attention when it matters. Green (#4CAF50) and blue (#2196F3) provide additional status indicators. The minimal palette prevents visual confusion in data-dense layouts where every color carries meaning.
+composition_philosophy: >-
+  Grid-based with emphasis on property data cards. Composition privileges information clarity over aesthetics—every design decision serves comprehensibility. Generous whitespace prevents cognitive overload. Product-forward layouts dominate; lifestyle imagery appears only when it illustrates actual use case (happy family in home they found through Redfin).
+what_would_break_it: >-
+  Adopting luxury real estate's high-gloss aesthetic or using abstract lifestyle imagery would undermine Redfin's core positioning as information-transparent and customer-first.

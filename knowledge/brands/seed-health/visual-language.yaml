@@ -1,0 +1,323 @@
+chunk_id: "seed-health-visual-language"
+brand: "seed-health"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "seed-health-visual-dna"
+  - "seed-health-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-27"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Seed Health. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+visual_modes:
+  modes:
+    - name: "brand-seed"
+      touchpoints:
+        - "seed.com homepage and marketing pages"
+        - "Seed brand campaigns"
+        - "Seed social media channels"
+        - "Seed corporate communications"
+      description: >-
+        Iconic green dominant — expanded through a colour system drawing
+        from Darwin's Nomenclature of Colour (1814 colour reference).
+        Seed Sans (custom variable typeface, Dinamo foundry) serves as
+        the primary brand typeface — designed to mirror the microbiome's
+        behaviour, expanding to meet expressive moments and contracting
+        for precision. MOUTHWASH Studio (creative direction, visual
+        identity, motion) and DCA Symphony (Tokyo, dimensional extension)
+        developed the comprehensive brand evolution after six years of
+        initial brand establishment. Landscape Studio created the visual
+        system connecting human health to planetary health. Ara Katz
+        (co-founder) is the visionary behind Seed's brand-as-science-
+        communication positioning. The Seed dot — reimagined as a
+        storytelling tool functioning as lens, portal, and entry point —
+        anchors the visual system. The visual language is science-
+        beautiful: microbiology and ecological systems rendered with
+        aesthetic precision. Compared to Athletic Greens/AG1 (more
+        supplement-lifestyle-coded) or Ritual (more supplement-
+        transparency-coded), Seed's visual language is the most
+        scientifically rigorous and the most aesthetically ambitious
+        in microbiome health.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this green,
+        Seed Sans-set, Darwin's-Nomenclature-derived, science-beautiful
+        register.
+
+    - name: "seed-ds01-product"
+      touchpoints:
+        - "DS-01 Daily Synbiotic product pages"
+        - "DS-01 packaging and unboxing experience"
+        - "Product education content"
+        - "Subscription management"
+      description: >-
+        Product-hero, packaging-centred. DS-01 (Seed's flagship probiotic)
+        receives visual treatment that emphasises the biofilm capsule
+        technology, the refillable vial packaging, and the scientific
+        evidence supporting the formulation. The pill system (DS-01
+        capsule shape) becomes a defining feature within Seed Sans's
+        stylistic set — the product form influences the typography. The
+        green glass vial is a physical-design icon in the supplement
+        category.
+      differs_from_default_by: >-
+        Product packaging and capsule technology become hero visual
+        content. The green vial and capsule imagery dominate. The visual
+        register shifts from brand-level science communication to
+        product-specific evidence and experience.
+
+    - name: "seed-labs-research"
+      touchpoints:
+        - "SeedLabs research platform"
+        - "Scientific publications and partnerships"
+        - "University collaborations"
+        - "Environmental programmes (coral probiotics)"
+      description: >-
+        More scientific, more research-coded. SeedLabs — Seed's research
+        arm — uses a more academic, data-driven visual register. Micro-
+        and macro-scale scientific imagery (microscopy, ecological systems,
+        microbial visualisations) dominates. The visual language must
+        communicate peer-reviewed scientific credibility while maintaining
+        the aesthetic ambition of the parent brand.
+      differs_from_default_by: >-
+        Scientific imagery and data visualisation dominate. The visual
+        register shifts from consumer brand to research communication.
+        Academic and institutional credibility signals are heightened.
+
+  notes: >-
+    Seed's visual identity is unusually science-authored for a consumer
+    brand — the visual system draws from scientific frameworks (Darwin's
+    Nomenclature of Colour, microbiome behaviour, ecological systems)
+    rather than lifestyle or wellness conventions. Revenue growth from
+    $140M (2023) to estimated $200M (2024) suggests the visual approach
+    drives commercial results. The brand evolution by MOUTHWASH was
+    designed to support a growing ecosystem of products, audiences, and
+    touchpoints.
+
+photography:
+  confidence: "high"
+  primary_sources:
+    - "seed.com (observed February 2026)"
+    - "Landscape Studio (visual system)"
+    - "MOUTHWASH Studio (brand evolution)"
+  subject_and_framing: >-
+    Micro-macro juxtaposition — Landscape Studio created a visual system
+    connecting human health to planetary health through the juxtaposition
+    of microscopic and macroscopic imagery. Microscopy (microbial
+    cultures, biofilm structures, cellular imagery) sits alongside
+    ecological photography (coral reefs, forests, soil ecosystems). The
+    photography showcases scientific imagery in 'beautiful and unexpected
+    ways' — making microbiology visually compelling. Product photography
+    emphasises the DS-01 green glass vial and the biofilm capsule as
+    physical design objects. Compared to AG1 (product-powder-focused,
+    more lifestyle-coded) or Ritual (transparent-capsule-focused, more
+    ingredient-transparency-coded), Seed's photography is the most
+    microscopically detailed and the most ecologically expansive.
+  casting_observed: >-
+    Scientists and researchers rather than lifestyle models. Seed's visual
+    content shows microscopy, laboratory environments, and ecological
+    systems — the microbiome IS the subject. Human presence is secondary
+    to scientific and ecological imagery. When people appear, they are
+    in scientific or environmental contexts.
+  lighting_and_colour: >-
+    Scientific-instrument-derived. Microscopy uses the lighting inherent
+    to different imaging techniques (fluorescence, electron, confocal).
+    The Darwin's Nomenclature colour system provides the broader chromatic
+    framework. The iconic green influences product and environmental
+    photography. Ecological photography uses natural lighting in diverse
+    environments.
+  post_production: >-
+    Scientific-aesthetic processing. Microscopy imagery is rendered with
+    both scientific accuracy and aesthetic precision — the post-production
+    makes microbiology beautiful without sacrificing scientific integrity.
+    Product photography is clean, precise, and design-object-coded.
+  visual_boundaries:
+    stated_exclusions: >-
+      Seed avoids wellness-industry visual conventions (pastel colours,
+      lifestyle models, aspirational health imagery). Avoids supplement-
+      industry standard photography (pills-in-hand, before-after).
+    observed_exceptions: >-
+      Some social media content uses more accessible, consumer-friendly
+      visual treatments.
+    genuine_absence: >-
+      Based on seed.com review: no lifestyle-model photography, no
+      before-after transformation imagery, no standard supplement-
+      category photography.
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Seed dot (reimagined by MOUTHWASH)"
+    - "Seed Sans pill-system stylistic set (Dinamo)"
+    - "Darwin's Nomenclature of Colour framework"
+    - "Grow/Shift/Transform motion framework"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    The Seed dot — the brand's longstanding recognisable symbol,
+    reimagined by MOUTHWASH as a storytelling tool that can function as
+    a lens, a portal, and a point of entry into deeper ideas. Scientific-
+    category icons serve the research and product-education contexts.
+  graphic_devices: >-
+    The Seed dot — reimagined as a multifunctional storytelling device.
+    It functions as a lens (zooming into microscopic worlds), a portal
+    (entry point to scientific content), and a point of entry into deeper
+    ideas. Iconic green — expanded through Darwin's Nomenclature of
+    Colour into a scientific colour framework. The colour palette is a
+    'visual tool for guiding customers across the brand experience.' The
+    DS-01 pill system — the capsule form influences Seed Sans's stylistic
+    set, embedding product design in typography. The green glass vial —
+    DS-01's packaging is a design icon in supplements, functioning as
+    both container and brand device. Micro-macro imagery — the
+    juxtaposition of microscopic (microbial) and macroscopic (ecological)
+    imagery IS a graphic device.
+  motion_language: >-
+    Behaviour-based framework: Grow, Shift, Transform — three natural
+    actions establishing an ownable rhythm across type, iconography,
+    photography, and brand elements. MOUTHWASH Studio created the motion
+    framework to bring the visual system into dynamic contexts. Grow
+    (expansion, life, development). Shift (change, adaptation,
+    responsiveness). Transform (fundamental change, breakthrough,
+    evolution). Seed Sans's variable nature enables type-in-motion —
+    expanding and contracting to express these behaviours.
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Seed Sans (Dinamo foundry, custom variable typeface)"
+    - "MOUTHWASH Studio (creative direction)"
+    - "seed.com (observed February 2026)"
+  signature_move: >-
+    Seed Sans (Dinamo foundry, custom variable typeface) — designed to
+    mirror the microbiome's behaviour, expanding to meet expressive
+    moments and contracting to communicate with precision. This is the
+    most biologically-referenced typographic decision in health branding.
+    Inspired by the form of Seed's hero product (DS-01), the pill system
+    becomes a defining feature within the typography's stylistic set —
+    product form influences letterform design. Dinamo (Swiss type foundry,
+    known for Whyte, Favorit, and work for Spotify) created a typeface
+    that is simultaneously functional and conceptually rich. The variable
+    nature allows Seed Sans to express the Grow/Shift/Transform motion
+    framework — typography that literally changes shape in response to
+    content context. Compared to AG1 (no distinctive custom type) or
+    Ritual (no custom type), Seed Sans is the most conceptually ambitious
+    typeface in health supplements.
+  what_would_look_wrong: >-
+    A static, non-variable typeface (removes the microbiome-behaviour
+    metaphor). A decorative or wellness-coded typeface (contradicts the
+    scientific register). A cold, clinical typeface (Seed balances
+    science with beauty). Any typeface without the pill-system stylistic
+    set (removes the product-typography connection).
+  case_convention: >-
+    'Seed' uses title case. Product names use alphanumeric codes (DS-01).
+    'SeedLabs' uses camelCase. Body text uses sentence case. Scientific
+    content follows academic conventions.
+  display_vs_body: >-
+    Display: Seed Sans at expanded variable settings for campaign
+    headlines and brand moments — the typeface physically expands for
+    expressive impact. Body: Seed Sans at contracted variable settings
+    for scientific text, product information, and website content — the
+    typeface tightens for precision and legibility. The expansion/
+    contraction range is the primary typographic device.
+  type_and_image: >-
+    Typography and scientific imagery create compositions where type
+    and microscopy share the frame — Seed Sans headlines alongside
+    microbial visualisations. In product contexts, type provides
+    scientific evidence (strain counts, clinical trial data, formulation
+    details) alongside product photography. The pill-system stylistic
+    set creates visual continuity between DS-01 capsule and letterform.
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "seed.com (observed February 2026)"
+    - "MOUTHWASH Studio (brand evolution)"
+  signature_composition: >-
+    Science-editorial, scroll-narrative. seed.com uses a long-scroll
+    narrative composition — scientific information, microscopy imagery,
+    product evidence, and ecological context unfold as the user scrolls.
+    The composition treats the website as a science publication rather
+    than a supplement store. Product pages combine scientific data
+    (strain information, clinical evidence) with product photography
+    (green vial, capsule detail). Compared to AG1 (more product-hero-
+    conversion-coded) or Ritual (more ingredient-transparency-grid-
+    coded), Seed's layout is the most editorially scientific.
+  density_and_whitespace: >-
+    Moderate-to-low density. Scientific content uses generous whitespace
+    that gives microscopy and ecological imagery space to breathe.
+    Product pages balance scientific evidence with clean product
+    photography. The overall impression is of designed precision —
+    scientific rigour without information overload.
+  format_preferences: >-
+    Desktop-first for the science-editorial experience. Mobile-adaptive.
+    Product photography uses both product-on-white and in-context
+    compositions. Microscopy uses square and detail-crop formats.
+
+trend_posture:
+  overall: "leader"
+  relationship_to_trends: >-
+    Seed leads visual trends in health-supplement branding by importing
+    scientific and ecological visual frameworks rather than following
+    supplement or wellness design conventions.
+  examples:
+    - trend: "Science-as-brand in supplement marketing"
+      stance: "leader"
+      evidence: >-
+        Seed's visual identity — microscopy imagery, Darwin's Nomenclature
+        colour system, microbiome-behaviour-coded variable typeface —
+        established the template for science-forward supplement branding.
+        The approach contrasts sharply with lifestyle-wellness conventions
+        dominant in the category.
+      reasoning: >-
+        Most supplement brands use lifestyle imagery to create aspiration.
+        Seed proved that scientific imagery and frameworks can create
+        equal or greater brand desirability — making science beautiful
+        rather than translating it into lifestyle.
+    - trend: "Variable typography as brand expression"
+      stance: "leader"
+      evidence: >-
+        Seed Sans (Dinamo) — a variable typeface designed to mirror
+        microbiome behaviour (expanding/contracting) — represents one
+        of the most conceptually ambitious uses of variable-font
+        technology in branding. The Grow/Shift/Transform motion framework
+        uses the variable nature for typographic animation.
+      reasoning: >-
+        Most brands use variable fonts for responsive scaling. Seed uses
+        variable-font technology as a metaphor — the typography literally
+        behaves like the microbiome it represents.
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    Iconic green. Seed Sans variable typeface (Dinamo). The Seed dot.
+    The Darwin's Nomenclature colour framework. The science-beautiful
+    register. The Grow/Shift/Transform motion framework.
+  what_bends: >-
+    Product launches (beyond DS-01) introduce product-specific visual
+    treatments within the colour-framework. SeedLabs research content
+    uses a more academic register. University and research partnerships
+    introduce institutional-academic visual elements. Environmental
+    programmes (coral probiotics) introduce ecological-specific imagery.
+  notable_examples: >-
+    Seed x MOUTHWASH Studio (brand evolution): the studio led creative
+    direction, visual identity, and motion design for the comprehensive
+    brand evolution — expanding the visual system to support a growing
+    product ecosystem after six years of initial brand establishment.
+    Seed x Dinamo (Seed Sans): the Swiss type foundry created a variable
+    typeface that mirrors microbiome behaviour — the most biologically-
+    referenced typographic commission in health branding. Seed x DCA
+    Symphony Tokyo: the Tokyo studio extended the brand evolution into
+    new dimensions alongside MOUTHWASH. Seed x Landscape Studio (visual
+    system): the studio created the micro-macro visual system connecting
+    human health to planetary health — making microbiology beautiful
+    through the juxtaposition of microscopic and ecological imagery.

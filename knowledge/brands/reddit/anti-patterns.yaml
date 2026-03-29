@@ -1,0 +1,55 @@
+chunk_id: "reddit-anti-patterns"
+brand: reddit
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "reddit-soul"
+  - "reddit-visual-dna"
+token_count: 244
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Reddit. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Polished UI design suggesting order and control
+    reasoning: Intentionally chaotic visual system that feels organic to platform
+  - pattern: Corporate social media minimalism
+    reasoning: "Distinctive, slightly weird visual personality"
+  - pattern: Lifestyle imagery showing beautiful people discussing beautiful things
+    reasoning: Screenshot imagery of actual weird/real conversations
+  - pattern: Flat design suggesting perfect control
+    reasoning: Dimensional conversation bubbles suggesting depth and layering
+strategic:
+  - pattern: Curating content to match brand values
+    reasoning: Enabling users to have conversations that match THEIR values
+  - pattern: Algorithm deciding what matters
+    reasoning: Community voting deciding what matters
+  - pattern: Centralizing platform authority
+    reasoning: Distributing authority to community moderators
+  - pattern: Optimizing for advertiser comfort
+    reasoning: Optimizing for user authenticity (which creates advertiser risk)
+tonal:
+  - pattern: "Platform-friendly corporate tone"
+    reasoning: "Community-native authentic tone"
+  - pattern: Trying to be relatable to everyone
+    reasoning: "Being genuinely weird and letting like-minded people find each other"
+  - pattern: Transparency as marketing claim
+    reasoning: Transparency as actual moderation choices
+  - pattern: Growth at all costs
+    reasoning: Growth in communities that actually align with platform values
+cultural:
+  - pattern: Social media as performance stage
+    reasoning: Social media as genuine discovery mechanism
+  - pattern: Engagement metrics as success
+    reasoning: Conversation quality and authenticity as success
+  - pattern: Platform controls discourse
+    reasoning: Communities own discourse
+  - pattern: Centralized culture
+    reasoning: Infinite distributed cultures coexisting

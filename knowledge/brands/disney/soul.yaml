@@ -1,0 +1,30 @@
+chunk_id: "disney-soul"
+brand: disney
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "disney-positioning"
+token_count: 145
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of The Walt Disney Company. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "The moment before magic happens, when disbelief suspends and the impossible becomes tangible"
+core_belief: "Stories are the technology through which humans understand they're not alone"
+creative_tension:
+  - >-
+    Heritage icon (Walt Disney script since 1923) vs. constant storytelling innovation across new mediums
+  - "Universal, innocent wonder vs. sophisticated, contemporary culture"
+decision_filter: >-
+  Does this feel like it came from Walt's original vision evolved, or does this feel like we're chasing trends?
+signature_move: >-
+  Walt Disney's flowing script signature—untouched for 100+ years, allowing the entire system to be visually modern without losing identity
+what_would_break_it: >-
+  Redesigning the script wordmark, removing Cinderella Castle or Mickey Mouse as visual devices, creating a single aesthetic for all properties, or treating franchises as equal to Disney core brand

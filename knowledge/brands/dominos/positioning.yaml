@@ -1,0 +1,31 @@
+chunk_id: "dominos-positioning"
+brand: dominos
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Domino's. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: "Domino's"
+website: "https://dominos.com"
+founded: 1960
+category: "food-beverage"
+sub_category: "pizza-delivery"
+price_tier: budget
+primary_archetype: The Everyman
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 2
+  access_exclusivity: 2
+  heritage_innovation: 7
+key_differentiators: []

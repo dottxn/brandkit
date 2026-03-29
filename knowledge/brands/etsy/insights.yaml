@@ -1,0 +1,32 @@
+chunk_id: "etsy-insights"
+brand: etsy
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "etsy-soul"
+  - "etsy-positioning"
+token_count: 373
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Etsy. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    People aren't buying "artisanal products"—they're buying the proof that someone cared enough to do it wrong on purpose. A perfectly consistent handmade item is a contradiction; slight variations aren't flaws, they're authentication marks. Etsy's value lives in imperfection as evidence of authenticity, not in spite of it.
+  - >-
+    Orange (#F56400) works for Etsy because it occupies the exact psychological space between "this matters" and "this is accessible." It reads as ambitious without being cold, optimistic without being naive. Paired with deep black (#222222), the contrast says: "This is serious work, made by serious people, available to you."
+  - >-
+    Etsy's real competitor isn't Amazon or other marketplaces—it's the sunk cost of trust. A seller who's built their reputation on Etsy, who has reviews and an audience, experiences switching costs measured in years of relationship-building. The platform's moat is emotional, not technological.
+  - >-
+    "What does a robot know about love?" works not because it's cute, but because it's structurally true. Etsy's entire value proposition depends on the claim that some things require human judgment that can't be automated. If that belief ever wavers, the platform collapses backward into commodity retail.
+  - >-
+    Community-first language ("our sellers," "the Etsy family") isn't marketing—it's structural. Etsy's survival depends on sellers feeling they're part of a movement, not renting shelf space. The brand must consistently prove that seller success is the primary metric, even when it conflicts with platform growth.
+what_nobody_copies: >-
+  The structural commitment to making production visible. Most retailers hide supply chains, factories, labor. Etsy does the opposite—it celebrates seller hands, workshop chaos, and creative process as the core visual experience. This transparency would destroy competitors' margins, so it remains Etsy's unfakeable moat.

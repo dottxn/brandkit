@@ -1,0 +1,54 @@
+chunk_id: "eventbrite-voice"
+brand: eventbrite
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "eventbrite-soul"
+token_count: 83
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Eventbrite. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Eventbrite is a global event management and ticketing platform that connects people through live experiences, empowering event creators to bring communities together.
+tone_traits:
+  - enthusiastic
+  - "forward-looking"
+  - empowering
+  - playful
+  - surprising
+  - quirky
+  - culturally aware
+  - socially connected
+  - relevant
+  - warm
+  - genuine
+  - caring
+anti_traits:
+  - pessimistic
+  - passive
+  - dismissive
+  - boring
+  - predictable
+  - corporate
+  - "out-of-touch"
+  - generic
+  - stale
+  - cold
+  - robotic
+  - transactional
+example_phrases:
+  - Find what moves you
+  - Turn curiosity into community
+  - Your people are out there
+  - Make it unforgettable
+guardrails:
+  never_say: []
+  always_sound: "enthusiastic, forward-looking, empowering, playful, surprising"

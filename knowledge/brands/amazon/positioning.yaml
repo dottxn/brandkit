@@ -1,0 +1,31 @@
+chunk_id: "amazon-positioning"
+brand: amazon
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Amazon. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Amazon
+website: "https://amazon.com"
+founded: 1994
+category: "e-commerce"
+sub_category: Everything Store
+price_tier: budget
+primary_archetype: The Caregiver
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 2
+  access_exclusivity: 1
+  heritage_innovation: 8
+key_differentiators: []

@@ -1,0 +1,51 @@
+chunk_id: "redfin-voice"
+brand: redfin
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "redfin-soul"
+token_count: 188
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Redfin. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A technology-powered real estate brokerage and marketplace that redefines the buying and selling experience through innovative platform services, salaried agents, and customer-first pricing. Founded i
+tone_traits:
+  - "data-driven insights"
+  - market expertise
+  - educational
+  - transparent
+  - honest
+  - direct communication
+  - "customer-first"
+  - supportive
+  - accessible
+anti_traits:
+  - "know-it-all"
+  - jargony
+  - intimidating
+  - evasive
+  - pushy sales tactics
+  - hidden fees
+  - condescending
+  - overwhelming
+  - transactional
+example_phrases:
+  - >-
+    The standard by which we judge Redfin software and service is whether we create a competitive advantage for our customer, not just ourselves
+  - >-
+    We tell the whole truth about the market, the property, and our own capabilities, even when it costs us a sale
+  - "This is how real estate would be if it were designed just for you, because, well, it was"
+  - >-
+    We meet customers after the death of a parent or the birth of a child, at the beginning or end of a relationship or a career, giving them safe passage to a new life
+guardrails:
+  never_say: []
+  always_sound: "data-driven insights, market expertise, educational, transparent, honest"

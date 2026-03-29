@@ -1,0 +1,61 @@
+chunk_id: "dominos-visual-dna"
+brand: dominos
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "dominos-positioning"
+token_count: 94
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Domino's. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#E31837"
+    name: ""
+    role: ""
+  - hex: "#006491"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFD700"
+    name: ""
+    role: ""
+typography:
+  - name: "Domino's Sans"
+    role: ""
+    style: ""
+  - name: Arial
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: minimal
+  type_class: custom
+  type_character: geometric
+  type_weight: bold
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: staged
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: uniform
+  framing_device: housing
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  Logo-centric layouts with generous white space around the domino mark, bold color blocking for maximum shelf impact

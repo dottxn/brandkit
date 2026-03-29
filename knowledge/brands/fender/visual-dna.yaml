@@ -1,0 +1,58 @@
+chunk_id: "fender-visual-dna"
+brand: fender
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "fender-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Fender. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#D62D20"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Fender Script (Custom)
+    role: ""
+    style: ""
+  - name: "Sans-serif (Supporting)"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: script
+  type_character: editorial
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: documentary
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: heritage
+  conceptual_approach: uniform
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "typography-led"
+composition_logic: >-
+  <cite index='28-3,28-17'>Elements are arranged with clear hierarchy emphasizing the Fender logo and product, using appropriate color to distinguish important characteristics and create visual hierarchy in communications</cite>

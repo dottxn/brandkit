@@ -1,0 +1,32 @@
+chunk_id: "openai-insights"
+brand: openai
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "openai-soul"
+  - "openai-positioning"
+token_count: 166
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for OpenAI. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    The brands defining AI's perception do so through tone, not through technological explanations—nobody understands the math, so personality becomes credibility
+  - >-
+    Custom typefaces matter most when they're invisible (OpenAI Sans works because you see the words, not the typeface)
+  - >-
+    Geometric precision in logo design (Blossom's uniform line weights) makes something that could feel algorithmic instead feel intentional
+  - >-
+    Motion-first design in AI contexts says "this is alive and responsive" rather than "this is a static tool"
+  - >-
+    Research-driven credibility (ChatGPT adoption) matters infinitely more than marketing claims
+what_nobody_copies: >-
+  The decision to use motion and organic flow in an AI context—counterintuitive because AI is defined by computation, yet this choice fundamentally positioned OpenAI as human-facing rather than technical

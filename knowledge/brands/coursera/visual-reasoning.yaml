@@ -1,0 +1,28 @@
+chunk_id: "coursera-visual-reasoning"
+brand: coursera
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "coursera-visual-dna"
+  - "coursera-soul"
+token_count: 196
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Coursera. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Source Sans Pro is humanist sans-serif—not trendy, not personal, but genuinely approachable without being childish. The font's neutrality means all focus lands on content and learner stories rather than typography drawing attention. Consistency across global products ensures that a learner in Tokyo has same cognitive ease as learner in Toronto
+colour_logic: >-
+  Coursera Blue (#0056D3) is specifically chosen for institutional trust without coldness—it's deep enough to feel reliable, bright enough to feel contemporary. Black (#000000) and white (#FFFFFF) create clarity without hierarchy. The palette rejects warm colors that might signal luxury; instead it signals serious, achievable learning
+composition_philosophy: >-
+  The 'C' logo as entry point means every composition begins with possibility. Clean, inviting layouts celebrate learner testimonials and accomplishments prominently. Generous white space reduces cognitive load. Hierarchy is absolutely clear—learner story is most prominent, institutional information is supplementary
+what_would_break_it: >-
+  Academic serif typography, classroom-setting imagery, institutional/campus aesthetics, heavy decorative elements, or removing learner stories as primary content

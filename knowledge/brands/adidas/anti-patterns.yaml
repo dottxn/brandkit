@@ -1,0 +1,56 @@
+chunk_id: "adidas-anti-patterns"
+brand: adidas
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "adidas-soul"
+  - "adidas-visual-dna"
+token_count: 364
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for adidas. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Soft, rounded sans-serif typography"
+    reasoning: Undermines the angular precision and geometric certainty that performance demands
+  - pattern: "Full-bleed photography of peaceful nature"
+    reasoning: >-
+      Negates the brand's conviction that sport is about confronting resistance, not escaping into serenity
+  - pattern: Pastel or muted color palette
+    reasoning: "Reduces the visual authority needed to signal \"winning\" and high performance at scale"
+  - pattern: "Centered, symmetrical composition"
+    reasoning: Conflicts with motion and asymmetry that athletic movement requires
+strategic:
+  - pattern: Marketing that focuses on lifestyle aspirations over athletic functionality
+    reasoning: Dilutes the core belief that product performance comes first
+  - pattern: "Brand partnerships with non-athletic verticals without performance justification"
+    reasoning: "Weakens the \"authentic athlete\" moat"
+  - pattern: Overexplaining technical features without demonstrating them through athlete moments
+    reasoning: Kills credibility with the core audience
+  - pattern: Retreating from bold color blocking in favor of subtlety
+    reasoning: Loses visibility in the cluttered retail environment where adidas needs to dominate
+tonal:
+  - pattern: "Apologetic language (\"we hope,\" \"we think\")"
+    reasoning: Contradicts the confidence athletes need to feel before competition
+  - pattern: "Emotional, vulnerable storytelling without action"
+    reasoning: "Breaks the pact that adidas is about doing, not feeling"
+  - pattern: "Corporate-speak about \"innovation\" without examples"
+    reasoning: Empty language that no athlete respects
+  - pattern: Inclusive language that centers struggles over capabilities
+    reasoning: Shifts focus away from what bodies can accomplish
+cultural:
+  - pattern: Treating sustainability as a separate campaign versus core product design
+    reasoning: "Signals it's an afterthought rather than integrated competitive advantage"
+  - pattern: Centering professional athletes exclusively without showing everyday sport
+    reasoning: Alienates the mass market that generates real revenue
+  - pattern: Ignoring regional sport preferences in favor of global basketball/soccer dominance
+    reasoning: "Misses communities where adidas has room to dominate (trail running, swimming, cycling)"
+  - pattern: Marketing that centers on diversity statistics rather than diverse athletic moments
+    reasoning: Feels mandated rather than authentic to how sport actually works

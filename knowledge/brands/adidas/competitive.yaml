@@ -1,0 +1,37 @@
+chunk_id: "adidas-competitive"
+brand: adidas
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "adidas-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for adidas. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - nike
+  - decathlon
+  - uniqlo
+  - prada
+industry_norms_it_breaks: "Three stripes as a visual device that organizes space—logo becomes architecture | The willingness to make heritage look contemporary without apologizing for the past, and without treating heritage as a restraint | Does this elevate athletic potential or enable moments of authentic human effort?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Three-stripe system, product pages, core brand identity"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Performance sport campaigns, athlete storytelling"
+  - cluster: "heritage-craft"
+    role: "accent"
+    where: "Originals heritage, archive collections, Spezial"
+strategic_cluster: "aspiration-engine"
+category: "sport-outdoor"

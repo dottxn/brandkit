@@ -1,0 +1,31 @@
+# Chunk Template: strategy.yaml
+# Domain: strategy
+# Target: ~400 tokens
+# Present for: all brands (baseline + enriched)
+
+chunk_id: "{brand}-strategy"
+brand: "{brand}"
+domain: "strategy"
+context_tags:
+  - "purpose"
+  - "mission"
+  - "values"
+  - "brand-strategy"
+depends_on:
+  - "{brand}-positioning"
+token_count: 0
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-20"
+status: "active"
+enrichment_level: "baseline"
+summary: >-
+  Strategic foundation for {brand_display}. Purpose, mission,
+  vision, and values.
+
+# ── Data ─────────────────────────────────────────
+
+purpose: ""
+mission: ""
+vision: ""
+values: []                  # Array of value strings

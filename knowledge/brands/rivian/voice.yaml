@@ -1,0 +1,54 @@
+chunk_id: "rivian-voice"
+brand: rivian
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "rivian-soul"
+token_count: 98
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Rivian. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="6-4,6-11">Rivian is an American electric vehicle startup focused on building high-performance electric vehicles designed for adventure and outdoor exploration. The company develops Electr
+tone_traits:
+  - inspiring
+  - exploratory
+  - bold
+  - capable
+  - responsible
+  - "forward-thinking"
+  - conscious
+  - purposeful
+  - innovative
+  - groundbreaking
+  - visionary
+  - transformative
+anti_traits:
+  - cautious
+  - limiting
+  - conventional
+  - restrictive
+  - wasteful
+  - "short-sighted"
+  - careless
+  - destructive
+  - traditional
+  - follower
+  - imitative
+  - stagnant
+example_phrases:
+  - Keep the world adventurous forever
+  - Electric Adventure Vehicles
+  - Preserving the natural world for generations to come
+  - "There's a magic that occurs when people from different worlds come together"
+guardrails:
+  never_say: []
+  always_sound: "inspiring, exploratory, bold, capable, responsible"

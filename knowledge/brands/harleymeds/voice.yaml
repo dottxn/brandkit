@@ -1,0 +1,46 @@
+chunk_id: "harleymeds-voice"
+brand: harleymeds
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "harleymeds-soul"
+token_count: 102
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for HarleyMeds. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="31-4,31-5,31-6">HarleyMeds is a modern telehealth provider specializing in science-backed health and wellness solutions. With a focus on transparency, innovation, and exceptional care, we
+tone_traits:
+  - honest
+  - upfront
+  - clear communication
+  - encouraging
+  - professional
+  - caring
+  - "confidence-building"
+  - "solution-focused"
+anti_traits:
+  - hidden fees
+  - unclear promises
+  - clinical coldness
+  - dismissive
+  - patronizing
+  - overwhelming
+example_phrases:
+  - >-
+    <cite index="31-7">make wellness accessible and help people unlock the best versions of themselves</cite>
+  - "<cite index=\"33-4\">unlock your best self today</cite>"
+  - "<cite index=\"31-11\">transparent pricing to open communication</cite>"
+  - >-
+    <cite index="33-30">No insurance, no hidden fees--just proven treatments designed for real results</cite>
+guardrails:
+  never_say: []
+  always_sound: "honest, upfront, clear communication, encouraging, professional"

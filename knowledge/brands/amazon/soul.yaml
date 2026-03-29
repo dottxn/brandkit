@@ -1,0 +1,28 @@
+chunk_id: "amazon-soul"
+brand: amazon
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "amazon-positioning"
+token_count: 109
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Amazon. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "The hum of infinite logistics beneath a single, knowing smile"
+core_belief: "Obsession with what the customer needs creates opportunities the customer hasn't imagined yet"
+creative_tension:
+  - Utopian accessibility (everything for everyone) vs. ruthless efficiency (cut everything unnecessary)
+  - "Brand ubiquity across 50+ sub-brands vs. single identity coherence"
+decision_filter: >-
+  Will this remove friction between desire and fulfillment, or will this add complexity to the customer journey?
+signature_move: "The smile arrow—a-to-z in one gesture, representing both beginning and completion"
+what_would_break_it: >-
+  Decorative complexity, hierarchical pricing signals, anything that prioritizes Amazon's perspective over customer gain

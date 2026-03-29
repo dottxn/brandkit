@@ -1,0 +1,28 @@
+chunk_id: "roco-visual-reasoning"
+brand: roco
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "roco-visual-dna"
+  - "roco-soul"
+token_count: 217
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Ro. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Ro Sans (custom sans-serif) provides clean, legible typeface designed specifically for healthcare context where clarity is safety. The humanist characteristics prevent coldness while geometric structure prevents ambiguity. The typeface works equally well in interface (micro-sizes) and marketing (large display), suggesting consistency across all patient touchpoints.
+colour_logic: >-
+  Dark blue (#003366) anchors trust and professionalism. Brighter blue (#0066CC) provides action and clarity. White (#FFFFFF) background prevents clinical coldness. Color-coded treatment tags (different colors for different conditions) function as both organizational and normalizing device—conditions are organized, not hidden. The minimal palette suggests "we're serious about your health, not about selling you something."
+composition_philosophy: >-
+  Flexible system allowing customization per treatment category while maintaining visual coherence. Typography-led hierarchy prioritizes clear information over decorative imagery. Product interface emphasizes information clarity; marketing photography shows real spaces (homes, offices) where care actually happens. Composition acknowledges that healthcare complexity exists; design makes it navigable rather than hiding it.
+what_would_break_it: >-
+  Adopting clinical healthcare's sterile aesthetic or wellness industry's lifestyle aspirationalism would undermine Ro's core positioning as accessible, non-judgmental healthcare partnership.

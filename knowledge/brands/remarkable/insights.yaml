@@ -1,0 +1,32 @@
+chunk_id: "remarkable-insights"
+brand: remarkable
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "remarkable-soul"
+  - "remarkable-positioning"
+token_count: 165
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for reMarkable. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    The most successful premium products position themselves as antidotes to category norms rather than as better versions of the category
+  - >-
+    "paper-like" technology only works when grounded in actual technology (low-latency stylus, e-ink screen) rather than aesthetic mimicry
+  - >-
+    Minimalist design in consumer electronics requires brutal restraint—the orange accent only works because everything else is removed
+  - >-
+    Environmental responsibility (#1a1a1a dark charcoal suggests sustainability) works as brand positioning only when paired with actual manufacturing choices
+  - >-
+    ReMarkable's brand positioning (Creator + Sage archetypes) only works because the product experience justifies the philosophy
+what_nobody_copies: >-
+  The architectural decision to build brand identity around what the device doesn't do rather than what it does—this negative space positioning is philosophically courageous

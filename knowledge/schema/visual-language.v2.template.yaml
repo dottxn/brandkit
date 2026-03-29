@@ -1,0 +1,145 @@
+# Chunk Template: visual-language.yaml (v2)
+# Domain: visual-language
+# Target: ~600–1000 tokens
+# Present for: enriched brands only
+#
+# This chunk describes how the brand LOOKS — its structural visual
+# properties. Photography, type, layout, graphic language, collaboration.
+#
+# Channels section removed → now lives in channel-behaviour.yaml
+#
+# ── Writing Rules ──────────────────────────────────
+# 1. Every field must be actionable for an Art Director agent.
+#    If the content wouldn't help someone make a design decision, cut it.
+# 2. Name sources. Every claim should trace to a campaign, photographer,
+#    URL, or brand document. No unsourced assertions.
+# 3. No meta-commentary. Don't describe the template, compare to previous
+#    versions, or note what the chunk can't do. If something is missing,
+#    fix it or leave the field empty.
+# 4. No poetic filler. "The visual equivalent of silence" is not useful.
+#    "60% negative space on product pages, white background" is useful.
+# 5. If you haven't observed it, say so in the confidence field — don't
+#    fill the content field with an educated guess presented as fact.
+# 6. Compare to competitors where possible. "Warmer lighting than X" is
+#    more useful than "warm lighting."
+# 7. Be specific or be empty. A field left blank is more honest than a
+#    field filled with generic description that applies to any brand.
+
+chunk_id: "{brand}-visual-language"
+brand: "{brand}"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "{brand}-visual-dna"
+  - "{brand}-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for {brand_display}. How the brand actually looks —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+# How the brand flexes across contexts. Ground each mode in real,
+# named touchpoints — not abstract categories.
+
+visual_modes:
+  modes:
+    - name: ""                     # A descriptive name specific to THIS brand (not a generic cluster)
+      touchpoints: []              # Real, named places this mode appears (e.g. "nike.com/running", "Nike Running Club app", "marathon OOH")
+      description: ""              # What this mode looks and feels like — be specific
+      differs_from_default_by: ""  # What visually changes compared to the primary mode?
+  notes: ""                        # Flag if sub-brands or product lines need their own visual-language chunk
+
+# ── Photography ──────────────────────────────────
+# Art direction specifics. Grounded in named references.
+# If you haven't looked at actual photographs, say so.
+
+photography:
+  confidence: ""                   # high / medium / low — did you observe primary visual sources?
+  primary_sources: []              # Named campaigns, photographers, or image URLs examined
+  subject_and_framing: >-          # What is in the frame, how it is composed, typical crop and angle.
+                                   # Name a specific campaign or image set as reference.
+  casting_observed: >-             # Who actually appears in recent work (last 12 months).
+                                   # Name specific campaigns or posts. Note the difference between
+                                   # hero campaign casting and everyday content casting.
+  lighting_and_colour: >-          # How the work is lit and colour-graded. Reference a specific
+                                   # photographer or campaign. How does it differ from the closest
+                                   # competitor's lighting?
+  post_production: >-              # Retouching philosophy AND observable evidence.
+                                   # Can you see skin texture? Grain? Heavy grading?
+  visual_boundaries:
+    stated_exclusions: ""          # What the brand guidelines or positioning say to avoid
+    observed_exceptions: ""        # Where the brand has broken its own stated rules (with examples)
+    genuine_absence: ""            # What you've confirmed is absent across recent output (with sample size)
+
+# ── Illustration & Graphic Language ──────────────
+# If and how the brand uses non-photographic visual elements.
+
+graphic_language:
+  confidence: ""
+  primary_sources: []
+  uses_illustration: false
+  illustration_style: ""             # Name the style and reference a specific example. Not "hand-drawn and warm."
+  illustration_role: ""              # When does illustration appear INSTEAD of photography? Name the touchpoints.
+  icon_style: ""                     # Custom or system? Stroke weight, fill, shape language. Name the source or designer.
+  graphic_devices: ""                # Recurring non-typographic devices. Name them and where they appear.
+  motion_language: ""                # Only populate if you have watched the motion work. Name the piece. Otherwise leave empty.
+
+# ── Typography in Practice ───────────────────────
+# Focus on what is DISTINCTIVE about this brand's typography.
+# Skip generic descriptions of "moderate tracking" — every brand has that.
+
+type_treatment:
+  confidence: ""
+  primary_sources: []              # Named typefaces, foundries, designers. URL to specimen or brand guidelines if available.
+  signature_move: >-               # The single most distinctive typographic decision this brand makes.
+                                   # What would you notice first? What makes it immediately recognisable?
+  what_would_look_wrong: >-        # If you got one thing wrong typographically, what would a designer
+                                   # notice immediately? This is the non-negotiable.
+  case_convention: ""              # Default case — uppercase, lowercase, sentence, title, mixed
+  display_vs_body: >-              # Named typefaces and their roles. Who designed them? When adopted?
+                                   # How do display and body type differ in weight, style, personality?
+  type_and_image: ""               # How type interacts with photography/illustration — overlays, defers, competes?
+
+# ── Layout & Composition ─────────────────────────
+# Focus on what is distinctive. Skip "12-column responsive grid" unless
+# there is something genuinely unusual about the grid implementation.
+
+layout:
+  confidence: ""
+  primary_sources: []
+  signature_composition: >-        # The single most distinctive layout decision. What makes this brand's
+                                   # page/screen feel different from competitors at a glance?
+  density_and_whitespace: >-       # Only include if genuinely distinctive. "Minimal with generous whitespace"
+                                   # applies to most brands and is not useful. State what is different.
+  format_preferences: ""           # Preferred aspect ratios, orientations. Only if distinctive from category norms.
+
+# ── Trend Posture ────────────────────────────────
+# How the brand relates to design trends. Every example needs evidence.
+
+trend_posture:
+  overall: ""                      # leader | early-adopter | selective-adopter | resister | subverter
+  relationship_to_trends: ""       # One to two sentences. No philosophy — state the pattern and name evidence.
+  examples:                        # Only include examples you have NAMED evidence for. No default entries.
+    - trend: ""
+      stance: ""                   # leader | early-adopter | selective-adopter | resister | subverter
+      evidence: ""                 # A specific, named, verifiable piece of evidence (campaign, post, product, public statement)
+      reasoning: ""
+
+# ── Collaboration Rules ──────────────────────────
+# How the visual identity bends (or doesn't) in partnership contexts.
+
+collaboration:
+  flexibility: ""                  # rigid | selective | adaptive | chameleon
+  what_stays: ""                   # Name the specific elements. Not "the brand essence."
+  what_bends: ""                   # Name what has actually changed in past collaborations.
+  notable_examples: ""             # Real collaborations only. Name partners, dates, what changed visually. No hypotheticals.

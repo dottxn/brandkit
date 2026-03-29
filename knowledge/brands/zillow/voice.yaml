@@ -1,0 +1,36 @@
+chunk_id: "zillow-voice"
+brand: zillow
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "zillow-soul"
+token_count: 37
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Zillow. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Zillow is an online real estate marketplace that connects buyers, sellers, renters, and real estate professionals. The platform provides comprehensive property listings, home valuations (Zestimate), m
+tone_traits:
+  - "empowering"
+  - "clear"
+  - "trustworthy"
+  - "optimistic"
+  - "human"
+anti_traits:
+  - pushy
+  - jargon-heavy
+  - cold
+  - aggressive
+  - impersonal
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a trusted friend helping you navigate the biggest decision of your life"

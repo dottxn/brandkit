@@ -1,0 +1,28 @@
+chunk_id: "wayfair-visual-reasoning"
+brand: wayfair
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "wayfair-visual-dna"
+  - "wayfair-soul"
+token_count: 267
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Wayfair. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Wayfair Sans was designed to be approachable yet modern—avoiding both sterile corporate sans-serif and trendy geometric fonts. The typeface has friendly proportions that feel inviting to uncertain shoppers while maintaining clarity for product information. System sans-serif fallbacks ensure consistency across devices without requiring custom font delivery.
+colour_logic: >-
+  The primary purple (#7B189F) is warm and inclusive—neither traditionally masculine nor feminine. Supporting warm whites and earth tones create a palette that feels like a comfortable home rather than a sterile showroom. The color system allows seasonal updates without losing brand consistency. Supporting functional colors (greens for positive actions, reds for alerts) follow usability conventions.
+composition_philosophy: >-
+  Product grid layouts emphasize abundance while maintaining visual rhythm and easy navigation. High product density with consistent thumbnail sizing, standardized pricing presentation, and clear rating/review indicators. Information architecture prioritizes quick scanning and comparison. Asymmetrical layouts in marketing materials balance stunning product imagery with readable copy.
+what_would_break_it: >-
+  Introducing luxury minimalism, high-end design positioning, or a restricted color palette would immediately alienate the middle-market homeowner and signal exclusivity. The moment Wayfair's visual system suggests "this is for people with taste and money," it loses its core audience. The brand depends on communicating that beautiful homes are for everyone, and that massive selection enables personal expression regardless of budget.

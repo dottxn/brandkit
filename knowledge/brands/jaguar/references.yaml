@@ -1,0 +1,60 @@
+# ──────────────────────────────────────────────
+# Jaguar — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Monotype"
+    type: type-foundry
+    url: "https://www.monotype.com/"
+    relationship: "Designed custom typeface for Jaguar rebrand (2024); foundational to new identity"
+
+  - name: "Spark44"
+    type: branding
+    url: "https://www.spark44.com/"
+    relationship: "Automotive branding specialist; part of rebrand creative direction"
+
+  - name: "Accenture Song"
+    type: creative-direction
+    url: "https://www.accenture.com/us-en/services/song-creative-services"
+    relationship: "Previous global creative account lead; under account review since May 2025"
+
+people:
+  - name: "Richard Stevens"
+    role: "Brand Design Director"
+    url: "https://www.linkedin.com/in/richard-stevens/"
+    context: "Brand Design Director at Jaguar; oversees rebrand visual strategy"
+
+  - name: "Gerry McGovern"
+    role: "Chief Creative Officer"
+    url: "https://www.linkedin.com/in/gerrymcgovern/"
+    context: "CCO at Jaguar; articulates 'Copy Nothing' brand philosophy"
+
+publications:
+  - title: "Jaguar: Copy Nothing — The Rebrand That Polarized An Industry"
+    author: "Design and Automotive Press"
+    relevance: "Documents the controversial departure from automotive visual conventions"
+
+  - title: "From Leaper to Abstract: Jaguar's Radical Visual Identity Transformation"
+    author: "Brand Strategy Documentation"
+    relevance: "Analyzes the retirement of the iconic leaper logo and shift to geometric marks"
+
+visuals:
+  - url: "https://www.jaguar.com/"
+    label: "Jaguar Brand Website — Post-Rebrand Identity (November 2024)"
+    section: visual-language
+
+  - url: "https://www.wallpaper.com/transportation/jaguar-reveals-its-new-graphic-identity-brand-reboot"
+    label: "Jaguar Reveals New Graphic Identity — Wallpaper"
+    section: visual-language
+
+  - url: "https://www.creativebloq.com/design/logos-icons/jaguar-knows-its-new-logos-wont-please-everyone"
+    label: "Jaguar's Bold New Logo — Creative Bloq"
+    section: visual-language
+
+  - url: "https://www.marketingdive.com/news/jaguar-revamps-brand-identity-automotive-marketing-EV-transition/733319/"
+    label: "Jaguar Revamps Brand for EV Transition — Marketing Dive"
+    section: visual-language
+
+  - url: "https://www.dezeen.com/2024/11/jaguar-reveals-new-brand-identity/"
+    label: "Jaguar's Exuberant Modernism Rebrand — Dezeen"
+    section: visual-language

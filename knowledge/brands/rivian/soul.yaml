@@ -1,0 +1,33 @@
+chunk_id: "rivian-soul"
+brand: rivian
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "rivian-positioning"
+token_count: 183
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Rivian. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  An explorer's journal written in electric light — weatherproof, capable, and utterly alive with possibility
+core_belief: >-
+  Adventure matters most when the world is still there to explore, which is why responsibility isn't compromise—it's liberation
+creative_tension:
+  - >-
+    Rugged off-road capability paired with cutting-edge technological precision—the opposite of how they usually coexist
+  - >-
+    Premium pricing and exclusivity serving a mission to make the world's future more adventurous for everyone, not just the privileged few
+decision_filter: >-
+  Does this move forward adventure while preserving the world that makes adventure possible? If both aren't true, it fails the filter.
+signature_move: >-
+  The four-arrow compass logo where outer arrows push outward (innovation, exploration) while inner arrows point inward (purpose, responsibility)—movement without leaving scars
+what_would_break_it: >-
+  Softening the product photography into lifestyle inspiration without dirt, mud, or genuine environmental consequence. The moment Rivian vehicles become luxury lifestyle props instead of tools that DO something, the brand dies.

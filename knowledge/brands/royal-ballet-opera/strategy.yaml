@@ -1,0 +1,31 @@
+chunk_id: "royal-ballet-opera-strategy"
+brand: "royal-ballet-opera"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "royal-ballet-opera-positioning"
+token_count: 104
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Royal Ballet and Opera. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe the art forms of ballet and opera can both entertain and offer deep emotional and intellectual fulfilment, serving as a direct link to the combined experiences of past generations and a lens on the contemporary world
+mission: >-
+  To enrich people's lives through ballet and opera, seek to be always accessible and engaging, develop audiences across the UK and break new ground in the presentation of lyric theatre
+vision: >-
+  To create art that makes you feel different about yourself and can change how you feel about the world, celebrating everything that the arts bring to UK society
+values:
+  - Artistic Excellence
+  - "Inclusivity & Accessibility"
+  - "Heritage & Innovation"
+  - Collaborative Leadership
+  - Cultural Impact

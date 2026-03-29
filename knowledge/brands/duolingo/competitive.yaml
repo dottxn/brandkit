@@ -1,0 +1,37 @@
+chunk_id: "duolingo-competitive"
+brand: duolingo
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "duolingo-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Duolingo. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - coursera
+  - udemy
+  - masterclass
+  - notion
+industry_norms_it_breaks: "Duo's personality expressed through multiple emotional states (guilt, joy, chaos, encouragement) as the primary interface—the mascot isn't decoration, it's the entire voice | The rigor of experience design within bite-sized constraints. Most competitors copy the \"5-minute lesson\" format, but Duolingo's lesson architecture (lesson length, difficulty progression, feedback ti | Does this feel like a friend who cares about your growth, even when they're messing with you? Does it honor the learner's agency while secretly guiding their behavior?"
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Duo mascot, vibrant palette, energetic learning"
+  - cluster: "expressive-maximalist"
+    role: "secondary"
+    where: "Social-unhinged content, rule-breaking, meme energy"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "App learning interface, gamification UI"
+strategic_cluster: "community-connector"
+category: education

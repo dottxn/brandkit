@@ -1,0 +1,28 @@
+chunk_id: "dominos-visual-reasoning"
+brand: dominos
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "dominos-visual-dna"
+  - "dominos-soul"
+token_count: 244
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual reasoning for Domino's. Why the design choices work."
+
+# ── Data
+type_logic: >-
+  Domino's Sans is custom because every letterform must carry personality and appetite activation—thick, "doughy" forms suggest bread and indulgence. Round shapes dominate, mirroring the pizza circle and domino dots. This typeface wouldn't work for finance or healthcare; it's specifically designed to make mouths water. Geometric characteristics still signal modernity and structural clarity
+colour_logic: >-
+  Domino's Red (#E31837) and Domino's Blue (#006491) in their "hottest" versions are intentionally intense and saturated—there's no pastel softness, no cool undertones. The vibrancy literally signals heat and craving. Black (#000000) provides contrast without coldness. Gold (#FFD700) appears in luxury variants, creating aspirational tier. Every color should activate appetite sensory pathways
+composition_philosophy: >-
+  The domino dots pattern organizes everything—they create rhythm, imply motion, suggest the path to satisfaction. Gold accent variants use dots as grid organizing principle. Logo-centric layouts put the domino first. White space around the domino creates isolation that makes it shout. Typography of "mmm" (Cravemark) stretches and plays within dots pattern. All compositions should whisper: "you want this"
+what_would_break_it: >-
+  Cool color palettes, sophisticated minimalist aesthetics, health-focused imagery, removing dots pattern as compositional principle, formal typography, or design language that treats pizza as utilitarian rather than experiential

@@ -1,0 +1,33 @@
+chunk_id: "glossier-soul"
+brand: glossier
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "glossier-positioning"
+token_count: 237
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Glossier. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A group chat with your smartest friend who also somehow has the best taste. The kind of person who tells you what actually works and then lets you decide, then doesn't judge when you decide wrong.
+core_belief: >-
+  Confidence is a skin condition that can be improved with the right product and community, not wealth or genetics.
+creative_tension:
+  - >-
+    A company that celebrates "no makeup makeup" while selling expensive products, claiming authenticity while being extremely calculated about which real moments to show.
+  - >-
+    Glossier democratizes beauty through technology and community, but maintains exclusivity through aesthetic gatekeeping—not everyone can be "Glossier," even if they buy all the products.
+decision_filter: >-
+  When faced with a fork, Glossier always chooses what the community has already discovered over what marketers predict they'll want.
+signature_move: >-
+  The hand-drawn 'G' monogram—imperfect, slightly naive, unmistakably personal. It's the only custom device in a minimalist system, and its imperfection proves authenticity.
+what_would_break_it: >-
+  A serif typeface, dramatic lighting, or professional beauty photography. The moment Glossier switches to editorial glamour photography (the language of Vogue) or adopts a typeface with historical weight, it stops being community-driven and becomes top-down luxury masquerading as grassroots.

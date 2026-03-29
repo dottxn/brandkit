@@ -1,0 +1,49 @@
+chunk_id: "paypal-voice"
+brand: paypal
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "paypal-soul"
+token_count: 137
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for PayPal. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  PayPal is an American multinational financial technology company operating an online payments system that serves as an electronic alternative to traditional paper methods. The company operates a techn
+tone_traits:
+  - conversational
+  - approachable
+  - empathetic
+  - clear
+  - decisive
+  - trustworthy
+  - welcoming
+  - accessible
+  - understanding
+anti_traits:
+  - robotic
+  - corporate jargon
+  - overly technical language
+  - hesitant
+  - complicated
+  - confusing
+  - elitist
+  - exclusive
+  - intimidating
+example_phrases:
+  - "Paper or plastic. Now you can accept cards, checks, and keep track of cash"
+  - "PayPal is the one way to pay that's any way you want to pay"
+  - >-
+    Buy into being safer: No matter where you shop, we'll keep your financial information private and protected
+  - "When this is how you work, here is how you get paid"
+guardrails:
+  never_say: []
+  always_sound: "conversational, approachable, empathetic, clear, decisive"

@@ -1,0 +1,38 @@
+chunk_id: "tesla-competitive"
+brand: tesla
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "tesla-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Tesla. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - rivian
+  - bmw
+  - "ford-motor-company"
+  - apple
+  - jaguar
+industry_norms_it_breaks: "The horizontal 'T' wordmark positioned impossibly small and centered on vast negative space—demanding the architecture of the environment to complete the communication. | The commitment to making the technical specifications visible as graphic design (rendering battery architecture in marketing materials, making the Supercharger network a design element, turning over-t | When faced with a fork, Tesla always chooses the harder engineering problem over the easier marketing solution."
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Product configurator, clean, precise, minimal"
+  - cluster: "dark-premium"
+    role: "secondary"
+    where: "Cybertruck industrial, cool, authoritative"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Software UI, over-the-air updates, dashboard"
+strategic_cluster: "aspiration-engine"
+category: automotive

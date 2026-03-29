@@ -1,0 +1,38 @@
+chunk_id: "apple-competitive"
+brand: apple
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "apple-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Apple. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - microsoft
+  - nothing
+  - remarkable
+  - nike
+  - openai
+industry_norms_it_breaks: "The negative space in the bitten apple logo. A single bite removes an entire hemisphere, creating a symbol that's simultaneously whole and compromised — perfection acknowledged as unattainable. | Apple's willingness to sacrifice short-term sales for long-term brand coherence. Other tech companies would add features to compete; Apple subtracts to clarify. This creates the paradox that Apple oft | When faced with a fork, Apple removes a third option nobody expected to need. The brand doesn't ask \"what features should we include?\" but \"what can we eliminate?\" Constraint is the creative tool."
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Product hero photography, systematic design language"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Shot on iPhone, services entertainment, keynotes"
+  - cluster: "soft-minimal"
+    role: "accent"
+    where: "Liquid Glass UI, gentle interface evolution"
+strategic_cluster: "creative-authority"
+category: technology

@@ -1,0 +1,31 @@
+chunk_id: "wayfair-positioning"
+brand: wayfair
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Wayfair. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Wayfair
+website: "https://www.wayfair.com"
+founded: 2002
+category: "e-commerce"
+sub_category: home furnishings marketplace
+price_tier: "mid-range"
+primary_archetype: The Creator
+secondary_archetype: The Caregiver
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 3
+  heritage_innovation: 7
+key_differentiators: []

@@ -1,0 +1,42 @@
+chunk_id: "loreal-visual-dna"
+brand: loreal
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "loreal-positioning"
+token_count: 49
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for L'Oréal. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors: []
+typography: []
+visual_tags:
+  palette_mood: neutral
+  palette_range: minimal
+  type_class: custom
+  type_character: ""
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "typography-led"
+composition_logic: ""

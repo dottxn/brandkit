@@ -1,0 +1,61 @@
+chunk_id: "cash-app-visual-dna"
+brand: "cash-app"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "cash-app-positioning"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Cash App. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#00D54B"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: Cash Sans
+    role: ""
+    style: ""
+  - name: CashMarket
+    role: ""
+    style: ""
+  - name: Agrandir Wide
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: minimal
+  type_class: custom
+  type_character: geometric
+  type_weight: mixed
+  imagery_medium: "3d-render"
+  imagery_subject: abstract
+  imagery_treatment: staged
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: maximalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: dimensional
+  shape_language: rounded
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "illustration-led"
+composition_logic: >-
+  Infinite canvas approach with physics-based interactions, allowing elements to float, turn, and respond dynamically to user engagement.

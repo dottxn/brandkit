@@ -1,0 +1,28 @@
+chunk_id: "sephora-visual-reasoning"
+brand: sephora
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "sephora-visual-dna"
+  - "sephora-soul"
+token_count: 232
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Sephora. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Sephora Sans (custom sans-serif) provides geometric precision suggesting luxury and control. Paired with Sephora Serif Display and Sephora Serif Text, the system allows clean hierarchy across contexts. The geometric base prevents friendliness; the serif counterparts prevent coldness. The custom family investment signals luxury commitment while geometric character proportions maintain accessibility.
+colour_logic: >-
+  Striking monochromatic foundation (black #000000, white #FFFFFF) embodies luxury minimalism and visual sophistication. Vibrant pink (#E91E63) accent provides bold energy and inclusivity signal—pink historically associated with femininity but used here as fearless self-expression regardless of gender. The minimal palette means the pink never gets lost; it commands attention when it appears.
+composition_philosophy: >-
+  Asymmetrical layouts with generous white space suggesting luxury and thoughtfulness. The curved S-mark and stripe pattern appear throughout as compositional anchors. Asymmetry creates visual interest while maintaining brand coherence. Photography emphasizes diverse beauty expressions; composition tends toward dynamic/energetic reflecting creative joy. The stripe pattern can organize information, create visual breaks, or function as background texture.
+what_would_break_it: >-
+  Adopting exclusionary luxury aesthetic (gatekeeping beauty standards through visual language) or corporate formality would destroy Sephora's core positioning as fearless, inclusive beauty community.

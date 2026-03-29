@@ -1,0 +1,32 @@
+chunk_id: "shopifycom-insights"
+brand: shopifycom
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "shopifycom-soul"
+  - "shopifycom-positioning"
+token_count: 223
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Shopify.com. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Merchant obsession beats customer obsession when you're B2B—the moment you care more about empowering your users' customers than your users themselves, you've lost sight of the actual value creation.
+  - >-
+    Green isn't about growth marketing clichés; it's about vegetation breaking through concrete—a visual metaphor for life emerging where it was impossible before.
+  - >-
+    Horizontal white space isn't aesthetic preference, it's trust—every pixel of breathing room says "we're not hiding anything from you."
+  - >-
+    Myriad as a typeface choice was philosophical, not decorative—it's the font of instruction manuals and clarity, rejected by design trends but perfect for tools that work.
+  - >-
+    The shopping bag logo shape isn't decoration but a shape language—every curve and angle teaches the mind to associate rounded geometry with "ease" versus the sharp edges of "enterprise."
+what_nobody_copies: >-
+  The deliberate refusal to make the visual system showy. Every competitor tries to add vibrancy and emotional appeal; Shopify leans harder into the inverse—making the merchant's products the star, not the platform.

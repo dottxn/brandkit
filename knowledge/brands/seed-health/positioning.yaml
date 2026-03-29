@@ -1,0 +1,31 @@
+chunk_id: "seed-health-positioning"
+brand: "seed-health"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Seed Health. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Seed Health
+website: "https://seed.com"
+founded: 2015
+category: "health-wellness"
+sub_category: "microbiome-science"
+price_tier: premium
+primary_archetype: The Magician
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 7
+  heritage_innovation: 9
+key_differentiators: []

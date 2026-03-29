@@ -1,0 +1,32 @@
+chunk_id: "zoom-insights"
+brand: zoom
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "zoom-soul"
+  - "zoom-positioning"
+token_count: 195
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Zoom. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Zoom's competitive advantage is reliability and simplicity, not feature richness. The visual system must communicate dependability above all else.
+  - >-
+    The video grid layout is not decorative; it's the core of Zoom's human experience. The interface structure directly enables the feeling of connection.
+  - >-
+    The multi-color system (#2D8CFF blue, #FF6900 orange, #00D924 green, #9B59B6 purple) for different product lines works because each color carries distinct emotional weight appropriate to its use case.
+  - >-
+    Lato typeface was chosen for its friendly yet professional character—it feels approachable without being trendy or temporary.
+  - >-
+    The brand's strength comes from "it just works" perception. Every design decision must reinforce the promise that Zoom can be trusted with important human moments.
+what_nobody_copies: >-
+  The commitment to making video conferencing feel natural and unmediated. Competitors add features and complexity; Zoom's design philosophy is subtraction toward invisible infrastructure.

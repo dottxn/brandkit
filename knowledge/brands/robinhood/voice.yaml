@@ -1,0 +1,48 @@
+chunk_id: "robinhood-voice"
+brand: robinhood
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "robinhood-soul"
+token_count: 93
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Robinhood. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A commission-free investing platform that democratizes finance for all. Originally known for disrupting traditional brokerage with mobile-first trading, Robinhood has evolved into a comprehensive fina
+tone_traits:
+  - confident
+  - educational
+  - accessible
+  - smart
+  - refined
+  - professional
+  - clear
+  - honest
+  - straightforward
+anti_traits:
+  - condescending
+  - overly complex
+  - elitist
+  - juvenile
+  - flashy
+  - gimmicky
+  - jargony
+  - evasive
+  - overly corporate
+example_phrases:
+  - "Investing for everyone, not just the wealthy"
+  - Your money should work as hard as you do
+  - "Commission-free trading that puts you first"
+  - "Building wealth shouldn't be complicated"
+guardrails:
+  never_say: []
+  always_sound: "confident, educational, accessible, smart, refined"

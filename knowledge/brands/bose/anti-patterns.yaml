@@ -1,0 +1,58 @@
+chunk_id: "bose-anti-patterns"
+brand: bose
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "bose-soul"
+  - "bose-visual-dna"
+token_count: 344
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Bose Corporation. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Straight, upright typography"
+    reasoning: "Neutralizes the waveform energy that the 30-degree angle creates"
+  - pattern: "Literal sound visualization (equalizer bars, waveforms, etc.)"
+    reasoning: Makes sound feel documented instead of experienced
+  - pattern: "Cool, sterile color palettes dominated by grey and white"
+    reasoning: "Loses the vibration and energy that high-fidelity audio creates"
+  - pattern: "Centred, stable compositions"
+    reasoning: Conflicts with the movement and motion that sound implies
+strategic:
+  - pattern: Marketing that emphasizes technical specifications over listening experiences
+    reasoning: "Bores the mainstream audience who don't care about psychoacoustics"
+  - pattern: "Entering value-tier audio markets without maintaining premium positioning"
+    reasoning: "Dilutes the 15-20% price premium that brand cachet supports"
+  - pattern: Treating noise cancellation as the category win instead of just one feature
+    reasoning: Misses immersive audio positioning that separates Bose from competitors
+  - pattern: Ignoring the lifestyle integration moment (how Bose fits into daily routines)
+    reasoning: Misses the emotional connection that drives repurchase
+tonal:
+  - pattern: Technical jargon without translation to listening benefit
+    reasoning: "Alienates mainstream customers, limiting growth"
+  - pattern: "Authoritative, lecture-like tone"
+    reasoning: Conflicts with the immersion and sensory delight positioning
+  - pattern: Apologetic language about price premium
+    reasoning: Signals insecurity rather than confidence in superiority
+  - pattern: "Ironic, detached tone"
+    reasoning: Undermines the genuine passion that immersive audio creates
+cultural:
+  - pattern: >-
+      Marketing exclusively to music genres (rock, hip-hop) instead of use cases (work, meditation, gaming)
+    reasoning: Misses expanding audience segments
+  - pattern: Representation that centers luxury Western aesthetics while ignoring global music traditions
+    reasoning: "Wastes opportunity to appeal to music-centric cultures"
+  - pattern: >-
+      Treating sustainability practices as separate initiative rather than integrated into headphone design
+    reasoning: Signals PR rather than genuine commitment
+  - pattern: >-
+      Ignoring accessibility (hearing aids, assisted listening devices) while claiming to be "sound expertise leaders"
+    reasoning: Misses growing market and authentic community

@@ -1,0 +1,64 @@
+chunk_id: "bookingcom-visual-dna"
+brand: bookingcom
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "bookingcom-positioning"
+token_count: 110
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Booking.com. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#003B95"
+    name: ""
+    role: ""
+  - hex: "#009FE3"
+    name: ""
+    role: ""
+  - hex: "#FEBA02"
+    name: ""
+    role: ""
+  - hex: "#666666"
+    name: ""
+    role: ""
+  - hex: "#F2F6FA"
+    name: ""
+    role: ""
+typography:
+  - name: Booking Sans
+    role: ""
+    style: ""
+  - name: "System fonts (San Francisco, Segoe UI, Roboto)"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: focused
+  type_class: custom
+  type_character: humanist
+  type_weight: bold
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: candid
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: medium
+  identity_system: flexible
+  signature_device: "typography-led"
+composition_logic: >-
+  <cite index="14-21">Keep the core brand simple so it's easier to replicate, scale and flex without diluting it</cite>

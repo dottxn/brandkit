@@ -1,0 +1,32 @@
+chunk_id: "delta-air-lines-insights"
+brand: "delta-air-lines"
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "delta-air-lines-soul"
+  - "delta-air-lines-positioning"
+token_count: 180
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Delta Air Lines. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Airline brands only distinguish through premium service consistency, not through aircraft specs—Delta's moat is the Delta One experience and lounge culture, not fleet superiority
+  - >-
+    "Keep Climbing" works as a strategic principle because it applies to customer journey (keep climbing toward your destination) and human purpose (keep climbing toward potential)
+  - >-
+    3D motion in brand systems creates psychological momentum—the triangle moving through space makes flying feel like achievement, not commute
+  - >-
+    Editorial sensibility (human-centered storytelling, real moments) creates luxury positioning more effectively than lifestyle clichés
+  - >-
+    Transformation positioning works when tied to specific behavioral evidence—Delta's culture of care (beverage service, lounge quality) proves the narrative isn't empty
+what_nobody_copies: >-
+  The repositioning from airline company to lifestyle brand built on human connection and transformation, executed through consistent 3D motion design language

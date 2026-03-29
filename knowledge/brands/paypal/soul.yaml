@@ -1,0 +1,30 @@
+chunk_id: "paypal-soul"
+brand: paypal
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "paypal-positioning"
+token_count: 127
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of PayPal. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: Money moving at the speed of intention rather than institutional delay
+core_belief: "Financial access isn't about being rich; it's about institutions getting out of your way"
+creative_tension:
+  - >-
+    Playful personality (history of "cash, check, card" campaigns) balanced with serious financial infrastructure
+  - "Global ubiquity that somehow doesn't feel corporate or diluted"
+decision_filter: >-
+  Does it make financial friction invisible? Or does it acknowledge friction exists and we're here to remove it?
+signature_move: >-
+  Overlapping P monogram (#0070BA and #003087) creating dimensional depth suggesting layered financial services in simple form
+what_would_break_it: >-
+  Adopting luxury financial services aesthetic or cold efficiency would destroy PayPal's core positioning as inclusive and demystifying

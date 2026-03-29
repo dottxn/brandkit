@@ -1,0 +1,62 @@
+# ──────────────────────────────────────────────
+# Patagonia — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "BASIC/DEPT"
+    type: "digital-design"
+    url: "https://basicagency.com/"
+    project_url: "https://www.basicagency.com/case-studies/patagonia-ecommerce-website"
+    relationship: "Designed patagonia.com website with clean, editorial layout prioritising landscape photography and environmental messaging"
+
+  - name: "Someoddpilot"
+    type: "creative-direction"
+    url: "https://www.someoddpilot.com/"
+    relationship: "Creative direction for Patagonia environmental campaign materials"
+
+  - name: "TDA_Boulder"
+    type: "creative-direction"
+    url: ""
+    relationship: "Handles Patagonia Provisions-specific creative direction for sustainable food line"
+
+people:
+  - name: "Tim Davis"
+    role: "Senior Photographer"
+    url: "https://www.timdavis.photos/"
+    context: "Senior staff photographer managing comprehensive image programme (60,000 annual submissions), director of photography on Patagonia film team"
+
+  - name: "Jeff Johnson"
+    role: "Photographer"
+    url: "http://www.jeffjohnsonstories.com/"
+    context: "First staff photographer (established spec submission system in 1980), foundational to Patagonia's documentary photography standard"
+
+  - name: "Yvon Chouinard"
+    role: "Founder"
+    url: ""
+    context: "Established environmental mission and documentary ethos that guides all visual decisions"
+
+publications:
+  - title: "The Responsible Company"
+    author: "Yvon Chouinard and Vincent Stanley"
+    relevance: "Articulates the philosophical foundation for Patagonia's visual positioning and environmental activism"
+
+  - title: "Let My People Go Surfing"
+    author: "Yvon Chouinard"
+    relevance: "Chronicles the brand philosophy that informs visual language and company culture"
+
+visuals:
+  - url: "https://www.patagonia.com/"
+    label: "Patagonia homepage with hero landscape photography"
+    section: "visual-language"
+
+  - url: "https://www.patagonia.com/stories/"
+    label: "Editorial stories with documentary photography and environmental content"
+    section: "visual-language"
+
+  - url: "https://www.patagonia.com/actionworks/"
+    label: "Environmental activism platform with documentary photography and data visualisation"
+    section: "visual-language"
+
+  - url: "https://www.patagonia.com/worn-wear/"
+    label: "Worn Wear programme celebrating used gear as value proposition"
+    section: "visual-world"

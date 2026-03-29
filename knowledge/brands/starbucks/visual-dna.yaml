@@ -1,0 +1,67 @@
+chunk_id: "starbucks-visual-dna"
+brand: starbucks
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "starbucks-positioning"
+token_count: 110
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Starbucks. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#006241"
+    name: ""
+    role: ""
+  - hex: "#00754A"
+    name: ""
+    role: ""
+  - hex: "#D4E9E2"
+    name: ""
+    role: ""
+  - hex: "#1E3932"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: SoDo Sans
+    role: ""
+    style: ""
+  - name: Lander
+    role: ""
+    style: ""
+  - name: Pike
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: focused
+  type_class: custom
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: candid
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: medium
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  Flexible modular system allowing Siren logo to work independently or with wordmark, with generous whitespace and organic flow patterns

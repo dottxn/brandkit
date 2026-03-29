@@ -1,0 +1,31 @@
+chunk_id: "reddit-strategy"
+brand: reddit
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "reddit-positioning"
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Reddit. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="34-5">We believe community and belonging should be accessible to everyone in the world</cite>
+mission: "<cite index=\"34-5\">To bring community and belonging to everyone in the world</cite>"
+vision: >-
+  <cite index="11-15">To become the heart of the internet where people discover and participate through real conversation</cite>
+values:
+  - "<cite index=\"11-14,24-1,24-7\">Inherently Eclectic</cite>"
+  - "<cite index=\"11-14,24-1,24-7\">Positively Different</cite>"
+  - "<cite index=\"11-14,24-1,24-7\">Delightfully Absurd</cite>"
+  - "<cite index=\"11-14,24-1,24-7\">Genuinely Candid</cite>"
+  - "<cite index=\"35-13\">Inclusivity</cite>"
+  - "<cite index=\"35-18\">Transparency</cite>"

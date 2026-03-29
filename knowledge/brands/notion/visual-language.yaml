@@ -1,0 +1,316 @@
+chunk_id: "notion-visual-language"
+brand: "notion"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "notion-visual-dna"
+  - "notion-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Notion. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "core-monochrome"
+      touchpoints:
+        - "notion.so homepage and product pages"
+        - "Notion product interface (app and web)"
+        - "Notion templates gallery"
+        - "Documentation and help centre"
+      description: >-
+        Black (#000000) and white (#FFFFFF) only. Notion's core visual
+        identity is an anti-maximalist statement — in a category of
+        colourful productivity tools (Asana orange, Monday.com multi-colour,
+        Trello blue), Notion uses only black and white. Roman Muradov's
+        hand-drawn illustrations (black ink on white, New Yorker-level
+        editorial quality) define the brand's visual personality. Rob
+        Giampietro (Head of Creative, ex-Google/MoMA, since 2023) and
+        Randy Hunt (Head of Design, ex-Etsy) oversee a visual system that
+        positions Notion as a 'tool for thought' — the visual language
+        signals intellectual seriousness without corporate stiffness.
+        Compared to Figma (maximalist, five-colour) or Canva (friendly,
+        consumer-bright), Notion is the most visually restrained major
+        productivity tool.
+      differs_from_default_by: >-
+        This is the baseline. All other modes depart from this black-
+        and-white, illustration-driven, minimal register.
+
+    - name: "marketing-colour"
+      touchpoints:
+        - "'Think it. Make it.' campaign (2024, BUCK production)"
+        - "Notion brand social media content"
+        - "Paid advertising and OOH"
+        - "Event and launch marketing materials"
+      description: >-
+        The 2024 'Think it. Make it.' campaign (BUCK production) introduced
+        primary colours into Notion's visual language for the first time —
+        blue, red, yellow as accent colours in animated and static marketing
+        materials. This is strictly a marketing-only expansion. The campaign
+        used 3D-animated sequences and bold colour blocking that contrasts
+        sharply with the monochrome core. The introduction of colour signals
+        Notion's ambition to reach beyond the design-and-tech audience into
+        mainstream productivity.
+      differs_from_default_by: >-
+        Primary colours appear. 3D animation replaces hand-drawn illustration.
+        The register shifts from intellectual calm to energetic accessibility.
+        Strictly confined to marketing — the product remains monochrome.
+
+    - name: "notion-ai"
+      touchpoints:
+        - "Notion AI feature marketing"
+        - "Notion AI in-product interface"
+        - "AI-focused landing pages and campaigns"
+      description: >-
+        Purple-tinted, featuring the Notion AI character (BUCK production) —
+        a hand-drawn animated face that brings AI to life through Notion's
+        illustration language. The AI character maintains Roman Muradov's
+        illustration style but introduces animation and personality. Purple
+        serves as the AI-specific accent colour, distinguishing AI features
+        from core product functionality. The visual language bridges the
+        monochrome core with something warmer and more animated.
+      differs_from_default_by: >-
+        Purple accent colour appears. The AI character introduces animated
+        personality to the illustration system. More dynamic and expressive
+        than the core monochrome register while maintaining the hand-drawn
+        aesthetic.
+
+  notes: >-
+    Notion's sub-products (Notion Calendar, Notion Mail, Notion Sites) may
+    develop distinct visual sub-languages as they mature. The 2024 colour
+    introduction in marketing represents the most significant visual
+    evolution since the brand's establishment. Order Design Studio created
+    the visual identity for the Make with Notion conference — another
+    expanding visual context.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "low"
+  primary_sources:
+    - "notion.so (observed February 2026)"
+    - "'Think it. Make it.' campaign materials (BUCK, 2024)"
+    - "Notion social media channels"
+  subject_and_framing: >-
+    Notion uses minimal photography. The brand's visual identity relies on
+    illustration and product UI rather than photographic content. When
+    photography appears (events, team content, social media), it is candid
+    and documentary — not art-directed in the traditional sense. The 'Think
+    it. Make it.' campaign favoured 3D animation over photography. Compared
+    to Figma (event photography, community portraits) or Slack (diverse
+    workplace photography), Notion deliberately underinvests in photography
+    as a brand tool.
+  casting_observed: >-
+    Limited casting data. Event photography shows the tech/design community
+    — younger, diverse, creative-professional demographic. No celebrity
+    partnerships. No major photography-driven campaigns observed.
+  lighting_and_colour: >-
+    When photography appears, it is neutral-to-warm, natural lighting. No
+    distinctive colour grading. Photography is not a significant part of
+    Notion's visual toolkit — illustration carries the visual identity.
+  post_production: >-
+    Minimal. Photography is not heavily processed or branded. Notion's
+    illustration system does the work that photography does for other brands.
+  visual_boundaries:
+    stated_exclusions: >-
+      Notion avoids the visual vocabulary of corporate productivity tools —
+      stock photography of office workers, blue-corporate colour palettes,
+      and generic 'teamwork' imagery.
+    observed_exceptions: >-
+      Enterprise-focused marketing occasionally adopts more conventional
+      B2B SaaS visual conventions to appeal to procurement audiences.
+    genuine_absence: >-
+      Based on notion.so review: no stock photography, no hero photography
+      campaigns (illustration fills this role), no celebrity casting, no
+      lifestyle photography in the traditional brand-marketing sense.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Roman Muradov (illustrator, Art Director at Notion)"
+    - "BUCK production (Notion AI character, 'Think it. Make it.' campaign, 2024)"
+    - "Order Design Studio (Make with Notion conference identity)"
+    - "notion.so and Notion social media (observed February 2026)"
+  uses_illustration: true
+  illustration_style: >-
+    Roman Muradov's hand-drawn black-and-white ink illustrations define
+    Notion's visual personality. The style is editorial and literary —
+    closer to New Yorker magazine illustration or independent graphic novels
+    than to tech-industry illustration conventions. Organic line work,
+    architectural compositions, conceptual visual metaphors. Each illustration
+    is a one-off artwork, not assembled from modular components. The BUCK-
+    produced Notion AI character extends this language into animation —
+    a hand-drawn face with personality and movement. Compared to Slack
+    (bold, dimensional, Alice Lee/Giulia Giovannini), Dropbox (abstract,
+    system-generated), or Figma (geometric primitives), Notion's illustration
+    is the most artistically ambitious and the most author-driven.
+  illustration_role: >-
+    Illustration is Notion's PRIMARY visual language — it does what
+    photography does for other brands. Hero content, marketing campaigns,
+    product feature explanations, error states, empty states, and brand
+    storytelling all use Muradov's illustrations. The illustration system
+    IS the brand's visual identity.
+  icon_style: >-
+    Product icons follow a minimal, black-outline style consistent with
+    the illustration language. Page icons in Notion's product use emoji
+    by default but support custom uploads. The icon system is deliberately
+    simple — thin line weight, no fills, monochrome.
+  graphic_devices: >-
+    The Notion wordmark in a custom geometric sans-serif. Roman Muradov's
+    illustration system — each piece is unique but united by the black-and-
+    white ink aesthetic, organic line quality, and conceptual sophistication.
+    The block metaphor (content blocks are Notion's core product concept)
+    appears in marketing as stacked, modular visual elements. The Notion AI
+    character (hand-drawn animated face by BUCK) — a new graphic device
+    that gives AI functionality a visual personality.
+  motion_language: >-
+    Observed in the 'Think it. Make it.' campaign (BUCK, 2024): fluid 3D
+    animation introducing colour and dimension. The Notion AI character
+    animates with hand-drawn quality — frame-by-frame personality rather
+    than smooth procedural animation. Product animations are subtle —
+    page transitions, block interactions, and sidebar movements are gentle
+    and low-friction.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Inter (Rasmus Andersson, 2017, open-source) — Notion's UI and marketing typeface"
+    - "notion.so (observed February 2026)"
+    - "Notion product interface"
+  signature_move: >-
+    Inter (Rasmus Andersson, 2017) — an open-source sans-serif designed
+    specifically for computer screens. Notion's choice of Inter is a
+    statement: in a market where competitors commission bespoke typefaces
+    (Figma Sans, Slack's Larsseit, Stripe's Söhne), Notion uses a free,
+    community-created font. This aligns with the 'tool for thought'
+    positioning — the typography should be invisible, letting the user's
+    content take centre stage. The signature is absence: Notion's type
+    is designed to disappear.
+  what_would_look_wrong: >-
+    A display typeface that draws attention to itself. Colour in the
+    typography (the core brand is strictly black and white). Decorative
+    or expressive type in product contexts. Heavy type weights that compete
+    with the illustration system. A bespoke typeface would contradict
+    Notion's tool-for-thought, content-first philosophy.
+  case_convention: >-
+    Sentence case throughout. The Notion wordmark uses title case ('Notion').
+    Feature names use sentence case ('Notion AI,' 'Notion Calendar'). The
+    brand avoids ALL CAPS in marketing — the tone is conversational, not
+    declarative.
+  display_vs_body: >-
+    Display and body are both Inter — weight and size variation handles
+    the hierarchy. Display uses Inter at heavier weights and larger sizes.
+    Body uses Inter Regular at standard sizes. The single-typeface approach
+    reinforces the minimal, tool-like aesthetic. Within the product, users
+    can choose their own content fonts (serif, sans-serif, mono) — Notion
+    defaults to system fonts for user content, maintaining the 'transparent
+    tool' positioning.
+  type_and_image: >-
+    Type coexists with illustration — both in black on white, creating a
+    unified, print-like composition. Type never overlays or competes with
+    Muradov's illustrations. In the product, type IS the content — Notion
+    is fundamentally a text editor, and the typography serves the user's
+    writing rather than the brand's expression.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "notion.so (observed February 2026)"
+    - "Notion product interface"
+    - "'Think it. Make it.' campaign materials"
+  signature_composition: >-
+    Clean, centred, generous vertical rhythm. notion.so uses a single-
+    column editorial layout with centred content blocks — more like a
+    literary magazine than a SaaS marketing page. Illustration and text
+    alternate in a measured vertical scroll. The product interface uses
+    a sidebar-plus-canvas layout that is now an industry standard (Notion
+    popularised this pattern, and it has been adopted by Coda, Craft,
+    Obsidian, and others). Compared to Figma (asymmetric, maximalist) or
+    Asana (dense, dashboard-oriented), Notion's layout is the most editorially
+    composed.
+  density_and_whitespace: >-
+    Generous whitespace in marketing. The black-and-white palette amplifies
+    the sense of openness — with no colour to fill space, negative space
+    becomes the dominant compositional element. Product interface is
+    moderately dense (the user controls content density through their own
+    page structure). The default product experience is spacious — wide
+    margins, comfortable line heights, breathing room around blocks.
+  format_preferences: >-
+    Centred, vertical-scrolling editorial layouts for marketing. The product
+    uses flexible page widths (full-width or centred). Illustration assets
+    are typically horizontal or square. Marketing heroes use wide, landscape
+    compositions.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Notion maintains its monochrome, illustration-driven identity while
+    selectively adopting trends that serve its 'tool for thought' positioning.
+    The brand resists the maximalist trend that Figma and others have
+    embraced, but adopted AI visual language early.
+  examples:
+    - trend: "AI product branding"
+      stance: "early-adopter"
+      evidence: >-
+        The Notion AI character (BUCK production, 2024) — a hand-drawn
+        animated face — gives AI functionality a visual personality that
+        maintains the brand's illustration language. Rather than adopting
+        generic AI visual clichés (gradients, sparkles, purple), Notion
+        integrated AI into its existing visual system.
+      reasoning: >-
+        Notion adopted AI branding early but on its own visual terms —
+        the hand-drawn character maintains brand consistency while
+        signalling AI capability.
+    - trend: "Maximalist brand design in tech"
+      stance: "resister"
+      evidence: >-
+        While Figma (September 2024) and others moved toward maximalist,
+        colour-saturated brand design, Notion maintained its monochrome
+        core. The 2024 colour introduction was confined to marketing and
+        explicitly excluded from the product and core brand identity.
+      reasoning: >-
+        Notion's restraint is a competitive advantage. In a market of
+        increasingly colourful and loud brand designs, the monochrome
+        simplicity becomes more distinctive, not less.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    Black-and-white colour palette in core brand contexts. Roman Muradov's
+    illustration style and editorial quality. Inter as the typeface.
+    The minimal, tool-for-thought tone. The conceptual sophistication
+    of the visual language.
+  what_bends: >-
+    Marketing campaigns can introduce colour (as 'Think it. Make it.'
+    demonstrated). Conference identities (Make with Notion) receive
+    distinct visual treatments. Integration partner contexts (Notion
+    embedded in Slack, etc.) adapt to the host platform's visual language.
+  notable_examples: >-
+    'Think it. Make it.' (BUCK, 2024): first introduction of primary
+    colours into Notion's visual language — strictly marketing-only.
+    Make with Notion conference (Order Design Studio): distinct conference
+    identity that extends the brand into event contexts. Notion Template
+    Gallery: community-created templates that carry variable visual quality —
+    Notion maintains a curated gallery that represents the brand standard.

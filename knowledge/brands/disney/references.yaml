@@ -1,0 +1,68 @@
+studios:
+- name: Trollbäck+Company
+  type: branding
+  url: https://www.trollback.com/
+  relationship: Created Disney+ visual identity system; elastic shape system based
+    on Disney wordmark curves
+  project_url: https://www.trollback.com/projects/disneyplus
+- name: Yellow Shoes
+  type: in-house-creative-agency
+  url: ''
+  relationship: 250+ person in-house creative team; handles Parks, Experiences, and
+    Products visual work
+- name: Disney Animation Studios
+  type: studio
+  url: https://www.disneyanimationstudios.com/
+  relationship: Creates 'storybook realism' visual language; defines character design
+    and animation standards
+- name: Makine Studios
+  type: design-studio
+  url: https://makine.studio/
+  relationship: Designed Disney Channel 2025 rebrand using gradients and negative
+    space
+people:
+- name: Asad Ayaz
+  role: Chief Brand Officer
+  url: ''
+  context: First official Chief Brand Officer (appointed April 2025); oversees multi-brand
+    visual architecture
+- name: Helen Pak
+  role: SVP Creative, Yellow Shoes
+  url: ''
+  context: Leads 250+ person in-house creative agency for Parks, Experiences, and
+    Products
+- name: Emily Chiu
+  role: Character Designer (Duolingo)
+  url: ''
+  context: 'Note: Different context; mentioned in Duolingo visual language'
+publications:
+- title: Disney100 Centennial Visual Identity
+  author: Disney Creative
+  relevance: 2023 identity refresh using platinum tones and sparkling CGI effects
+    (Clio Gold Award)
+- title: Storybook Realism — Disney Animation Visual Development
+  author: Disney Animation Studios
+  relevance: Official visual language standard for all Disney animation character
+    design
+- title: Disney Parks Environmental Design Principles
+  author: Disney Imagineering
+  relevance: '''Wienies'' principle and ''one story at a time'' spatial design philosophy'
+visuals:
+- url: https://www.trollback.com/projects/disneyplus
+  label: Disney+ Visual Identity — Trollbäck+Company Portfolio
+  section: visual-language
+- url: https://www.disneyplus.com/
+  label: Disney+ Platform — Current Visual Implementation
+  section: visual-world
+- url: https://www.disney.com/
+  label: Disney.com — Corporate Brand Homepage
+  section: visual-world
+- url: https://makine.studio/
+  label: Disney Channel 2025 Rebrand — Makine Studios
+  section: visual-language
+- url: https://disneyparks.disney.go.com/
+  label: Disney Parks Official Site — Experiential Design
+  section: visual-world
+- url: https://www.avid.wiki/Disney+_Originals
+  label: Disney+ Visual Identity Database — Audiovisual Identity Wiki
+  section: visual-language

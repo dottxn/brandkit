@@ -1,0 +1,28 @@
+chunk_id: "nothing-soul"
+brand: nothing
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "nothing-positioning"
+token_count: 109
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Nothing. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: A specter from the future of computing made tangible—clarity made visible through absence
+core_belief: >-
+  Beauty emerges when technology stops pretending to be revolutionary and just shows its honest mechanism
+creative_tension:
+  - "Retro-futurism (80s IBM mainframe) speaking perfectly to contemporary design discourse"
+  - "Radical transparency (literal transparency) paired with exclusive, desirable positioning"
+decision_filter: "Does it reveal or conceal? Nothing ships anything that hides its methodology"
+signature_move: Glyph Interface—the LED notification system transformed into narrative design language
+what_would_break_it: >-
+  Adding gradient, bloom, or blur to the visual language—any softness would betray the transparency ethos

@@ -1,0 +1,31 @@
+chunk_id: "arc-strategy"
+brand: arc
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "arc-positioning"
+token_count: 76
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Arc. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="31-16,31-17">We believe in building a browser to make the internet better, not make money off your personal data - prioritizing your privacy over profit.</cite>
+mission: >-
+  <cite index="35-1,40-1">To build a better way to use the internet, creating a group of friendly humans working to make the internet feel more like home.</cite>
+vision: >-
+  <cite index="31-12,36-11,36-12,36-13">The successor to the personal computer is imminent, and it starts in the browser - we'll see you there.</cite>
+values:
+  - Privacy First
+  - User Empowerment
+  - Creative Expression
+  - Thoughtful Design
+  - "Community-Driven"

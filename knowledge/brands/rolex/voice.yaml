@@ -1,0 +1,48 @@
+chunk_id: "rolex-voice"
+brand: rolex
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "rolex-soul"
+token_count: 84
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Rolex. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Rolex is a Swiss luxury watch manufacturer renowned for its precision, innovation, and craftsmanship. Founded in 1905, the company produces timepieces designed to last generations, embodying excellenc
+tone_traits:
+  - Confident
+  - knowledgeable
+  - definitive
+  - Elegant
+  - sophisticated
+  - understated
+  - Aspirational
+  - "achievement-focused"
+  - pioneering
+anti_traits:
+  - Arrogant
+  - dismissive
+  - condescending
+  - Flashy
+  - ostentatious
+  - trendy
+  - Boastful
+  - exclusionary
+  - elitist
+example_phrases:
+  - A Crown for Every Achievement
+  - "It doesn't just tell time. It tells history."
+  - The Rolex Way
+  - Excellence in the making
+guardrails:
+  never_say: []
+  always_sound: "Confident, knowledgeable, definitive, Elegant, sophisticated"

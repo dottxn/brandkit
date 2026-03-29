@@ -1,0 +1,71 @@
+chunk_id: "herman-miller-anti-patterns"
+brand: "herman-miller"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "herman-miller-soul"
+  - "herman-miller-visual-dna"
+token_count: 934
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Herman Miller. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Returning to monochromatic branding after the 2024 palette expansion
+    reasoning: >-
+      The palette expansion to blues (#0066CC), pinks (#FF6B9D), greens (#00A651), oranges (#FF7A00) alongside the core red is intentional reclamation of modernist boldness. Retreating back to red-only would signal loss of confidence. The brand proved it could multiply color without becoming chaotic.
+  - pattern: "Adopting sterile, geometric sans-serif like Helvetica or DM Sans for primary branding"
+    reasoning: >-
+      These typefaces are undeniably modernist, but they lack warmth. Söhne's humanist character—slightly irregular proportions, curves that feel drawn—keeps the brand warm rather than corporate cold. Moving to a purely geometric sans would reposition Herman Miller as engineering brand rather than design brand.
+  - pattern: "Over-styled, inspirational \"dream workspace\" photography replacing documentary authenticity"
+    reasoning: >-
+      Herman Miller's strength is showing real people solving real problems through design. Idealized lifestyle imagery (happy teams collaborating in sunlit spaces) would feel aspirational rather than authentic. Photography should show actual work environments, actual bodies in actual situations.
+  - pattern: Monolithic M symbol appearing the same way across all applications
+    reasoning: >-
+      The power of the liberated M is its flexibility. If it appears identical in every context, it becomes static. The M should be manipulated—oversized in some contexts, pixelated in others, cropped unexpectedly, colored differently. This flexibility proves the modular philosophy.
+strategic:
+  - pattern: Emphasizing luxury or premium positioning over accessibility
+    reasoning: >-
+      While Herman Miller products cost more, the positioning should be "democratic design available at mid-market price" not "exclusive luxury." The brand wins by making beautiful design available to professionals, not by making it exclusive.
+  - pattern: "Abandoning the modular design philosophy to chase contemporary \"biophilic\" or \"wellness\" trends"
+    reasoning: >-
+      While current trends around wellness are valid, they're trends. The modular design philosophy is structural. Adding biophilic elements (plants, curves, natural materials) that don't serve the core modularity would dilute the system for trend-chasing.
+  - pattern: Manufacturing compromises to reduce costs while maintaining premium pricing
+    reasoning: >-
+      This would be instantly detected by professionals who understand design. Cheaper materials, reduced construction quality, or simplified processes that reduce durability would destroy the brand's credibility. The price reflects genuine investment in materials and construction.
+  - pattern: Expanding into lifestyle products without connecting to the core mission
+    reasoning: >-
+      Branded water bottles, apparel, or home decor distance the brand from its core purpose. While merchandise exists, the positioning should prioritize furniture and workspace solutions. Lifestyle expansion should only occur if it serves the "design for good of humankind" mission.
+tonal:
+  - pattern: "Inspirational, motivational messaging unrelated to problem-solving"
+    reasoning: >-
+      "Find your potential," "Unleash your creativity," "Transform your workspace"—these are generic brand-building phrases. Herman Miller's tone should be grounded in specific problems and solutions: "The Aeron chair was designed to reduce back pain during extended sitting." Problem first, inspiration second.
+  - pattern: "Self-congratulatory tone about sustainability commitments"
+    reasoning: >-
+      "We care," "We're committed," "Join our green journey"—these feel defensive. Herman Miller should state sustainability matter-of-factly as part of design excellence. The tone should be: "Sustainable design is good design," not "Please appreciate our sustainability efforts."
+  - pattern: "Casual, friendly voice mimicking consumer brands"
+    reasoning: >-
+      Herman Miller's audience is design professionals and educated consumers. The tone should respect this intelligence. Casual slang or emoji-driven language would undermine the brand's authority and credibility.
+  - pattern: "Overly academic or technical language inaccessible to non-designers"
+    reasoning: >-
+      While the brand can be sophisticated, jargon and theory-heavy language would alienate actual users. The tone should be knowledgeable but clear: speak to designers like architects, but speak to users like humans who have back pain.
+cultural:
+  - pattern: Attempting to compete with IKEA on affordability
+    reasoning: >-
+      IKEA owns affordable, accessible, fast furniture. Herman Miller should never compete here. The positioning is "affordable premium"—better quality than IKEA, cheaper than Vitra, focused on professionals and educated consumers willing to invest in durability.
+  - pattern: Positioning designers or architects as elite gatekeepers
+    reasoning: >-
+      While Herman Miller's credibility comes from designer partnerships, the brand should never feel like design is for experts only. The positioning should be inclusive: good design solves real problems for real people.
+  - pattern: "Moving toward trend-driven seasonal collections"
+    reasoning: >-
+      Mid-century modernism is timeless, not trendy. Seasonal color drops, limited editions, or collection drops structured around fashion calendars would destroy the brand's positioning. Collections should be driven by new problems to solve, not seasonal marketing.
+  - pattern: Allowing the M symbol to become so generic it loses meaning
+    reasoning: >-
+      If the M appears everywhere without intention, it becomes wallpaper. The symbol should be used strategically enough that each application feels purposeful. Protection through restraint, not proliferation.

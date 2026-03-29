@@ -1,0 +1,64 @@
+chunk_id: "pepsi-visual-dna"
+brand: pepsi
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "pepsi-positioning"
+token_count: 107
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for PepsiCo. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#D4A574"
+    name: ""
+    role: ""
+  - hex: "#87CEEB"
+    name: ""
+    role: ""
+  - hex: "#98D982"
+    name: ""
+    role: ""
+  - hex: "#228B22"
+    name: ""
+    role: ""
+typography:
+  - name: Custom PepsiCo Sans (lowercase)
+    role: ""
+    style: ""
+  - name: Custom Pepsi Typeface
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: neutral
+  palette_range: focused
+  type_class: custom
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: minimal
+  imagery_subject: abstract
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: housing
+  symbolic_type: "abstract-mark"
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: medium
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="3-14,3-15">Circular composition with central white 'P' surrounded by symbolic elements representing different business pillars, unified by the smile element at the bottom.</cite>

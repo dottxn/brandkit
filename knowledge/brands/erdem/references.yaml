@@ -1,0 +1,58 @@
+# ──────────────────────────────────────────────
+# Erdem — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Studio Bon"
+    type: "branding"
+    url: "https://studiobon.com/"
+    relationship: "Art direction and visual campaign design for Erdem x H&M collaboration (2017)"
+
+people:
+  - name: "Sonia Szóstak"
+    role: "Photographer"
+    url: "https://www.soniaszostak.com/"
+    context: "Campaign photographer; creates atmospheric, narrative-editorial imagery for Erdem collections"
+
+  - name: "Michal Pudelka"
+    role: "Photographer"
+    url: "https://tunicastudio.com/michal-pudelka/"
+    context: "Campaign photographer; brings surreal, dream-like quality to Erdem visual narratives"
+
+  - name: "Sam Rock"
+    role: "Photographer"
+    url: "https://www.instagram.com/samrocksamrock/"
+    context: "Campaign photographer; captures Erdem Pre-Fall collections at London locations"
+
+  - name: "Erdem Moralioglu MBE"
+    role: "Founder and Creative Director"
+    url: "https://erdem.com/"
+    context: "Designer and visual author; personally art-directs campaign photography and designs floral prints (RCA 2003, ex-Vivienne Westwood/DVF)"
+
+  - name: "Philippa Nixon"
+    role: "CEO"
+    url: "https://erdem.com/"
+    context: "Commercial leadership; joined 2019 from Chloé"
+
+  - name: "Kaye Donachie"
+    role: "Artist"
+    url: "https://www.kadonachie.com/"
+    context: "Contemporary painter; collaborated on Pre-Fall 2025 collection with work integrated into print design and campaign imagery"
+
+publications:
+  - title: "British Museum Partnerships"
+    author: "Dr Nicholas Cullinan"
+    relevance: "Ongoing institutional collaboration since 2018 providing historical references, archive access, and museum settings for collection narratives"
+
+visuals:
+  - url: "https://erdem.com/"
+    label: "Official website and campaign gallery — Editorial campaign photography"
+    section: "visual-language"
+
+  - url: "https://www.vogue.com/"
+    label: "Vogue editorial features — Fashion editorial collections coverage"
+    section: "visual-language"
+
+  - url: "https://www.harpersbazaar.com/"
+    label: "Harper's Bazaar editorial features — Campaign and collection editorial"
+    section: "visual-language"

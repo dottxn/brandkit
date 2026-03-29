@@ -1,0 +1,48 @@
+chunk_id: "nothing-voice"
+brand: nothing
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "nothing-soul"
+token_count: 101
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Nothing. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Nothing is a British consumer electronics company founded by Carl Pei that creates smartphones, audio products, and related software with transparent designs and distinctive LED interfaces. The compan
+tone_traits:
+  - honest
+  - open
+  - authentic communication
+  - bold
+  - confident
+  - creatively different
+  - "community-focused"
+  - accessible
+  - engaging
+anti_traits:
+  - corporate speak
+  - jargon
+  - hidden agendas
+  - generic
+  - safe
+  - conformist
+  - elitist
+  - exclusive
+  - intimidating
+example_phrases:
+  - Nothing stands between you and technology
+  - Make technology fun again
+  - Everything that is ear (1) is there with purpose
+  - We pressed a giant reset button and found Nothing
+guardrails:
+  never_say: []
+  always_sound: "honest, open, authentic communication, bold, confident"

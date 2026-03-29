@@ -1,0 +1,38 @@
+chunk_id: "youtube-competitive"
+brand: youtube
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "youtube-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for YouTube. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - netflix
+  - spotify
+  - hulu
+  - espn
+  - reddit
+industry_norms_it_breaks: "The red play button (#FF0000) as the most recognized symbol on the internet—a shape that means \"something you want is here, press this.\" | The commitment to creator brand prominence over platform brand. Every design decision prioritizes making creator content look better, even if it means YouTube's branding is less visible. | Does this increase the visibility of creator content, or does it increase YouTube's visibility? If it's the latter, we've gotten the priority wrong."
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Red play button, vibrant, energetic creator platform"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Creator tools, algorithmic platform, Studio dashboard"
+  - cluster: "dark-premium"
+    role: "accent"
+    where: "YouTube Music, Premium, dark mode viewing"
+strategic_cluster: "creative-authority"
+category: entertainment

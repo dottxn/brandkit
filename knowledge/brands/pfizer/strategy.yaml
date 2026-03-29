@@ -1,0 +1,33 @@
+chunk_id: "pfizer-strategy"
+brand: pfizer
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "pfizer-positioning"
+token_count: 192
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Pfizer. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "<cite index=\"31-4\">We believe in breakthroughs that change patients' lives</cite>"
+mission: >-
+  <cite index="37-1">To become the world's most valued company to patients, customers, colleagues, investors, business partners, and the communities where we work and live.</cite>
+vision: >-
+  <cite index="37-2">To innovate to bring therapies to patients that significantly improve their lives.</cite>
+values:
+  - >-
+    <cite index="31-11,31-12,31-13">Courage - Breakthroughs start by challenging convention, especially in the face of uncertainty or adversity. This happens when we think big, speak up, and are decisive.</cite>
+  - >-
+    <cite index="31-14,31-15">Excellence - We can only change patients' lives when we perform at our best together. This happens when we focus on what matters, agree who does what, and measure our outcomes.</cite>
+  - >-
+    <cite index="31-16,31-17">Equity - We believe that every person deserves to be seen, heard, and cared for. This happens when we are inclusive, act with integrity, and reduce healthcare disparities.</cite>
+  - >-
+    <cite index="31-18,64-9,64-10">Joy - We give ourselves to our work, but it also gives to us. We find joy when we take pride, recognize one another, and have fun.</cite>

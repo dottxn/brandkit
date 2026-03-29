@@ -1,0 +1,53 @@
+# ──────────────────────────────────────────────
+# Reddit — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Pentagram"
+    type: "branding"
+    url: "https://www.pentagram.com/"
+    project_url: "https://www.pentagram.com/work/reddit/story"
+    relationship: "Led 2023 rebrand creating Reddit Sans typeface, 3D Snoo redesign, and conversation-bubble logo; reduced colour palette from 100+ to 15 hues"
+
+  - name: "OrangeRed"
+    type: "type-foundry"
+    url: "https://orangered.design/"
+    relationship: "Foundry behind Stephen Hutchings, type designer for Reddit Sans"
+
+people:
+  - name: "Natasha Jen"
+    role: "Partner, Pentagram"
+    url: "https://www.pentagram.com/about/natasha-jen"
+    context: "Led 2023 Reddit rebrand, directed evaluation of brand positioning with focus on community, eclecticism, and delight"
+
+  - name: "Stephen Hutchings"
+    role: "Type Designer"
+    url: ""
+    context: "Designed Reddit Sans (2023) with distinctive 67.5° slash angle, available open-source on Google Fonts since June 2024"
+
+  - name: "Alexis Ohanian"
+    role: "Co-founder"
+    url: ""
+    context: "Originally sketched Snoo mascot (2005), foundational to Reddit's visual identity"
+
+publications:
+  - title: "Thinking with Type"
+    author: "Ellen Lupton"
+    relevance: "Informs Reddit's approach to open-source typeface design and community participation"
+
+visuals:
+  - url: "https://www.reddit.com/"
+    label: "Reddit homepage and interface showcasing conversation-bubble logo and OrangeRed palette"
+    section: "visual-language"
+
+  - url: "https://www.reddit.com/r/place/"
+    label: "r/place collaborative pixel-art canvas demonstrating community visual creation"
+    section: "visual-world"
+
+  - url: "https://www.reddit.com/ads/"
+    label: "Reddit Ads platform with business-facing visual language and data visualisations"
+    section: "visual-language"
+
+  - url: "https://fonts.google.com/specimen/Reddit+Sans"
+    label: "Reddit Sans open-source typeface on Google Fonts (SIL licence, June 2024)"
+    section: "visual-language"

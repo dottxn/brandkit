@@ -1,0 +1,49 @@
+chunk_id: "roco-voice"
+brand: roco
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "roco-soul"
+token_count: 176
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Ro. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="10-1,10-2">Ro is a telehealth company connecting patients with US-licensed professionals entirely online. Get treatment now for weight loss, sexual health, hair loss, fertility, & more.</
+tone_traits:
+  - empathetic
+  - accessible
+  - straightforward
+  - educational
+  - supportive
+  - "confidence-building"
+  - warm
+  - understanding
+  - authentic
+anti_traits:
+  - clinical coldness
+  - intimidating medical jargon
+  - patronizing
+  - overly paternalistic
+  - robotic
+  - corporate speak
+example_phrases:
+  - >-
+    <cite index="35-17">They also care about what you want. What you want to live a happy and fulfilling life, whatever that may mean for you.</cite>
+  - >-
+    <cite index="40-28,40-31">Always start with what patients want... Fight for the healthcare they deserve and move mountains to make it happen.</cite>
+  - >-
+    <cite index="33-20,33-21">The vision of becoming the patient's first call was aligned with exactly what I was looking for from a company mission standpoint.</cite>
+  - >-
+    <cite index="61-14">Our expert team of healthcare professionals, backed by world-renowned experts, is committed to empowering you to live a fulfilling and productive life.</cite>
+guardrails:
+  never_say: []
+  always_sound: "empathetic, accessible, straightforward, educational, supportive"

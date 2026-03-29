@@ -1,0 +1,65 @@
+# ──────────────────────────────────────────────
+# Hermès — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "RDAI Architecture"
+    type: architecture
+    url: "https://www.rdai.fr/en/"
+    relationship: "Design of Hermès flagship stores worldwide; successor to Rena Dumas practice"
+
+people:
+  - name: "Denis Montel"
+    role: "Architect & Artistic Director"
+    url: "https://www.rdai.fr/en/about"
+    context: "Leads RDAI architecture studio; designs Hermès flagship stores globally"
+
+  - name: "Rena Dumas"
+    role: "Founder / Architect"
+    url: "https://en.wikipedia.org/wiki/Rena_Dumas"
+    context: "Founded RDAI in 1972; established Hermès architectural language"
+
+  - name: "Rudolf Wolf"
+    role: "Type Designer"
+    url: "https://en.wikipedia.org/wiki/Rudolf_Wolf_(type_designer)"
+    context: "Designed Memphis Bold typeface (1929) — Hermès signature typeface"
+
+  - name: "Craig McDean"
+    role: "Photographer"
+    url: "https://www.craigmcdean.com/"
+    context: "Campaign photographer for Hermès; known for luxury fashion photography"
+
+  - name: "Linda Merad"
+    role: "Illustrator"
+    url: "https://www.linkedin.com/in/linda-merad/"
+    context: "Hand-drawn illustrations for Hermès digital homepage (January 2026)"
+
+publications:
+  - title: "Hermès: The Art of Being"
+    author: "Hermès"
+    relevance: "Brand philosophy and heritage documentation"
+
+  - title: "Le Monde d'Hermès Magazine"
+    author: "Hermès"
+    relevance: "Quarterly publication showcasing editorial design language and craft"
+
+visuals:
+  - url: "https://www.hermes.com/"
+    label: "Hermès Brand Website — Live Implementation with Hand-Drawn Illustrations"
+    section: visual-language
+
+  - url: "https://interiordesign.net/designwire/hermes-madison-avenue-rdai-denis-montel-new-york/"
+    label: "Hermès Madison Avenue Flagship Store by Denis Montel — Interior Design"
+    section: visual-world
+
+  - url: "https://www.designboom.com/architecture/denis-montel-hermes-bond-street-london-flagship-store-08-26-2015/"
+    label: "Hermès Bond Street London Flagship — Design Boom"
+    section: visual-world
+
+  - url: "https://www.dezeen.com/2010/12/20/hermes-rive-gauche-by-rdai/"
+    label: "Hermès Rive Gauche Flagship by RDAI — Dezeen"
+    section: visual-world
+
+  - url: "https://www.rdai.fr/en/"
+    label: "RDAI Architecture Portfolio — Studio Website"
+    section: visual-world

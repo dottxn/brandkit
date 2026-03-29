@@ -1,0 +1,48 @@
+chunk_id: "arc-voice"
+brand: arc
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "arc-soul"
+token_count: 122
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Arc. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="17-1,31-11,31-12">Arc is a freeware web browser developed by The Browser Company that attempts to reinvent the browser experience by rethinking its core purpose and fundamental usage patt
+tone_traits:
+  - conversational
+  - friendly
+  - approachable
+  - whimsical
+  - inspiring
+  - imaginative
+  - confident
+  - clear
+  - actionable
+anti_traits:
+  - corporate
+  - distant
+  - formal
+  - serious
+  - rigid
+  - boring
+  - vague
+  - overwhelming
+  - patronizing
+example_phrases:
+  - "<cite index=\"13-1\">A browser that doesn't just meet your needs — it anticipates them.</cite>"
+  - "<cite index=\"13-2\">Clean and calm, Arc shapes itself to how you use the internet.</cite>"
+  - "<cite index=\"38-14,38-15\">Arc lives up to the hype. So intuitive, playful and pretty.</cite>"
+  - "<cite index=\"42-8\">Arc is your space to breathe on the internet.</cite>"
+guardrails:
+  never_say: []
+  always_sound: "conversational, friendly, approachable, whimsical, inspiring"

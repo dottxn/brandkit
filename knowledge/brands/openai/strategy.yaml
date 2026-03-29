@@ -1,0 +1,29 @@
+chunk_id: "openai-strategy"
+brand: openai
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "openai-positioning"
+token_count: 45
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for OpenAI. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "We believe technology should amplify, not replace, the depth of human creativity"
+mission: To ensure that artificial general intelligence (AGI) benefits all of humanity
+vision: >-
+  Creating AI systems that are generally smarter than humans while maintaining alignment with human values and widespread benefit
+values:
+  - AGI focus
+  - Intense and scrappy
+  - Scale
+  - Make something people love
+  - Team spirit

@@ -1,0 +1,30 @@
+chunk_id: "stripe-strategy"
+brand: stripe
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "stripe-positioning"
+token_count: 75
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Stripe. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe the internet will be the engine of global economic progress and that by removing barriers to online commerce, we can help more businesses succeed and increase economic opportunity worldwide
+mission: To increase the GDP of the internet by building economic infrastructure for the digital economy
+vision: >-
+  To become the global financial infrastructure that powers commerce and enables economic growth for businesses worldwide
+values:
+  - Move fast and ship
+  - Think rigorously
+  - Trust and amplify
+  - Optimism
+  - Global optimization

@@ -1,0 +1,55 @@
+chunk_id: "oscar-health-anti-patterns"
+brand: "oscar-health"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "oscar-health-soul"
+  - "oscar-health-visual-dna"
+token_count: 263
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Oscar Health. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Medical blue and white clinical palette
+    reasoning: Hot Blue vibrant energy with diverse character illustration
+  - pattern: Photorealistic stock photography of healthcare
+    reasoning: Illustration style that suggests narrative and humanity
+  - pattern: Complex information hierarchy suggesting information is hard
+    reasoning: Clean simplification suggesting information is knowable
+  - pattern: "Beige, navy, and grey as primary palette"
+    reasoning: Focused color system with Hot Blue as anchor
+strategic:
+  - pattern: Competing on coverage options
+    reasoning: Competing on actual member experience and support
+  - pattern: Making insurance sound sophisticated (implying complexity)
+    reasoning: Making insurance simple (making transparency credible)
+  - pattern: "Using third-party endorsements"
+    reasoning: Building credibility through consistent member stories
+  - pattern: Hiding cost structures
+    reasoning: Radical transparency about what members actually pay
+tonal:
+  - pattern: Corporate healthcare speak
+    reasoning: "Conversational jargon-free language that admits complexity"
+  - pattern: Professional distance from patient experience
+    reasoning: "Member-first empathy paired with expertise"
+  - pattern: "One-size healthcare messaging"
+    reasoning: Acknowledgment that different demographics need different communications
+  - pattern: Making insurance feel inevitable and impersonal
+    reasoning: "Making insurance feel like it's designed for your specific situation"
+cultural:
+  - pattern: Healthcare systems that treat patients as data
+    reasoning: Healthcare approach that treats members as humans navigating life
+  - pattern: Insurance as necessary evil
+    reasoning: Insurance as enabler of better health outcomes
+  - pattern: Centralized authority in healthcare decisions
+    reasoning: Member empowerment through transparent choice
+  - pattern: Healthcare marketing
+    reasoning: Healthcare candor about what actually helps people

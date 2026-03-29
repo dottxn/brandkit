@@ -1,0 +1,32 @@
+chunk_id: "erdem-strategy"
+brand: erdem
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "erdem-positioning"
+token_count: 94
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Erdem. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe fashion should honor both the past and future, creating timeless pieces that transcend trends to inspire strength and confidence in women through the power of storytelling and craftsmanship
+mission: >-
+  To create intellectually inspired fashion that celebrates the artistry of craftsmanship while embracing innovation, designing garments that evoke emotion, tell stories, and become enduring parts of a wearer's wardrobe
+vision: >-
+  To establish an exuberant language of femininity that transcends fashion boundaries, creating a unique intersection of artistry, culture, and imagination through narrative-driven collections
+values:
+  - "Forensic Research & Storytelling"
+  - Craftsmanship Excellence
+  - Sustainable Creation
+  - Cultural Appreciation
+  - Artistic Collaboration
+  - Feminine Empowerment

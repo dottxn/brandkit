@@ -1,0 +1,71 @@
+chunk_id: "square-anti-patterns"
+brand: square
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "square-soul"
+  - "square-visual-dna"
+token_count: 499
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Square. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Decorative gradients or shadow effects
+    reasoning: >-
+      Square's strength comes from flatness and geometric purity. Any dimensional trickery would undermine the perception of stability needed in fintech.
+  - pattern: Colorful or expressive iconography
+    reasoning: >-
+      Icons remain minimal and functional. Personality would dilute the signal that this is a serious financial tool.
+  - pattern: Lifestyle photography or human faces
+    reasoning: >-
+      Product shots remain clean and technical. Emotional imagery would make the tool feel manipulative in a financial context.
+  - pattern: Serif typefaces or humanist warmth
+    reasoning: >-
+      The custom geometric sans-serif maintains mathematical precision. Warm typography would feel evasive in finance.
+strategic:
+  - pattern: "Enterprise-first product development"
+    reasoning: >-
+      Despite being a major fintech, Square leads with solo merchants and bootstrapped businesses. Abandoning the small seller would lose the original mission.
+  - pattern: Complex feature accumulation
+    reasoning: >-
+      The product remains focused on payments and related essential tools. Feature bloat would contradict the simplicity that enables adoption.
+  - pattern: Integration through acquisition only
+    reasoning: >-
+      Square built partnerships and integrations; becoming only a proprietary closed ecosystem would reduce value for merchants.
+  - pattern: Hiding the financial reality through design
+    reasoning: >-
+      Transparency about fees, currency conversion, and transaction costs is baked into the visual hierarchy; obfuscation would be brand death.
+tonal:
+  - pattern: Financial jargon or expert positioning
+    reasoning: >-
+      Copy remains simple and direct. Explaining payment processing in plain terms is core to the brand's accessibility mission.
+  - pattern: "Sales-driven urgency or FOMO language"
+    reasoning: >-
+      The tone avoids pressure tactics. Merchants adopt Square because it works, not because they're afraid of missing out.
+  - pattern: Celebrating the company over the merchant
+    reasoning: >-
+      Every success story highlights the seller's achievement, not Square's infrastructure. The brand only succeeds when merchants win.
+  - pattern: Optimistic promises about financial outcomes
+    reasoning: >-
+      Square speaks factually about what the tool does (accept payments, deposit funds). It doesn't promise revenue growth or market transformation.
+cultural:
+  - pattern: Wealthy entrepreneur positioning
+    reasoning: >-
+      The brand deliberately serves solo sellers and bootstrapped startups. Becoming a premium service for established businesses would betray founding philosophy.
+  - pattern: "Technology-forward over merchant-practical"
+    reasoning: >-
+      Despite being highly technical, Square positions the product as a practical business solution, not a technology achievement.
+  - pattern: Separating payment processing from financial inclusion
+    reasoning: >-
+      The brand insists these are inseparable—payment technology exists to create economic opportunity for the excluded.
+  - pattern: Treating Square readers as legacy
+    reasoning: >-
+      Even as the company pivots to software, the physical reader remains central to brand identity. Abandoning hardware would lose the tangible symbol of the brand.

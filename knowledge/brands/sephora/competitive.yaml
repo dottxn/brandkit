@@ -1,0 +1,37 @@
+chunk_id: "sephora-competitive"
+brand: sephora
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "sephora-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Sephora. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - glossier
+  - aesop
+  - loreal
+  - hm
+industry_norms_it_breaks: "Curved S-mark and black-and-white stripe pattern functioning as both luxury signature and inclusive visual language | The architectural decision to center brand identity around inclusivity and fearlessness as core values rather than around products or professional expertise | Does this celebrate the person or pressure them to conform? Sephora celebrates"
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Black-and-white, high-contrast, beauty authority"
+  - cluster: "editorial-luxury"
+    role: "secondary"
+    where: "Beauty editorial, curated product curation"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Digital commerce, discovery platform, app UI"
+strategic_cluster: "trusted-guide"
+category: beauty

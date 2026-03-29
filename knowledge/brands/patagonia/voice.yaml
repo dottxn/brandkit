@@ -1,0 +1,41 @@
+chunk_id: "patagonia-voice"
+brand: patagonia
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "patagonia-soul"
+token_count: 87
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Patagonia. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  American outdoor clothing and equipment company founded in 1973, known for high-performance gear and environmental activism. The company has built its reputation on sustainable practices, product dura
+tone_traits:
+  - "purposeful"
+  - "honest"
+  - "urgent"
+  - "measured"
+  - "activist"
+anti_traits:
+  - corporate speak
+  - greenwashing
+  - perfection claims
+  - marketing spin
+  - safe
+  - conventional messaging
+example_phrases:
+  - "Don't Buy This Jacket\" (encouraging conscious consumption)"
+  - "We're in business to save our home planet"
+  - The activism company that happens to make clothes
+  - Earth is now our only shareholder
+guardrails:
+  never_say: []
+  always_sound: "Like someone who has been outside and wants to protect what is out there"

@@ -1,0 +1,64 @@
+# ──────────────────────────────────────────────
+# Gucci — Creative References
+# ──────────────────────────────────────────────
+
+people:
+  - name: "Sabato De Sarno"
+    role: "Creative Director (2023 - February 6, 2025)"
+    url: "https://www.gucci.com/"
+    context: "Defined quiet luxury visual language; shifted from Alessandro Michele's maximalism to Rosso Ancora-driven restrained aesthetic (ex-Prada, Valentino Fashion Director)"
+
+  - name: "David Sims"
+    role: "Photographer"
+    url: "https://davidsimsphoto.com/"
+    context: "Primary campaign photographer for De Sarno era (2023-2025); captures talent-forward studio compositions"
+
+  - name: "Riccardo Zanola"
+    role: "Art Director"
+    url: "https://www.gucci.com/"
+    context: "Art direction for De Sarno-era campaigns; contributes to quiet luxury visual positioning"
+
+  - name: "Alastair McKimm"
+    role: "Stylist"
+    url: "https://www.gucci.com/"
+    context: "Campaign styling; creates colour-controlled, minimalist fashion narratives"
+
+  - name: "Glen Luchford"
+    role: "Photographer (Alessandro Michele era)"
+    url: "https://www.glenluchford.com/"
+    context: "Shot majority of Gucci campaigns 2015-2022; defined maximalist, eclectic Michele-era visual language"
+
+  - name: "Vittorio Accornero"
+    role: "Textile Designer (historical)"
+    url: "https://www.gucci.com/"
+    context: "Designed Flora print (1966) for Grace Kelly scarf; enduring heritage pattern across Gucci collections"
+
+publications:
+  - title: "Gucci Heritage and Archive"
+    author: "Gucci"
+    relevance: "Documentation of permanent visual codes: GG monogram (1960s), Flora print (1966), Web stripe (1950s), Horsebit (1940s), Bamboo handle (1947)"
+
+  - title: "Gucci Garden Museum Collection"
+    author: "Gucci"
+    relevance: "Curatorial approach to brand heritage; site-specific installation aesthetics at Florence location"
+
+visuals:
+  - url: "https://www.gucci.com/"
+    label: "Gucci.com homepage and campaign pages — De Sarno-era quiet luxury photography and Rosso Ancora palette"
+    section: "visual-language"
+
+  - url: "https://www.gucci.com/vault"
+    label: "Gucci Vault — Vintage and experimental collection; archive-driven visual language"
+    section: "visual-language"
+
+  - url: "https://www.gucci.com/en/st/stories"
+    label: "Gucci Stories editorial — Campaign photography and collection narratives"
+    section: "visual-language"
+
+  - url: "https://gucci.com/en/pr/press-releases/"
+    label: "Gucci press materials — Campaign photography and collection announcements"
+    section: "visual-language"
+
+  - url: "https://www.gucci-garden.com/en/"
+    label: "Gucci Garden museum, Florence — Institutional design and heritage curation"
+    section: "visual-world"

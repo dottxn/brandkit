@@ -1,0 +1,28 @@
+chunk_id: "remarkable-visual-reasoning"
+brand: remarkable
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "remarkable-visual-dna"
+  - "remarkable-soul"
+token_count: 205
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for reMarkable. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  reMarkable Sans (custom sans-serif) and Georgia (serif secondary) create intentional contrast. Georgia especially signals high design literacy—it's a web-safe serif chosen for its clarity and history as "text typeface," not for decoration. The typography hierarchy is minimal because the page itself (the e-ink display) is the typography.
+colour_logic: >-
+  Deep charcoal (#1a1a1a) as primary color avoids pure black, suggesting warmth and natural paper. Warm white (#fafafa) prevents clinical brightness. Orange (#ff6600) as singular accent—appearing only on calls-to-action and critical UI elements. The palette says "we removed everything except what matters," a visual commitment to focus philosophy.
+composition_philosophy: >-
+  Asymmetrical layouts with extreme whitespace. Product photography positioned to emphasize thinness and show the e-ink surface quality. Composition deliberately avoids the dynamic energy of commercial tech design, instead using stillness to suggest contemplation. Every compositional element must justify its existence.
+what_would_break_it: >-
+  Adding notification indicators, color palettes, or motion design would fundamentally contradict reMarkable's core promise of distraction-free focus—these additions would destroy the brand's philosophical coherence.

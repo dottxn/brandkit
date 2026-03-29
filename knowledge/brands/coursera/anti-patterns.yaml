@@ -1,0 +1,55 @@
+chunk_id: "coursera-anti-patterns"
+brand: coursera
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "coursera-soul"
+  - "coursera-visual-dna"
+token_count: 314
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Coursera. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Overly academic or institutional design language
+    reasoning: Signals gatekeeping instead of access
+  - pattern: Heavy imagery of classroom or campus settings
+    reasoning: "Contradicts the \"anywhere\" positioning of digital-first learning"
+  - pattern: Multiple competing visual hierarchies or complex information architecture
+    reasoning: Adds friction to an already cognitively demanding activity (learning)
+  - pattern: Serif typography or formal visual systems
+    reasoning: Creates distance instead of approachability
+strategic:
+  - pattern: Marketing that emphasizes instructor credentials over learner success stories
+    reasoning: Shifts focus from transformation to prestige
+  - pattern: "Premium tier expansion that creates tiers of access within \"universal access\""
+    reasoning: "Becomes contradictory and alienates mission-driven users"
+  - pattern: Acquisition focus over retention and completion
+    reasoning: "Misses that transformation (not enrollment) is what drives word-of-mouth"
+  - pattern: Feature additions without considering cognitive load
+    reasoning: Makes the platform more powerful but less accessible
+tonal:
+  - pattern: "Motivational poster language (\"You can do it!\")"
+    reasoning: Sounds generic and patronizing instead of genuinely empowering
+  - pattern: Overly technical course descriptions
+    reasoning: "Excludes beginners who don't have domain fluency yet"
+  - pattern: Boastful language about partnerships or scale
+    reasoning: Centers institution instead of learner
+  - pattern: "One-size-fits-all messaging ignoring different learner anxiety levels"
+    reasoning: "Misses that some learners need confidence building, others need challenge"
+cultural:
+  - pattern: Centering Western higher education models as universally relevant
+    reasoning: Ignores that learning structures vary by culture and region
+  - pattern: "Treating non-English speaker learners as secondary market"
+    reasoning: "Misses that language access is critical to \"anyone, anywhere\""
+  - pattern: Representation that centers privileged learner demographics
+    reasoning: Contradicts inclusive mission
+  - pattern: Ignoring neurodivergent learning needs while claiming universal access
+    reasoning: Hollow promise without accessible design and accommodations

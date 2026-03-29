@@ -1,0 +1,58 @@
+chunk_id: "monzo-visual-dna"
+brand: monzo
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "monzo-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Monzo. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FF5C59"
+    name: ""
+    role: ""
+  - hex: "#1E2A3B"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Oldschool Grotesk
+    role: ""
+    style: ""
+  - name: Monzo Sans
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: focused
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: "mixed-media"
+  imagery_subject: people
+  imagery_treatment: candid
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: uniform
+  framing_device: "edge-bleed"
+  symbolic_type: monogram
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "color-led"
+composition_logic: >-
+  Coral thread device extends throughout layouts, connecting elements and creating visual continuity while the hot coral edge serves as a core graphic element

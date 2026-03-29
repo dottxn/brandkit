@@ -1,0 +1,33 @@
+chunk_id: "nike-soul"
+brand: nike
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "nike-positioning"
+token_count: 240
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Nike. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A temple where the body becomes the instrument of the mind's ambition. You enter as a person, leave as a competitor. The swoosh is the priest; the athlete is the congregation.
+core_belief: >-
+  Motion is a form of truth — the body doesn't lie, and therefore sport is the purest measure of human potential.
+creative_tension:
+  - >-
+    Nike manufactures shoes; athletes manufacture meaning. The brand sells products but worships performance, creating a permanent tension between commerce and transcendence.
+  - >-
+    "Just Do It" celebrates individual heroism, yet Nike's entire ecosystem is designed around data, biomechanics, and the elimination of human error — the poetry of precision.
+decision_filter: >-
+  When faced with a fork, Nike asks: Does this make the athlete better? Not faster, not faster at selling, but fundamentally better — more capable, more courageous, more themselves.
+signature_move: >-
+  The swoosh in isolation. A single curve that contains speed, ambition, and forward momentum. It works because it refuses to explain itself.
+what_would_break_it: >-
+  A rounded, inclusive sans-serif like Montserrat or Poppins. Nike's geometry must be angular and unforgiving — fonts like Futura maintain the precision that matches athletic biomechanics. Warmth would destroy the brand's core belief in striving.

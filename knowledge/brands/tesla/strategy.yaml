@@ -1,0 +1,31 @@
+chunk_id: "tesla-strategy"
+brand: tesla
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "tesla-positioning"
+token_count: 54
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Tesla. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe the world's transition to sustainable energy and transport is inevitable and that it should happen as fast as possible
+mission: "To accelerate the world's transition to sustainable energy"
+vision: >-
+  To create the most compelling car company of the 21st century by driving the world's transition to electric vehicles
+values:
+  - Accelerating Innovation
+  - Environmental Stewardship
+  - Vertical Integration
+  - Direct Customer Relationships
+  - Operational Excellence
+  - Sustainable Future

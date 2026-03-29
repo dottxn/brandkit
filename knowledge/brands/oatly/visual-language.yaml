@@ -1,0 +1,345 @@
+chunk_id: "oatly-visual-language"
+brand: "oatly"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "oatly-visual-dna"
+  - "oatly-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Oatly. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "packaging-shelf"
+      touchpoints:
+        - "Oatly carton packaging (oat milk, ice cream, cooking products)"
+        - "In-store shelf presence and refrigerator displays"
+        - "oatly.com product pages"
+        - "Retail and grocery environments globally"
+      description: >-
+        Hand-lettered, text-heavy, deliberately rough. The packaging IS
+        the brand — every carton panel is covered in conversational copy,
+        hand-drawn typography by Lars Elfman (art director and lettering
+        artist), and the signature brown-on-cream colour palette. John
+        Rounded (Caroline Laudon, named after CCO John Schoolcraft) for
+        display headlines, Toni Grotesk (Caroline Laudon, named after
+        CEO Toni Petersson) for body, FF Magda (Cornel Windlin, 1993)
+        for supporting text. The packaging deliberately rejects dairy-
+        category conventions — no pastoral imagery, no cow, no farm, no
+        glass of milk against blue sky. Instead: self-aware copy, exposed
+        process, hand-crafted imperfection. The visual register is
+        anti-corporate, anti-category, and self-aware.
+      differs_from_default_by: >-
+        This is the baseline. All other modes depart from this packaging-
+        first, text-heavy, hand-drawn register.
+
+    - name: "campaign-provocation"
+      touchpoints:
+        - "'Wow No Cow' campaign and OOH"
+        - "'Update Milk' campaign platform (December 2024)"
+        - "Oatly climate footprint campaign (carbon emissions on packaging)"
+        - "Department of Mind Control (51-person in-house creative team) campaign work"
+        - "Forsman & Bodenfors — original 2015 rebrand agency"
+      description: >-
+        Bold, confrontational, text-dominant OOH and digital advertising.
+        John Rounded at massive scale. Simple messages on clean backgrounds.
+        The campaigns provoke the dairy industry directly — 'It's like
+        milk but made for humans', 'Wow No Cow'. The Department of Mind
+        Control (Oatly's 51-person in-house creative team, named with
+        deliberate irony by John Schoolcraft) produces most campaign work.
+        The 'Update Milk' platform (December 2024) is the current campaign
+        umbrella. The visual register is closer to protest signage or
+        zine graphics than to food-brand advertising.
+      differs_from_default_by: >-
+        Larger scale, cleaner compositions. The packaging's text density
+        is distilled to single-message impact. The hand-drawn quality
+        remains but at billboard scale it reads as bold rather than quirky.
+
+    - name: "barista-trade"
+      touchpoints:
+        - "Oatly Barista Edition packaging and marketing"
+        - "Coffee shop partnership materials and POS"
+        - "Barista-focused trade communications"
+      description: >-
+        Slightly more refined, coffee-culture-adjacent. The Barista Edition
+        is Oatly's core product and the visual language for its trade
+        marketing speaks to specialty coffee professionals. The dark grey
+        Barista Edition carton is more restrained than the standard range.
+        Café POS materials and partnership signage use the hand-drawn
+        aesthetic but adapted for coffee-shop environments — smaller scale,
+        more functional, working alongside existing café branding.
+      differs_from_default_by: >-
+        More restrained than the standard packaging mode. The provocative
+        anti-dairy messaging softens into coffee-culture integration.
+        The visual language acknowledges that it's a guest in someone
+        else's space (the café).
+
+  notes: >-
+    Oatly's visual identity was fundamentally redefined in May 2015 when
+    John Schoolcraft (CCO, in role since 2012) and Forsman & Bodenfors
+    launched the rebrand that replaced the previous clinical, health-food
+    packaging with the current hand-drawn, text-heavy system. Everything
+    about the current visual language traces to this moment.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "oatly.com and social media content (observed February 2026)"
+    - "Oatly campaign materials and OOH"
+    - "Department of Mind Control — in-house creative team (51 people)"
+  subject_and_framing: >-
+    Photography is secondary to typography and hand-lettering at Oatly.
+    When photography appears, it shows the product in use — poured into
+    coffee, in a bowl with cereal, held by a hand. The photography is
+    casual and unpolished compared to dairy-brand photography conventions.
+    No styled food photography with garnishes and props. Product shots
+    of cartons are straight-on, packaging-forward, designed to show the
+    text and design. Compared to Alpro (more conventional food photography,
+    brighter, more aspirational) or Minor Figures (darker, more specialty-
+    coffee-native), Oatly's photography is the most casual and the least
+    food-styled.
+  casting_observed: >-
+    Minimal casting — Oatly is primarily a packaging-and-type brand.
+    When people appear, they are casual, everyday, unstaged. No celebrities,
+    no models, no aspirational casting. The occasional social media content
+    shows real people in real settings. The anti-corporate positioning
+    requires that any human presence feels authentic rather than cast.
+  lighting_and_colour: >-
+    Photography uses the brand's warm, muted palette — brown (#8C643A),
+    powder blue (#97C4D4), cream, warm grey. Lighting is natural and
+    uncontrolled-feeling. The colour world is earthy and Scandinavian —
+    muted, warm, low-contrast. No vivid colour, no high-saturation food
+    photography. Compared to Alpro (brighter, more primary colours) or
+    conventional dairy (blue sky, white milk, green grass), Oatly's
+    colour palette is deliberately unglamorous and warm.
+  post_production: >-
+    Minimal. The casual, un-retouched quality is intentional — heavy
+    post-production would contradict the hand-made, honest positioning.
+    Colour grading is warm but subtle. The photography is designed to
+    feel like it was taken by someone who makes oat milk, not by someone
+    who photographs food for a living.
+  visual_boundaries:
+    stated_exclusions: >-
+      Oatly's positioning excludes all dairy-category visual conventions —
+      no pastoral farmland, no cows, no blue-sky-and-glass-of-milk
+      imagery. The brand also avoids health-food visual codes (no green
+      leaves, no 'clean eating' aesthetics, no ingredient macro photography).
+    observed_exceptions: >-
+      Some trade and retail POS materials use more conventional food-
+      product photography to work within grocery-retailer display systems.
+      These are functional compromises rather than creative choices.
+    genuine_absence: >-
+      Based on oatly.com and packaging review: no nature imagery (despite
+      being a plant-based product), no health claims in visual marketing
+      (the packaging addresses health through copy, not imagery), no
+      aspirational lifestyle photography, no competitive product shots.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Lars Elfman — art director and hand-lettering artist"
+    - "Caroline Laudon — type designer (John Rounded, Toni Grotesk)"
+    - "John Schoolcraft (CCO since 2012) and Forsman & Bodenfors (May 2015 rebrand)"
+    - "Department of Mind Control (51-person in-house creative team)"
+  uses_illustration: true
+  illustration_style: >-
+    Hand-drawn, deliberately imperfect, sketch-quality. Lars Elfman's
+    hand-lettering and illustration style defines the brand — every
+    carton, campaign, and touchpoint features hand-drawn elements that
+    look like they were done in marker on the first try. The illustration
+    is simple, often childlike — stick figures, rough sketches, hand-
+    drawn arrows and annotations. The style signals 'made by humans,
+    not by a corporation.' Compared to any other plant-milk brand,
+    Oatly's illustration is the most conspicuously handmade and the
+    least digitally polished.
+  illustration_role: >-
+    Illustration is central — it appears on every packaging panel, in
+    campaign materials, in social content, and on the website. The hand-
+    drawn quality IS the brand's visual identity more than any photograph
+    or designed graphic could be. Illustration serves the same role as
+    typography at Oatly — the brand is built on the written/drawn word,
+    not on imagery.
+  icon_style: >-
+    Hand-drawn, consistent with the illustration style. Not a formal icon
+    set — icons are drawn as if by hand, with imperfect lines and
+    casual proportions.
+  graphic_devices: >-
+    The hand-lettered 'Oatly' wordmark (originally on the side of the
+    carton — the brand's most recognisable graphic element). The carton
+    panel as a design canvas — every surface is used for copy, illustration,
+    and engagement. The brown (#8C643A) and powder blue (#97C4D4) colour
+    combination as a signature palette. The hand-drawn underline, arrow,
+    and annotation marks that appear throughout the system. The 'Post
+    Consumer Brand' manifesto text that appears on packaging. The barcode
+    area used for additional brand commentary (even the functional elements
+    become brand expression).
+  motion_language: >-
+    Observed in social media and campaign content: hand-drawn animation
+    quality — frame-by-frame style, deliberately rough motion, the visual
+    equivalent of the packaging's hand-crafted aesthetic. Type animates
+    in — sometimes frame-by-frame, sometimes with wobble. The motion
+    language is anti-corporate: no smooth transitions, no slick reveals.
+    If the type and illustration look handmade, the motion must too.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "John Rounded (Caroline Laudon, named after John Schoolcraft) — primary display"
+    - "Toni Grotesk (Caroline Laudon, named after CEO Toni Petersson) — body"
+    - "FF Magda (Cornel Windlin, 1993) — supporting text"
+    - "Girdo — corporate font"
+    - "Lars Elfman — hand-lettering that defines the visual system"
+  signature_move: >-
+    John Rounded (Caroline Laudon, named after CCO John Schoolcraft) at
+    large scale, often paired with Lars Elfman's hand-lettering. The
+    custom typefaces are named after Oatly's leadership (John after
+    Schoolcraft, Toni after Petersson) — the naming convention itself is
+    a brand move that humanises the type system. The typography's
+    distinctive quality is its deliberate imperfection — letterforms that
+    look rounded and hand-drawn, kerning that feels casual rather than
+    optimised. Compared to any other food or beverage brand, Oatly's
+    type system is the most conspicuously handmade and the most text-
+    heavy.
+  what_would_look_wrong: >-
+    Polished, geometric type like Futura or Gotham (contradicts the
+    hand-drawn, imperfect aesthetic). Serif type (too formal for a brand
+    that talks like a friend). Tight, optimised kerning (the casual
+    spacing is part of the character). Any type system that looks 'designed'
+    in the corporate sense — Oatly's typography must look like someone
+    wrote it rather than set it.
+  case_convention: >-
+    Mixed case, conversational. The hand-lettering on packaging mixes
+    upper and lowercase freely. Digital type follows sentence case. The
+    overall impression is casual and human — no uppercase authority, no
+    systematic case rules.
+  display_vs_body: >-
+    Display: John Rounded (Caroline Laudon) or Lars Elfman's hand-lettering
+    — large, rounded, imperfect. Body: Toni Grotesk (Caroline Laudon) —
+    more readable, still rounded and warm. Supporting: FF Magda (Cornel
+    Windlin, 1993) for additional text contexts. Corporate: Girdo for
+    internal and formal communications. The display-to-body transition
+    is seamless because all the typefaces share the rounded, human quality.
+  type_and_image: >-
+    Type dominates image at Oatly — the packaging is 70-80% text and
+    lettering, with photography playing a supporting role at best. In
+    campaign OOH, the message IS the image — text at billboard scale
+    with minimal visual accompaniment. This text-dominant approach is
+    Oatly's most distinctive visual decision: in a category where
+    competitors use product photography and food styling, Oatly uses
+    words and hand-drawn type as the primary visual experience.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "Oatly packaging (all carton panels)"
+    - "oatly.com (observed February 2026)"
+    - "Oatly OOH and campaign materials"
+  signature_composition: >-
+    The carton-as-broadsheet. Every panel of an Oatly carton is a design
+    surface — front, sides, back, top, and bottom all carry text,
+    illustration, and brand expression. The composition is deliberately
+    anti-systematic: text runs at different sizes, hand-drawn elements
+    interrupt the grid, copy wraps around illustrations. On web and OOH,
+    the composition simplifies — single message, centred type, generous
+    whitespace. But the packaging remains the signature composition and
+    it is the opposite of clean: it is dense, verbose, and inviting of
+    prolonged reading.
+  density_and_whitespace: >-
+    Packaging: extremely high density — every available surface carries
+    content. Campaign and OOH: low density — simple message, big type,
+    clean background. This density range is distinctive: Oatly's packaging
+    has more text per square centimetre than any competitor, while its
+    OOH has less. The contrast between the two modes is part of the
+    strategy — the packaging rewards extended attention, the OOH demands
+    instant impact.
+  format_preferences: >-
+    The carton format drives everything — the tall, narrow rectangular
+    panel is the foundational canvas. OOH adapts to standard billboard
+    formats. Digital follows mobile-first conventions. The brand has no
+    distinctive format preference beyond the carton.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "subverter"
+  relationship_to_trends: >-
+    Oatly defines itself in opposition to category conventions and
+    corporate-branding norms. The brand subverts food-category visual
+    trends rather than following or leading them. The deliberate
+    imperfection, anti-corporate tone, and text-dominant approach
+    are all contrarian positions relative to mainstream brand design.
+  examples:
+    - trend: "Clean, minimal CPG packaging design"
+      stance: "subverter"
+      evidence: >-
+        While the CPG category has trended toward minimal, clean packaging
+        (The Ordinary, Huel, Athletic Greens), Oatly's 2015 rebrand moved
+        in the opposite direction — maximum text density, hand-drawn type,
+        every panel covered in content. The approach has been commercially
+        successful and widely discussed in design press, but few brands
+        have convincingly copied it.
+      reasoning: >-
+        The text-heavy packaging works because it's genuine — the copy is
+        written with personality and self-awareness. Imitators who fill
+        packaging with text without the voice behind it produce clutter,
+        not character.
+    - trend: "Plant-milk brands adopting dairy visual codes"
+      stance: "subverter"
+      evidence: >-
+        While competitors like Alpro and Califia Farms use visual language
+        that references dairy conventions (pastoral imagery, white liquids
+        in glasses, blue and green packaging), Oatly deliberately rejects
+        these codes — no nature imagery, no health claims, no pastoral
+        references. The brand's 'Update Milk' platform (December 2024)
+        directly challenges the dairy visual vocabulary.
+      reasoning: >-
+        Oatly's strategy is to define plant milk as a new category rather
+        than a dairy substitute. Rejecting dairy visual codes is central
+        to this positioning.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    The hand-drawn type and illustration system. The conversational,
+    text-heavy approach. The brown and powder blue colour palette. The
+    anti-corporate tone. John Rounded and Lars Elfman's lettering style.
+    No collaboration makes Oatly look polished or corporate.
+  what_bends: >-
+    The colour palette can adapt for partner-specific contexts (the
+    Barista Edition's grey is darker and more coffee-culture-appropriate).
+    Campaign messaging can adapt to the partner's audience while
+    maintaining Oatly's voice. Physical presence in cafés adapts to the
+    café's own design environment.
+  notable_examples: >-
+    Oatly's most significant 'collaborations' are with specialty coffee
+    shops — the Barista Edition's placement in thousands of independent
+    cafés makes these partnerships the brand's primary collaboration
+    model. The brand appears on café menu boards and POS materials that
+    blend Oatly's visual identity with each café's own design. Non-café
+    collaborations are rare — the brand's distinctive visual identity
+    is difficult to blend with other brand systems without losing
+    character.

@@ -1,0 +1,55 @@
+chunk_id: "bmw-anti-patterns"
+brand: bmw
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "bmw-soul"
+  - "bmw-visual-dna"
+token_count: 315
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for BMW. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Rounded, approachable sans-serifs in primary applications"
+    reasoning: Undermines the geometric precision that engineering excellence requires
+  - pattern: "Warm, golden-hour photography as primary art direction"
+    reasoning: Negates the clarity and daylight that technical documentation demands
+  - pattern: Multiple accent colors beyond blue and black
+    reasoning: Fragments the minimalist certainty that premium positioning requires
+  - pattern: "Centered, symmetrical vehicle photography"
+    reasoning: "Conflicts with the dynamic movement and road-feeling BMW promotes"
+strategic:
+  - pattern: Emphasizing connectivity and features over driving experience
+    reasoning: "Shifts focus from human-machine relationship to gadgetry"
+  - pattern: "Extending the brand into non-automotive categories without performance justification"
+    reasoning: Dilutes the engineering credibility moat
+  - pattern: Marketing to lifestyle aspirants rather than actual drivers
+    reasoning: "Misses the high-engagement audience that generates word-of-mouth premium pricing"
+  - pattern: "Hiding technological innovations in marketing, emphasizing visual luxury instead"
+    reasoning: Wastes the genuine competitive advantages BMW has invested in
+tonal:
+  - pattern: "Emotional, vulnerable storytelling about feelings"
+    reasoning: "Undermines the confident, knowledgeable authority tone"
+  - pattern: Apologetic language about environmental concerns
+    reasoning: Signals weakness rather than commitment to evolving leadership
+  - pattern: "Self-congratulatory messaging about heritage"
+    reasoning: Sounds defensive instead of just building forward
+  - pattern: "Overly casual, trendy language"
+    reasoning: Conflicts with the sophistication positioning
+cultural:
+  - pattern: Treating women drivers as a separate demographic requiring different messaging
+    reasoning: Misses that precision and control appeal universally
+  - pattern: "Marketing primarily to luxury demographics while ignoring expanding middle-premium markets"
+    reasoning: Leaves revenue on the table
+  - pattern: Ignoring regional engineering preferences (European handling vs. American comfort preferences)
+    reasoning: Misses opportunity for intelligent market segmentation
+  - pattern: "Making autonomous features primary before they're genuine category-leaders"
+    reasoning: "Undermines human-centric \"Driving Pleasure\" core belief"

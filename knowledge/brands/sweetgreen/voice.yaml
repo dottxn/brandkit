@@ -1,0 +1,36 @@
+chunk_id: "sweetgreen-voice"
+brand: sweetgreen
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "sweetgreen-soul"
+token_count: 40
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for sweetgreen. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  sweetgreen is a fast-casual restaurant chain specializing in locally-sourced salads, warm bowls, and seasonal menu items. The company focuses on connecting people to real food through sustainable farm
+tone_traits:
+  - "fresh"
+  - "optimistic"
+  - "transparent"
+  - "community-driven"
+  - "purposeful"
+anti_traits:
+  - clinical
+  - corporate
+  - preachy
+  - exclusionary
+  - artificial
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like someone who genuinely cares where food comes from"

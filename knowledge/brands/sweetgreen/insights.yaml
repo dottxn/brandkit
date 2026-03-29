@@ -1,0 +1,32 @@
+chunk_id: "sweetgreen-insights"
+brand: sweetgreen
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "sweetgreen-soul"
+  - "sweetgreen-positioning"
+token_count: 193
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for sweetgreen. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Authentic supply chain relationships create design confidence—every visual choice can be rooted in real people and real processes, not brand fantasy.
+  - >-
+    The green (#4CAF50) works because it's the actual color of the ingredients, not a designed palette. The color comes from the thing, not the brand image.
+  - >-
+    Overhead food photography creates a visual narrative of abundance and variety that lifestyle imagery could never achieve authentically.
+  - >-
+    Transparency about sourcing requires visual language that shows complexity without hiding behind minimalism—you can see all the ingredients in the bowl.
+  - >-
+    The brand's strength comes from the visible tension between fast-casual speed and farmer-market thoughtfulness. Design embraces this tension rather than smoothing it over.
+what_nobody_copies: >-
+  The willingness to show the actual business model in the design. Other wellness brands hide supply chains; Sweetgreen makes farmer relationships visible in every communication.

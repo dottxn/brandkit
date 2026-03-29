@@ -1,0 +1,31 @@
+chunk_id: "zillow-positioning"
+brand: zillow
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Zillow. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Zillow
+website: "https://www.zillow.com"
+founded: 2006
+category: "real-estate"
+sub_category: real estate marketplace
+price_tier: "mid-range"
+primary_archetype: The Sage
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 2
+  heritage_innovation: 8
+key_differentiators: []

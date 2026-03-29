@@ -1,0 +1,32 @@
+chunk_id: "ebay-insights"
+brand: ebay
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "ebay-soul"
+  - "ebay-positioning"
+token_count: 162
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for eBay. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    EBay's competitive advantage is access to hard-to-find, rare items that mainstream retail doesn't offer—the brand positioning should celebrate serendipity and discovery
+  - >-
+    The four-color wordmark works because it's literally visual representation of diversity—no color dominates; all colors speak equally
+  - >-
+    Trust mechanisms (seller badges, authentication services) become invisible when they're integrated into user experience rather than advertised as features
+  - >-
+    Marketplaces only scale when sellers feel empowered—eBay's growth correlates with seller success visibility, not with corporate communications
+  - >-
+    Authentic, sometimes imperfect photography (actual items, real sellers) creates more trust than styled, professional imagery
+what_nobody_copies: >-
+  The commitment to visual democracy (no single color dominates the logo) as a brand philosophy that extends throughout the entire system

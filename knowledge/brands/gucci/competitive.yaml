@@ -1,0 +1,38 @@
+chunk_id: "gucci-competitive"
+brand: gucci
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "gucci-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Gucci. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - chanel
+  - prada
+  - "louis-vuitton"
+  - hermès
+  - nike
+industry_norms_it_breaks: "The double-G interlocking monogram rendered in gold on unexpected surfaces (not as logo, but as permission slip for excess) | The refusal to simplify messaging during growth phases. Most brands flatten their language when scaling; Gucci deepens the narrative density, assuming customers will rise to meet it rather than shrink | If it doesn't create a small moment of delightful cognitive dissonance between heritage and chaos, it's not Gucci enough"
+visual_cluster: "expressive-maximalist"
+visual_fingerprint:
+  - cluster: "expressive-maximalist"
+    role: "dominant"
+    where: "Dense, eclectic, mixed-era references, bold colour"
+  - cluster: "editorial-luxury"
+    role: "secondary"
+    where: "Sabato De Sarno Ancora era, more refined editorial"
+  - cluster: "heritage-craft"
+    role: "accent"
+    where: "Double-G archive, Flora pattern, house codes"
+strategic_cluster: "creative-authority"
+category: luxury

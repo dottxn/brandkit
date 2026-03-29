@@ -1,0 +1,82 @@
+# ──────────────────────────────────────────────
+# Hims & Hers — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Strand Studio"
+    type: creative-direction
+    url: "https://www.strandstudio.com/"
+    relationship: "Creative direction for Hers brand visual system"
+
+  - name: "MOUTHWASH Studio"
+    type: motion-design
+    url: "https://www.mouthwashstudio.com/"
+    relationship: "Designed 'Access For All' motion system for Hims & Hers app"
+
+  - name: "The Sweetshop"
+    type: film-production
+    url: "https://www.thesweetshop.tv/"
+    relationship: "Directed 'Sick of the System' Super Bowl campaign (February 2024)"
+
+  - name: "Ways & Means"
+    type: film-production
+    url: "https://waysandmeansproduction.com/"
+    relationship: "Directed 'Rich People Live Longer' Super Bowl campaign (February 2026)"
+
+people:
+  - name: "Brayden Olson"
+    role: "Photographer"
+    url: "https://www.linkedin.com/in/brayden-olson/"
+    context: "Primary photographer for Hims visual system; specialized in warm, intimate product photography"
+
+  - name: "Stine Nielsen"
+    role: "Photographer"
+    url: "https://www.linkedin.com/in/stine-nielsen/"
+    context: "Lead photographer for Hers brand; brings editorial softness to visual system"
+
+  - name: "Stephanie Dinkel"
+    role: "Product Photographer"
+    url: "https://www.linkedin.com/in/stephanie-dinkel/"
+    context: "Product photography for Hers collection; color-accurate health product styling"
+
+  - name: "Aaron Poe"
+    role: "VP Brand Design"
+    url: "https://www.linkedin.com/in/aaronpoe/"
+    context: "Oversees visual system and brand design for Hims & Hers"
+
+  - name: "Jakob Marky"
+    role: "Director"
+    url: "https://www.linkedin.com/in/jakob-marky/"
+    context: "Director of 'Sick of the System' Super Bowl campaign (2024)"
+
+  - name: "Common"
+    role: "Narrator / Musician"
+    url: "https://commonrap.com/"
+    context: "Narrator for 'Rich People Live Longer' Super Bowl campaign (2026)"
+
+  - name: "Olivier Gourvat"
+    role: "Type Designer"
+    url: "https://www.mostardesign.com/"
+    context: "Designed Sofia Pro typeface for Hims & Hers"
+
+publications:
+  - title: "Hims & Hers: Destigmatizing Telehealth Through Brand Design"
+    author: "Brand Strategy Documentation"
+    relevance: "Documents visual approach to making healthcare accessible and approachable"
+
+visuals:
+  - url: "https://www.forhims.com/"
+    label: "Hims Platform — Live Brand System"
+    section: visual-language
+
+  - url: "https://www.forhers.com/"
+    label: "Hers Platform — Live Brand System"
+    section: visual-language
+
+  - url: "https://www.youtube.com/watch?v=mQ55BhS5lDo"
+    label: "'Sick of the System' Super Bowl Campaign — The Sweetshop"
+    section: visual-language
+
+  - url: "https://www.youtube.com/watch?v=5X0i5lU1Xyo"
+    label: "'Rich People Live Longer' Super Bowl Campaign — Ways & Means"
+    section: visual-language

@@ -1,0 +1,28 @@
+chunk_id: "cash-app-visual-reasoning"
+brand: "cash-app"
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "cash-app-visual-dna"
+  - "cash-app-soul"
+token_count: 214
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Cash App. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Cash Sans is custom-built for digital-first applications—each letterform is proportioned for small-screen legibility without losing personality. The geometric characteristics mean letters feel structural, like architecture, making money feel like something buildable. Weight variation allows the same typeface to feel both playful (light) and commanding (bold)
+colour_logic: >-
+  Cash App Green (#00D54B) is intentionally not a luxury color—it's electric, actionable, almost dangerous in its brightness. This signals disruption, not safety. Black (#000000) and white (#FFFFFF) create absolute clarity without corporate formality. Gradients and multiple colors appear only in experimental contexts (custom cards, boosts) showing that the base system is disciplined
+composition_philosophy: >-
+  "Infinite canvas approach with physics-based interactions" means layouts don't follow grids—elements float, respond, arrange based on user interaction history. This mirrors how money flows (not in straight lines) and how culture moves (unpredictably). 3D floating elements suggest depth and motion that flat design abandons
+what_would_break_it: >-
+  Corporate color palettes, static grid-based layouts, formal sans-serifs, removing customization options, or any design language that treats financial products as institutional rather than cultural

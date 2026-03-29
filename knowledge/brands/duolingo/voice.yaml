@@ -1,0 +1,48 @@
+chunk_id: "duolingo-voice"
+brand: duolingo
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "duolingo-soul"
+token_count: 126
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Duolingo. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  The world's most popular way to learn a language through bite-sized, gamified lessons that make education fun, accessible, and free for everyone. Operating with a freemium model, Duolingo has revoluti
+tone_traits:
+  - friendly nagging
+  - encouraging persistence
+  - gamified motivation
+  - "meme-savvy humor"
+  - viral moments
+  - unexpected delights
+  - clear guidance
+  - educational focus
+  - supportive feedback
+anti_traits:
+  - aggressive pressure
+  - "shame-based tactics"
+  - overwhelming demands
+  - inappropriate content
+  - "mean-spirited jokes"
+  - corporate stiffness
+  - condescension
+  - complexity for its own sake
+  - abandoning struggling learners
+example_phrases:
+  - "Duo is quite literally sick of reminding everyone to do their lessons!"
+  - Everyone can Duolingo
+  - Learning just got louder
+  - Language never stands still — and neither do we
+guardrails:
+  never_say: []
+  always_sound: "friendly nagging, encouraging persistence, gamified motivation, meme-savvy humor, viral moments"

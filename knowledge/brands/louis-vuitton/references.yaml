@@ -1,0 +1,87 @@
+# ──────────────────────────────────────────────
+# Louis Vuitton — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "OMA (Office for Metropolitan Architecture)"
+    type: architecture
+    url: "https://www.oma.eu/"
+    relationship: "Designed OMA flagship store at 57th Street New York (80,000 sq ft, November 2024)"
+
+people:
+  - name: "Nicolas Ghesquière"
+    role: "Creative Director — Women's Collections"
+    url: "https://eu.louisvuitton.com/eng-e1/magazine/articles/nicolas-ghesquiere"
+    context: "Creative Director for women's since 2013; defines women's visual language"
+
+  - name: "Pharrell Williams"
+    role: "Creative Director — Men's Collections"
+    url: "https://us.louisvuitton.com/eng-us/magazine/articles/pharrell-williams"
+    context: "Men's Creative Director since February 2023; brings cultural curation to menswear"
+
+  - name: "Shohei Shigematsu"
+    role: "Architect"
+    url: "https://www.oma.eu/"
+    context: "OMA architect; designed Louis Vuitton 57th Street flagship New York store"
+
+  - name: "Steven Meisel"
+    role: "Photographer"
+    url: "https://artandcommerce.com/artists/steven-meisel"
+    context: "Legendary fashion photographer; shoots Louis Vuitton seasonal campaigns (e.g., SS25)"
+
+  - name: "Georges Vuitton"
+    role: "Founder / Designer"
+    url: "https://en.wikipedia.org/wiki/Georges_Vuitton"
+    context: "Designed the monogram canvas pattern (1896); foundational visual device"
+
+  - name: "Virgil Abloh"
+    role: "Former Creative Director — Men's"
+    url: "https://en.wikipedia.org/wiki/Virgil_Abloh"
+    context: "Men's Creative Director (2018-2021); introduced streetwear influence before Pharrell"
+
+  - name: "Marc Jacobs"
+    role: "Former Creative Director — Women's"
+    url: "https://en.wikipedia.org/wiki/Marc_Jacobs"
+    context: "Women's Creative Director (1997-2013); predated Nicolas Ghesquière"
+
+publications:
+  - title: "Louis Vuitton: Trunks and Travels — 170 Years of Heritage"
+    author: "Louis Vuitton Archive"
+    relevance: "Documents LV's evolution from luggage maker to fashion maison"
+
+  - title: "The Monogram: Louis Vuitton's Most Enduring Brand Symbol"
+    author: "Design and Fashion History"
+    relevance: "Explores the monogram pattern's role in brand identity across 130+ years"
+
+  - title: "Creative Direction at Luxury: Nicolas Ghesquière and the Women's Collection"
+    author: "Fashion Press Analysis"
+    relevance: "Examines how creative directors shape LV's visual language independently"
+
+visuals:
+  - url: "https://www.louisvuitton.com/"
+    label: "Louis Vuitton Global Website — Campaign and Product Experience"
+    section: visual-language
+
+  - url: "https://eu.louisvuitton.com/eng-e1/magazine/articles/creative-director-collections"
+    label: "Louis Vuitton Creative Director Collections — Magazine"
+    section: visual-language
+
+  - url: "https://www.oma.eu/projects/louis-vuitton-57th-street-new-york"
+    label: "Louis Vuitton 57th Street Flagship by OMA — Architecture"
+    section: visual-world
+
+  - url: "https://eu.louisvuitton.com/eng-e1/objets-nomades"
+    label: "Louis Vuitton Objets Nomades Collection — Design Objects"
+    section: visual-world
+
+  - url: "https://eu.louisvuitton.com/eng-e1/stories/the-art-of-craftsmanship"
+    label: "Louis Vuitton Craft Heritage Stories — Editorial"
+    section: visual-language
+
+  - url: "https://eu.louisvuitton.com/eng-e1/stories/pharrell-williams-men"
+    label: "Pharrell Williams Men's Creative Direction — Magazine"
+    section: visual-language
+
+  - url: "https://eu.louisvuitton.com/eng-e1/stories/nicolas-ghesquiere-women"
+    label: "Nicolas Ghesquière Women's Creative Direction — Magazine"
+    section: visual-language

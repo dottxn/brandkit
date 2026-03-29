@@ -1,0 +1,30 @@
+chunk_id: "airbnb-strategy"
+brand: airbnb
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "airbnb-positioning"
+token_count: 65
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Airbnb. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that belonging is a universal human need and that by creating connections between strangers, we can build a world where anyone can belong anywhere
+mission: To create a world where anyone can belong anywhere
+vision: >-
+  To become an all-in-one travel and lifestyle platform that transforms how people connect with places and experiences
+values:
+  - Belong Anywhere
+  - Champion the Mission
+  - Be a Host
+  - Embrace the Adventure
+  - Be a Cereal Entrepreneur

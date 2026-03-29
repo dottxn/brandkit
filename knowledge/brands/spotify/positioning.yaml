@@ -1,0 +1,31 @@
+chunk_id: "spotify-positioning"
+brand: spotify
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Spotify. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Spotify
+website: "https://spotify.com"
+founded: 2006
+category: entertainment
+sub_category: "music-audio-streaming"
+price_tier: "mid-range"
+primary_archetype: The Creator
+secondary_archetype: The Explorer
+positioning_scales:
+  utility_theater: 8
+  access_exclusivity: 3
+  heritage_innovation: 9
+key_differentiators: []

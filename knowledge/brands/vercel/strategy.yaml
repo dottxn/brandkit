@@ -1,0 +1,30 @@
+chunk_id: "vercel-strategy"
+brand: vercel
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "vercel-positioning"
+token_count: 57
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Vercel. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "We believe the web should be fast, accessible, and built without friction for developers worldwide"
+mission: >-
+  To provide the optimal workflow for frontend teams to build, deploy, and scale web applications instantly
+vision: >-
+  To become the essential infrastructure that powers the modern web and enables every developer to ship faster
+values:
+  - Ship Fast
+  - Developer Experience First
+  - Performance by Default
+  - Global Scale
+  - Open Source Community

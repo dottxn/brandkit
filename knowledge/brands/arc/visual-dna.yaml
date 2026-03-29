@@ -1,0 +1,64 @@
+chunk_id: "arc-visual-dna"
+brand: arc
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "arc-positioning"
+token_count: 105
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Arc. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#D2F3E5"
+    name: ""
+    role: ""
+  - hex: "#51D19B"
+    name: ""
+    role: ""
+  - hex: "#1A6545"
+    name: ""
+    role: ""
+  - hex: "#EF8C62"
+    name: ""
+    role: ""
+  - hex: "#993810"
+    name: ""
+    role: ""
+typography:
+  - name: System Default
+    role: ""
+    style: ""
+  - name: Segoe UI Variable
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: expansive
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: minimal
+  imagery_subject: abstract
+  imagery_treatment: soft
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: gradient
+  shape_language: rounded
+  contrast_level: medium
+  identity_system: modular
+  signature_device: "color-led"
+composition_logic: >-
+  <cite index="30-15,30-16,30-17">Arc's composition centers around the sidebar as the pièce de résistance, organizing shortcuts, folders, and tools in a productivity-app-like interface rather than traditional browser layout.</cite>

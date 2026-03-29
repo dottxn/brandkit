@@ -1,0 +1,38 @@
+chunk_id: "revolut-competitive"
+brand: revolut
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "revolut-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Revolut. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - monzo
+  - wise
+  - robinhood
+  - "cash-app"
+  - paypal
+industry_norms_it_breaks: "Multi-color gradient R logo that somehow maintains clarity at any size—brand mark as proof of sophisticated design | The architectural decision to occupy third space (between traditional banks and disruptive challengers) and design for that position rather than fighting incumbents or joining the chaos | Does this make financial complexity feel manageable? Or does it admit complexity is unnecessary?"
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Cool, premium aesthetic, high-contrast fintech"
+  - cluster: "data-native"
+    role: "secondary"
+    where: "Banking data, currency rates, spending analytics"
+  - cluster: "geometric-clean"
+    role: "accent"
+    where: "Systematic brand, structured financial product"
+strategic_cluster: "rebel-provocateur"
+category: fintech

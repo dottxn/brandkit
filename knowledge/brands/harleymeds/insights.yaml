@@ -1,0 +1,32 @@
+chunk_id: "harleymeds-insights"
+brand: harleymeds
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "harleymeds-soul"
+  - "harleymeds-positioning"
+token_count: 425
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for HarleyMeds. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Trust in telehealth comes from visibility—transparent pricing, visible provider credentials, clear treatment protocols all build confidence more effectively than testimonials or marketing copy. Men seeking TRT are information-hungry; they've already researched; they want data, not persuasion. Show them what they need to know, clearly, and they convert.
+  - >-
+    Healthcare blue works because it signals both professionalism and trustworthiness—#2C5AA0 (medium healthcare blue) feels authoritative without coldness; pairs with white (#FFFFFF) for clinical clarity. The blue is smart without being corporate; healthcare institutional without feeling like a hospital system. Saturation and tone matter more than the fact of blue itself.
+  - >-
+    Minimalist design for medical content isn't cold—it's respectful of user anxiety. Users seeking telehealth treatment are often stressed, time-pressed, or embarrassed; generous whitespace and clear hierarchy reduce cognitive load. Every element removed is an element that can't confuse or overwhelm. Simplicity is the kindest design choice for vulnerable users.
+  - >-
+    Men seeking TRT value straightforward communication over lifestyle marketing—no "optimize your performance," just "here's what testosterone therapy does, here's what it costs, here's what happens next." Direct language builds more trust than inspirational copy. The marketing message should be: "This is normal, this is accessible, this is transparent."
+  - >-
+    Showing provider credentials prominently (board certification, years of experience, patient reviews) is more effective than celebrity testimonials—professionals trust other professionals. Hidden provider information is a massive red flag that kills conversion. Transparency in provider selection is the actual competitive advantage against traditional healthcare gatekeeping.
+what_nobody_copies: >-
+  The commitment to transparent pricing as default brand behavior rather than competitive novelty. Most telehealth competitors hide costs until checkout; HarleyMeds stating prices upfront contradicts healthcare industry tradition. This requires genuine operational confidence (they're not overcharging to cover downstream surprises). It requires accepting that some users will decline based on price rather than being trapped in the funnel. This is structurally difficult to replicate because it demands operational honesty, not just marketing message change.

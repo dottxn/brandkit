@@ -1,0 +1,64 @@
+chunk_id: "royal-ballet-opera-visual-dna"
+brand: "royal-ballet-opera"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "royal-ballet-opera-positioning"
+token_count: 102
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Royal Ballet and Opera. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#DC143C"
+    name: ""
+    role: ""
+  - hex: "#FF1493"
+    name: ""
+    role: ""
+  - hex: "#FF4500"
+    name: ""
+    role: ""
+  - hex: "#00FFFF"
+    name: ""
+    role: ""
+  - hex: "#FFD700"
+    name: ""
+    role: ""
+typography:
+  - name: Victor Serif
+    role: ""
+    style: ""
+  - name: Grey
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: expansive
+  type_class: mixed
+  type_character: mixed
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: cinematic
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: timeless
+  conceptual_approach: juxtaposed
+  framing_device: layered
+  symbolic_type: "abstract-mark"
+  texture_feel: textured
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "typography-led"
+composition_logic: >-
+  Directional layering system creates space to showcase past, present and future simultaneously, with elements arranged to evoke momentum and forward drive

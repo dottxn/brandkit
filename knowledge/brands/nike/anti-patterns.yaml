@@ -1,0 +1,71 @@
+chunk_id: "nike-anti-patterns"
+brand: nike
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "nike-soul"
+  - "nike-visual-dna"
+token_count: 642
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Nike. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Soft, diffused photography with warm light"
+    reasoning: >-
+      Nike's cinematic, high-contrast approach requires dramatic shadows and edge definition. Soft light weakens the athlete's presence and says "safe" rather than "capable."
+  - pattern: "Curved, organic sans-serifs like FF Circular or Cereal"
+    reasoning: >-
+      These suggest friendliness and accessibility. Nike's geometric sans (Futura, Nike Custom Sans) enforces precision and uncompromising performance standards.
+  - pattern: "Color saturation and multi-color palettes"
+    reasoning: >-
+      Nike's power comes from restraint. Introducing trend colors like millennial pink or teal would signal fashion over function, undermining the brand's athletic authenticity.
+  - pattern: Serif typography for headlines
+    reasoning: >-
+      Serifs humanize and warm. Nike's sans-serif system maintains the cold clarity of performance metrics and data-driven design.
+strategic:
+  - pattern: Lifestyle aspirationalism without athletic grounding
+    reasoning: >-
+      Competitors sell the fantasy of being cool through the product. Nike sells capability through proof. Without athlete partnerships and performance data, the brand becomes empty.
+  - pattern: Social causes disconnected from athletic performance
+    reasoning: >-
+      Nike can activate on social issues because sport is the lens. A partnership on education or diversity must funnel back to athletic potential, not just charitable gestures.
+  - pattern: Democratization without intensity
+    reasoning: >-
+      Many brands claim "for everyone." Nike's version is threatening: your body contains an athlete, so you must act like one. This edge is what makes the promise credible.
+  - pattern: Retail design that prioritizes comfort over intensity
+    reasoning: >-
+      Nike stores should feel like training facilities, not lounges. The architecture must reinforce that you're entering a space where excellence is the baseline, not the exception.
+tonal:
+  - pattern: Apology or softness in messaging
+    reasoning: >-
+      "We understand it's hard" weakens Nike's core belief. The tone must be: "It's hard. So what? Do it anyway." Empathy is shown through product, not through lowering expectations.
+  - pattern: "Jargon or over-explanation"
+    reasoning: >-
+      Nike's phrases work because they're declarative and short: "Just Do It," "Why Do It," "Greatness is a choice." Corporate explanation kills the magic.
+  - pattern: Humor that undermines striving
+    reasoning: >-
+      Self-deprecating jokes or meme culture dilutes the intensity. Nike can be witty, but never at the expense of the athlete's journey.
+  - pattern: Passive voice or victim narratives
+    reasoning: >-
+      The athlete must be active. Nike never says "overcome adversity"; it says "choose greatness." The locus of control is internal.
+cultural:
+  - pattern: Positioning as a luxury brand
+    reasoning: >-
+      Nike's power comes from democratized excellence, not scarcity. Exclusive drops and limited editions work tactically, but the core brand promise must remain available to anyone with a body.
+  - pattern: Aligning with aesthetic movements or design trends
+    reasoning: >-
+      Collaborations with artists are tools, not philosophy. When Nike partners with Virgil Abloh or Travis Scott, the partnership must serve athletic performance, not fashion history.
+  - pattern: Decoupling from actual sport
+    reasoning: >-
+      As Nike expands into lifestyle, the connection to athletic competition must remain. A Nike jacket sold in a fashion context will fail unless it references actual athletic capability.
+  - pattern: Retreating from the Hero archetype
+    reasoning: >-
+      In an era of anti-heroes and irony, some brands soften. Nike's willingness to celebrate the winner, the competitor, the person who wants to dominate is its most distinctive cultural position. Abandoning this for relatability would be fatal.

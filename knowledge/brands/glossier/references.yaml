@@ -1,0 +1,44 @@
+# ──────────────────────────────────────────────
+# Glossier — Creative References
+# ──────────────────────────────────────────────
+
+people:
+  - name: "Emily Weiss"
+    role: "Founder and Executive Chairwoman"
+    url: "https://www.glossier.com/"
+    context: "Founder of Into The Gloss (beauty platform) and Glossier (2014); visual brand author"
+
+  - name: "Tom Ford"
+    role: "Brand Advisor and Investor"
+    url: "https://www.tomford.com/"
+    context: "Early investor and strategic advisor influencing brand positioning and aesthetic"
+
+publications:
+  - title: "Into The Gloss"
+    author: "Glossier Editorial Team"
+    relevance: "Beauty editorial platform that serves as the brand's editorial engine; long-form content and community storytelling"
+
+  - title: "Top Shelf Editorial Series"
+    author: "Into The Gloss"
+    relevance: "Iconic beauty industry photography series documenting bathroom shelves; originated the 'shelfie' aesthetic"
+
+visuals:
+  - url: "https://www.glossier.com/"
+    label: "Glossier.com e-commerce — Product pages with soft minimal photography and pink accent system"
+    section: "visual-world"
+
+  - url: "https://intothegloss.com/"
+    label: "Into The Gloss editorial platform — Beauty journalism and community-driven content"
+    section: "visual-language"
+
+  - url: "https://www.instagram.com/glossier/"
+    label: "Glossier Instagram — Community UGC, product close-ups, and skin texture macro photography"
+    section: "visual-language"
+
+  - url: "https://www.glossier.com/products/"
+    label: "Glossier product grid — E-commerce interface and product photography system"
+    section: "visual-world"
+
+  - url: "https://www.glossier.com/flagship"
+    label: "Glossier flagship stores — In-store visual merchandising and experiential design"
+    section: "visual-world"

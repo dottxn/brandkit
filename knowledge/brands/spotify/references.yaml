@@ -1,0 +1,59 @@
+# ──────────────────────────────────────────────
+# Spotify — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Collins"
+    type: branding
+    url: "https://www.wearecollins.com/"
+    project_url: "https://www.wearecollins.com/work/spotify/"
+    relationship: "2015 rebrand — established signature duotone photography system, The Colorizer tool, and visual identity expansion from black/green to 31-color palette"
+
+  - name: "Lineto"
+    type: type-foundry
+    url: "https://www.lineto.com/"
+    relationship: "Designed and provided Spotify Circular typeface, adopted 2015"
+
+  - name: "Dinamo Typefaces"
+    type: type-foundry
+    url: "https://www.dinamo.us/"
+    relationship: "Designed Spotify Mix variable font, launched May 2024 for data-responsive typography"
+
+people:
+  - name: "Leland Maschmeyer"
+    role: "Executive Creative Director, Collins"
+    url: "https://www.linkedin.com/in/lelandmaschmeyer/"
+    context: "Creative director for 2015 rebrand, established visual system positioning Spotify as entertainment brand"
+
+  - name: "Brett Renfer"
+    role: "Director of Experience Design, Collins"
+    url: "https://www.behance.net/brettrenfer"
+    context: "Created 'The Colorizer' software tool that automates duotone photography treatment across millions of playlist covers"
+
+  - name: "Laurenz Brunner"
+    role: "Typeface Designer"
+    url: "https://laurenzbrunner.com/"
+    context: "Designer of Spotify Circular typeface at Lineto"
+
+  - name: "Rasmus Wangelin"
+    role: "Global Head of Brand Design"
+    url: "https://www.linkedin.com/in/rasmuswangelin/"
+    context: "Joined Spotify 2016, led design system governance and Encore unified design system (2019)"
+
+publications:
+  - title: "Spotify's Visual Identity Evolution"
+    author: "Fast Company"
+    relevance: "Coverage of 2015 rebrand and subsequent visual strategy evolution"
+
+visuals:
+  - url: "https://www.wearecollins.com/work/spotify/"
+    label: "2015 rebrand case study — duotone system, The Colorizer, color expansion strategy"
+    section: visual-language
+
+  - url: "https://www.lineto.com/typefaces/circular"
+    label: "Spotify Circular typeface overview and design specifications"
+    section: visual-language
+
+  - url: "https://design.spotify.com/"
+    label: "Spotify Design — case studies, design system documentation"
+    section: visual-world

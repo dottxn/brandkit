@@ -1,0 +1,66 @@
+studios:
+- name: Koto
+  type: branding
+  url: https://koto.studio/
+  relationship: Led 2021 rebrand; freed Clyde mascot from chat bubble; updated Blurple
+    colour and visual identity
+  project_url: https://koto.studio/work/discord/
+- name: AKQA
+  type: advertising-agency
+  url: https://www.akqa.com/
+  relationship: Created 'Imagine a Place' campaign (2021) with celebrity casting
+- name: Colophon Foundry
+  type: type-foundry
+  url: https://www.colophon-foundry.org/
+  relationship: Designed gg sans typeface (December 1, 2022) — custom UI and brand
+    typeface
+- name: ABC Dinamo
+  type: type-foundry
+  url: https://abcdinamo.com/
+  relationship: Created Ginto wordmark — geometric-humanist logotype (2021)
+people:
+- name: Jason Citron
+  role: Co-founder & Brand Steward
+  url: ''
+  context: Oversees brand evolution and direction at Discord
+- name: Zaria Parvez
+  role: Social Media Content Lead
+  url: ''
+  context: Pioneered chaotic, meme-native TikTok strategy (joined 2020); created viral
+    'Duo death' campaign (February 2025)
+- name: Seb McLauchlan
+  role: Type Designer
+  url: ''
+  context: Designed Ginto wordmark at ABC Dinamo
+publications:
+- title: Discord 2021 Brand Refresh
+  author: Koto & AKQA
+  relevance: Rebrand on 6th anniversary; updated Blurple, freed Clyde mascot, introduced
+    gg sans
+- title: Imagine a Place Campaign
+  author: AKQA & Discord
+  relevance: 2021 campaign featuring Danny DeVito and Awkwafina; mainstream advertising
+    push
+- title: The Sandwich Creative Collective
+  author: Discord Community
+  relevance: 26,000+ member community creating brand-extending content and visual
+    interpretations
+visuals:
+- url: https://koto.studio/work/discord/
+  label: Discord 2021 Rebrand — Koto Project Portfolio
+  section: visual-language
+- url: https://www.colophon-foundry.org/
+  label: Colophon Foundry — gg sans Typeface Design
+  section: visual-language
+- url: https://abcdinamo.com/custom/discord
+  label: Discord Custom Typeface — ABC Dinamo Portfolio
+  section: visual-language
+- url: https://discord.com/
+  label: Discord.com — Current Brand Implementation
+  section: visual-world
+- url: https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_discord.php
+  label: Brand New — Discord 2021 Rebrand Coverage
+  section: visual-language
+- url: https://www.creativereview.co.uk/
+  label: Creative Review — Discord Rebrand Coverage
+  section: visual-language

@@ -1,0 +1,48 @@
+chunk_id: "hbo-voice"
+brand: hbo
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "hbo-soul"
+token_count: 92
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for HBO. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  HBO is America's premier premium television network and streaming service, delivering award-winning original series, theatrical films, documentaries, and exclusive content through traditional cable ch
+tone_traits:
+  - Confident
+  - definitive
+  - "industry-leading"
+  - Intelligent
+  - refined
+  - culturally aware
+  - Dramatic
+  - visually compelling
+  - emotionally resonant
+anti_traits:
+  - arrogant
+  - dismissive
+  - elitist
+  - pretentious
+  - inaccessible
+  - cold
+  - overwrought
+  - theatrical
+  - artificial
+example_phrases:
+  - "It's not TV, it's HBO"
+  - The brand that represents the highest quality in media
+  - "Stream must-see series, hit movies, exclusive originals"
+  - "It's good to be home"
+guardrails:
+  never_say: []
+  always_sound: "Confident, definitive, industry-leading, Intelligent, refined"

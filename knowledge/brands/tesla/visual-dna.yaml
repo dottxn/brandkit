@@ -1,0 +1,58 @@
+chunk_id: "tesla-visual-dna"
+brand: tesla
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "tesla-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Tesla. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#E31937"
+    name: ""
+    role: ""
+typography:
+  - name: Gotham
+    role: ""
+    style: ""
+  - name: Tesla Custom Font Family
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: minimal
+  type_class: custom
+  type_character: "futurist"
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "logo-centric"
+composition_logic: >-
+  Tesla employs extreme negative space and asymmetrical layouts that emphasize the product as the hero element, with minimal supporting typography and interface elements positioned with mathematical precision.

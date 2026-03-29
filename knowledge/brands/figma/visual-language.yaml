@@ -1,0 +1,317 @@
+chunk_id: "figma-visual-language"
+brand: "figma"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "figma-visual-dna"
+  - "figma-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Figma. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-maximalist"
+      touchpoints:
+        - "figma.com homepage and marketing pages (post-September 2024 refresh)"
+        - "Brand campaign materials and social media"
+        - "Figma office environments and swag"
+        - "Recruitment and employer brand materials"
+      description: >-
+        The September 2024 brand refresh (led by Damien Correll, VP Design,
+        Brand & Creative) moved Figma from minimal geometric to maximalist,
+        playful, and abstract. Primary colours: red-orange (#F24E1E), coral
+        (#FF7262), purple (#A259FF), blue (#1ABCFE), green (#0ACF83) — a
+        29-colour web palette expanded from the original five. Abstract
+        primitives (circles, arcs, blobs, geometric compositions) replace
+        the previous cursor-and-outline aesthetic. Influenced by Sol LeWitt's
+        systematic art and Barbara Stauffacher Solomon's supergraphics. The
+        shift signals Figma's evolution from 'design tool' to 'creative
+        platform.' Compared to Adobe (corporate, red-dominant, gradient-heavy)
+        or Canva (friendly, illustration-heavy, more consumer), Figma's
+        visual language is the most design-community-native.
+      differs_from_default_by: >-
+        This is the baseline post-September 2024. All other modes reference
+        this maximalist, colour-saturated, abstract-primitive register.
+
+    - name: "product-interface"
+      touchpoints:
+        - "Figma design editor (figma.com/design)"
+        - "FigJam whiteboard tool"
+        - "Dev Mode interface"
+        - "Figma Slides (launched 2024)"
+      description: >-
+        Neutral, tool-focused, canvas-centric. The product UI uses a dark
+        or light neutral chrome with minimal brand colour — the canvas is
+        the user's work, not Figma's brand expression. FigJam is warmer
+        and more playful — Figma Hand (OH no Type) provides a casual,
+        handwritten register for whiteboard contexts. The product interface
+        is deliberately anti-brand: Figma disappears behind the user's
+        creative work.
+      differs_from_default_by: >-
+        Brand colour and maximalism are suppressed. Neutral UI chrome
+        dominates. The visual language serves the tool, not the brand.
+        FigJam is the exception — it carries more brand personality than
+        the core editor.
+
+    - name: "config-conference"
+      touchpoints:
+        - "Config annual conference (San Francisco)"
+        - "Config website, registration, and promotional materials"
+        - "Conference signage, badges, and environmental design"
+        - "Config livestream and video content"
+      description: >-
+        Config receives its own annual visual identity refresh — each year
+        is a distinct visual chapter. The conference visual language pushes
+        the brand further into experimental territory than everyday marketing.
+        Large-scale environmental supergraphics (Barbara Stauffacher Solomon
+        influence), bold colour blocking, and custom typographic treatments
+        make each Config visually distinct from the previous year. This mode
+        is Figma's most expressive and culturally ambitious visual register.
+      differs_from_default_by: >-
+        More experimental, more environmental, more typographically
+        adventurous. Config pushes the brand's visual boundaries further
+        than any other touchpoint. Annual refresh means the visual language
+        is deliberately impermanent.
+
+  notes: >-
+    Figma Slides (launched 2024) and the evolving Dev Mode represent
+    expanding visual contexts that may need distinct visual sub-languages.
+    The September 2024 refresh was Figma's first major brand overhaul and
+    signals a cadence of visual evolution that design-tool competitors
+    (Adobe, Sketch, Canva) don't match.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "figma.com marketing pages (observed February 2026)"
+    - "Config conference photography"
+    - "Figma social media channels"
+    - "September 2024 brand refresh materials"
+  subject_and_framing: >-
+    People using Figma — designers, developers, product managers collaborating.
+    The photography emphasises collaboration and creativity in action. Config
+    photography captures the energy of the design community — candid event
+    shots, speaker portraits, environmental moments. Post-September 2024,
+    photography shares space with abstract graphic compositions rather than
+    standing alone. Compared to Adobe (more corporate, staged, polished) or
+    Canva (more consumer, template-focused), Figma's photography feels more
+    authentic and community-native.
+  casting_observed: >-
+    Design community representation — younger, creative-industry-coded,
+    globally diverse. Config speakers and attendees photographed candidly.
+    No celebrity casting. The casting reflects Figma's user base: designers,
+    developers, product people.
+  lighting_and_colour: >-
+    Natural to warm lighting in lifestyle photography. Event photography uses
+    the bold brand palette as environmental colour (stage lighting, signage,
+    environmental graphics creating colourful backgrounds). The five-colour
+    palette (#F24E1E, #FF7262, #A259FF, #1ABCFE, #0ACF83) saturates the
+    environment rather than the photography itself.
+  post_production: >-
+    Moderate. Photography is colour-corrected to work alongside the saturated
+    brand palette without competing. Config photography maintains an editorial,
+    documentary quality — not heavily retouched.
+  visual_boundaries:
+    stated_exclusions: >-
+      Figma avoids corporate stock photography, staged office environments,
+      and the generic 'people pointing at screens' imagery common in B2B
+      SaaS marketing. The brand rejects the visual clichés of the tech
+      industry.
+    observed_exceptions: >-
+      Some enterprise-focused marketing materials adopt a slightly more
+      corporate tone to appeal to procurement and IT audiences — closer
+      to conventional B2B SaaS photography.
+    genuine_absence: >-
+      Based on figma.com review: no stock photography, no isolated product
+      screenshots without context, no competitive comparisons, no pricing-
+      focused imagery.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "September 2024 brand refresh (Damien Correll, VP Design, Brand & Creative)"
+    - "Sol LeWitt systematic art and Barbara Stauffacher Solomon supergraphics (stated influences)"
+    - "Config conference environmental design"
+    - "figma.com (observed February 2026)"
+  uses_illustration: true
+  illustration_style: >-
+    Abstract geometric primitives — circles, arcs, blobs, angular shapes in
+    the five-colour palette. Not representational illustration but systematic
+    composition. Influenced by Sol LeWitt (instruction-based systematic art)
+    and Barbara Stauffacher Solomon (bold supergraphics). The September 2024
+    refresh replaced the previous minimal cursor-and-outline style with these
+    more expressive, colour-saturated compositions. Compared to Notion (hand-
+    drawn, editorial, black-and-white) or Canva (friendly, character-based),
+    Figma's graphic language is the most abstract and art-world-referenced.
+  illustration_role: >-
+    Abstract compositions appear alongside photography in marketing, as
+    backgrounds and frames for UI screenshots, as environmental graphics
+    at Config, and as social media content. They serve as visual energy —
+    communicating creativity and dynamism without depicting specific subjects.
+  icon_style: >-
+    Figma's product icons use a consistent 24px grid with 1.5px stroke weight,
+    rounded caps. The five brand colours appear in feature icons. The file-type
+    icons (Figma design file, FigJam file, Slides file) use distinct colour
+    coding within the brand palette.
+  graphic_devices: >-
+    The Figma logo (four overlapping geometric shapes in four colours) is the
+    primary device — representing layers, collaboration, and design primitives.
+    The cursor (arrow pointer) was the pre-2024 signature graphic device,
+    representing multiplayer collaboration. Post-September 2024, abstract
+    primitives (arcs, circles, blobs) in the five-colour palette function as
+    a modular graphic system — combinable, scalable, and infinitely variable.
+    The 29-colour expanded web palette allows gradients and colour transitions
+    that the original five-colour palette didn't support.
+  motion_language: >-
+    Observed in figma.com and Config materials: smooth, fluid transitions.
+    Abstract shapes morph, rotate, and scale. UI animations in the product
+    are subtle and functional (layer transitions, cursor movements, frame
+    resizing). Brand motion is bolder — shapes animate with easing curves
+    that feel organic rather than mechanical. Config stage content uses
+    large-scale animated supergraphics.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Figma Sans (Grilli Type, Zurich — variable font, 5 families, 60 fonts)"
+    - "Figma Hand (OH no Type — for FigJam handwritten contexts)"
+    - "figma.com and Config materials (observed February 2026)"
+  signature_move: >-
+    Figma Sans (Grilli Type, Zurich) — a bespoke variable font system
+    comprising 5 families and 60 individual fonts. Designed to be Figma's
+    voice across all touchpoints: marketing, product, documentation, and
+    conference materials. The variable axis allows continuous weight and
+    width adjustments — matching Figma's own product philosophy of
+    continuous design parameters. The typeface is confident, geometric-
+    leaning, and contemporary without being cold. Commissioning Grilli Type
+    (a design-community-respected independent foundry) rather than a
+    corporate type house signals Figma's positioning within design culture.
+  what_would_look_wrong: >-
+    A generic system font (San Francisco, Segoe, Roboto) in marketing
+    contexts — Figma Sans is the voice. A serif typeface in any Figma
+    context (the brand is entirely sans-serif). Condensed or compressed type
+    that feels corporate rather than creative. Using Figma Hand outside of
+    FigJam or casual contexts.
+  case_convention: >-
+    Sentence case for most marketing and product UI. Lowercase for the
+    Figma wordmark. Feature names use sentence case ('Auto layout,' 'Dev
+    Mode'). Config uses more varied case treatments as part of its annual
+    visual experimentation.
+  display_vs_body: >-
+    Display: Figma Sans at heavier weights — bold, confident, generous
+    sizing. The variable font's width axis allows display type to stretch
+    or compress contextually. Body: Figma Sans at regular weight — clean,
+    readable, with comfortable line height. FigJam: Figma Hand (OH no Type)
+    — a casual, handwritten typeface that matches the whiteboard metaphor.
+    The display-to-body relationship is unified through the variable font
+    system — a single typeface family handles all contexts.
+  type_and_image: >-
+    Post-September 2024, type interacts directly with abstract graphic
+    compositions — overlaying, integrating with, and sometimes being
+    framed by geometric shapes. In product contexts, type is subordinate
+    to the canvas. In marketing, type is bold and shares visual weight
+    with the graphic language. At Config, type becomes environmental —
+    large-scale supergraphic letterforms.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "figma.com (observed February 2026)"
+    - "Config conference materials"
+    - "September 2024 brand refresh"
+  signature_composition: >-
+    Post-September 2024: dynamic, asymmetric compositions that mix abstract
+    graphic elements with product UI screenshots and photography. The layout
+    feels more like a design portfolio or art installation than conventional
+    SaaS marketing. Large colour blocks, overlapping elements, and generous
+    scale contrast (very large type next to very small detail). Compared to
+    Adobe (structured, grid-based, corporate) or Canva (template-friendly,
+    consumer-accessible), Figma's layout is the most visually adventurous
+    in the design-tool category.
+  density_and_whitespace: >-
+    Moderate density with intentional contrast. Marketing pages alternate
+    between dense, information-rich sections and generous breathing space.
+    The maximalist graphic language fills space actively — whitespace is not
+    the dominant tool (unlike pre-2024 Figma, which was more minimal).
+    Product UI maintains disciplined whitespace around the canvas.
+  format_preferences: >-
+    Wide, horizontal compositions for marketing heroes. Square and vertical
+    for social media. Product screenshots shown in browser-frame mockups.
+    Config uses large-format environmental applications — banners, stage
+    screens, floor graphics.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "leader"
+  relationship_to_trends: >-
+    Figma shapes design trends by virtue of being the tool designers use.
+    The September 2024 brand refresh set the visual tone that competitor
+    design tools are now responding to.
+  examples:
+    - trend: "Maximalist brand design in tech"
+      stance: "leader"
+      evidence: >-
+        The September 2024 brand refresh moved from minimal geometric to
+        maximalist, colour-saturated, abstract-primitive compositions.
+        Influenced by Sol LeWitt and Barbara Stauffacher Solomon — art-world
+        references that elevated the visual language beyond typical tech
+        branding. The refresh was widely discussed in the design community.
+      reasoning: >-
+        Figma is the tool most designers use daily. When Figma's own brand
+        shifts aesthetic direction, it signals and accelerates broader trends.
+    - trend: "Variable font systems for brand identity"
+      stance: "leader"
+      evidence: >-
+        Figma Sans (Grilli Type) as a 5-family, 60-font variable system
+        represents one of the most comprehensive bespoke type investments
+        in the tech industry. The variable axes (weight, width) match
+        Figma's product philosophy of continuous, adjustable parameters.
+      reasoning: >-
+        Commissioning a variable type system from a respected independent
+        foundry sets a standard that positions bespoke typography as a
+        brand investment, not a cost.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    The five-colour palette (#F24E1E, #FF7262, #A259FF, #1ABCFE, #0ACF83).
+    Figma Sans as the primary typeface. The abstract geometric primitive
+    language. The Figma logo. The playful, design-community-native tone.
+  what_bends: >-
+    Config receives its own annual visual identity — the most radical
+    departure from the baseline. Integration partnerships (Figma + Slack,
+    Figma + Jira) adopt the partner's UI context while maintaining Figma's
+    colour coding. Community-created content (templates, plugins) carries
+    variable visual quality.
+  notable_examples: >-
+    Config conference (annual): each year receives a distinct visual identity
+    that pushes the brand further than everyday marketing. Figma Community:
+    user-created templates and plugins that extend the brand in uncontrolled
+    directions — Figma embraces this rather than policing it. Friends of
+    Figma (community programme): co-branded materials that adapt the brand
+    for local design communities globally.

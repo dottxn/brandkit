@@ -1,0 +1,33 @@
+chunk_id: "zara-soul"
+brand: zara
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "zara-positioning"
+token_count: 176
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Zara. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  Runway translated into accessibility—that suit from the fashion show you saw last week is waiting on the Zara rack next Tuesday.
+core_belief: >-
+  Trend-to-consumer time should be measured in weeks, not seasons; fashion's purpose is to serve the moment, not create scarcity.
+creative_tension:
+  - >-
+    Maintaining fashion sophistication and editorial presentation while remaining a fast-fashion brand with different supply chain economics than luxury.
+  - >-
+    Moving at lightning-fast design-to-retail speed while maintaining quality standards that make customers believe they're getting premium craft.
+decision_filter: >-
+  Can we get this design from runway observation to customer hands in 2-3 weeks? If the answer is no, we're designing too far ahead.
+signature_move: >-
+  The stark black-and-white photographic aesthetic (#000000, #FFFFFF) that makes clothing look precious through editorial excellence, not decorative design.
+what_would_break_it: >-
+  Adopting the minimalist luxury aesthetic of Uniqlo or competitor brands, or softening the editorial rigor with warmer, lifestyle photography.

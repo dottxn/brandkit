@@ -1,0 +1,31 @@
+chunk_id: "harleymeds-strategy"
+brand: harleymeds
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "harleymeds-positioning"
+token_count: 58
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for HarleyMeds. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="31-9,31-10">We believe in combining cutting-edge science, trusted advice, and compassionate care to break down barriers to better health</cite>
+mission: >-
+  <cite index="31-7,31-8">To make wellness accessible and help people unlock the best versions of themselves through innovative, transparent, and personalized wellness solutions</cite>
+vision: >-
+  <cite index="31-8,31-9">To transform lives through innovative, transparent, and personalized wellness solutions that inspire confidence and empower clients to reach peak performance and thrive in their daily lives</cite>
+values:
+  - Transparency
+  - Innovation
+  - Community
+  - Excellence
+  - Accessibility

@@ -1,0 +1,71 @@
+# ──────────────────────────────────────────────
+# Uber — Creative References
+# ──────────────────────────────────────────────
+
+channels:
+  website: "https://www.uber.com"
+  instagram: "https://www.instagram.com/uber/"
+  tiktok: "https://www.tiktok.com/@uber"
+  youtube: "https://www.youtube.com/@Uber"
+  x: "https://x.com/uber"
+  app_store: "https://apps.apple.com/us/app/uber-request-a-ride/id368677368"
+
+studios:
+  - name: "Wolff Olins"
+    type: branding
+    url: "https://www.wolff-olins.com/"
+    project_url: "https://wolffolins.com/work/uber"
+    relationship: "2018 rebrand — visual system reset, U-Frame composition system, brand guidelines governance"
+
+  - name: "MCKL Type"
+    type: type-foundry
+    url: "https://www.mckltype.com/"
+    relationship: "Designed Uber Move custom typeface (2018) — geometric sans-serif with Display and Text optical sizes"
+
+  - name: "jkr"
+    type: branding
+    url: "https://jkr.co.uk/"
+    relationship: "Expanded brand identity from ride-hailing to 'go anywhere, get anything' — Uber Eats and delivery products"
+
+people:
+  - name: "Jeremy Mickel"
+    role: "Founder, MCKL Type / Typeface Designer"
+    url: "https://www.mckltype.com/"
+    context: "Designed Uber Move — geometric sans-serif inspired by early twentieth century and global transportation fonts"
+
+  - name: "Forest Young"
+    role: "Executive Creative Director, Wolff Olins"
+    url: "https://www.linkedin.com/in/forestyoung/"
+    context: "Led 2018 rebrand creative direction — deliberate reset after 2016 brand controversy"
+
+  - name: "Katie Dill"
+    role: "Head of Design"
+    url: "https://www.linkedin.com/in/katie-dill-79168b3/"
+    context: "Former Airbnb/Lyft, oversees Uber visual system and design governance (ex-Head of Experience at Airbnb)"
+
+  - name: "Peter Markatos"
+    role: "ECD Brand Experience"
+    url: "https://www.linkedin.com/in/peter-markatos/"
+    context: "Manages brand expression and visual consistency across Uber's global operations"
+
+publications:
+  - title: "Uber Has a New Brand. Again."
+    author: "Fast Company"
+    relevance: "Analysis of 2018 rebrand strategy and visual identity reset"
+
+visuals:
+  - url: "https://www.uber.com"
+    label: "Uber homepage — monochrome palette, U-Frame composition system, authority-coded visual language"
+    section: visual-language
+
+  - url: "https://base.uber.com"
+    label: "Base design system — comprehensive component library, motion principles, accessibility standards"
+    section: visual-world
+
+  - url: "https://www.ubereats.com"
+    label: "Uber Eats — green palette, food photography, warmer visual register than ride-hailing"
+    section: visual-language
+
+  - url: "https://www.mckltype.com/custom/uber"
+    label: "Uber Move typeface — design specifications, optical size system"
+    section: visual-language

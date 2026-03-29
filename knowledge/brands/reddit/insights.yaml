@@ -1,0 +1,32 @@
+chunk_id: "reddit-insights"
+brand: reddit
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "reddit-soul"
+  - "reddit-positioning"
+token_count: 185
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Reddit. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    The brands that seem most authentic are usually the ones willing to admit their own community's weirdness and absurdity rather than papering over it
+  - >-
+    Reddit's signature orangered (#FF4500) works because it's distinctly Reddit's—not borrowed from tech conventions, genuinely weird in the best way
+  - >-
+    Conversation bubbles as the core visual device is brilliant because they literally represent the mechanic (nested comments) visually—form and function are the same
+  - >-
+    "genuinely candid" and "delightfully absurd" as brand values only work when backed by actual product design that protects these behaviors
+  - >-
+    Reddit's competitive edge is that it's the last major platform that trusts users rather than optimizing for platform control
+what_nobody_copies: >-
+  The architectural decision to center identity around conversation structure (bubbles) rather than around content or users—this makes Reddit's identity infinitely scalable across subreddits

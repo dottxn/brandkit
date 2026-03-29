@@ -1,0 +1,38 @@
+chunk_id: "nike-competitive"
+brand: nike
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "nike-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Nike. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - adidas
+  - apple
+  - patagonia
+  - decathlon
+  - gucci
+industry_norms_it_breaks: "The swoosh in isolation. A single curve that contains speed, ambition, and forward momentum. It works because it refuses to explain itself. | Nike's refusal to soften its messaging even as it scales globally. Competitors dilute their tone to be inclusive; Nike intensifies its message of personal striving. This is counterintuitive but unbrea | When faced with a fork, Nike asks: Does this make the athlete better? Not faster, not faster at selling, but fundamentally better — more capable, more courageous, more themselves."
+visual_cluster: "cinematic-narrative"
+visual_fingerprint:
+  - cluster: "cinematic-narrative"
+    role: "dominant"
+    where: "W+K global campaigns, OOH, athlete storytelling, brand films"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "nike.com product pages, app UI, commerce grid"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Nike Running RUNSWOOSH, ACG, SB sport categories"
+strategic_cluster: "aspiration-engine"
+category: "sport-outdoor"

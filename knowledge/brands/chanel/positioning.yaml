@@ -1,0 +1,31 @@
+chunk_id: "chanel-positioning"
+brand: chanel
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Chanel. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Chanel
+website: "https://www.chanel.com"
+founded: 1910
+category: luxury
+sub_category: "haute-couture-ready-to-wear"
+price_tier: luxury
+primary_archetype: The Creator
+secondary_archetype: The Ruler
+positioning_scales:
+  utility_theater: 9
+  access_exclusivity: 10
+  heritage_innovation: 3
+key_differentiators: []

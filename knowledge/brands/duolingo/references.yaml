@@ -1,0 +1,85 @@
+channels:
+  website: "https://www.duolingo.com"
+  instagram: "https://www.instagram.com/duolingo/"
+  tiktok: "https://www.tiktok.com/@duolingo"
+  youtube: "https://www.youtube.com/@duolingo"
+  x: "https://x.com/duolingo"
+  app_store: "https://apps.apple.com/us/app/duolingo-language-lessons/id570060128"
+
+studios:
+- name: Johnson Banks
+  type: branding
+  url: https://www.johnsonbanks.co.uk/
+  relationship: Led 2019 rebrand; created character-driven visual system and Feather
+    Bold typeface
+  project_url: https://www.johnsonbanks.co.uk/work/duolingo
+- name: Fontsmith
+  type: type-foundry
+  url: https://www.fontsmith.com/
+  relationship: Designed Feather Bold typeface in collaboration with Johnson Banks
+    (2019)
+- name: Monotype
+  type: type-foundry
+  url: https://www.monotype.com/
+  relationship: Partnered on Feather Bold and DIN Next Rounded commissioning
+people:
+- name: Michael Johnson
+  role: Creative Director, Johnson Banks
+  url: https://www.johnsonbanks.co.uk/
+  context: Creative visionary for 2019 rebrand; championed personality-driven typography
+    over Silicon Valley neutrality
+- name: Krista Radoeva
+  role: Type Designer
+  url: https://www.kristaradoeva.com/
+  context: Designed Feather Bold typeface; owl-wing-inspired letterforms with personality
+- name: Emily Chiu
+  role: Character Designer
+  url: ''
+  context: Designed Duolingo character system — Duo, Lily, Zari, Bea, Junior, Eddy,
+    Lin, Lucy, Oscar
+- name: Ryan Sims
+  role: VP Design
+  url: ''
+  context: Oversees Duolingo design system and visual consistency
+- name: Mig Reyes
+  role: Head of Product Experience
+  url: ''
+  context: Leads product-focused design decisions and visual systems
+- name: Zaria Parvez
+  role: Social Media Content Strategy
+  url: ''
+  context: Pioneered chaotic, meme-native TikTok strategy (joined 2020); drove Duo
+    'death' campaign (February 2025, 1.7B impressions)
+publications:
+- title: Duolingo Rebrand 2019 — Johnson Banks
+  author: Johnson Banks
+  relevance: Design system avoiding Silicon Valley tropes; character-driven visual
+    identity
+- title: Feather Bold Typeface Design
+  author: Krista Radoeva & Fontsmith
+  relevance: Custom typeface inspired by Duo owl mascot; TDC Certificate of Excellence
+- title: design.duolingo.com Brand Guidelines
+  author: Duolingo Design Team
+  relevance: Comprehensive published brand guidelines (August 2024)
+visuals:
+- url: https://www.johnsonbanks.co.uk/work/duolingo
+  label: Duolingo Rebrand — Johnson Banks Portfolio
+  section: visual-language
+- url: https://www.kristaradoeva.com/work/duolingo
+  label: Feather Bold Typeface — Krista Radoeva Portfolio
+  section: visual-language
+- url: https://design.duolingo.com/
+  label: Duolingo Brand Guidelines — design.duolingo.com
+  section: visual-language
+- url: https://www.duolingo.com/
+  label: Duolingo.com — Current Brand Implementation
+  section: visual-world
+- url: https://www.creativereview.co.uk/duolingo-rebrand-johnson-banks/
+  label: Duolingo Rebrand — Creative Review Feature
+  section: visual-language
+- url: https://fontsinuse.com/uses/59497/duolingo-app
+  label: Feather Bold in Use — Fonts In Use Documentation
+  section: visual-language
+- url: https://www.underconsideration.com/brandnew/archives/new_wordmark_and_identity_for_duolingo_by_johnson_banks.php
+  label: Brand New — Duolingo 2019 Rebrand Coverage
+  section: visual-language

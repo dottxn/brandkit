@@ -1,0 +1,31 @@
+chunk_id: "slack-soul"
+brand: slack
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "slack-positioning"
+token_count: 148
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Slack. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A living room where work happens—casual, trusted, where silence feels okay and jokes land because context travels with the conversation.
+core_belief: Work should feel less like obligation and more like belonging to a capable crew.
+creative_tension:
+  - >-
+    Being playful enough to feel human while maintaining the professional authority enterprises need to trust.
+  - Enabling infinite extensibility through apps while keeping the core product intuitively simple.
+decision_filter: >-
+  Does this make communication more joyful without making it less functional? Both dimensions matter equally.
+signature_move: >-
+  The octothorpe (hashtag) built from speech bubbles and lozenges—a shape that represents conversation itself, not just a visual mark.
+what_would_break_it: >-
+  Abandoning the playful microinteractions and emoji reactions that make Slack feel like a community space rather than enterprise software.

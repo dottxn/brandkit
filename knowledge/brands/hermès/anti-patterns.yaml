@@ -1,0 +1,71 @@
+chunk_id: "hermès-anti-patterns"
+brand: hermès
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "hermès-soul"
+  - "hermès-visual-dna"
+token_count: 1029
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Hermès. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Logo applied to every visible surface
+    reasoning: >-
+      This immediately signals insecurity. Hermès' power comes from restraint—the carriage logo appears in very specific contexts (product tags, packaging, architectural signage), never scattered everywhere. Competitors try to maximize logo visibility; Hermès minimizes it, trusting that craftsmanship is the actual brand.
+  - pattern: "Bright, saturated seasonal colors beyond the signature orange"
+    reasoning: >-
+      The palette discipline is intentional. Beyond the foundational orange (#F37022), black, and white, additional colors appear only in silk scarves—which are explicitly artistic rather than branding. Product photography features neutral backgrounds. Introducing trend colors (millennial pink, turquoise, sage green) would signal fashion sensitivity rather than timelessness.
+  - pattern: "Sans-serif typeface replacing Memphis Bold serif for primary typography"
+    reasoning: >-
+      Hermès' serif feels handwritten, imperfect, artistic. A modernist sans-serif would align the brand with corporate efficiency rather than artisanal mastery. The serif is the typographic equivalent of the irregular knots in hand-stitched leather—it proves human hands made this.
+  - pattern: "Overstyled, artificially lit product photography"
+    reasoning: >-
+      Hermès photographs with natural light, soft shadows, minimal props. The texture of leather should be apparent, the patina visible. Over-processed, magazine-style imagery would contradict the brand's authenticity. The objects should feel photographed because they exist, not because they're being marketed.
+strategic:
+  - pattern: Explaining the craft in marketing copy
+    reasoning: >-
+      "Handmade by master artisans" is marketing-speak. Hermès trusts the object to communicate its own story. A 15-hour construction timeline is more powerful when the customer discovers it themselves than when it's listed in promotional materials. The silence is strategic—it creates space for the customer's own emotional investment.
+  - pattern: Celebrity partnerships or influencer collaborations
+    reasoning: >-
+      This would be fundamentally contradictory to the brand's position. Hermès doesn't need a TikTok creator to validate the brand. The waiting list and artificial scarcity create cultural desirability without manufactured endorsements. When A-list celebrities carry Hermès, it's because they choose it independently, never because Hermès paid for association.
+  - pattern: Aggressive expansion of distribution channels
+    reasoning: >-
+      Hermès maintains selective, architecture-focused retail locations. Adding department store counters, airport boutiques, or online quick-delivery would destroy exclusivity perception. The scarcity is the strategy. More accessible distribution would require visual systems designed for quick recognition and mass appeal—the opposite of Hermès' approach.
+  - pattern: "Positioning as a luxury investment or \"asset\""
+    reasoning: >-
+      While Hermès bags do appreciate in value, marketing this explicitly would shift the positioning from object-of-craft to speculative commodity. The brand succeeds because people buy Hermès to use and keep forever, not to flip on Vestiaire Collective. Emphasizing financial appreciation would attract the wrong customer.
+tonal:
+  - pattern: Inspirational messaging or emotional storytelling
+    reasoning: >-
+      "Find your style," "Express yourself," "Become your best self"—these are competitor tones. Hermès doesn't need motivational language. The tone is matter-of-fact, almost understated. "The creation of beautiful, functional objects" is sufficient. The brand speaks in statements, never questions. This confidence is the tonal signature.
+  - pattern: "Self-deprecating humor or relatable brand voice"
+    reasoning: >-
+      Hermès maintains respectful distance. Humor would undermine the reverent positioning. The tone is not unfriendly, but it's formal, knowledgeable, almost academic in its precision. Competitors try to be relatable; Hermès aspires to be authoritative.
+  - pattern: "Urgency language (\"Limited time,\" \"Last chance,\" \"Don't miss out\")"
+    reasoning: >-
+      Hermès' scarcity is structural, not manufactured through false urgency. Waitlists create FOMO organically without needing to push it. Artificial urgency would feel cheap compared to the real constraints of handcraftsmanship.
+  - pattern: "Corporate mission-speak about inclusivity or diversity"
+    reasoning: >-
+      While Hermès supports these values, leading with them would signal trend-consciousness. The brand stays above the cultural moment, speaking to timeless values instead. This positioning can feel aloof, but that's exactly the point—the brand is interested in permanence, not current political positioning.
+cultural:
+  - pattern: "Trying to appeal to Gen Z with \"accessible luxury\" messaging"
+    reasoning: >-
+      Hermès is expensive and exclusive by design. Younger generations who want luxury accessibility have other options (Anthropologie, COS, Everlane). Hermès shouldn't dilute its positioning to chase this segment. Ironically, Hermès' scarcity makes it more desirable to younger customers—they want what they can't have.
+  - pattern: "Collaborating with fashion designers to \"modernize\" the brand"
+    reasoning: >-
+      When luxury houses bring in contemporary designers, they risk looking dated when those designers' moment passes. Hermès' internal design process, while less publicized, maintains consistency. The brand evolved with Charlotte Perriand and Marc Newson, but these collaborations served specific collections, never the core identity.
+  - pattern: Moving primarily to digital/DTC channels to increase accessibility
+    reasoning: >-
+      Direct-to-consumer is efficiency optimization. Hermès values the boutique experience—knowledgeable staff, architectural beauty, the feeling of entering a shrine rather than a store. Stripping away this retail ritualism for convenience would destroy a significant portion of brand equity.
+  - pattern: Allowing the brand to become primarily associated with wealth signaling
+    reasoning: >-
+      Hermès bags are status symbols, but if this becomes the primary positioning, the brand loses its artisanal credibility. The positioning should emphasize craft and longevity, not "this proves I'm wealthy." Competitors compete on status; Hermès wins by making status almost secondary to craftsmanship.

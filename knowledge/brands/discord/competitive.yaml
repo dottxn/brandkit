@@ -1,0 +1,36 @@
+chunk_id: "discord-competitive"
+brand: discord
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "discord-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Discord. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - slack
+  - reddit
+  - zoom
+industry_norms_it_breaks: "Clyde, the mascot, rendered not as a brand ambassador but as a *mood ring*—expressions shift to match community energy, never teaching, only reflecting | The willingness to let the brand feel *imperfect* and *in-progress*. Discord's visual systems are modular and extensible because the platform is fundamentally about user customization. Most brands loc | Does this give users more agency to create their own spaces and express themselves authentically? If it requires them to perform or conform, it fails."
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Dark mode product, blurple-on-dark, gaming aesthetic"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Product UI, bot ecosystem, component-based design"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Blurple brand, Nitro premium, energetic marketing"
+strategic_cluster: "community-connector"
+category: "social-community"

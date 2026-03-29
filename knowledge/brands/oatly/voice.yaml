@@ -1,0 +1,45 @@
+chunk_id: "oatly-voice"
+brand: oatly
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "oatly-soul"
+token_count: 98
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Oatly. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  The world's original oat drink company founded in Sweden, making plant-based dairy alternatives with a mission to help people eat better while reducing environmental impact. Known for their irreverent
+tone_traits:
+  - cheeky
+  - provocative
+  - bold messaging
+  - honest about ingredients and impact
+  - open communication
+  - human
+  - relatable
+  - direct
+anti_traits:
+  - corporate jargon
+  - overly polite
+  - greenwashing
+  - hiding information
+  - formal
+  - stiff
+  - bureaucratic
+example_phrases:
+  - "Wow, no cow!"
+  - "It's like milk, but made for humans"
+  - "We call it 'the boring side'\" (referring to legal text)"
+  - Post Milk Generation
+guardrails:
+  never_say: []
+  always_sound: "cheeky, provocative, bold messaging, honest about ingredients and impact, open communication"

@@ -1,0 +1,33 @@
+chunk_id: "aesop-soul"
+brand: aesop
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "aesop-positioning"
+token_count: 339
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Aesop. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A bookshop that happens to sell skincare. The kind of place where the staff have read the books on the shelf and would rather talk about Tanizaki than moisturiser. You leave feeling slightly more cultured than when you walked in — not because of anything they said, but because of everything they didn't.
+core_belief: >-
+  Restraint is the highest form of respect — for the customer's intelligence, for the materials, for the place, and for the idea that beauty is one part of a considered life, not the centre of it.
+creative_tension:
+  - >-
+    A brand built on the refusal of scale, now owned by the world's largest beauty conglomerate. Every growth decision from here is a negotiation between the philosophy that made Aesop valuable and the commercial logic that paid $2.525 billion for it.
+  - >-
+    There's also a deeper, older tension: Aesop treats beauty as an intellectual pursuit, but skincare is ultimately physical, sensory, bodily. The brand lives in the gap between the library and the bathroom sink.
+decision_filter: >-
+  When faced with a fork, Aesop always chooses restraint over reach. Fewer stores, not more. Silence over advertising. One strong idea per space, not three. The answer to "should we?" is almost always "not yet."
+signature_move: >-
+  The Optima wordmark with the macron over the 'e'. One diacritical mark does all the heavy lifting — it signals classical learning, typographic precision, and cultural depth without changing a single letterform. It's the most Aesopian gesture possible: minimal intervention, maximum meaning.
+what_would_break_it: >-
+  A rounded, friendly sans-serif like Circular or Cereal. The moment Aesop's typography feels approachable and tech-startup-warm, the entire intellectual positioning collapses.

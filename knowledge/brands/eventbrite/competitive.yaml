@@ -1,0 +1,35 @@
+chunk_id: "eventbrite-competitive"
+brand: eventbrite
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "eventbrite-positioning"
+token_count: 2
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Eventbrite. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - discord
+  - airbnb
+industry_norms_it_breaks: "The Path—a tripartite abstract monogram that moves and evolves, suggesting movement toward connection. The mark is flexible enough to animate, enough to remix, abstract enough that each viewer constru | The Energy Auras system—neon gradients applied systematically across visual elements, creating vibrancy without appearing chaotic. Most brands either commit fully to maximalism (Spotify's color divers | Does this celebrate the event creator's vision or optimize for conversion metrics? Is the experience about people connecting or tickets converting? Would an independent event organizer feel empowered "
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Vibrant brand, event energy, attention-demanding"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Organiser tools, event platform, ticketing UI"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Community events, local discovery"
+strategic_cluster: "trusted-guide"
+category: "social-community"

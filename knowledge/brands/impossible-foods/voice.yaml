@@ -1,0 +1,49 @@
+chunk_id: "impossible-foods-voice"
+brand: "impossible-foods"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "impossible-foods-soul"
+token_count: 120
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Impossible Foods. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Impossible Foods creates plant-based meat products that taste, cook, and satisfy like animal meat. Founded with the mission to eliminate animal agriculture's environmental impact, the company uses foo
+tone_traits:
+  - Direct
+  - unapologetic
+  - scientifically grounded
+  - Meaty language
+  - "food-first messaging"
+  - inclusive
+  - Challenging conventions
+  - witty
+  - "science-backed"
+anti_traits:
+  - Preachy
+  - apologetic
+  - "wishy-washy"
+  - Judgmental
+  - exclusive to vegans
+  - "sacrifice-focused"
+  - Overly technical
+  - boring
+  - condescending
+example_phrases:
+  - "We're solving the meat problem with more meat"
+  - Meat made from plants
+  - "We're meat too, we're just made from plants"
+  - >-
+    The best pork, the best chicken, the best fish the world has ever seen will be made directly from plants
+guardrails:
+  never_say: []
+  always_sound: "Direct, unapologetic, scientifically grounded, Meaty language, food-first messaging"

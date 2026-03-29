@@ -1,0 +1,60 @@
+# ──────────────────────────────────────────────
+# CVS Pharmacy — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Siegel+Gale"
+    type: "branding"
+    url: "https://www.siegelgale.com/"
+    relationship: "Created 2014 rebrand; designed heart logo and CVS Health visual identity system"
+
+  - name: "Pearlfisher"
+    type: "design-studio"
+    url: "https://pearlfisher.com/"
+    relationship: "Redesigned CVS store-brand packaging across 20 categories (2024-2025)"
+
+  - name: "Heart Haus"
+    type: "in-house-creative-agency"
+    url: ""
+    relationship: "In-house creative agency producing brand content and campaign materials"
+
+people:
+  - name: "Erin Condon"
+    role: "Chief Marketing Officer"
+    url: ""
+    context: "Oversees CVS marketing strategy and visual communications"
+
+  - name: "Emma White"
+    role: "Head of Design Programs"
+    url: ""
+    context: "Oversees design governance and brand consistency"
+
+publications:
+  - title: "CVS Health Rebrand Case Study"
+    author: "Siegel+Gale"
+    relevance: "Documentation of 2014 heart logo design and brand transformation following tobacco sales exit"
+
+  - title: "CVS Beauty Mark Initiative (2018)"
+    author: "CVS Health"
+    relevance: "Commitment to unretouched beauty imagery — first major US retailer to establish visual ethics standard"
+
+visuals:
+  - url: "https://www.siegelgale.com/case-study/cvs-health/"
+    label: "CVS Health Rebrand — Siegel+Gale Case Study (2014)"
+    section: "visual-language"
+
+  - url: "https://thedieline.com/pearlfisher-gives-cvs-healths-private-label-a-new-look/"
+    label: "CVS Health Packaging Redesign — Pearlfisher (2024-2025)"
+    section: "visual-world"
+
+  - url: "https://www.fastcompany.com/91345985/cvs-health-packaging-redesign"
+    label: "CVS Health Store-Brand Packaging Evolution — Fast Company coverage"
+    section: "visual-world"
+
+  - url: "https://www.cvs.com/"
+    label: "CVS.com Homepage — Current Visual Identity Implementation"
+    section: "visual-world"
+
+  - url: "https://www.rebrand.com/distinction-cvs-health/"
+    label: "CVS Health Rebrand — ReBrand Magazine Coverage"
+    section: "visual-language"

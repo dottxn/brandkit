@@ -1,0 +1,330 @@
+chunk_id: "erdem-visual-language"
+brand: "erdem"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "erdem-visual-dna"
+  - "erdem-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Erdem. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-erdem"
+      touchpoints:
+        - "erdem.com homepage and collections"
+        - "Erdem runway shows (London Fashion Week)"
+        - "Erdem brand campaigns"
+        - "Erdem social media channels"
+      description: >-
+        Minimalist, narrative-driven, print-defined. Erdem's visual
+        identity is built on the tension between the minimalism of the
+        brand frame (clean serif 'ERDEM' wordmark, white space, editorial
+        restraint) and the maximal richness of the garments themselves
+        (custom floral prints, Swarovski crystal embroidery, historical
+        references). Erdem Moralioglu MBE (founder and Creative Director,
+        RCA 2003, ex-Vivienne Westwood/DVF) is both the designer and the
+        visual author. Philippa Nixon (CEO since 2019, ex-Chloé) provides
+        commercial leadership. The visual language is narrative-driven —
+        each collection tells a story inspired by historical muses (Maria
+        Callas, Radclyffe Hall, the Duchess of Devonshire) and the
+        photography, styling, and art direction serve that narrative.
+        Compared to Alexander McQueen (more theatrical, more dark-romantic)
+        or Simone Rocha (more feminine-subversive, more sculptural),
+        Erdem's visual language is the most literary and the most
+        historically referenced.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this minimal-
+        frame, narrative-rich, print-defined register.
+
+    - name: "erdem-runway-editorial"
+      touchpoints:
+        - "Erdem runway show photography"
+        - "Erdem campaign photography (Sonia Szóstak, Michal Pudelka)"
+        - "Fashion editorial features (Vogue, Harper's Bazaar)"
+      description: >-
+        Rich, atmospheric, narrative-editorial. Runway and campaign
+        photography is where Erdem's visual language is most fully
+        expressed. Photographers Sonia Szóstak, Michal Pudelka, and Sam
+        Rock create atmospheric, story-driven imagery — often in historical
+        interiors, gardens, or institutional settings that reference the
+        collection's narrative source. The runway photography captures
+        garment detail (print, embroidery, fabric drape) in natural
+        movement. The editorial mode is the visual heart of the brand.
+      differs_from_default_by: >-
+        Photography dominates over graphic design. The narrative references
+        (historical settings, atmospheric lighting, character-driven
+        styling) create the visual world. The register is editorial and
+        story-driven rather than commercially product-focused.
+
+    - name: "erdem-e-commerce"
+      touchpoints:
+        - "erdem.com product pages"
+        - "Wholesale buyer presentations"
+        - "Retail partner product listings (Net-a-Porter, Matches)"
+      description: >-
+        Clean, product-focused, commercially accessible. The e-commerce
+        mode strips the editorial narrative to present garments as
+        purchasable products — clean white-background product photography,
+        detailed views of fabric and construction, and straightforward
+        styling. This mode bridges Erdem's editorial richness with
+        commercial functionality.
+      differs_from_default_by: >-
+        Clean product photography replaces atmospheric editorial imagery.
+        The visual register shifts from narrative-editorial to commercial-
+        retail. The minimalist brand frame (wordmark, white space)
+        provides the visual structure.
+
+  notes: >-
+    Erdem's visual identity is unusually designer-authored — Moralioglu
+    personally selects the historical references, art-directs campaign
+    photography, and designs the floral prints that define the brand's
+    visual character. The 20th anniversary in 2025 represents a
+    significant moment for visual reflection. The British Museum
+    partnership (since 2018, Dr Nicholas Cullinan) adds institutional-
+    cultural depth.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "high"
+  primary_sources:
+    - "Sonia Szóstak (campaign photographer)"
+    - "Michal Pudelka (campaign photographer)"
+    - "Sam Rock (campaign photographer)"
+    - "erdem.com (observed February 2026)"
+  subject_and_framing: >-
+    Narrative-driven, historically situated, garment-intimate. Erdem's
+    campaign photography places models within environments that reference
+    the collection's narrative — historical interiors, English country
+    gardens, institutional settings, libraries, and museums. The framing
+    captures both the complete silhouette and intimate details of print,
+    embroidery, and fabric. Sonia Szóstak's work creates atmospheric,
+    painterly compositions. Michal Pudelka brings a slightly surreal,
+    dream-like quality. Sam Rock provides a more documentary, intimate
+    register. The photography treats each collection as a visual novella
+    rather than a product catalogue. Compared to Simone Rocha (more
+    starkly composed, more sculptural) or Erdem's own peer Roksanda
+    (more colour-field-coded), Erdem's photography is the most
+    narratively elaborate and historically anchored.
+  casting_observed: >-
+    Elegant, character-driven, diverse. Models are cast to embody the
+    collection's narrative character rather than to maximise commercial
+    recognition. Recent collections show increasing casting diversity.
+    The models function as characters in the collection's story rather
+    than as fashion celebrities.
+  lighting_and_colour: >-
+    Atmospheric, warm, painterly. Campaign photography uses natural
+    light in historical interiors — window light, garden shade, museum
+    ambient. The lighting references Old Master painting traditions —
+    chiaroscuro effects, warm golden tones, dramatic shadows. The colour
+    palette is driven by the collection's prints — rich florals, deep
+    jewel tones, muted pastels. Compared to McQueen (more dramatic,
+    more theatrical lighting) or Dries Van Noten (more saturated, more
+    colour-explosive), Erdem's lighting is the most painterly-referential.
+  post_production: >-
+    Moderate, atmosphere-enhancing. Campaign photography receives careful
+    colour grading that enhances the painterly, historical quality —
+    warm tones, subtle film grain, atmospheric depth. The post-production
+    supports the narrative fiction of each collection without heavy
+    digital manipulation.
+  visual_boundaries:
+    stated_exclusions: >-
+      Erdem avoids contemporary-streetwear photography, digital/CGI
+      imagery, and commercial-lifestyle photography. The brand maintains
+      a distinctly editorial, narrative-driven photographic register.
+    observed_exceptions: >-
+      E-commerce product photography uses clean, commercial conventions
+      necessitated by retail requirements.
+    genuine_absence: >-
+      Based on erdem.com review: no celebrity face campaigns, no street-
+      style photography, no digital-art or AI-generated imagery, no
+      urban-contemporary settings in brand photography.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Erdem custom floral prints"
+    - "Swarovski crystal embroidery"
+    - "British Museum partnership (since 2018)"
+    - "Kaye Donachie artist collaboration (Pre-Fall 2025)"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    Minimal. The 'ERDEM' wordmark functions as the primary brand mark.
+    No significant icon system — the brand communicates through garments,
+    photography, and the minimal typographic frame rather than through
+    graphic devices.
+  graphic_devices: >-
+    Custom floral prints — designed by Moralioglu for each collection,
+    the florals are Erdem's most distinctive graphic element. Each
+    season's prints reference specific botanical sources and historical
+    textiles — they are designed, not sourced. The prints function as
+    both textile design and visual identity — an Erdem floral is
+    recognisable across the fashion industry. Swarovski crystal
+    embroidery — hand-applied crystal work that adds dimensional graphic
+    texture to garments. The British Museum partnership — institutional
+    visual elements (museum interiors, historical artworks) function as
+    brand context. The 'ERDEM' serif wordmark — minimalist, authoritative,
+    providing the clean frame around the visual richness of the garments.
+  motion_language: >-
+    Runway-walk rhythm and fabric movement. The primary motion content is
+    runway video — models walking in garments, showing how prints and
+    fabrics move. Campaign videos maintain the atmospheric, narrative-
+    driven register of the still photography. The motion language is
+    measured, elegant, and garment-focused — never fast-paced or
+    commercially aggressive.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "medium"
+  primary_sources:
+    - "'ERDEM' serif wordmark"
+    - "erdem.com (observed February 2026)"
+  signature_move: >-
+    The minimalist serif 'ERDEM' wordmark — spaced, capitals, classically
+    proportioned. The wordmark's restraint creates a deliberate tension
+    with the maximal richness of the garments — the typography is the
+    quiet frame around the loud prints and embroidery. No publicly
+    identified custom typeface commission — the brand uses a serif
+    typeface for the wordmark and clean sans-serif for body text. The
+    typographic choice signals literary and historical reference rather
+    than contemporary design culture. Compared to McQueen (custom Gothic-
+    inspired lettering) or Simone Rocha (handwritten signature), Erdem's
+    typography is the most classically restrained.
+  what_would_look_wrong: >-
+    A sans-serif or geometric wordmark (contradicts the literary,
+    historical register). A script or handwritten mark (contradicts the
+    minimalist, authoritative character). A heavy, decorative typeface
+    (the typography must not compete with the garments' visual richness).
+    Lowercase treatment of the brand name (the ALL CAPS wordmark provides
+    the architectural structure).
+  case_convention: >-
+    'ERDEM' in all caps for the wordmark and brand mark — the only case
+    convention that appears across brand applications. Body text uses
+    sentence case. Collection titles use title case. The ALL CAPS wordmark
+    is the brand's primary typographic device.
+  display_vs_body: >-
+    Display: The 'ERDEM' serif wordmark at spaced capitals for all brand
+    applications — website header, campaign credits, store signage. Body:
+    Clean sans-serif for website navigation, product descriptions, and
+    editorial text. The display/body contrast is extreme — the serif
+    wordmark and the sans-serif body exist in different typographic worlds,
+    with the wordmark providing heritage authority and the body providing
+    contemporary readability.
+  type_and_image: >-
+    Typography defers to photography and garments. The 'ERDEM' wordmark
+    provides brand identification, and body text provides information,
+    but neither competes with the visual richness of the campaign
+    photography or garment imagery. On erdem.com, typography is minimal —
+    product names, prices, and navigation. The visual hierarchy places
+    garments and photography first, typography second.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "erdem.com (observed February 2026)"
+    - "Erdem campaign imagery layout"
+  signature_composition: >-
+    Full-bleed photography with minimal brand chrome. erdem.com uses
+    large, full-width campaign photography as the primary compositional
+    element — the website functions as a digital lookbook. Product pages
+    use clean grid layouts. The overall composition emphasises visual
+    editorial rather than commercial navigation. Compared to McQueen
+    (more architecturally structured) or Stella McCartney (more
+    sustainability-message-forward), Erdem's layout is the most
+    editorially photography-driven.
+  density_and_whitespace: >-
+    Low density, generous whitespace. The minimalist brand frame means
+    significant white space around typography and between sections.
+    Photography occupies the visual field; text is sparse and purposeful.
+    The overall impression is editorial-magazine rather than e-commerce.
+  format_preferences: >-
+    Portrait for campaign and runway photography. Full-bleed, edge-to-
+    edge imagery for website hero sections. Product photography in
+    standard e-commerce formats. The portrait orientation reflects
+    fashion's emphasis on the human figure and garment silhouette.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "resister"
+  relationship_to_trends: >-
+    Erdem maintains a consistent visual register that resists fashion's
+    rapid trend cycles — the brand's narrative, historically-anchored
+    approach creates visual continuity across seasons.
+  examples:
+    - trend: "Digital-first fashion marketing"
+      stance: "resister"
+      evidence: >-
+        Erdem maintains an editorial, photography-driven visual language
+        in an era of social-media-first fashion marketing. The brand's
+        campaign imagery is closer to fine-art photography than to
+        social-media content. No significant TikTok-native or meme-
+        culture visual strategy.
+      reasoning: >-
+        Erdem's target customer values the literary, historical depth of
+        the brand — a depth that resists compression into social-media-
+        native formats. The editorial photography register preserves
+        brand meaning.
+    - trend: "Artist collaborations as brand content"
+      stance: "selective-adopter"
+      evidence: >-
+        Kaye Donachie collaboration (Pre-Fall 2025) integrates a
+        contemporary painter's work into the collection — paintings
+        referenced in prints and campaign imagery. The British Museum
+        partnership (since 2018, Dr Nicholas Cullinan) provides ongoing
+        institutional-cultural collaboration.
+      reasoning: >-
+        Erdem's collaborations are with fine artists and cultural
+        institutions rather than commercial brands — consistent with
+        the literary, historically-rooted brand positioning.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    The 'ERDEM' serif wordmark. Custom floral prints. Narrative-driven,
+    historically-anchored campaign photography. The minimalist brand
+    frame around maximal garment richness.
+  what_bends: >-
+    Each collection introduces new narrative references, print designs,
+    and photographic settings — the visual language refreshes through
+    storytelling rather than brand redesign. Campaign photographers
+    change (Szóstak, Pudelka, Rock) while maintaining atmospheric
+    consistency. Artist collaborations (Kaye Donachie) introduce
+    external visual elements.
+  notable_examples: >-
+    Erdem x H&M (Studio Bon art direction): the most commercially
+    visible collaboration — Studio Bon art-directed the campaign for
+    H&M's high-street collection, translating Erdem's editorial register
+    for mass-market retail. Erdem x British Museum (since 2018): a
+    sustained cultural partnership with Dr Nicholas Cullinan, providing
+    institutional settings, historical references, and archival access
+    that enrich collection narratives. Erdem x Swarovski: the crystal
+    embroidery partnership provides dimensional graphic texture that
+    defines Erdem's most elaborate pieces. Erdem x Kaye Donachie (Pre-
+    Fall 2025): the contemporary painter's dreamlike figurative work
+    was integrated into print design and campaign imagery — demonstrating
+    how fine art enriches fashion visual language.

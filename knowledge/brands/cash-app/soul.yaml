@@ -1,0 +1,29 @@
+chunk_id: "cash-app-soul"
+brand: "cash-app"
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "cash-app-positioning"
+token_count: 136
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Cash App. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "Money moving through your fingertips like electricity, like control suddenly feels possible"
+core_belief: "Finance is culture, and culture moves faster than institutions—be there first"
+creative_tension:
+  - "Structured financial products vs. infinite creative expression (boosts, card customization)"
+  - Accessibility for the unbanked vs. premium features for digitally native users
+decision_filter: >-
+  Does this break a financial convention, or does this just repeat what legacy fintech already does with better design?
+signature_move: >-
+  Cash App Green (#00D54B) as a visual signal of action—not a brand color but a permission structure for motion and playfulness
+what_would_break_it: >-
+  Muting the green, using traditional financial institution aesthetics, removing card customization, or treating the brand as utility instead of cultural force

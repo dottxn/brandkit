@@ -1,0 +1,71 @@
+chunk_id: "masterclass-anti-patterns"
+brand: masterclass
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "masterclass-soul"
+  - "masterclass-visual-dna"
+token_count: 830
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for MasterClass. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Corporate learning design language (bright colors, friendly sans-serif, progress bars)"
+    reasoning: >-
+      This would immediately destroy the premium positioning and cinematic aesthetic. Educational software design communicates "you are learning," which undermines the positioning that learning is entertainment-quality experience.
+  - pattern: "Rounded, friendly sans-serifs (Poppins, Circular) instead of editorial type"
+    reasoning: >-
+      Friendly fonts suggest accessibility through warmth, which would contradict premium positioning. The tone of friendly instructional design is antithetical to the reverent atmosphere MasterClass is establishing.
+  - pattern: "Grid-based layouts with high information density"
+    reasoning: >-
+      This would feel utilitarian rather than cinematic. Generous whitespace and asymmetrical composition reference film poster design and editorial photography, not software design. The composition philosophy should feel like it belongs in a high-end magazine, not an app.
+  - pattern: "Multi-color palette or gradient systems"
+    reasoning: >-
+      These signal dynamism and playfulness. MasterClass's color strategy (black primary, instructor colors as accents) suggests restraint and focus. The absence of color multiplication forces attention to content rather than visual excitement.
+strategic:
+  - pattern: Compromising on production quality to improve margin
+    reasoning: >-
+      This is existential threat. The moment production quality drops noticeably, the value proposition collapses. All strategic decisions must preserve the cinematic production commitment, even if it means slower growth or maintaining premium pricing.
+  - pattern: Celebrity without expertise or celebrity overshadowing methodology
+    reasoning: >-
+      If instructors are selected primarily for fame rather than ability to teach their methodology clearly, courses become unwatchable. The brand positioning requires that every celebrity is selected because they're genuinely great teachers, not because they're famous.
+  - pattern: Adding algorithmic recommendations or algorithmic course sequencing
+    reasoning: >-
+      This would risk homogenizing what gets discovered and suggested. Curation should feel like it came from someone with taste, not from an algorithm optimizing for engagement metrics. The feeling of "being chosen" by the brand is core experience.
+  - pattern: Attempting to compete with free platforms on price or accessibility
+    reasoning: >-
+      MasterClass's moat is premium production and exclusive access, not price competition. Trying to be cheaper than Coursera or Udemy would destroy the premium positioning. The brand should double down on premium positioning, not defend against price competition.
+tonal:
+  - pattern: "Overly academic or lecture-hall tone"
+    reasoning: >-
+      The tone should be conversational and intimate, not professorial. Even though we're watching world experts, the experience should feel like a conversation with a mentor, not a formal lecture. This requires balancing expertise with approachability.
+  - pattern: Inspirational platitudes without technical depth
+    reasoning: >-
+      Tone should balance emotional inspiration (why this work matters) with technical rigor (how to actually do this work). Inspirational without substance reads as hollow. Substance without inspiration reads as academic.
+  - pattern: "Trend-chasing or moment-focused communication"
+    reasoning: >-
+      The voice should sound timeless. Learning from experts should feel relevant 10 years from now, not tied to current cultural moments. The tone of mentorship transcends trends.
+  - pattern: Apologies for premium positioning or accessibility limitations
+    reasoning: >-
+      The brand should be confident: "We charge premium pricing because production quality is premium and time with world experts is valuable." No defensiveness. Premium is feature, not bug.
+cultural:
+  - pattern: Education democratization movement creates demand for elite access at scale
+    reasoning: >-
+      MasterClass is correctly positioned to capture the cultural desire for world-class education that transcends geography and wealth. The positioning is strategically sound for this moment.
+  - pattern: "Premium streaming has legitimacy; it doesn't have to be free to be valuable"
+    reasoning: >-
+      MasterClass proved that audiences will pay for premium content if quality is evident. This positioning will continue to strengthen as AI content proliferates and scarcity of human expertise increases in perceived value.
+  - pattern: Learner autonomy has become expectation; passive learning is culturally devalued
+    reasoning: >-
+      MasterClass's model (self-paced, on-demand, no assignments or tests) aligns with cultural shift toward autonomous learning. Traditional educational credentialism is becoming less valued relative to self-directed mastery.
+  - pattern: Lifelong learning positioning will become increasingly central as career volatility increases
+    reasoning: >-
+      The cultural narrative has shifted from "education prepares you for career" to "education is continuous throughout career." MasterClass is perfectly positioned for this evolved understanding of learning as perpetual activity.

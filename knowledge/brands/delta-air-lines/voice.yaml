@@ -1,0 +1,48 @@
+chunk_id: "delta-air-lines-voice"
+brand: "delta-air-lines"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "delta-air-lines-soul"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Delta Air Lines. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  As the leading global airline, Delta's mission to connect the world creates opportunities, fosters understanding and expands horizons by connecting people and communities to each other and to their ow
+tone_traits:
+  - empathetic
+  - attentive
+  - "human-centered"
+  - "forward-thinking"
+  - innovative
+  - pioneering
+  - assured
+  - reliable
+  - professional
+anti_traits:
+  - cold
+  - transactional
+  - indifferent
+  - outdated
+  - traditional
+  - stagnant
+  - uncertain
+  - amateurish
+  - hesitant
+example_phrases:
+  - "We're committed to making flying better"
+  - Keep Climbing
+  - The Delta Difference
+  - "Curiosity fuels us, innovation propels us, and humanity lifts us"
+guardrails:
+  never_say: []
+  always_sound: "empathetic, attentive, human-centered, forward-thinking, innovative"

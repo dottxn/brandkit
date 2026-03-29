@@ -1,0 +1,38 @@
+chunk_id: "disney-competitive"
+brand: disney
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "disney-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for The Walt Disney Company. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - netflix
+  - hbo
+  - hulu
+  - espn
+  - masterclass
+industry_norms_it_breaks: "Walt Disney's flowing script signature—untouched for 100+ years, allowing the entire system to be visually modern without losing identity | The maintenance of heritage authenticity across 100+ years while producing culturally relevant contemporary storytelling that expands the definition of what Disney is | Does this feel like it came from Walt's original vision evolved, or does this feel like we're chasing trends?"
+visual_cluster: "heritage-craft"
+visual_fingerprint:
+  - cluster: "heritage-craft"
+    role: "dominant"
+    where: "Animation legacy, castle icon, handcraft heritage"
+  - cluster: "warm-humanist"
+    role: "secondary"
+    where: "Family community, parks experiential, warmth"
+  - cluster: "cinematic-narrative"
+    role: "accent"
+    where: "Disney+ streaming, theatrical content, storytelling"
+strategic_cluster: "experience-curator"
+category: entertainment

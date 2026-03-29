@@ -1,0 +1,28 @@
+chunk_id: "bose-visual-reasoning"
+brand: bose
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "bose-visual-dna"
+  - "bose-soul"
+token_count: 197
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Bose Corporation. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  The custom Bose typeface transforms the 30-degree italic into a complete typographic system—every letter carries the waveform angle, making type feel kinetic. This is radical because it prioritizes motion over readability, betting that customers will lean in rather than quickly scan. Bold weights (for confidence) and extended italic (for movement) work together
+colour_logic: >-
+  Black (#000000) and white (#FFFFFF) provide contrast without distraction. Pink (#FF6B9D), blue (#4169E1), and gold (#FFD700) appear as chromatic accents representing different frequencies or musical moods. The palette rejects pastels; colors must feel like full-volume sound, not background
+composition_philosophy: >-
+  Motion-driven layouts use the italic angle as an organizing principle—headlines tilt, image angles echo the 30-degree logic, white space flows toward the angle rather than resisting it. Sonic waveform patterns emerge subtly in supporting graphics (not dominating composition). Everything implies sound in motion
+what_would_break_it: >-
+  Upright typography, literal sound visualizations, cool grey-dominant color palettes, symmetrical centered layouts, or removing italic angle as foundational principle

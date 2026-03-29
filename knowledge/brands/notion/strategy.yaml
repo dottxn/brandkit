@@ -1,0 +1,28 @@
+chunk_id: "notion-strategy"
+brand: notion
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "notion-positioning"
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Notion. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe anyone should be able to customize software to their needs without coding
+mission: To make it possible for everyone to shape the tools that shape their lives
+vision: "To become the central hub for work and life, revolutionizing how people interact with software"
+values:
+  - Seek Truth
+  - Move Fast
+  - Trust Each Other
+  - Build With Craft
+  - Serve the Community

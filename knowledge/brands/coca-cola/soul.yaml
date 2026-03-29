@@ -1,0 +1,29 @@
+chunk_id: "coca-cola-soul"
+brand: "coca-cola"
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "coca-cola-positioning"
+token_count: 127
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Coca-Cola. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: A moment of pause where the world stops and something perfect happens on your tongue
+core_belief: "Happiness is created through shared ritual, and the ritual matters as much as the product"
+creative_tension:
+  - "138-year heritage icon vs. constant cultural reinvention (campaigns change yearly)"
+  - Universal global sameness vs. local cultural particularity
+decision_filter: >-
+  Does this honor what made Coca-Cola iconic while making it feel contemporary and culturally alive right now?
+signature_move: >-
+  The Spencerian script wordmark—unchanged since 1887, allowing everything else to be modern without losing identity
+what_would_break_it: >-
+  Redesigning the script, adding geometric simplification, creating alternative wordmark versions, or treating heritage as visual baggage rather than strength

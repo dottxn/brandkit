@@ -1,0 +1,58 @@
+chunk_id: "spotify-visual-dna"
+brand: spotify
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "spotify-positioning"
+token_count: 87
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Spotify. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#1DB954"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Circular
+    role: ""
+    style: ""
+  - name: Avenir Next
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: expansive
+  type_class: "sans-serif"
+  type_character: "bold"
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "color-led"
+composition_logic: >-
+  Dynamic, rhythm-inspired layouts that mirror musical structure with strategic use of white space, bold typography hierarchies, and vibrant color blocking that creates visual tempo and energy throughout the experience

@@ -1,0 +1,29 @@
+chunk_id: "redfin-soul"
+brand: redfin
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "redfin-positioning"
+token_count: 114
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Redfin. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "Real estate stripped of theater, showing only what actually matters"
+core_belief: >-
+  Customers deserve information parity with professionals because information asymmetry is exploitation
+creative_tension:
+  - "Data-forward design that somehow remains warm and human-accessible"
+  - Transparency about costs paired with aspirational imagery of home possibility
+decision_filter: "Would a first-time homebuyer understand this immediately, or did we assume expertise?"
+signature_move: >-
+  Signature red (#D32F2F) functioning as trust anchor in industry built on agent commissions and hidden costs
+what_would_break_it: >-
+  Adopting luxury real estate's high-gloss aesthetic or hiding transaction complexity in polished interfaces would destroy Redfin's core positioning as radically transparent

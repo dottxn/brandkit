@@ -1,0 +1,149 @@
+# Chunk Template: channel-behaviour.yaml
+# Domain: channel-behaviour
+# Target: ~600–1000 tokens
+# Present for: enriched brands only
+#
+# This chunk describes how the brand SHOWS UP — its operational visual
+# behaviour across platforms and touchpoints.
+#
+# visual-language.yaml = how the brand looks (structural, slow-changing)
+# channel-behaviour.yaml = where and how the brand appears (operational, fast-changing)
+#
+# IMPORTANT: This chunk requires live observation. Do not populate
+# social media sections without actually viewing the feeds. If you
+# cannot observe a channel, mark confidence as "low" and state what
+# the section is based on (press coverage, brand guidelines, etc.)
+#
+# This chunk should be refreshed more frequently than visual-language.yaml
+# because channel behaviour changes on weekly/monthly timescales.
+
+chunk_id: "{brand}-channel-behaviour"
+brand: "{brand}"
+domain: "channel-behaviour"
+context_tags:
+  - "social-media"
+  - "channel-strategy"
+  - "content-behaviour"
+  - "platform-adaptation"
+depends_on:
+  - "{brand}-visual-language"
+  - "{brand}-voice"
+token_count: 0
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Channel behaviour for {brand_display}. How the brand operates across
+  platforms — social media, website, retail, packaging, advertising,
+  and editorial. Based on observation of live channels.
+
+# ── Observation Metadata ─────────────────────────
+# When was this last observed? By whom? What was looked at?
+
+observation:
+  last_observed: ""                # Date channels were last actually viewed
+  platforms_observed: []           # Which platforms were directly viewed (not just researched)
+  method: ""                       # "live-browsing" / "web-fetch" / "secondary-research" / "brand-guidelines-only"
+  sample_size: ""                  # e.g. "last 30 Instagram posts" or "homepage + 3 product pages"
+
+# ── Social Media ─────────────────────────────────
+# One entry per platform. Only populate platforms you have observed
+# or have strong secondary evidence for. Leave others empty.
+
+social:
+  instagram:
+    confidence: ""                 # high / medium / low
+    handle: ""                     # @handle
+    follower_count: ""             # Approximate, with date
+    posting_frequency: ""          # e.g. "5-7 posts per week" or "daily" — observed, not assumed
+    content_mix: >-                # What actually appears. Approximate percentages if possible.
+                                   # e.g. "~40% product shots, ~25% Reels, ~20% campaign stills, ~15% UGC/creator"
+    feed_architecture: >-          # How the grid is curated — mosaic, chronological, themed bursts, meme heavy, etc.
+                                   # campaign takeovers? Describe what you SEE, not what you assume.
+    stories_and_reels: >-          # How ephemeral and video content differs from the feed.
+                                   # Frequency, tone, format. If not observed, say so.
+    caption_voice: >-              # Caption length, tone, emoji usage, hashtag strategy.
+                                   # How does the written voice on social differ from the brand's
+                                   # formal voice?
+    meme_and_culture_posture: >-   # Does the brand use memes? React to cultural moments?
+                                   # Participate in trends? How quickly? With what tone?
+                                   # This is one of the hardest sections to get right without
+                                   # live observation — mark confidence honestly.
+    community_behaviour: >-        # How the brand responds to comments. Corporate vs internet witt. Engagement style.
+                                   # Does it repost? Reply? Ignore? Roast?
+    visual_rules: >-               # Platform-specific visual constraints or choices.
+                                   # Colour temperature, crop style, text overlay usage,
+                                   # filter consistency.
+  tiktok:
+    confidence: ""
+    handle: ""
+    follower_count: ""
+    posting_frequency: ""
+    content_approach: >-           # How TikTok content differs from Instagram.
+                                   # Is it the same content reposted? Native? Creator-led?
+    tone_shift: >-                 # How the brand's personality changes on TikTok vs other platforms
+    trending_participation: >-     # Does the brand participate in TikTok trends? How?
+  x_twitter:
+    confidence: ""
+    handle: ""
+    approach: >-                   # Voice, frequency, engagement style, content type
+  youtube:
+    confidence: ""
+    handle: ""
+    approach: >-                   # Content types, production level, frequency
+  other_platforms: []              # Any other relevant platforms (Pinterest, Threads, etc.)
+
+# ── Website ──────────────────────────────────────
+
+website:
+  confidence: ""
+  primary_url: ""
+  approach: >-                     # How the brand presents on its own site — commerce, editorial, hybrid?
+  hero_treatment: >-               # How key moments / landing pages are treated visually
+  observed_details: >-             # Specific things you noticed — load time, interaction patterns,
+                                   # navigation style, content hierarchy, mobile vs desktop differences
+
+# ── Packaging ────────────────────────────────────
+
+packaging:
+  confidence: ""
+  approach: ""                     # How the brand shows up physically
+  material_choices: ""             # Surface, finish, structure signals
+  unboxing_experience: ""          # What is the physical experience of receiving this brand's product?
+
+# ── Advertising ──────────────────────────────────
+
+advertising:
+  confidence: ""
+  primary_sources: []              # Named campaigns, agencies, placements observed
+  approach: ""                     # How paid media looks — OOH, digital, print
+  format_preferences: ""           # Preferred formats and aspect ratios
+  media_strategy_notes: ""         # Any observed patterns in where and when ads appear
+
+# ── Editorial ────────────────────────────────────
+
+editorial:
+  confidence: ""
+  owned_platforms: []              # Named editorial platforms (blog, magazine, content hub)
+  approach: ""                     # How the brand appears in owned content
+  tone_vs_marketing: ""            # How editorial voice and visual treatment differ from marketing
+
+# ── Retail ───────────────────────────────────────
+
+retail:
+  confidence: ""
+  observed_locations: []           # Specific stores or locations observed (even virtually)
+  approach: ""                     # Physical space — stores, pop-ups, events
+  experience_notes: ""             # Specific observations about the physical experience
+
+# ── Cross-Channel Patterns ───────────────────────
+# Observations about how the brand's behaviour varies across channels.
+
+cross_channel:
+  consistency_level: ""            # How consistent is the visual language across channels?
+                                   # "tight" = same everywhere / "loose" = significant variation / "fragmented" = different teams, different looks
+  biggest_gap: ""                  # Where is the biggest disconnect between the brand's stated identity and its channel behaviour?
+  strongest_channel: ""            # Which channel best represents the brand's visual identity?
+  weakest_channel: ""              # Which channel feels most off-brand or underdeveloped?

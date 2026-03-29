@@ -1,0 +1,46 @@
+chunk_id: "coursera-voice"
+brand: coursera
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "coursera-soul"
+token_count: 107
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Coursera. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Coursera is a leading global online learning platform that partners with over 300 universities and companies to provide flexible, affordable, job-relevant learning to individuals and organizations wor
+tone_traits:
+  - clear
+  - conversational
+  - inclusive language that welcomes all backgrounds
+  - confident
+  - encouraging
+  - "achievement-focused messaging"
+  - "future-focused"
+  - transformative potential emphasis
+anti_traits:
+  - academic jargon
+  - exclusionary complexity
+  - intimidating
+  - overwhelming
+  - patronizing
+  - limiting
+  - status quo maintenance
+example_phrases:
+  - >-
+    We empower our learners to advance their careers, further their studies, improve their communities, and change the world
+  - Education for everyone
+  - Learn without limits
+  - Transform your life through learning
+guardrails:
+  never_say: []
+  always_sound: "clear, conversational, inclusive language that welcomes all backgrounds, confident, encouraging"

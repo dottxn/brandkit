@@ -1,0 +1,70 @@
+chunk_id: "youtube-anti-patterns"
+brand: youtube
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "youtube-soul"
+  - "youtube-visual-dna"
+token_count: 466
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for YouTube. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Complex interface chrome or design flourishes
+    reasoning: >-
+      YouTube's interface intentionally minimizes visual complexity. Decorative elements compete with video content for attention.
+  - pattern: Curated content presentations or editorial direction
+    reasoning: >-
+      Algorithm-driven recommendations dominate. Heavy editorial curation would suggest YouTube is filtering what creators can reach audiences with.
+  - pattern: "Lifestyle imagery of \"YouTube celebrities\""
+    reasoning: >-
+      Brand imagery shows diverse, real creators in authentic moments. Highlighting star creators would create false hierarchies.
+  - pattern: Serif typefaces or decorative typography
+    reasoning: YouTube Sans is clean and simple. Complex typography would compete with video content for attention.
+strategic:
+  - pattern: Algorithmic transparency about recommendation drivers
+    reasoning: >-
+      YouTube maintains algorithmic systems that are proprietary. Complete transparency would expose inconsistencies and reduce creator confidence.
+  - pattern: "Creator profit-sharing transparency"
+    reasoning: >-
+      Revenue splits and payment schedules aren't fully disclosed. Complete transparency would expose how much YouTube takes relative to creators.
+  - pattern: Geographic content parity
+    reasoning: >-
+      Recommendations and available content vary globally. Creating the illusion of universal access would be dishonest about regional restrictions.
+  - pattern: Creator tier system with featured placement
+    reasoning: >-
+      YouTube Premium and Partner Program exist, but recommendations aren't visibly tiered by creator status. Visible tiers would stratify the platform.
+tonal:
+  - pattern: Celebration of individual creator success
+    reasoning: >-
+      Copy focuses on the platform as enabler. Celebrating specific creators (other than organic viral moments) would show preference.
+  - pattern: Salesperson energy or push toward monetization
+    reasoning: >-
+      Messaging avoids conversion language. "Join YouTube" is invitation, not sales pitch. Hard selling would feel extractive.
+  - pattern: Technical explanation of algorithmic systems
+    reasoning: >-
+      YouTube avoids explaining how recommendations work. Transparency about algorithms would reduce creator confidence in fairness.
+  - pattern: Platform authority about content quality
+    reasoning: >-
+      YouTube positions creators as the authority. Suggesting YouTube is curating taste would undermine creator agency.
+cultural:
+  - pattern: "Star-system creation through platform feature"
+    reasoning: >-
+      While trends and viral moments emerge organically, YouTube avoids artificially promoting specific creators through featured placement.
+  - pattern: Monetization requirement for visibility
+    reasoning: >-
+      The platform doesn't require monetization for algorithmic consideration. Making money dependent on views protects smaller creators.
+  - pattern: Professionalism standards for platform visibility
+    reasoning: >-
+      YouTube doesn't require production value, credentials, or professionalism for platform reach. Amateur creators have equal algorithmic access.
+  - pattern: Prediction of what viewers want over viewer agency
+    reasoning: >-
+      YouTube respects viewer discovery preferences. Algorithmically forcing "quality" content would undermine viewer autonomy.

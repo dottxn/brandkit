@@ -1,0 +1,32 @@
+chunk_id: "amazon-insights"
+brand: amazon
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "amazon-soul"
+  - "amazon-positioning"
+token_count: 139
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Amazon. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Amazon's real genius is making scale invisible—the infrastructure is so transparent it disappears and becomes environment
+  - >-
+    Warmth in corporate branding doesn't come from rounded edges; it comes from removing obstacles
+  - >-
+    A smile is the only visual device that survives across 50 sub-brands because it's genuine function (customer delight), not decoration
+  - >-
+    "It's still Day 1" works because it makes expansion feel like discovery, not monopoly
+  - >-
+    Amazon's visual restraint isn't minimalism for aesthetic purity—it's cognitive load reduction at scale
+what_nobody_copies: >-
+  The structural courage to subordinate visual identity to customer utility, while maintaining unmistakable brand presence

@@ -1,0 +1,48 @@
+chunk_id: "louis-vuitton-voice"
+brand: "louis-vuitton"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "louis-vuitton-soul"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Louis Vuitton. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A French luxury fashion house founded in 1854, Louis Vuitton is the world's most valuable luxury brand specializing in high-end leather goods, ready-to-wear, accessories, shoes, watches, jewelry, and 
+tone_traits:
+  - commanding
+  - prestigious
+  - confident
+  - refined
+  - sophisticated
+  - cultured
+  - timeless
+  - authentic
+  - reverent
+anti_traits:
+  - arrogant
+  - cold
+  - intimidating
+  - pretentious
+  - overly flowery
+  - inaccessible
+  - nostalgic
+  - static
+  - outdated
+example_phrases:
+  - The Art of Crafting Dreams
+  - "Since 1854, a passion for exceptional craftsmanship"
+  - "Savoir-faire that transcends generations"
+  - Where tradition meets contemporary vision
+guardrails:
+  never_say: []
+  always_sound: "commanding, prestigious, confident, refined, sophisticated"

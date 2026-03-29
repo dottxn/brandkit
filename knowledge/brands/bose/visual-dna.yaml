@@ -1,0 +1,73 @@
+chunk_id: "bose-visual-dna"
+brand: bose
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "bose-positioning"
+token_count: 128
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Bose. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#FF6B9D"
+    name: ""
+    role: ""
+  - hex: "#4169E1"
+    name: ""
+    role: ""
+  - hex: "#FFD700"
+    name: ""
+    role: ""
+  - hex: "#00CED1"
+    name: ""
+    role: ""
+  - hex: "#FF4500"
+    name: ""
+    role: ""
+  - hex: "#8A2BE2"
+    name: ""
+    role: ""
+typography:
+  - name: Bose Custom Typeface
+    role: ""
+    style: ""
+  - name: Helvetica Neue
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: expansive
+  type_class: custom
+  type_character: geometric
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: cinematic
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: uniform
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: gradient
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "typography-led"
+composition_logic: >-
+  Motion-driven layouts with sonic waveform influences, leveraging the signature italic angle as a foundational organizing principle

@@ -1,0 +1,71 @@
+chunk_id: "slack-anti-patterns"
+brand: slack
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "slack-soul"
+  - "slack-visual-dna"
+token_count: 479
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Slack. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Monochromatic palettes or muted tones
+    reasoning: >-
+      Slack's world is colorful and alive; a grayscale approach would kill the personality that makes the product feel like community.
+  - pattern: Minimal motion or transitional feedback
+    reasoning: >-
+      Every interaction (hover states, message animations, typing indicators) uses motion to reinforce the feeling of liveness and responsiveness.
+  - pattern: Serif typography or formal hierarchy
+    reasoning: >-
+      The custom typefaces (Larsseit, Slack Circular) feel modern and approachable; serifs would introduce stuffy formality that contradicts the brand's spirit.
+  - pattern: Sparse whitespace in the interface
+    reasoning: >-
+      Slack interfaces are rich with information density; generous spacing would undermine the sense of density and activity that defines the tool.
+strategic:
+  - pattern: "Feature-complete platform approach"
+    reasoning: >-
+      Slack's power comes from app integration ecosystem, not native features. A closed, comprehensive product would contradict the extensibility philosophy.
+  - pattern: "Enterprise-first positioning"
+    reasoning: >-
+      Despite selling to Fortune 500 companies, Slack leads with playfulness and accessibility. Abandoning the casual user would fragment the network effect.
+  - pattern: "Real-time-only communication model"
+    reasoning: >-
+      Supporting async, threads, and search is strategic positioning against tools that only reward synchronous participation.
+  - pattern: Language standardization across markets
+    reasoning: >-
+      The brand allows playful, colloquial language per region. Heavy-handed global messaging would flatten the cultural resonance.
+tonal:
+  - pattern: Overly professional or aspirational voice
+    reasoning: >-
+      Copy avoids the "empower your team" clichés; instead it winks at shared frustrations about communication.
+  - pattern: Technical explanation before emotional benefit
+    reasoning: >-
+      Every feature first explains the feeling gain before the capability. "Less noise" before "threaded conversations."
+  - pattern: Hierarchy of importance in messaging
+    reasoning: >-
+      All user roles (from interns to CEOs) are addressed with equal playfulness; no differentiated voice for "important" users.
+  - pattern: "Future-tense or aspirational claims"
+    reasoning: >-
+      Slack speaks in present tense about what's happening now in a workspace, avoiding "will transform" language.
+cultural:
+  - pattern: Treating work as separate from personality
+    reasoning: >-
+      Slack's brand celebrates the fact that people bring their whole selves to work; formal boundaries would contradict this.
+  - pattern: Standardizing how teams should communicate
+    reasoning: >-
+      The platform enables different communication styles per team; prescriptive "best practices" would undermine customization.
+  - pattern: Monetizing fun or gamification elements
+    reasoning: >-
+      Unlike many productivity tools, Slack doesn't use game mechanics to drive engagement; the fun is organic to communication.
+  - pattern: Speed metrics as the primary success indicator
+    reasoning: >-
+      Slack's brand celebrates thoughtful async conversation, not maximum responsiveness; culture rejects the "always on" implication.

@@ -1,0 +1,28 @@
+chunk_id: "dominos-soul"
+brand: dominos
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "dominos-positioning"
+token_count: 126
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Domino's. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "The moment anticipation becomes reality, when hunger transforms into satisfaction"
+core_belief: Craving is the most honest emotion; feeding desire is noble work
+creative_tension:
+  - "Commodity product (pizza is pizza) vs. brand magic (Domino's is cultural moment)"
+  - "Fast, efficient delivery vs. sensory, slow craving satisfaction"
+decision_filter: "Does this activate appetite and urgency, or does this explain pizza logistics?"
+signature_move: >-
+  The domino dots pattern—appearing not just in logo but as compositional organizing principle that creates visual rhythm and implies motion
+what_would_break_it: >-
+  Removing the domino dots, using health-focused messaging, adopting sophisticated design language, creating alternative logo versions, or treating pizza as commodity rather than cultural experience

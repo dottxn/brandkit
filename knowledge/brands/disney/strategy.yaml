@@ -1,0 +1,31 @@
+chunk_id: "disney-strategy"
+brand: disney
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "disney-positioning"
+token_count: 79
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for The Walt Disney Company. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in the transformative power of storytelling to create joy, wonder, and emotional connections that bring people together across cultures and generations
+mission: >-
+  To entertain, inform and inspire people around the globe through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies that make ours the world's premier entertainment company
+vision: "To be one of the world's leading producers and providers of entertainment and information"
+values:
+  - Creativity
+  - Innovation
+  - Community
+  - Integrity
+  - Quality
+  - Belonging

@@ -1,0 +1,57 @@
+chunk_id: "espn-anti-patterns"
+brand: espn
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "espn-soul"
+  - "espn-visual-dna"
+token_count: 362
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for ESPN. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Cool, sophisticated color palettes dominated by blue and grey"
+    reasoning: Undermines the intensity and passion that sports competition generates
+  - pattern: "Centered, symmetrical compositions"
+    reasoning: Misses the dynamic energy and unpredictability of sports
+  - pattern: Lifestyle or aspirational photography without the grit of actual competition
+    reasoning: "Sanitizes the honest, sometimes ugly truth of sports"
+  - pattern: Serif or editorial typography
+    reasoning: "Conflicts with the kinetic, grid-based information hierarchy"
+strategic:
+  - pattern: "Marketing that emphasizes ESPN's business scale instead of sports expertise"
+    reasoning: Places company above the sports that audiences care about
+  - pattern: Expanding into entertainment content without maintaining sports as gravitational center
+    reasoning: Dilutes brand identity and audience loyalty
+  - pattern: Premium tier expansion that prices out core sports fans
+    reasoning: "Contradicts the \"serve sports fans anytime, anywhere\" mission"
+  - pattern: "Content strategy focused on popular sports (NFL, NBA) while ignoring niche sports communities"
+    reasoning: Misses passionate fan communities with high engagement
+tonal:
+  - pattern: "Neutral, objective reporter tone in all content"
+    reasoning: "Undermines the authoritative, insider perspective that ESPN built"
+  - pattern: "Overly casual, trying-too-hard tone attempting to appeal to younger audiences"
+    reasoning: Comes across as inauthentic versus genuine generational conversation
+  - pattern: "Sales-focused, promotional language"
+    reasoning: Breaks the credibility as expert source
+  - pattern: "Pedantic, overly technical analysis without emotional context"
+    reasoning: Loses mainstream audience who care about human drama
+cultural:
+  - pattern: >-
+      Representation limited to major sports and star athletes while ignoring grassroots, women's, and emerging sports
+    reasoning: Misses growing audience segments
+  - pattern: >-
+      Commentary that centers wealthy, privileged athlete narratives while ignoring systemic issues in sports
+    reasoning: "Hollow inclusion claims without addressing sport's real culture problems"
+  - pattern: "Treating women's sports as supplementary content instead of primary"
+    reasoning: "Signals that ESPN doesn't believe women's sports drives viewership"
+  - pattern: "Ignoring international sports and global audiences while claiming to be \"Worldwide Leader\""
+    reasoning: Misses massive growing international markets

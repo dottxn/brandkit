@@ -1,0 +1,31 @@
+chunk_id: "rolex-positioning"
+brand: rolex
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Rolex. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Rolex
+website: "https://www.rolex.com"
+founded: 1905
+category: luxury
+sub_category: "timepieces-prestige-watches"
+price_tier: luxury
+primary_archetype: The Ruler
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 10
+  heritage_innovation: 2
+key_differentiators: []

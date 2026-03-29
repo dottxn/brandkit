@@ -1,0 +1,28 @@
+chunk_id: "oscar-health-visual-reasoning"
+brand: "oscar-health"
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "oscar-health-visual-dna"
+  - "oscar-health-soul"
+token_count: 218
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Oscar Health. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Heldane serif (warm, human, slightly quirky) paired with Lettera sans (clear, modern, structured) creates intentional tension between precision and personality. The serif typeface in healthcare is counterintuitive (medical aesthetics typically choose sans-serif), which signals "we're not playing by healthcare's traditional rules." Variable weights allow hierarchy to emerge without feeling forced.
+colour_logic: >-
+  Hot Blue (#0066FF) as the anchor—vibrant enough to feel energetic, saturated enough to feel intentional, not cartoon-bright. The orange accent (#FF6B35) introduces warmth without being dilutive. Green (#00C896) suggests health and growth in a non-prescriptive way. The palette avoids the cautious corporate blues that traditional health insurance uses, signaling evolution and refreshed thinking.
+composition_philosophy: >-
+  Illustration-led composition where characters and narrative dominate over interface elements in marketing contexts. Healthcare complexity visualized through clear hierarchy and generous whitespace in product interface. Composition acknowledges that insurance is abstract, so illustrations provide narrative handles to understand it emotionally.
+what_would_break_it: >-
+  Replacing illustration with photorealism or adopting traditional healthcare's clinical aesthetic would immediately reposition Oscar as just another insurance company rather than a human-centered healthcare partner.

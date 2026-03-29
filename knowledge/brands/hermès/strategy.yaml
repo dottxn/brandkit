@@ -1,0 +1,32 @@
+chunk_id: "hermès-strategy"
+brand: hermès
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "hermès-positioning"
+token_count: 87
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Hermès. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in the power of artisanal craftsmanship to create objects that connect people to their humanity and preserve exceptional know-how for future generations
+mission: >-
+  To create unique and original objects that elegantly satisfy the needs and desires of customers through the pursuit of excellence in each métier and service
+vision: >-
+  To perpetuate our unique position as the standard-bearer for handcrafted luxury and timeless elegance through sustained, organic growth while fiercely protecting heritage and artisanal values
+values:
+  - Excellence in craftsmanship
+  - "Transmission of savoir-faire"
+  - Entrepreneurial spirit
+  - Respect for nature
+  - Authenticity and heritage
+  - Human values and community

@@ -1,0 +1,29 @@
+chunk_id: "nike-strategy"
+brand: nike
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "nike-positioning"
+token_count: 41
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Nike. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe sport has the power to move the world forward
+mission: To bring inspiration and innovation to every athlete in the world
+vision: To do everything possible to expand human potential
+values:
+  - Innovation
+  - Inspiration
+  - Every athlete in the world
+  - Authenticity
+  - Connected
+  - Distinctive

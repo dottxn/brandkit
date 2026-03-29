@@ -1,0 +1,58 @@
+chunk_id: "uber-visual-dna"
+brand: uber
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "uber-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Uber. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#1FB253"
+    name: ""
+    role: ""
+typography:
+  - name: Uber Move
+    role: ""
+    style: ""
+  - name: System fonts
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: "utilitarian"
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "color-led"
+composition_logic: >-
+  Grid-based layouts with generous white space, left-aligned typography, and strategic use of the signature green as accent color for calls-to-action and positive states

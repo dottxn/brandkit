@@ -1,0 +1,32 @@
+chunk_id: "slack-strategy"
+brand: slack
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "slack-positioning"
+token_count: 66
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Slack. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in removing unnecessary work struggles and helping people be productive. This human, empathetic approach is expressed across the company's core values, priorities, and rewarded behaviors.
+mission: >-
+  To bring all your communication together in one place. It's real-time messaging, archiving and search for modern teams.
+vision: >-
+  To empower people everywhere to work smarter together, no matter their location or role. By connecting people across the globe through a unified platform, they create more productive environments where tedious tasks can be automated.
+values:
+  - Empathy
+  - Solidarity
+  - Playfulness
+  - Craftsmanship
+  - Courtesy
+  - Thriving

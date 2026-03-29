@@ -1,0 +1,37 @@
+chunk_id: "oatly-competitive"
+brand: oatly
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "oatly-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Oatly. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - "coca-cola"
+  - pepsi
+  - "impossible-foods"
+  - starbucks
+industry_norms_it_breaks: "The two-line logo with the integrated plant symbol replacing the stem of the \"t\"—a single gesture that simultaneously says \"plant-based,\" \"nature,\" \"growth,\" and \"we're not hiding what we are.\" No flu | The commitment to making copy itself a graphic element. Most food brands use packaging for information and visual branding; Oatly uses packaging as a conversational platform. The copy isn't small or a | When faced with a fork, Oatly asks \"Will this make the consumer smarter or just richer?\" and always chooses the former, even when it costs revenue."
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Hand-lettered packaging, confrontational campaigns, provocative"
+  - cluster: "expressive-maximalist"
+    role: "secondary"
+    where: "Dense text-heavy packaging, rule-breaking layout"
+  - cluster: "heritage-craft"
+    role: "accent"
+    where: "Hand-drawn illustration, craft-forward production"
+strategic_cluster: "rebel-provocateur"
+category: "food-beverage"

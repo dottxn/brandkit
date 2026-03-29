@@ -1,0 +1,32 @@
+chunk_id: "cash-app-insights"
+brand: "cash-app"
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "cash-app-soul"
+  - "cash-app-positioning"
+token_count: 171
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Cash App. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Financial inclusion doesn't mean simplification—it means removing gatekeeping language while maintaining full feature depth
+  - >-
+    Virality in fintech comes from cultural moments (music partnerships, meme integration) not from feature announcements
+  - >-
+    Customization (Cash Card colors, cashtags) creates identity attachment that traditional banking can't replicate—ownership of the product becomes ownership of self
+  - >-
+    Target-audience authenticity is more defensible than broad appeal—Cash App owns Gen Z fintech through genuine cultural fluency, not through targeting
+  - >-
+    Visual restraint in color (just green, white, black) actually increases visual impact at scale—the eye travels immediately to Cash App green in feeds
+what_nobody_copies: >-
+  The willingness to treat a payments product as a cultural force rather than as financial infrastructure, creating moat through cultural relevance rather than feature parity

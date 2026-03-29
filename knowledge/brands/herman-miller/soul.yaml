@@ -1,0 +1,33 @@
+chunk_id: "herman-miller-soul"
+brand: "herman-miller"
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "herman-miller-positioning"
+token_count: 634
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Herman Miller. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  Sunlight streaming through a perfectly proportioned window—the light isn't the beauty, the proportion is. Walking into a Herman Miller space feels like being in a room where someone understood the problem of how humans move through space and solved it with such elegance that you don't notice the solution. It's the aesthetic equivalent of Swiss efficiency: nothing wasted, nothing decorative, nothing accidental. Yet it's not cold. The Eames Lounge Chair, the Aeron office chair, the Nelson bench—these feel warm because they're designed from human measurement, not corporate mandate. The brand radiates a kind of modest confidence: "We solved this problem. You'll notice the comfort, not the design."
+core_belief: >-
+  Good design solves genuine human problems so elegantly that design becomes invisible—the chair disappears, only comfort and functionality remain.
+creative_tension:
+  - >-
+    Herman Miller balances its mid-century modernist heritage (Charles and Ray Eames, George Nelson, Isamu Noguchi) with the necessity of contemporary relevance. The brand cannot remain purely historical; it must serve 2020s workplace disruption, hybrid work, wellness concerns. Yet it cannot abandon the design principles that made it iconic. The 2024 rebrand by Order design studio—expanding the color palette dramatically and liberating the M symbol—was an attempt to prove that modernism can evolve without abandoning its principles. This tension between preservation and progression is where Herman Miller lives.
+  - >-
+    The brand manufactures beautiful objects and commits to absolute sustainability simultaneously. These aren't compatible in traditional manufacturing. Sustainable materials cost more, production scales are smaller, supply chains are more complex. Yet Herman Miller has positioned sustainability not as compromise but as evolution of the original design philosophy—designing for permanence means designing for sustainability. This reframing means both values reinforce rather than compete.
+decision_filter: >-
+  Does this solve a genuine problem? Would mid-century design legends approve? Is this beautiful and useful simultaneously, or is it only one? Would this furniture still feel relevant in a museum in 50 years?
+signature_move: >-
+  The liberated M symbol—freed from circular containers in the 2024 rebrand by Order design studio and now used as pattern, divider, graphic device, and conceptual device throughout the system. This is not a logo refresh for its own sake; it's a philosophical statement. The M can be oversized, cropped, angled, pixelated, printed as pattern, or implied through whitespace. This flexibility represents the modular design philosophy: infinite combination possibilities within coherent visual language. The M is so strong that it works without the wordmark; the letter itself is the brand.
+what_would_break_it: >-
+  Returning to monochromatic branding after 25 years of expanding the palette would contradict the 2024 rebrand's commitment to reclaiming modernism's boldness. Equally fatal: moving away from Söhne typeface toward a sterile tech-forward sans-serif like Helvetica or DM Sans that lacks warmth, adopting overly styled "inspiring workspace" photography replacing documentary authenticity, or worst—manufacturing compromises for quick profit that reduce the durability and quality that justify premium pricing. The moment Herman Miller stops proving that beautiful design is also the most sustainable choice is the moment it becomes just another furniture company.

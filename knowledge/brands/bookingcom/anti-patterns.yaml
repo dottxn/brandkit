@@ -1,0 +1,55 @@
+chunk_id: "bookingcom-anti-patterns"
+brand: bookingcom
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "bookingcom-soul"
+  - "bookingcom-visual-dna"
+token_count: 315
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Booking.com. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Complex photographic backgrounds or filters
+    reasoning: "Adds cognitive load when the user is in decision-making mode"
+  - pattern: Multiple primary colors competing for attention
+    reasoning: Fragments the visual clarity needed at 3.4 million property listings
+  - pattern: Serif or script typography in UI elements
+    reasoning: Reduces readability across diverse global audiences and languages
+  - pattern: "Symmetrical, centered layouts"
+    reasoning: "Conflicts with the asymmetrical, unexpected delight the brand promises"
+strategic:
+  - pattern: Treating customer reviews as supplementary data rather than primary content
+    reasoning: Misses the competitive advantage of authentic social proof
+  - pattern: "Marketing that emphasizes Booking.com's reach over individual traveler agency"
+    reasoning: Shifts focus from personal potential to corporate scale
+  - pattern: "Premium positioning or luxury hospitality emphasis without mass-market inclusion"
+    reasoning: Abandons the core belief about democratizing travel
+  - pattern: Feature additions without friction reduction
+    reasoning: Increases cognitive load instead of reducing it
+tonal:
+  - pattern: Corporate announcements about company milestones
+    reasoning: Places Booking above the travel moment that matters
+  - pattern: "Instruction-heavy language"
+    reasoning: Suggests the platform is complex rather than intuitive
+  - pattern: "Sales-focused urgency (\"limited availability,\" \"only 2 left\")"
+    reasoning: Creates anxiety instead of certainty
+  - pattern: "Overly enthusiastic, exclamation-filled tone"
+    reasoning: Feels inauthentic in moments where travelers are evaluating real stakes
+cultural:
+  - pattern: Marketing exclusively to wealthy travelers or luxury experiences
+    reasoning: Contradicts the democratization core belief
+  - pattern: Representation that centers Western travel patterns
+    reasoning: Misses emerging markets where Booking.com grows fastest
+  - pattern: "Treating sustainability in travel as secondary offering rather than integrated decision-criteria"
+    reasoning: Ignores growing cohort of conscious travelers
+  - pattern: "Ignoring regional travel styles (bucket-list vs. frequent regional travelers)"
+    reasoning: Misses opportunity for nuanced messaging

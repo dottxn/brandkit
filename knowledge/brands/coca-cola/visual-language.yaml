@@ -1,0 +1,383 @@
+chunk_id: "coca-cola-visual-language"
+brand: "coca-cola"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "coca-cola-visual-dna"
+  - "coca-cola-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Coca-Cola. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-classic"
+      touchpoints:
+        - "Coca-Cola Classic packaging — contour bottle and red can"
+        - "coca-cola.com homepage and hero content"
+        - "'Real Magic' campaign platform (launched late 2021, Wieden+Kennedy London)"
+        - "Global OOH and broadcast advertising"
+        - "The 'Hug' logo framing device (October 2021, W+K London)"
+      description: >-
+        Red dominant, Spencerian Script logo, contour bottle, Dynamic
+        Ribbon device. Coca-Cola Red (#E61D2B, CMYK C4/M100/Y95/K0)
+        is the foundational colour — it taps into System 1 recognition
+        (automatic brain response). The 'Real Magic' platform (W+K
+        London, late 2021) introduced the 'Hug' logo — a curved frame
+        that wraps around content to create an 'embrace.' Photography
+        under 'Real Magic' emphasises human connection, togetherness,
+        and warmth. Rapha Abreu (Global VP Design, appointed April 2021,
+        first Latino in this role) oversees the design system. Compared
+        to Pepsi (cooler palette, more youth-oriented, five rebrands
+        since 1950), Coca-Cola's visual identity is more stable, warmer,
+        and more emotionally rooted.
+      differs_from_default_by: >-
+        This is the baseline. All other modes depart from this red,
+        script-driven, warmth-forward register.
+
+    - name: "zero-sugar-variant"
+      touchpoints:
+        - "Coca-Cola Zero Sugar packaging and marketing"
+        - "Zero Sugar-specific campaigns and digital content"
+        - "Retail shelf differentiation"
+      description: >-
+        Black dominant, replacing red. The Zero Sugar visual language
+        uses the same Spencerian Script but inverts the colour —
+        black packaging signals 'no sugar' to consumers. The 2024
+        campaign used AI-generated custom typography created via
+        object-detection algorithms trained on 100,000+ images of
+        liquid condensation, bubble clusters, and airborne fizz —
+        hidden letter reveals inside bottles and cans. The visual
+        register is edgier and more contemporary than Classic, targeting
+        a younger demographic. Stevia was added to the formula in
+        September 2024.
+      differs_from_default_by: >-
+        Black replaces red. More experimental with technology and
+        AI-generated visual elements. Targets a younger, more digital-
+        native audience. The warmth of Classic is replaced by something
+        cooler and more contemporary.
+
+    - name: "holiday-seasonal"
+      touchpoints:
+        - "Holiday 'Holidays Are Coming' red truck campaign (running since 1995)"
+        - "Haddon Sundblom Santa illustrations (1931-1964, legacy continues)"
+        - "Holiday packaging and seasonal retail displays"
+        - "AI-generated Christmas campaign (Holiday 2024 — Secret Level, Silverside AI, Wild Card)"
+      description: >-
+        Nostalgic, warm, family-and-community-focused. The Haddon
+        Sundblom Santa illustrations (commissioned 1931, Michigan-born
+        illustrator) created the most recognised Santa image globally —
+        warm, plump, grandfather-like, radiating joy. The 1995 'Holidays
+        Are Coming' red truck is now a holiday cultural symbol. The
+        Holiday 2024 AI-generated campaign (produced by Secret Level,
+        Silverside AI, Wild Card using four generative AI models) caused
+        controversy — positive sentiment dropped from 23.8% to 10.2%
+        post-launch per CARMA analysis. The backlash highlighted that
+        holiday campaigns are central to brand identity and AI disrupts
+        the emotional connection.
+      differs_from_default_by: >-
+        More nostalgic, more illustrative, more emotionally vulnerable
+        than the everyday brand register. The holiday mode carries
+        cultural weight beyond any other seasonal activation in the
+        beverage category.
+
+    - name: "sponsorship-event"
+      touchpoints:
+        - "Olympic Games (official sponsor since 1928, Amsterdam)"
+        - "FIFA World Cup (official sponsor since 1978)"
+        - "Event-specific packaging and retail activations"
+      description: >-
+        Event-branded, culturally localised. Coca-Cola's sponsorship
+        visual language integrates host-nation colours and themes while
+        maintaining red dominance. The 2014 Brazil World Cup used street
+        artist Speto's graphic signature — four young Brazilian faces
+        in vibrant, culturally authentic visual language. The 2026 World
+        Cup campaign 'All the Feels' reimagines Van Halen's 'Jump' with
+        J Balvin, Amber Mark, Steve Vai, and Travis Barker. The event
+        mode demonstrates the brand's ability to localise while
+        maintaining its core visual codes.
+      differs_from_default_by: >-
+        Event branding introduces local colour palettes and cultural
+        references. The red remains but shares space with event identity
+        systems. The visual language becomes more diverse and more
+        culturally specific.
+
+  notes: >-
+    Coca-Cola manages 200+ brands across 5 categories and 195 countries.
+    The WPP Open X model (designated global network partner, November
+    2021, 5-year renewal confirmed) manages this visual system at scale.
+    Project Fizzion (2025, Adobe partnership) introduces AI-governed
+    design assets — logos, type, and imagery become 'smart' elements
+    with embedded brand rules.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "Guy Aroch & Anna Palma — 10-year photography collaboration (2015-2025, 'Contour' exhibition at ICP, 70+ shoots)"
+    - "'Real Magic' platform (W+K London, late 2021)"
+    - "KnownUnknown — global independent talent network for Real Magic"
+    - "'Where There's Tacos, There's Coca-Cola' (Uncommon creative, Colony production, Norway/Sweden, 2025)"
+    - "coca-cola.com (observed February 2026)"
+  subject_and_framing: >-
+    People together — sharing, celebrating, connecting. The product
+    (bottle, can) is always present but secondary to the human moment.
+    Guy Aroch & Anna Palma's 10-year collaboration (2015-2025, 70+
+    shoots, exhibited at the International Center of Photography,
+    NYCxDESIGN Festival 2025) defined a 'Contemporary Nostalgia'
+    aesthetic — Norman Rockwell warmth meets Instagram modernity.
+    Framing is lifestyle-documentary: real environments, natural
+    gestures, the Coca-Cola product integrated rather than isolated.
+    Compared to Pepsi (flatter visual language, more entertainment/
+    music-focused, youth-culture-coded), Coca-Cola photography is
+    warmer, more multi-generational, and more emotionally textured.
+  casting_observed: >-
+    Multi-generational, multi-ethnic, globally diverse. The casting
+    reflects the 'everyone' positioning — no single demographic
+    dominates. Celebrity casting is rare in core brand photography
+    (reserved for fragrance, entertainment, or specific campaign
+    moments). The 'Share a Coke' campaigns localised casting by
+    replacing the Coca-Cola name with regional names — 'Bestie',
+    'Mom', 'Dad', 'BFF' — making every consumer a cast member.
+  lighting_and_colour: >-
+    Warm, amber-toned, inviting. Photography maintains a colour
+    temperature that reads as 'golden hour' — warm without being hot.
+    Coca-Cola Red (#E61D2B) anchors every composition as product colour.
+    The surrounding palette is warm neutrals — skin tones, wood, food,
+    sunshine. The 'Contemporary Nostalgia' approach (Aroch & Palma)
+    creates images that feel simultaneously contemporary and timeless.
+    Compared to Pepsi (cooler, more blue-toned) or Dr Pepper (darker,
+    more niche), Coca-Cola's colour temperature is the warmest in the
+    carbonated beverage category.
+  post_production: >-
+    Moderate warmth in colour grading. The grading enhances the warm,
+    nostalgic quality without feeling filtered. Product photography is
+    controlled — the red must match the physical product across all
+    marketing. The 'Contour' exhibition demonstrated that Aroch & Palma's
+    work balances editorial quality with brand requirements.
+  visual_boundaries:
+    stated_exclusions: >-
+      Coca-Cola positions against cold, clinical, or corporate visual
+      language. The brand avoids imagery of solitary consumption — the
+      product exists in social contexts. No competitive references.
+    observed_exceptions: >-
+      The AI-generated Holiday 2024 campaign broke the human-warmth
+      convention — AI-rendered imagery lacked the emotional authenticity
+      that defines Coca-Cola's visual identity. The backlash prompted a
+      strategic shift toward human-in-loop AI workflows (Project Fizzion)
+      rather than pure AI generation.
+    genuine_absence: >-
+      Based on coca-cola.com review: no pricing in hero imagery, no
+      competitive comparisons, no solitary-consumption imagery, no cold
+      or clinical photography, no abstraction or conceptual art direction
+      in core brand marketing.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Spencerian Script logo (Frank M. Robinson, 1886, redesigned 1907)"
+    - "Contour Bottle (Root Glass Company, 1915, patented, trademarked 1961)"
+    - "Dynamic Ribbon (introduced 1969)"
+    - "The 'Hug' logo (October 2021, W+K London)"
+    - "Rapha Abreu (Global VP Design, April 2021)"
+  uses_illustration: true
+  illustration_style: >-
+    Illustration has a powerful historical role — Haddon Sundblom's Santa
+    (1931-1964, 33 years of original illustrations) created the most
+    globally recognised Santa Claus image. Current illustration is
+    minimal — the brand relies on photography and the established graphic
+    devices rather than new illustration. When illustration appears, it
+    is through artist collaborations (e.g., Speto for 2014 World Cup)
+    or seasonal packaging.
+  illustration_role: >-
+    Historical (Sundblom Santa) rather than contemporary. The Santa
+    illustrations remain the visual vocabulary for holiday marketing
+    despite the shift to photography and AI-generated content. Artist
+    collaborations for global events introduce illustration contextually.
+  icon_style: >-
+    The Spencerian Script, the contour bottle silhouette, and the Dynamic
+    Ribbon function as the icon system. Not a traditional icon set — the
+    brand's three visual elements ARE the iconography.
+  graphic_devices: >-
+    The Spencerian Script logo (Frank M. Robinson, 1886, redesigned 1907)
+    — flowing cursive that has been remarkably consistent for 140+ years.
+    The contour bottle (Root Glass Company, 1915) — designed to be
+    'recognised by touch in the dark or when lying broken on the ground.'
+    Raymond Loewy called it 'the perfect liquid wrapper.' A 1949 survey
+    showed less than 1% of Americans couldn't identify it by shape alone.
+    The Dynamic Ribbon (introduced 1969, Landor created 800+ variations)
+    — the white wave/swirl that accompanies the script. The 'Hug' logo
+    (October 2021, W+K London) — a curved frame that wraps around content,
+    used on packaging to frame product/can labels. Coca-Cola Red (#E61D2B)
+    — the colour itself is a graphic device, distinctive enough to identify
+    the brand without any logo.
+  motion_language: >-
+    Observed in campaign films and digital content: warm, rhythmic,
+    music-driven. The 'Holidays Are Coming' campaign uses slow-motion
+    truck reveals with orchestral scoring. Campaign films under 'Real
+    Magic' use contemporary music integration. The pacing is measured
+    and emotional — moments of connection given time to breathe. The
+    AI-generated Holiday 2024 content attempted to replicate this pacing
+    but was perceived as emotionally hollow.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Spencerian Script (Frank M. Robinson, 1886) — the logo"
+    - "TCCC Unity (Neville Brody / Brody Associates, January 2018) — first custom corporate typeface"
+    - "James Sommerville (VP Global Design, 2018 unveiling)"
+    - "coca-cola.com observed February 2026"
+  signature_move: >-
+    The Spencerian Script (Frank M. Robinson, 1886) — a flowing cursive
+    logotype that has been essentially unchanged for 140+ years. This is
+    the most recognisable typographic mark in the world. The script was
+    Coca-Cola's ONLY typeface for 131 years until TCCC Unity (Neville
+    Brody / Brody Associates, January 2018) was introduced — the first
+    custom corporate typeface in Coca-Cola's history, inspired by American
+    Modernism (1930s-50s), with Headline, Subheading, and body weights.
+    Unveiled by James Sommerville (VP Global Design). The typographic
+    signature is the Script — everything else serves it.
+  what_would_look_wrong: >-
+    Any modification to the Spencerian Script (it has been essentially
+    fixed since 1907). A sans-serif replacing the script as the primary
+    brand mark (would destroy 140 years of recognition). Cold, technical,
+    or geometric type in brand contexts (contradicts the warmth). Any
+    typeface competing with the Script for attention — TCCC Unity was
+    designed to be subordinate.
+  case_convention: >-
+    The Spencerian Script is its own case — flowing connected cursive.
+    TCCC Unity follows sentence case for body and marketing text. The
+    brand name 'Coca-Cola' always appears in the Script, never in a
+    substitute typeface.
+  display_vs_body: >-
+    Display: The Spencerian Script for the brand mark. TCCC Unity
+    Headline for supporting headlines — a modernist sans-serif inspired
+    by 1930s-50s American design. Body: TCCC Unity Regular/Subheading —
+    clean, readable, subordinate to the Script. Previous body standard
+    was Gotham Book (9pt/11pt leading). The display-to-body relationship
+    is straightforward: the Script commands, TCCC Unity supports.
+  type_and_image: >-
+    The Spencerian Script is integrated into the imagery — it appears on
+    the product (can, bottle) which appears in the photography. In OOH,
+    the Script can stand alone on red background — no supporting imagery
+    needed. In campaign work, the Script appears at product scale
+    (on the can/bottle in the image) rather than as display type. TCCC
+    Unity handles any supporting text. The relationship is: the Script
+    is part of the product, the product is part of the image.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "coca-cola.com (observed February 2026)"
+    - "Coca-Cola OOH and campaign materials"
+    - "Project Fizzion (Adobe partnership, 2025)"
+  signature_composition: >-
+    Large block-based design with high-impact product/lifestyle imagery.
+    coca-cola.com uses dynamic imagery blocks, responsive design, and
+    the 'Hug' framing device. Campaign OOH is simple: red background +
+    Spencerian Script + contour bottle (or can). The composition can be
+    this minimal because the three elements (red, Script, bottle) are
+    sufficient for instant recognition. Compared to Pepsi (more complex
+    compositions, more graphic elements, more youth-culture references)
+    or Dr Pepper (more niche, more quirky), Coca-Cola's compositions are
+    the most elementally simple in the carbonated beverage category.
+  density_and_whitespace: >-
+    Moderate density. Campaign and OOH are clean — few elements, maximum
+    impact. coca-cola.com is more content-rich but organised into clear
+    blocks. The brand uses red as negative space — the red background
+    functions like whitespace, creating focus on the Script and the
+    product. Not a low-density brand like Apple or Chanel, but disciplined
+    in what occupies the frame.
+  format_preferences: >-
+    Red rectangle with Script and product. The format is driven by the
+    contour bottle's vertical proportions and the can's cylindrical
+    shape. OOH uses standard billboard formats. Digital is responsive.
+    The packaging format (can, bottle) is the most important 'layout'
+    — the contour bottle's shape drives more visual recognition than
+    any marketing layout.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Coca-Cola maintains its core visual identity (Script, red, bottle)
+    while selectively adopting new technology and creative approaches.
+    The AI experiments (2023-2024) show willingness to explore, while
+    the backlash shows the limits of trend adoption when it threatens
+    emotional authenticity.
+  examples:
+    - trend: "AI-generated brand content"
+      stance: "early-adopter"
+      evidence: >-
+        'Create Real Magic' AI platform (March 2023, with OpenAI and
+        Bain & Company) and the AI-generated Holiday 2024 campaign
+        (Secret Level, Silverside AI, Wild Card) positioned Coca-Cola
+        as an early mover in AI-generated brand content. The Holiday
+        campaign reduced production from 12 months to 1 month. However,
+        positive sentiment dropped from 23.8% to 10.2% post-launch.
+        Project Fizzion (Adobe, 2025) represents the corrected approach —
+        AI as design intelligence system, not as creative replacement.
+      reasoning: >-
+        Coca-Cola has the scale and the data to benefit from AI-augmented
+        design systems. The lesson from Holiday 2024 was that AI can
+        accelerate production but cannot replace emotional authenticity
+        in campaigns that carry cultural weight.
+    - trend: "Adaptive/AI-governed brand design systems"
+      stance: "leader"
+      evidence: >-
+        Project Fizzion (Coca-Cola + Adobe, 2025) embeds brand rules
+        into design assets — logos, type, and imagery become 'smart'
+        elements that adapt to context while maintaining consistency.
+        StyleIDs generate hundreds of localised campaign variations with
+        precision. Up to 10x faster content creation.
+      reasoning: >-
+        Managing 200+ brands across 195 countries requires systematic
+        design intelligence. Fizzion moves from static brand guidelines
+        to adaptive, AI-governed design systems.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    Coca-Cola Red (#E61D2B). The Spencerian Script. The contour bottle
+    silhouette. The Dynamic Ribbon. The warm, human-connection photography
+    tone. No collaboration removes or significantly modifies these elements.
+  what_bends: >-
+    Artist and cultural partnerships introduce new visual languages —
+    Speto's street art for the 2014 World Cup, Highsnobiety workwear
+    for NYFW/LFW (2024). Packaging can adapt for limited editions
+    (Coca-Cola Creations, Year 3000 futuristic flavour). Colour palette
+    can expand for events and partnerships. Photography style can shift
+    to match cultural contexts.
+  notable_examples: >-
+    Coca-Cola x Speto (2014 World Cup, Brazil): Brazilian street artist's
+    graphic signature on packaging and campaign — vibrant, culturally
+    authentic, category-breaking. Coca-Cola x Highsnobiety (2024): Zero
+    Sugar workwear collaboration for NYFW and LFW — fashion-credible,
+    Gen-Z-targeted. Coca-Cola x Converse (2024): limited-edition footwear
+    with 'Fizzy Kick' visual integration. Share a Coke: the personalisation
+    campaign that replaced the Spencerian Script with individual names —
+    the most radical visual modification in the brand's history, and it
+    worked because the bottle shape and red remained.

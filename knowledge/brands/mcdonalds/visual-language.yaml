@@ -1,0 +1,356 @@
+chunk_id: "mcdonalds-visual-language"
+brand: "mcdonalds"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "mcdonalds-visual-dna"
+  - "mcdonalds-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for McDonald's. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "golden-arches-system"
+      touchpoints:
+        - "mcdonalds.com menu pages and homepage"
+        - "McDonald's app interface"
+        - "Restaurant menu boards and packaging (Pearlfisher redesign, February 2021)"
+        - "Turner Duckworth 'Archery' identity system"
+      description: >-
+        Red and golden yellow dominant. Speedee typeface (Dalton Maag, 2018)
+        for headlines and UI. The Golden Arches as compositional device, not
+        just logo — cropped, scaled, used as frame per Turner Duckworth's
+        'Archery' system. Food photography is bright, saturated, and
+        appetising. Packaging uses Pearlfisher's vector illustrations
+        (February 2021) — flat, graphic, colourful character designs that
+        replaced the previous photographic packaging. The visual register
+        is warm, optimistic, and systematic across every touchpoint.
+      differs_from_default_by: >-
+        This is the baseline. All global McDonald's touchpoints operate
+        within this system.
+
+    - name: "cultural-moment"
+      touchpoints:
+        - "Grimace Birthday campaign (June 2023, viral on TikTok)"
+        - "Kai Cenat x Chicken Big Mac (October 2024)"
+        - "McDonaldland character revival (August 2025)"
+        - "Celebrity meal partnerships"
+        - "W+K New York campaign work"
+      description: >-
+        More playful, more internet-native, more culturally responsive.
+        The brand loosens the systematic red-and-yellow register to engage
+        with specific cultural moments. Grimace Birthday turned a legacy
+        mascot into a meme — purple dominated, the Arches receded, the
+        visual language adapted to TikTok's native aesthetic. Celebrity
+        meal partnerships (Travis Scott, BTS, Kai Cenat) adopt the
+        collaborator's visual codes alongside McDonald's branding. This
+        mode is W+K New York's territory — culturally fluent, fast-moving,
+        designed for social amplification.
+      differs_from_default_by: >-
+        The systematic discipline loosens. Colours expand beyond red and
+        yellow. Photography can be lo-fi, meme-adjacent, or influencer-
+        native. The Arches are still present but can be playful rather
+        than authoritative.
+
+    - name: "premium-repositioning"
+      touchpoints:
+        - "McCafé marketing and in-store presence"
+        - "McDonald's restaurant design updates"
+        - "WeWantMore circular restaurant design concept"
+        - "Market-specific premium offerings"
+      description: >-
+        More restrained, more grown-up. Dark backgrounds, warmer lighting,
+        smaller type. The palette shifts toward brown, black, and gold
+        alongside the red and yellow. McCafé is the most visible expression
+        — coffee photography that could pass for a specialty roaster.
+        WeWantMore's circular restaurant design concept signals ambitions
+        beyond the fast-food visual convention. This mode is where
+        McDonald's competes visually with Starbucks and premium fast-casual
+        rather than Burger King and Wendy's.
+      differs_from_default_by: >-
+        The bright, saturated, kid-friendly register is replaced by
+        warmth, restraint, and a more adult visual vocabulary. The Arches
+        are more subtle — a quiet emblem rather than a dominant device.
+
+    - name: "corporate-institutional"
+      touchpoints:
+        - "corporate.mcdonalds.com"
+        - "Annual reports and ESG materials"
+        - "Franchise and investor communications"
+      description: >-
+        Clean, data-forward, the Arches at modest scale. Photography is
+        corporate — restaurants, crew members, supply chain. Charts and
+        metrics replace food imagery. The visual register is responsible-
+        corporation rather than fun-restaurant. Speedee type at conservative
+        sizes.
+      differs_from_default_by: >-
+        The warmth and playfulness recede entirely. This is McDonald's
+        as a $200B+ corporation, not McDonald's as a restaurant.
+
+  notes: >-
+    McDonald's operates differently in every market. Japan, China, France,
+    and the US each have locally adapted visual languages within the global
+    system. This chunk describes the global/US system. Major markets may
+    warrant separate analysis.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "mcdonalds.com food and campaign photography (observed February 2026)"
+    - "Pearlfisher packaging redesign (February 2021)"
+    - "Turner Duckworth 'Archery' identity system"
+    - "Grimace Birthday campaign (June 2023)"
+    - "W+K New York — lead creative agency"
+  subject_and_framing: >-
+    Food photography: overhead and 3/4 angle, bright studio lighting,
+    the food composed for maximum appetite appeal. Burgers are styled to
+    be tall and full; ingredients are visible. The food is the hero —
+    shot tight on a coloured background that matches the brand palette.
+    Compared to Burger King (darker, flame-grilled, more textural) or
+    Wendy's (squarer, more natural, fresh-positioning), McDonald's food
+    photography is brighter, more graphic, and more stylised. Campaign:
+    people with food — eating, sharing, arriving at the drive-through.
+    The restaurant setting is important — McDonald's shows its actual
+    spaces, not aspirational environments.
+  casting_observed: >-
+    Broad and inclusive — families, teens, young adults, seniors, diverse
+    ethnicities. The casting reflects the 'everyone goes to McDonald's'
+    positioning. Celebrity meals (Travis Scott, BTS, Kai Cenat) cast the
+    celebrity as a McDonald's customer, not a spokesperson — they order
+    'their' meal. The Grimace Birthday campaign cast Grimace (a character)
+    rather than people — the casting itself was the joke.
+  lighting_and_colour: >-
+    Food: high-key, warm, saturated studio lighting designed to make food
+    look golden and appetising. The colour temperature is warm — everything
+    skews toward the golden-yellow end of the spectrum. Restaurant and
+    lifestyle: warm natural light, the red and yellow palette visible in
+    environment. Compared to Burger King (darker, more fire-lit) or Taco
+    Bell (more purple, more nighttime), McDonald's lighting is consistently
+    sunny and optimistic.
+  post_production: >-
+    Food photography is heavily styled and precisely retouched — every
+    sesame seed is placed, every cheese drip is controlled. This is
+    industry-standard QSR food photography but McDonald's executes it
+    at the highest level. Colour grading pushes the warm, golden tones.
+    Campaign and social photography has lighter retouching — especially
+    culture-moment content that needs to feel native to social platforms.
+  visual_boundaries:
+    stated_exclusions: >-
+      McDonald's positions against 'health food' visual codes and against
+      premium-exclusivity. The brand does not show its food as artisanal,
+      organic, or gourmet — it shows it as satisfying, consistent, and
+      fun.
+    observed_exceptions: >-
+      McCafé content breaks the fun-and-saturated baseline with warmer,
+      more restrained, coffee-culture photography. The McDonaldland
+      character revival (August 2025) reintroduced fantasy and
+      illustration into a system that had become predominantly
+      photographic.
+    genuine_absence: >-
+      Based on mcdonalds.com and recent campaigns: no competitive
+      references, no health/nutrition claims in hero imagery (though
+      nutrition info is available in UI), no dark or sombre imagery
+      in food or campaign photography. McDonald's visual world is
+      relentlessly positive and bright.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Turner Duckworth 'Archery' identity system"
+    - "Pearlfisher packaging redesign (February 2021) — vector character illustrations"
+    - "McDonaldland character revival (August 2025)"
+    - "Speedee typeface (Dalton Maag, 2018)"
+  uses_illustration: true
+  illustration_style: >-
+    Two systems. Packaging: Pearlfisher's vector illustrations (February
+    2021) — flat, graphic, colourful characters with rounded forms and
+    bold outlines. These replaced photographic packaging and gave McDonald's
+    a more graphic, ownable visual system. Each packaging illustration
+    is tied to a menu item. The style is modern, warm, and appeals to
+    both children and adults. Characters: the McDonaldland revival (August
+    2025) brought back Grimace, Hamburglar, and Birdie in updated
+    character designs — maintaining nostalgia while feeling contemporary.
+  illustration_role: >-
+    Packaging is the primary illustration context — every bag, cup, and
+    box carries Pearlfisher's character illustrations. The illustrations
+    create a visual system that is consistent globally and distinctive on
+    the street (a McDonald's bag is instantly recognisable from its
+    illustration alone). The McDonaldland characters serve campaign and
+    social content — they are cultural properties that generate social
+    media engagement.
+  icon_style: >-
+    The McDonald's app uses a custom icon set — rounded, warm, consistent
+    with the brand's friendly register. Menu category icons, loyalty
+    programme icons, and navigation icons all follow the rounded, graphic
+    style. Functional but warm.
+  graphic_devices: >-
+    The Golden Arches as compositional device — Turner Duckworth's 'Archery'
+    system uses the Arches cropped, scaled, and positioned as frames,
+    dividers, and containers rather than just as a logo. This is the most
+    significant graphic innovation — the Arches become architecture rather
+    than just identification. Red and golden yellow colour blocking. The
+    Speedee wordmark. Pearlfisher's character illustrations as pattern
+    and texture. The 'ba da ba ba ba' sonic logo has visual translations
+    (the five notes rendered as five graphic elements).
+  motion_language: >-
+    Observed in campaign films and social content: upbeat, warm, fast-paced
+    but not frenetic. Food shots use slight slow motion (cheese pull, sauce
+    pour) — the food porn convention. Transitions are bright and bouncy.
+    The 'ba da ba ba ba' sound mark drives motion timing — five beats that
+    structure the pacing. The Grimace Birthday content used TikTok-native
+    motion conventions — quick cuts, reaction-format, meme-pacing. The
+    brand adapts its motion language to the platform.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Speedee (Dalton Maag, commissioned 2018)"
+    - "mcdonalds.com observed February 2026"
+    - "Turner Duckworth identity system"
+    - "Packaging and restaurant signage"
+  signature_move: >-
+    Speedee (Dalton Maag, 2018) at generous scale in red or white. The
+    custom typeface was designed specifically for McDonald's — rounded
+    terminals, open counters, warm and legible at every size. It replaced
+    the previous Lovin' Sans and brought more personality and ownership.
+    The rounded quality of Speedee mirrors the rounded forms of the Arches,
+    the Pearlfisher illustrations, and the overall brand shape language —
+    everything in the system is curved.
+  what_would_look_wrong: >-
+    Angular or geometric type (contradicts the rounded system). Serif type
+    (too formal for McDonald's). Condensed or tight-tracked type (too
+    aggressive). A generic sans-serif like Helvetica or Gotham (would strip
+    the personality). The previous Lovin' Sans would now look dated against
+    the current system.
+  case_convention: >-
+    Sentence case for most applications. 'McDonald's' always with capital
+    M and apostrophe. Menu item names in title case ('Big Mac', 'Chicken
+    McNuggets'). The brand avoids uppercase headlines — the tone is
+    friendly, not commanding.
+  display_vs_body: >-
+    Speedee serves both display and body. Display: Speedee Bold or Medium,
+    generous size, warm and inviting. Body: Speedee Regular, readable and
+    friendly. The single-family approach is practical for a brand that
+    operates across packaging, apps, restaurant signage, and advertising
+    in every market. The type needs to be clear at every size in every
+    context — Dalton Maag designed it for this versatility.
+  type_and_image: >-
+    Type and food photography share the frame — the headline (often a
+    product name) sits alongside or above the food image. Neither dominates
+    aggressively. In campaign work, type can be larger and more expressive.
+    On packaging, the Pearlfisher illustrations and the Speedee type coexist —
+    the illustration carries the visual energy while the type carries the
+    information. The type-and-image relationship is friendly and balanced,
+    not competitive.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "mcdonalds.com (observed February 2026)"
+    - "McDonald's app interface"
+    - "Turner Duckworth 'Archery' system"
+    - "Restaurant and packaging layouts"
+  signature_composition: >-
+    The 'Archery' system gives McDonald's a distinctive compositional
+    approach — the Arches are used as cropping guides, containers, and
+    frames that structure layouts at every scale. A menu-board composition
+    uses the Arches shape to frame the food. An OOH ad uses the Arches as
+    a window into the product. This is more distinctive than most QSR
+    layout systems and gives McDonald's compositions an architectural
+    quality. The system works at billboard scale and phone-screen scale.
+  density_and_whitespace: >-
+    The app and website are moderately dense — menu browsing, ordering,
+    deals, loyalty all compete for space. Campaign and OOH work is much
+    sparser — one food image, one line of type, the Arches. The density
+    shift between commerce (dense, functional) and brand (sparse,
+    impactful) is well-managed. Packaging has low density — illustration,
+    logo, and essential information only.
+  format_preferences: >-
+    Vertical for mobile and app (the primary ordering channel). Square
+    for social. Wide landscape for drive-through menu boards and OOH.
+    The Arches work in all orientations because the 'Archery' system
+    adapts the arch-shape to any format.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    McDonald's adopts visual and cultural trends through its campaign work
+    and cultural-moment activations while keeping the core identity system
+    (Arches, Speedee, red-and-yellow) stable. The brand's scale means it
+    cannot be truly trend-forward — changes must work across 40,000+
+    restaurants globally — but its marketing can be culturally current.
+  examples:
+    - trend: "Mascot nostalgia and brand character revival"
+      stance: "early-adopter"
+      evidence: >-
+        The McDonaldland character revival (August 2025) brought back
+        Grimace, Hamburglar, and Birdie in updated designs. This followed
+        the Grimace Birthday viral moment (June 2023) that proved legacy
+        mascots could generate social media engagement. McDonald's was
+        among the first major QSR brands to intentionally leverage
+        character nostalgia as a marketing strategy.
+      reasoning: >-
+        The Grimace Birthday success was partially organic — the brand
+        was smart enough to recognise and amplify a cultural moment rather
+        than create it from scratch. The subsequent character revival was
+        the strategic capitalisation on that moment.
+    - trend: "Creator and influencer meal partnerships"
+      stance: "leader"
+      evidence: >-
+        The Travis Scott meal (September 2020) established the celebrity-
+        meal format that Burger King, Popeyes, and other QSR competitors
+        subsequently copied. The Kai Cenat x Chicken Big Mac (October
+        2024) extended the format to content creators. McDonald's was
+        first-to-scale with this approach.
+      reasoning: >-
+        McDonald's scale and cultural ubiquity make it the natural platform
+        for celebrity meals. The visual approach — the celebrity shown as
+        a McDonald's customer, not an endorser — is the key innovation.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    The Golden Arches. The red and golden yellow. Speedee typography. The
+    food-forward visual approach. No collaboration makes McDonald's look
+    exclusive, premium-only, or inaccessible.
+  what_bends: >-
+    Supporting palette expands for collaborations (Travis Scott's brown,
+    BTS purple and blue, Grimace purple). Photography style can shift
+    to match the collaborator's visual world. Packaging design can
+    incorporate collaborator elements alongside the base system. Social
+    content can adopt the collaborator's native visual language.
+  notable_examples: >-
+    Travis Scott x McDonald's (September 2020): Cactus Jack branding on
+    McDonald's packaging, brown and earth tones alongside red and yellow.
+    Established the celebrity-meal visual format. BTS x McDonald's (June
+    2021): BTS purple and sauces with McDonald's packaging system. Global
+    rollout with market-specific activations. Kai Cenat x Chicken Big Mac
+    (October 2024): creator-native content with McDonald's product
+    integration. Each collaboration expands the palette and photography
+    style while maintaining the Arches and core identity.

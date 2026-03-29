@@ -1,0 +1,38 @@
+chunk_id: "hbo-competitive"
+brand: hbo
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "hbo-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for HBO. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - netflix
+  - disney
+  - hulu
+  - masterclass
+  - apple
+industry_norms_it_breaks: "The monochromatic treatment of the HBO logo—pure black and white with iridescent or lens-flare effects creating subtle depth and movement—elevates graphic simplicity into sophistication. The curved le | HBO's commitment to cinematographic aesthetics across all brand touchpoints. The brand photographs like a studio, not a tech company. Every lighting decision, composition choice, and color grade refle | Does this reinforce the position that HBO produces the quality standard in entertainment? Would this content have been made if the creator needed to optimize for viral metrics? Is this decision made f"
+visual_cluster: "cinematic-narrative"
+visual_fingerprint:
+  - cluster: "cinematic-narrative"
+    role: "dominant"
+    where: "Prestige television, film-quality production values"
+  - cluster: "dark-premium"
+    role: "secondary"
+    where: "Static logo, monochromatic, nocturnal authority"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Max streaming platform UI, content discovery"
+strategic_cluster: "creative-authority"
+category: entertainment

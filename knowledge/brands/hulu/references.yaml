@@ -1,0 +1,57 @@
+studios:
+- name: DixonBaxi
+  type: branding
+  url: https://www.dixonbaxi.com/
+  relationship: Led 2021 rebrand establishing current visual system; created Graphik
+    adoption strategy
+  project_url: https://www.dixonbaxi.com/case-study/hulu
+- name: Grilli Type
+  type: type-foundry
+  url: https://www.grillitype.com/
+  relationship: Foundry behind Graphik typeface (exclusive Hulu use since 2021)
+people:
+- name: Asad Ayaz
+  role: Chief Brand Officer
+  url: https://www.linkedin.com/in/asad-ayaz/
+  context: Disney Chief Brand Officer; oversees Hulu brand expression within Disney
+    portfolio
+- name: Simon Dixon
+  role: Co-Founder
+  url: https://www.linkedin.com/in/simon-dixon/
+  context: Co-founder of DixonBaxi; led Hulu rebrand creative direction
+- name: Aporva Baxi
+  role: Co-Founder
+  url: https://www.linkedin.com/in/aporva-baxi/
+  context: Co-founder of DixonBaxi; partner in Hulu rebrand
+- name: Thierry Blancpain
+  role: Type Foundry Director
+  url: https://www.grillitype.com/
+  context: Co-founder of Grilli Type foundry in Zurich/Lucerne
+- name: Noël Leu
+  role: Type Foundry Director
+  url: https://www.grillitype.com/
+  context: Co-founder of Grilli Type foundry; oversees Graphik and custom work
+publications:
+- title: 'Hulu: One Brand, Multiple Platforms'
+  author: DixonBaxi Case Study
+  relevance: Documents the 'One Hulu' initiative unifying brand, product, and marketing
+- title: 'Streaming Platform Visual Identity: Differentiation Through Color'
+  author: Design Press
+  relevance: Explores Hulu Green as distinctive ownership in competitive streaming
+    landscape
+visuals:
+- url: https://www.hulu.com/
+  label: Hulu Live Platform — Graphik Typeface Implementation
+  section: visual-language
+- url: https://www.designweek.co.uk/issues/5-11-april-2021/dixonbaxi-hulu-rebrand/
+  label: Hulu Rebrand Case Study — Design Week
+  section: visual-language
+- url: https://www.itsnicethat.com/news/dixon-baxi-hulu-brand-redesign-graphic-design-060421
+  label: DixonBaxi Hulu Rebrand Case Study — It's Nice That
+  section: visual-language
+- url: https://www.dixonbaxi.com/work
+  label: DixonBaxi Portfolio — Studio Website
+  section: visual-language
+- url: https://www.grillitype.com/
+  label: Grilli Type Foundry — Custom Typeface Design
+  section: visual-language

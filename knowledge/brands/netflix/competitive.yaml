@@ -1,0 +1,38 @@
+chunk_id: "netflix-competitive"
+brand: netflix
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "netflix-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Netflix. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - disney
+  - hbo
+  - hulu
+  - spotify
+  - youtube
+industry_norms_it_breaks: "The Stack—uniform cards at infinite scroll, making the catalog feel endless while keeping every show/film equally valued in layout | The discipline to not highlight newest content. Netflix resists the e-commerce urge to lead with \"just added.\" Everything in The Stack exists in simultaneous present tense, making a 2013 classic feel  | Does this solve for frictionless story discovery without creating the feeling of corporate curation? Does it feel like serendipity, not surveillance?"
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Near-black UI, Netflix Red on dark, viewing environment"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Content key art, original series, film marketing"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Product interface, recommendation engine, personalisation"
+strategic_cluster: "experience-curator"
+category: entertainment

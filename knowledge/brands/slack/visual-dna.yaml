@@ -1,0 +1,64 @@
+chunk_id: "slack-visual-dna"
+brand: slack
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "slack-positioning"
+token_count: 102
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Slack. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#4A154B"
+    name: ""
+    role: ""
+  - hex: "#36C5F0"
+    name: ""
+    role: ""
+  - hex: "#2EB67D"
+    name: ""
+    role: ""
+  - hex: "#E01E5A"
+    name: ""
+    role: ""
+  - hex: "#ECB22E"
+    name: ""
+    role: ""
+typography:
+  - name: Larsseit
+    role: ""
+    style: ""
+  - name: Slack Circular
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: focused
+  type_class: "sans-serif"
+  type_character: geometric
+  type_weight: mixed
+  imagery_medium: minimal
+  imagery_subject: abstract
+  imagery_treatment: soft
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  Logo shapes can be used in various ways for advertising applications. The system supports customization and theming, allowing users to personalize their workspace while maintaining consistency across desktop and mobile applications.

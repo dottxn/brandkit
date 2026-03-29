@@ -1,0 +1,30 @@
+chunk_id: "bose-soul"
+brand: bose
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "bose-positioning"
+token_count: 130
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Bose Corporation. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  The moment silence becomes presence, absence of distraction revealing beauty you didn't know was there
+core_belief: Sound is the sense that connects intention to emotion faster than sight
+creative_tension:
+  - >-
+    Breakthrough innovation (noise cancellation, psychoacoustics research) vs. heritage simplicity (handwritten wordmark since 1964)
+  - Technical precision in engineering vs. sensory immersion in experience
+decision_filter: "Does this make sound *feel* like breakthrough, or does this explain sound's technical properties?"
+signature_move: >-
+  The 30-degree italic angle—visual representation of a waveform, persistent across all typography and key graphic devices
+what_would_break_it: >-
+  Removing the italic angle, using upright type, adding illustrative sound visualizations that feel literal, or prioritizing technical specs over sonic experience

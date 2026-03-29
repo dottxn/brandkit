@@ -1,0 +1,71 @@
+chunk_id: "duolingo-anti-patterns"
+brand: duolingo
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "duolingo-soul"
+  - "duolingo-visual-dna"
+token_count: 659
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Duolingo. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Photographic representation of real language learners
+    reasoning: >-
+      Duolingo uses illustration and Duo for all character representation. Photography would create implicit "right" learner demographics and reduce accessibility. Illustration is endlessly adaptable and more playful.
+  - pattern: "Corporate sans-serif in primary communication"
+    reasoning: >-
+      Feather Bold is custom and deliberately humanist (not geometric). Using off-the-shelf grotesque fonts would erase the personality and warmth that's essential to not feeling like a homework assignment.
+  - pattern: "Muted, calming color palette"
+    reasoning: >-
+      The Feather Green (#58CC02) is intentionally energetic and hard to miss. Soft greens or blues would reduce the urgency and "ding ding ding, don't forget me" messaging that drives daily engagement.
+  - pattern: Minimal design language
+    reasoning: >-
+      Duolingo uses visually expansive layouts with generous use of character expressions, reward celebrations, and visual feedback. Minimalism would feel cold and utilitarian—antithetical to "learning is fun."
+strategic:
+  - pattern: Positioning as professional language education
+    reasoning: >-
+      Duolingo never claims you'll reach business fluency. By keeping promises humble and realistic (basic conversational ability), the brand has room to surprise with usefulness while managing expectations.
+  - pattern: Competing on grammar precision with academic tools
+    reasoning: >-
+      Duolingo prioritizes communication over correctness. Heavy grammatical drilling would slow progress and create frustration. The "good enough to communicate" standard is accessible while still legitimate.
+  - pattern: "Single-user focus"
+    reasoning: >-
+      Duolingo increasingly adds social features (leagues, friend challenges, discussions), but the core brand is solitary learning. Adding social obligation would create performance pressure that contradicts "learning is fun."
+  - pattern: Formal communication about learning science
+    reasoning: >-
+      Duolingo references spaced repetition and behavioral psychology in marketing, but never in product UI. Speaking to learning science would make the product feel clinical. The science hides behind the fun.
+tonal:
+  - pattern: Pessimistic or honest about learning difficulty
+    reasoning: >-
+      Duo texts you things like "You'll regret not practicing." This is guilt, but playfully. Genuinely negative messaging would feel cruel. The guilt is always delivered with a wink.
+  - pattern: Dry educational language
+    reasoning: >-
+      Duolingo's copy uses slang, memes, and pop culture references even in lesson content. Formal instructional language would make lessons feel like textbooks instead of conversations.
+  - pattern: Apologetic about notification frequency
+    reasoning: >-
+      Duolingo never says "sorry for bugging you." The nagging is the feature. Defensive about frequency would undermine the motivational architecture entirely.
+  - pattern: Inspirational platitudes
+    reasoning: >-
+      "You can do it!" type messaging feels hollow in Duolingo's voice. Actual personality and humor matter more than affirmation. Mock-pride ("Look at you, learning languages") works better than genuine encouragement.
+cultural:
+  - pattern: Positioning language learning as practical economic skill
+    reasoning: >-
+      Duolingo frames learning as personal enrichment and cultural connection, not job marketability. Instrumental framing would reduce the joy-focused positioning.
+  - pattern: "Language hierarchies (some languages are \"more useful\")"
+    reasoning: >-
+      Duolingo supports 90+ languages with the same graphic treatment and brand respect. Implicit hierarchies would undermine the accessibility and inclusion promise.
+  - pattern: "Teacher-student power dynamics"
+    reasoning: >-
+      Even while psychologically manipulating you into consistency, Duolingo positions Duo as a friend/coach, not a teacher. Authority would break the relationship that enables the guilt messaging to work without feeling bad.
+  - pattern: Educational gatekeeping
+    reasoning: >-
+      "Real language learners" are expensive and exclusive. Duolingo's entire thesis is that language learning is for everyone. Elitism would contradict the core cultural positioning.

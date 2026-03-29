@@ -1,0 +1,42 @@
+chunk_id: "seed-health-voice"
+brand: "seed-health"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "seed-health-soul"
+token_count: 106
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Seed Health. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A microbial sciences company pioneering applications of microbes for human and planetary health, developing probiotics, live biotherapeutics, and environmental solutions through advanced computational
+tone_traits:
+  - "Evidence-based"
+  - precise
+  - transparent
+  - Educational
+  - curious
+  - engaging
+anti_traits:
+  - Overstated claims
+  - "fear-mongering"
+  - pseudoscience
+  - Jargony
+  - intimidating
+  - condescending
+example_phrases:
+  - Pioneering microbiome science for human and planetary health
+  - Making scientific innovation understandable and beautiful for everyday life
+  - "We're working to make people say 'holy sh*t' about health, the planet, and basically everything"
+  - "The invisible world we wake up every day to translate, innovate, and propel forward"
+guardrails:
+  never_say: []
+  always_sound: "Evidence-based, precise, transparent, Educational, curious"

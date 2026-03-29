@@ -1,0 +1,32 @@
+chunk_id: "figma-insights"
+brand: figma
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "figma-soul"
+  - "figma-positioning"
+token_count: 331
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Figma. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Figma's competitive edge isn't multiplayer features (anyone can add real-time collaboration)—it's the willingness to rebuild UX assumptions entirely rather than tack features onto legacy software. The browser-native architecture enabled capabilities that felt impossible from the desktop paradigm.
+  - >-
+    The jumbo nodes work because they solve a genuine problem (knowing what element someone else is selecting on a shared canvas) while creating a visual signature that's both functional and distinctive. Great design moves aren't usually purely aesthetic.
+  - >-
+    Figma's brand refresh toward maximalism and "unapologetically jumbo" works because the design tools industry had settled into the narrative that "professional = minimal." By embracing bigness and color, Figma repositioned design as creative and expressive, not just utilitarian.
+  - >-
+    Figma's community and plugin ecosystem are brand assets equal to the software itself. The brand is as much "a place where design is created and shared" as it is "a tool." User-generated content is the extension of brand voice.
+  - >-
+    Figma's flexibility-first design thinking extends to the brand itself. By creating modular design components and a system that evolves over time without requiring a complete refresh, the brand demonstrates its core philosophy at the meta level (the brand system is itself a Figma file in many ways).
+what_nobody_copies: >-
+  The refusal to create a "professional" design tool aesthetic in the traditional sense. By treating the interface itself as an artifact worth designing beautifully, Figma created permission for teams to take design seriously as a discipline, not just a service department.

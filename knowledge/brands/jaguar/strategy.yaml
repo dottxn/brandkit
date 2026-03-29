@@ -1,0 +1,31 @@
+chunk_id: "jaguar-strategy"
+brand: jaguar
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "jaguar-positioning"
+token_count: 55
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Jaguar. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "<cite index=\"33-2,33-3\">We believe in living the exceptional with soul</cite>"
+mission: >-
+  <cite index="31-1">To realise our vision to be proud creators of the most desirable, modern luxury brands, for the most discerning of clients</cite>
+vision: >-
+  <cite index="33-3,40-4">To become proud creators of modern luxury where design philosophy meets sustainability, innovation and exceptional client experience to create desirability</cite>
+values:
+  - Fearless Creativity
+  - Exuberant Originality
+  - Compelling Modernism
+  - Artistic Expression
+  - Delete Ordinary
+  - Copy Nothing

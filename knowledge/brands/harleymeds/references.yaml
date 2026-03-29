@@ -1,0 +1,44 @@
+# ──────────────────────────────────────────────
+# HarleyMeds — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "LOTIPA"
+    type: "branding"
+    url: "https://lotipa.com/"
+    relationship: "Brand identity design agency (Brasília); created comprehensive visual system for HarleyMeds launch"
+
+people:
+  - name: "Daniela Noriega"
+    role: "3D Artist and Product Visualisation Designer"
+    url: "https://www.instagram.com/daniela.noriega/"
+    context: "Created 3D product renders for packaging; gave brand premium, dimensional visual identity"
+
+  - name: "Alex Monteiro"
+    role: "Visual Designer (AI-assisted)"
+    url: "https://www.instagram.com/"
+    context: "AI-assisted visual development and identity pattern generation; contributed to contemporary, tech-forward aesthetic"
+
+  - name: "Lukas Martins"
+    role: "Motion Designer"
+    url: "https://www.instagram.com/"
+    context: "Created motion work for Instagram Reels and brand introduction pieces; energetic personality layer over clinical foundation"
+
+  - name: "Antoniel Felainne"
+    role: "Graphic Designer"
+    url: "https://www.instagram.com/"
+    context: "Graphic design contributions to brand identity system"
+
+publications:
+  - title: "LOTIPA Brand Identity System"
+    author: "LOTIPA / HarleyMeds"
+    relevance: "Comprehensive brand system documentation; clinical elegance positioning and visual codes"
+
+visuals:
+  - url: "https://www.instagram.com/harley.meds/"
+    label: "HarleyMeds Instagram — Product photography, motion content, and brand communication"
+    section: "visual-language"
+
+  - url: "https://harleymeds.co.uk/"
+    label: "HarleyMeds website (accessibility note: 403 at time of research) — E-commerce and telehealth interface"
+    section: "visual-world"

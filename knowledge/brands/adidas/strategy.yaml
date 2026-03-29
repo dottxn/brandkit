@@ -1,0 +1,31 @@
+chunk_id: "adidas-strategy"
+brand: adidas
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "adidas-positioning"
+token_count: 55
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for adidas. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe sport has the power to change lives and unite people across cultures, backgrounds, and abilities
+mission: >-
+  To be the best sports brand in the world by creating products and experiences that help athletes make a difference
+vision: To create a more sustainable future through sport where everyone can thrive
+values:
+  - Courage
+  - Ownership
+  - Innovation
+  - Teamwork
+  - Integrity
+  - Respect

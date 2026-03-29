@@ -1,0 +1,29 @@
+chunk_id: "youtube-strategy"
+brand: youtube
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "youtube-positioning"
+token_count: 54
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for YouTube. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe everyone deserves to have a voice and that the world becomes a better place when we listen, share and build community through our stories
+mission: To give everyone a voice and show them the world
+vision: >-
+  To be the platform where diverse voices can be discovered, where creative expression flourishes, and where communities form around shared interests
+values:
+  - Freedom of Expression
+  - Belonging
+  - Responsibility
+  - Learning

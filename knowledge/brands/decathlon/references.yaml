@@ -1,0 +1,51 @@
+studios:
+- name: Wolff Olins
+  type: branding
+  url: https://wolffolins.com/
+  relationship: Led 2-year comprehensive rebrand (2022-2024); consolidated 85 sub-brands
+    under unified identity with L'Orbit logo
+  project_url: https://wolffolins.com/work/decathlon
+- name: AMV BBDO
+  type: advertising-agency
+  url: https://www.amvbbdo.com/
+  relationship: Created 'Ready to Play?' global campaign launch (March 2024)
+- name: Grilli Type
+  type: type-foundry
+  url: https://www.grillitype.com/
+  relationship: Created Decathlon Sans typeface with dynamic slanted alternate characters
+people:
+- name: Emma Barratt
+  role: Executive Creative Director
+  url: ''
+  context: Global ECD at Wolff Olins; led creative vision for Decathlon rebrand
+- name: Kerensa Neale
+  role: Internal Design Lead
+  url: ''
+  context: Leads internal design at Decathlon
+publications:
+- title: Decathlon Rebrand — Wolff Olins Project Documentation
+  author: Wolff Olins
+  relevance: Two-year brand transformation consolidating 85 sub-brands into unified
+    identity
+- title: Decathlon Sans Typeface Commission
+  author: Grilli Type
+  relevance: Custom typeface with slanted alternates encoding sporting dynamism
+visuals:
+- url: https://www.itsnicethat.com/articles/wolff-olins-decathlon-graphic-design-project-120324
+  label: Decathlon Rebrand by Wolff Olins — It's Nice That Feature
+  section: visual-language
+- url: https://www.creativereview.co.uk/decathlon-sports-branding-campaign-wolff-olins-amv-bbdo/
+  label: Decathlon Rebrand and 'Ready to Play?' Campaign — Creative Review
+  section: visual-language
+- url: https://wolffolins.com/work/decathlon
+  label: Decathlon Project — Wolff Olins Portfolio
+  section: visual-language
+- url: https://www.grillitype.com/commissions/decathlon
+  label: Decathlon Sans Typeface — Grilli Type Commission
+  section: visual-language
+- url: https://www.decathlon.com/
+  label: Decathlon.com — Current Brand Implementation
+  section: visual-world
+- url: https://www.creativeboom.com/news/decathlon-relaunches-as-a-global-sports-brand-with-focus-on-wonder/
+  label: Decathlon Global Sports Brand Relaunch — Creative Boom Coverage
+  section: visual-language

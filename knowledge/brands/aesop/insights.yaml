@@ -1,0 +1,34 @@
+chunk_id: "aesop-insights"
+brand: aesop
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "aesop-soul"
+  - "aesop-positioning"
+token_count: 384
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Aesop. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    The most effective marketing is the refusal to market — because Aesop grew 30% year-on-year for two decades with zero traditional advertising. In an industry where competitors spend 20-30% of revenue on ads, Aesop's silence is what makes it conspicuous.
+  - >-
+    Giving every store to a different local architect is more valuable than any global brand consistency could be — because the Nolita store clad in 2,800 copies of the New York Times and the Kyoto store built around an antique water pump both feel unmistakably Aesop, despite looking nothing alike. The consistency isn't visual. It's philosophical.
+  - >-
+    Amber glass communicates more trust than any luxury finish — because it's honest. It doesn't hide the product. It protects it (UV protection reduces preservative needs). It's recyclable. And it references apothecaries, not beauty counters.
+  - >-
+    Telling someone to drink red wine and read stimulating literature sells more skincare than promising transformation — because it positions the product as one element of a life already being lived well.
+  - >-
+    Hiring for hospitality instinct over beauty industry experience produces better consultants — because the sink ritual needs someone who can read a person's comfort level and pace, not someone trained to close a sale.
+  - >-
+    Thousands of seemingly insignificant decisions are what make a brand feel inevitable — because Paphitis describes the Aesop method as 'labouring over seemingly inane decisions to make things appear effortless.'
+what_nobody_copies: >-
+  Competitors can copy amber glass and minimalist labels. What they can't copy is the reading list. Before any architect begins work on an Aesop store, they receive three books: Peter Zumthor's Atmospheres, Gaston Bachelard's The Poetics of Space, and Tanizaki's In Praise of Shadows. The stores aren't designed — they're authored.

@@ -1,0 +1,30 @@
+chunk_id: "royal-ballet-opera-soul"
+brand: "royal-ballet-opera"
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "royal-ballet-opera-positioning"
+token_count: 124
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Royal Ballet and Opera. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "Time collapsing—past generations' artistry made present through bodies moving"
+core_belief: "Art that endures does so because it speaks across centuries, not because it chases trends"
+creative_tension:
+  - >-
+    300+ year heritage honored while claiming contemporary cultural relevance through reimagined visual identity
+  - >-
+    High art institution marketing itself as accessible and inclusive without diluting artistic excellence
+decision_filter: "Does this honor heritage while inviting the uninitiated? Both must be true"
+signature_move: >-
+  Archive-inspired marque reimagined from historical documents, flowing ampersand connecting Ballet & Opera, directional layering for temporal movement
+what_would_break_it: >-
+  Adopting neutral, corporate performing arts aesthetic or abandoning heritage entirely—either extreme would destroy the Living Timeline concept

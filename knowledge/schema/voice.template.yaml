@@ -1,0 +1,34 @@
+# Chunk Template: voice.yaml
+# Domain: voice
+# Target: ~400 tokens
+# Present for: all brands (baseline + enriched)
+
+chunk_id: "{brand}-voice"
+brand: "{brand}"
+domain: "voice"
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "{brand}-soul"
+token_count: 0
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-20"
+status: "active"
+enrichment_level: "baseline"
+summary: >-
+  Voice and tone for {brand_display}. How the brand sounds,
+  what it avoids, personality traits.
+
+# ── Data ─────────────────────────────────────────
+
+personality: ""             # One-paragraph brand personality description
+
+tone_traits: []             # e.g. ["bold", "irreverent", "warm"]
+anti_traits: []             # e.g. ["corporate", "clinical", "try-hard"]
+
+guardrails:
+  never_say: []             # Phrases or styles to avoid
+  always_sound: ""          # The constant quality in all communication

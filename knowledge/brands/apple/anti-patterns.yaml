@@ -1,0 +1,71 @@
+chunk_id: "apple-anti-patterns"
+brand: apple
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "apple-soul"
+  - "apple-visual-dna"
+token_count: 812
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Apple. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Busy, feature-rich photography showing multiple products or contexts"
+    reasoning: >-
+      Apple's minimalism demands singular focus. A single object, dramatic side lighting, pure white or gradient background. Multiple elements compete for attention and destroy the brand's sense of calm clarity.
+  - pattern: "Sans-serifs with extreme geometric precision like Futura or DIN"
+    reasoning: >-
+      These say "efficient" and "technical." SF Pro says "human-centered." Apple's humanist typeface with its slight curves and counter forms creates a sense of intentionality without coldness. Geometric precision would read as corporate.
+  - pattern: Vibrant color palettes or brand color extensions
+    reasoning: >-
+      Apple's restraint with #000000, #FFFFFF, and #F5F5F7 is not limitation; it's the entire point. Adding trend colors like vibrant cyan or magenta would fragment the brand's sense of unified simplicity.
+  - pattern: Ornamental design elements or decorative typography
+    reasoning: >-
+      Apple's rejection of ornament is philosophical. Every pixel must serve the communication. Flourishes, gradients used decoratively, or embellished typography would signal that style matters more than function.
+strategic:
+  - pattern: Marketing that highlights technical specifications
+    reasoning: >-
+      "Faster processor," "bigger screen," "more RAM" — this is how competitors market. Apple never does this. The strategy is to emphasize how the technology disappears into the experience, not how much technology there is.
+  - pattern: Comparison advertising or competitive messaging
+    reasoning: >-
+      Apple never argues why it's better than Android or Windows. The brand assumes a different category. Defending against competitors would place them at equal status, which the brand refuses to do.
+  - pattern: "Accessibility as an add-on or charitable initiative"
+    reasoning: >-
+      Apple integrates accessibility into the core product experience. VoiceOver, haptic feedback, and sensory accommodations aren't separate features; they're the same design quality applied to different needs. This is philosophically different from competitors' approach.
+  - pattern: Advertising focused on who the product is for
+    reasoning: >-
+      Other brands use demographic targeting in messaging. Apple's messaging is universal: "This is how technology can serve humanity." The Venn diagram of Apple customers is broad because the communication speaks to human needs, not demographic profiles.
+tonal:
+  - pattern: "Salesman-like enthusiasm or overselling"
+    reasoning: >-
+      Apple's tone is matter-of-fact about excellence. "The most powerful chip ever in a smartphone" is stated as obvious fact, not with punctuation marks or exclamation. This confidence reads as earned, not performed.
+  - pattern: Jargon or technical explanation
+    reasoning: >-
+      Even when discussing advanced technology, Apple translates it into human outcomes. "Neural Engine" is mentioned, but the marketing emphasizes what it means for your photography and privacy, not the architecture. Specification becomes experience.
+  - pattern: "Self-deprecation or irony"
+    reasoning: >-
+      Apple doesn't position itself as underdog or self-aware. The tone is straightforward, almost naive in its faith that beautiful design is self-evident. Irony would complicate this clarity.
+  - pattern: Emotional manipulation or manipulation of aspiration
+    reasoning: >-
+      Apple doesn't sell status through exclusivity messaging. The brand assumes excellence is desirable without needing to explain why. A different brand says "join the elite"; Apple says "this works better," and lets the product speak.
+cultural:
+  - pattern: Following design trends or allowing aesthetics to date
+    reasoning: >-
+      Apple's contemporary aesthetic is deliberately resistant to trend. The 2024 iPhone looks like the 2014 iPhone because the design is based on timeless principles, not trend cycles. Abandoning this would make the brand feel momentary.
+  - pattern: Decoupling from the creator mindset
+    reasoning: >-
+      Apple's positioning as "for creators" and "for artists" is not marketing; it's core strategy. Products are designed with creators' needs in mind. Losing this would reduce Apple to a consumer electronics company.
+  - pattern: Competing on price or entering the budget segment aggressively
+    reasoning: >-
+      While iPhone SE exists, Apple never positions premium and budget products equally. The budget option is clearly secondary. A brand that treats all tiers equally loses the premium tier's aspirational power.
+  - pattern: "Separating hardware, software, and services as distinct entities"
+    reasoning: >-
+      Apple's integration means the brand can never say "this is just the hardware division." Everything is one unified experience. Fragmenting this in communication or design would fragment the brand itself.

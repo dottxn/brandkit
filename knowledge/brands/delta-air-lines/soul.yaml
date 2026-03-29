@@ -1,0 +1,31 @@
+chunk_id: "delta-air-lines-soul"
+brand: "delta-air-lines"
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "delta-air-lines-positioning"
+token_count: 136
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Delta Air Lines. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  The moment before take-off when anything becomes possible, when the world opens up and you remember why you're alive
+core_belief: Travel expands who we are; every journey is a becoming
+creative_tension:
+  - >-
+    Operational reliability (the dependable infrastructure) vs. transformative wonder (the transcendent experience)
+  - Premium service positioning vs. democratic global connectivity
+decision_filter: >-
+  Does this celebrate the human capacity to connect and grow, or does this market airline convenience features?
+signature_move: >-
+  The dynamic 3D triangle widget—a literal representation of the brand's "Keep Climbing" philosophy, appearing in motion throughout the system
+what_would_break_it: >-
+  Removing motion from the triangle, using traditional airline aesthetics (aircraft, airports), creating static brand language, or prioritizing operational messaging over human transformation

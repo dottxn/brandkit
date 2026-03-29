@@ -1,0 +1,37 @@
+chunk_id: "notion-competitive"
+brand: notion
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "notion-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Notion. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - figma
+  - slack
+  - microsoft
+  - arc
+industry_norms_it_breaks: "The transparent cube logo with the serif 'N'—a single gesture showing structure (the grid), openness (you can see through it), and humanity (serif letterform in otherwise sans-serif system). | Notion's refusal to use color. Most SaaS tools use color as a brand crutch. Notion uses color as a distraction tax and won't pay it. This is a form of brand courage most companies don't have. | \"Does this feature enable or disable the user's ability to shape their own system? Will it add cognitive load or remove it?\""
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Monochrome core, systematic, clean, precise"
+  - cluster: "soft-minimal"
+    role: "secondary"
+    where: "Marketing colour, gentle introduction, rounded UI"
+  - cluster: "editorial-luxury"
+    role: "accent"
+    where: "Template gallery, documentation quality, content"
+strategic_cluster: "creative-authority"
+category: technology

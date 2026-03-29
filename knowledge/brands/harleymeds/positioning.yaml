@@ -1,0 +1,31 @@
+chunk_id: "harleymeds-positioning"
+brand: harleymeds
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for HarleyMeds. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: HarleyMeds
+website: "https://www.harleymeds.com"
+founded: 2020
+category: "health-wellness"
+sub_category: "telehealth-wellness"
+price_tier: "mid-range"
+primary_archetype: The Caregiver
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 3
+  heritage_innovation: 8
+key_differentiators: []

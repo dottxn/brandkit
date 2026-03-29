@@ -1,0 +1,28 @@
+chunk_id: "etsy-visual-reasoning"
+brand: etsy
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "etsy-visual-dna"
+  - "etsy-soul"
+token_count: 634
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Etsy. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Guardian Sans is humanist—curves feel drawn by hand rather than calculated mathematically. It was designed by Paul Fairrington at the Guardian newspaper specifically to signal newspaper authority while maintaining warmth. For Etsy, this is perfect: it says "serious journalistic rigor about craft," not "corporate efficiency." The typeface has slight imperfections—subtle wobbles in stroke weight, asymmetrical serifs on capital letters—that make it feel created rather than manufactured. Compare this to geometric sans-serifs like Futura or Montserrat, which sound like spreadsheets. Guardian Sans sounds like a person talking. The custom wordmark modification for Etsy (slight changes to letter spacing and the ampersand integration) shows craft applied to typography itself, not just the products the platform hosts.
+colour_logic: >-
+  Etsy Orange (#F56400) is the brand's entire strategic gamble. It's warm enough to feel handmade (suggesting clay, spices, wood, natural materials) but saturated enough to demand attention in digital spaces. It sits in the exact middle of the warmth spectrum—not the icy orange of warning labels, not the russet orange of nostalgia. Paired with Mine Shaft Black (#222222), it creates maximum contrast, ensuring every detail is visible. This matters because Etsy's photography must reveal texture, technique, and quality. The lack of secondary colors (no supporting palette, no accent hierarchy) is strategic—it forces restraint. Every use of orange must earn its presence. When Etsy needs visual hierarchy, it uses composition and typography weight, not color multiplication.
+composition_philosophy: >-
+  Etsy's layouts deliberately avoid grid perfection. Products float with asymmetrical whitespace around them, sometimes clustered, sometimes isolated. This isn't accident—it's the inverse of the rigid grid systems used in streamlined retail. The composition suggests a physical marketplace where items are arranged by hand, not algorithm. Maker names appear with varying typography sizes and positions, reinforcing that each seller has their own voice and scale. Photography gets generous space, but not "luxury brand" negative space—it feels like space that was left because the image demanded it, not because whitespace signals premium positioning. This compositional philosophy requires discipline: it's harder to arrange asymmetrically than gridded because every placement must feel intentional rather than systematic.
+what_would_break_it: >-
+  A rounded, friendly sans-serif like Poppins or Inter designed for "inclusive accessibility" would destroy Etsy's maker credibility. These typefaces are intentionally warm and approachable, which signals that buying from makers is soft and easy. Etsy's core value is that craft is difficult, requiring judgment, involving friction. Switching to rounded, soft typography would make the platform feel like a lifestyle brand, not a movement. Adding a secondary color palette (multiple accent colors, gradient systems) would immediately make Etsy feel designed, styled, curated by professionals rather than organized by makers. Using stock photography instead of documentary process photos would erase the maker as subject. Implementing algorithmic recommendations without transparency would make the platform feel like Netflix—emotionless, automated, corporate. Expanding to include mass-produced goods would obliterate the entire positioning. Adopting the visual language of other e-commerce platforms (similar layouts, similar typography, similar photography styles) would make Etsy indistinguishable from competitors.

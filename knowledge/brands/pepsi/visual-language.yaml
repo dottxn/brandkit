@@ -1,0 +1,315 @@
+chunk_id: "pepsi-visual-language"
+brand: "pepsi"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "pepsi-visual-dna"
+  - "pepsi-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Pepsi. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-globe"
+      touchpoints:
+        - "pepsi.com and global Pepsi digital properties"
+        - "Pepsi packaging — cans, bottles, multi-packs"
+        - "Global brand campaigns"
+        - "Social media channels"
+        - "OOH and broadcast advertising"
+      description: >-
+        The 2023 globe redesign returned the wordmark inside the globe
+        for the first time since the early 1990s — a deliberate retro-
+        modern move that reclaims the classic yin-yang Pepsi globe. Electric
+        Blue (#0B0098) and Red (#FF0901) form the core palette. Pepsi
+        Owners (MCKL / Jeremy Mickel, custom typeface based on Adobe Owners)
+        is a bold, condensed, all-caps geometric sans-serif. 'The Pulse'
+        ripple animation system extends the globe into motion. PepsiCo
+        Design & Innovation (400-person team) manages the visual system.
+        Mauro Porcini (Chief Design Officer, 2012-2025, departed) led the
+        2023 rebrand. Mrs&Mr agency partnership. The 125th anniversary
+        rebrand generated 28B impressions and 99% positive sentiment.
+        Compared to Coca-Cola (warmer, more stable, red-dominant, Script-
+        driven), Pepsi's visual language is cooler, more graphic, more
+        youth-coded, and more willing to reinvent.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this blue-dominant,
+        globe-centred, Pepsi Owners-set register.
+
+    - name: "zero-sugar-variant"
+      touchpoints:
+        - "Pepsi Zero Sugar packaging and marketing"
+        - "Pepsi Zero Sugar-specific campaigns"
+        - "NFL Super Bowl advertising (Pepsi Zero Sugar featured)"
+      description: >-
+        Black-dominant, replacing blue. The Zero Sugar variant uses the
+        same globe and Pepsi Owners typeface but inverts to black packaging
+        with blue and red accents. The visual register is edgier and more
+        contemporary — signalling 'no compromise' to health-conscious
+        consumers. Campaign photography is bolder, more high-contrast.
+        This mirrors the Coca-Cola Zero Sugar approach (black packaging)
+        but Pepsi Zero Sugar's visual language is more graphic and less
+        lifestyle-oriented.
+      differs_from_default_by: >-
+        Black replaces blue as the dominant colour. More high-contrast,
+        more graphic, less warm. The globe and Pepsi Owners remain but
+        the colour inversion signals a distinct product personality.
+
+    - name: "entertainment-sponsorship"
+      touchpoints:
+        - "NFL Super Bowl (Pepsi Super Bowl Halftime Show through 2022; ongoing NFL partnership)"
+        - "Music and entertainment partnerships"
+        - "Sports sponsorship activations"
+        - "Event-specific limited-edition packaging"
+      description: >-
+        Entertainment-coded, high-energy, celebrity-driven. Pepsi's
+        sponsorship visual language integrates event branding with the
+        Pepsi globe. Music partnerships use artist imagery alongside
+        the Pepsi visual system. The Super Bowl Halftime Show (Pepsi
+        was title sponsor through 2022) created some of the most high-
+        profile visual collaborations in advertising. Sports sponsorships
+        use team and league co-branding within the Pepsi framework.
+        Compared to Coca-Cola (Olympic warmth, family togetherness),
+        Pepsi's entertainment mode is more youth-coded, more music-
+        driven, and more adrenaline-forward.
+      differs_from_default_by: >-
+        Celebrity and event imagery dominate. The Pepsi globe shares
+        visual space with entertainment partners. Higher energy, more
+        dynamic compositions, more cultural-moment-driven. The visual
+        language adapts to the entertainment context rather than
+        maintaining brand consistency.
+
+  notes: >-
+    Pepsi is one brand within the PepsiCo portfolio (which includes
+    Mountain Dew, Gatorade, Lay's, Doritos, and others). PepsiCo
+    Design & Innovation (400-person team) manages visual systems across
+    the portfolio. The 2023 rebrand was the most significant visual
+    change in 14 years.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "pepsi.com (observed February 2026)"
+    - "2023 rebrand campaign materials"
+    - "Pepsi social media channels"
+    - "Mrs&Mr agency partnership"
+  subject_and_framing: >-
+    Two primary modes: lifestyle/social and product hero. Lifestyle
+    photography shows young, diverse groups in social settings — music
+    events, parties, summer moments, sports viewing. The framing is
+    energetic and dynamic — movement, laughter, high-energy social moments.
+    Product photography uses the Pepsi can/bottle as a graphic element
+    against bold blue backgrounds. Compared to Coca-Cola (warmer, more
+    multi-generational, more emotionally textured), Pepsi's photography
+    is cooler, younger-skewing, and more entertainment-forward.
+  casting_observed: >-
+    Young, diverse, energy-coded. The casting skews younger than Coca-Cola
+    (which targets multi-generational). Music and entertainment celebrities
+    feature prominently in campaign casting. Recent campaigns use diverse,
+    non-celebrity casting for lifestyle content. The overall casting
+    aesthetic is 'the Pepsi generation' — young, social, culturally current.
+  lighting_and_colour: >-
+    Cool-to-neutral, high-contrast. Electric Blue (#0B0098) dominates as
+    both brand colour and environmental tone. Photography is colour-graded
+    to complement the blue-and-red palette. Lighting is more graphic and
+    less warm than Coca-Cola — closer to music-video lighting than
+    lifestyle-documentary lighting.
+  post_production: >-
+    High-contrast colour grading. The post-production enhances the graphic
+    quality — saturated colours, clean compositions, product integration.
+    Product photography is precisely controlled for colour accuracy.
+    The overall post-production register is more graphic and commercial
+    than Coca-Cola's warmth-first approach.
+  visual_boundaries:
+    stated_exclusions: >-
+      Pepsi avoids nostalgic, warm, family-focused imagery (that's
+      Coca-Cola's territory). The brand avoids visual language that
+      reads as old, traditional, or conservative.
+    observed_exceptions: >-
+      The 2023 retro-modern rebrand deliberately referenced Pepsi's
+      own history (the 1990s globe) while modernising it — a calculated
+      nostalgia that doesn't conflict with the youth-forward positioning.
+    genuine_absence: >-
+      Based on pepsi.com review: no multi-generational family imagery,
+      no warm/nostalgic colour grading, no quiet or intimate photography.
+      The visual language is consistently energetic and social.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "2023 globe redesign (PepsiCo Design & Innovation, Mauro Porcini CDO)"
+    - "'The Pulse' ripple animation system"
+    - "Pepsi Owners typeface (MCKL / Jeremy Mickel)"
+    - "pepsi.com (observed February 2026)"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    The Pepsi globe IS the icon system. Variant globes for product lines
+    (Zero Sugar black globe, Diet Pepsi silver globe, Pepsi Wild Cherry).
+    Digital navigation uses minimal, functional icons. No distinctive
+    custom illustration system.
+  graphic_devices: >-
+    The Pepsi globe — the most frequently redesigned logo in major beverage
+    branding (redesigned approximately every 10-15 years since 1898). The
+    2023 version returns the wordmark inside the yin-yang globe shape.
+    Electric Blue (#0B0098) — more saturated and deeper than the previous
+    blue. 'The Pulse' — a ripple animation system that extends the globe's
+    circular form into concentric ripples, used in motion graphics, packaging
+    details, and environmental design. Pepsi Owners (MCKL/Jeremy Mickel)
+    as a bold, condensed, all-caps display typeface that doubles as a graphic
+    element when used at large scale.
+  motion_language: >-
+    'The Pulse' ripple system — concentric circles emanating from the
+    globe. This animation appears in campaign films, digital content,
+    and event graphics. Campaign motion uses high-energy pacing — quick
+    cuts, dynamic camera movement, music-driven editing. The Super Bowl
+    Halftime Show productions demonstrate the highest-energy motion
+    register. Compared to Coca-Cola (slower, warmer, more measured pacing),
+    Pepsi's motion language is faster and more rhythm-driven.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Pepsi Owners (MCKL / Jeremy Mickel — custom, based on Adobe Owners)"
+    - "2023 rebrand typography system"
+    - "pepsi.com (observed February 2026)"
+  signature_move: >-
+    Pepsi Owners (MCKL / Jeremy Mickel) — a bold, condensed, all-caps
+    geometric sans-serif based on Adobe Owners. The typeface is graphic
+    and assertive — it reads as a statement, not a conversation. The
+    all-caps default creates visual impact that matches the globe's
+    graphic boldness. Jeremy Mickel (MCKL Type, Minneapolis) also designed
+    Uber Move — he specialises in custom typefaces for major brands. The
+    choice of a condensed, geometric face positions Pepsi's typography
+    as more graphic and youth-coded than Coca-Cola's humanist, warm
+    TCCC Unity.
+  what_would_look_wrong: >-
+    A flowing, script, or cursive typeface (that's Coca-Cola's territory).
+    Lightweight, thin type (contradicts the bold, assertive tone). Serif
+    type in any context (Pepsi is entirely sans-serif). Lowercase
+    marketing type (the brand defaults to all-caps for impact). Warm,
+    rounded sans-serifs (the geometric, condensed quality is the identity).
+  case_convention: >-
+    Uppercase dominant in marketing and brand contexts. Pepsi Owners is
+    designed for all-caps use — the condensed proportions work best at
+    full capitalisation. Product names use uppercase ('PEPSI,' 'PEPSI
+    ZERO SUGAR'). Digital body text uses sentence case for readability.
+  display_vs_body: >-
+    Display: Pepsi Owners at bold weights — condensed, all-caps, high-
+    impact. Used for campaign headlines, packaging type, and promotional
+    graphics. Body: a complementary sans-serif at regular weight for
+    digital body text, product descriptions, and longer content. The
+    display-to-body contrast is extreme: Pepsi Owners is a shout;
+    body type is a conversation.
+  type_and_image: >-
+    Type competes with imagery for attention — Pepsi Owners at display
+    sizes is designed to be a graphic element in its own right. In
+    campaign compositions, the type and the globe share visual dominance.
+    This is different from Coca-Cola (where the Script is subordinate to
+    photography) — Pepsi's type is an equal partner to the visual content.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "pepsi.com (observed February 2026)"
+    - "2023 rebrand packaging and campaign materials"
+    - "Pepsi OOH and retail activations"
+  signature_composition: >-
+    Globe-centred, bold, graphic. Pepsi compositions use the globe as a
+    compositional anchor — it organises the visual hierarchy. Large type
+    (Pepsi Owners), bold colour blocks (blue, red), and product hero shots
+    create high-impact, billboard-friendly layouts. pepsi.com uses dynamic
+    hero sections with animated globe and product imagery. Compared to
+    Coca-Cola (product + Script + red, elementally simple), Pepsi's
+    compositions are more graphic and more multi-element.
+  density_and_whitespace: >-
+    Moderate-to-high density. Pepsi compositions fill the frame with
+    colour, type, and product — less negative space than Coca-Cola. The
+    blue background functions as both colour field and negative space.
+    Campaign layouts are bold and graphic rather than airy and spacious.
+  format_preferences: >-
+    Landscape and square for digital and social. The globe works well in
+    square and circular formats. Product can/bottle imagery is vertical.
+    Campaign hero compositions use wide, landscape formats for maximum
+    impact.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "early-adopter"
+  relationship_to_trends: >-
+    Pepsi adopts visual trends more aggressively than Coca-Cola — its
+    willingness to redesign the globe every decade reflects a brand that
+    sees reinvention as a core value. The 2023 rebrand was both retro
+    (returning to a classic globe format) and modern (new type, new
+    colour, new motion system).
+  examples:
+    - trend: "Retro-modern brand redesign"
+      stance: "early-adopter"
+      evidence: >-
+        The 2023 rebrand returned the wordmark inside the globe (1990s
+        reference) while introducing Electric Blue (#0B0098), Pepsi Owners
+        (new typeface), and 'The Pulse' motion system. The approach
+        references brand heritage while modernising — a trend also seen
+        in Burger King's 2021 retro rebrand.
+      reasoning: >-
+        Pepsi's rebrand was one of the highest-profile examples of the
+        retro-modern trend in consumer branding, generating 28B
+        impressions and 99% positive sentiment.
+    - trend: "Design-led brand transformation in CPG"
+      stance: "leader"
+      evidence: >-
+        PepsiCo Design & Innovation (400-person team, built by Mauro
+        Porcini from 2012) represents one of the largest in-house design
+        operations in consumer packaged goods. The investment in design
+        as a strategic capability influenced industry peers.
+      reasoning: >-
+        Porcini's hiring as the first Chief Design Officer at a major
+        CPG company signalled that design leadership was a C-suite
+        strategic function, not just a production department.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    The Pepsi globe. Electric Blue (#0B0098) and Red (#FF0901). Pepsi
+    Owners as the display typeface. The bold, graphic, youth-coded tone.
+  what_bends: >-
+    Entertainment and sports partnerships introduce co-branded visual
+    systems. Celebrity collaborations adapt the visual language to the
+    partner's aesthetic. Limited-edition packaging introduces variant
+    colour palettes and graphics. Event activations adapt to venue and
+    context.
+  notable_examples: >-
+    Pepsi Super Bowl Halftime Show (title sponsor through 2022): created
+    bespoke visual identities for each halftime performance — the most
+    high-profile visual collaborations in global advertising. Pepsi x
+    NFL (ongoing): co-branded visual systems for game-day activations,
+    combining Pepsi globe with team/league branding. Pepsi Generations
+    (2018 campaign): celebrated the brand's visual history by featuring
+    packaging designs from every era — a self-referential visual
+    collaboration with its own past.

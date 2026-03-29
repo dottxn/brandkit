@@ -1,0 +1,55 @@
+chunk_id: "redfin-anti-patterns"
+brand: redfin
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "redfin-soul"
+  - "redfin-visual-dna"
+token_count: 245
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Redfin. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Luxury real estate photography and lifestyle aspiration
+    reasoning: Property data and clear functional information hierarchy
+  - pattern: "White-background minimalism hiding data density"
+    reasoning: Organized information architecture making complexity scannable
+  - pattern: "Soft, rounded UI suggesting ease and simplicity"
+    reasoning: "Crisp, geometric interface suggesting precision and reliability"
+  - pattern: Single color accent applied decoratively
+    reasoning: "Red accent functioning as functional indicator (status, importance)"
+strategic:
+  - pattern: Competing on feature parity with competitors
+    reasoning: Competing on information asymmetry elimination
+  - pattern: Positioning agents as exclusive experts
+    reasoning: Positioning technology as equalizer
+  - pattern: Marketing the buying/selling process
+    reasoning: Marketing the agent relationship redesign
+  - pattern: Protecting margins through information control
+    reasoning: Creating value through radical transparency
+tonal:
+  - pattern: Real estate enthusiasm and aspiration
+    reasoning: "Honest analysis and clear-eyed assessment"
+  - pattern: Complexity hidden in polished language
+    reasoning: Complexity acknowledged and systematically addressed
+  - pattern: Trust through authority (agent credentials)
+    reasoning: Trust through transparency (data and process)
+  - pattern: Selling homes
+    reasoning: Helping you move better
+cultural:
+  - pattern: Real estate as financial investment primarily
+    reasoning: Real estate as life transition enabler
+  - pattern: Home buying as intimidating transaction
+    reasoning: "Home buying as informed decision-making process"
+  - pattern: Agents as necessary gatekeepers
+    reasoning: Agents as service providers aligned with customer interests
+  - pattern: Market knowledge as exclusive expertise
+    reasoning: Market knowledge as democratized information

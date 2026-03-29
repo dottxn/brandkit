@@ -1,0 +1,54 @@
+# ──────────────────────────────────────────────
+# Opendoor — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "DKNG Studios"
+    type: "design-studio"
+    url: "https://www.dkngstudios.com/"
+    project_url: "https://www.dkngstudios.com/blog/2022/5/23/opendoor-brand-illustrations"
+    relationship: "Created multi-tiered illustration system (hero illustrations, spot illustrations, one-colour icons) in 2022 that brings warmth and approachability to real estate transactions"
+
+  - name: "Commercial Type"
+    type: "type-foundry"
+    url: "https://commercialtype.com/"
+    relationship: "Created Graphik typeface (2009), the clean geometric sans-serif that serves as Opendoor's primary typeface"
+
+people:
+  - name: "Christian Schwartz"
+    role: "Type Designer"
+    url: "https://www.christianschwartz.com/"
+    context: "Designed Graphik (Commercial Type, 2009), the foundational typeface for Opendoor's visual identity"
+
+  - name: "Lee Riley"
+    role: "Creative Director / Head of Studio"
+    url: ""
+    context: "Leads brand visual direction for Opendoor, based in Denver"
+
+  - name: "Nicolas Solerieu"
+    role: "Senior Brand Designer"
+    url: ""
+    context: "Founding design team member (since 2016), established design infrastructure and principles that scaled to serve 1,000+ employees"
+
+  - name: "Jonathan Holt"
+    role: "Senior Brand Designer"
+    url: ""
+    context: "Led illustration expansion in Figma, redesigned and expanded DKNG illustration work for internal scalability"
+
+publications:
+  - title: "The Design of Everyday Things"
+    author: "Don Norman"
+    relevance: "Informs Opendoor's philosophy of simplifying complex transactions through thoughtful design"
+
+  - title: "Don't Make Me Think"
+    author: "Steve Krug"
+    relevance: "Guides Opendoor's UX approach to reducing friction in real estate search and selling process"
+
+visuals:
+  - url: "https://www.opendoor.com/"
+    label: "Opendoor homepage and marketing — Visual language in practice"
+    section: "visual-language"
+
+  - url: "https://www.opendoor.com/real-progress"
+    label: "Real Progress campaign 2026 — Brand positioning shift to partnership messaging"
+    section: "visual-language"

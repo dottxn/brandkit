@@ -1,0 +1,31 @@
+chunk_id: "bookingcom-positioning"
+brand: bookingcom
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Booking.com. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Booking.com
+website: "https://www.booking.com"
+founded: 1996
+category: "travel-transport"
+sub_category: accommodation discovery
+price_tier: "mid-range"
+primary_archetype: The Explorer
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 3
+  heritage_innovation: 7
+key_differentiators: []

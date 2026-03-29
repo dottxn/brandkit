@@ -1,0 +1,37 @@
+chunk_id: "mcdonalds-visual-reasoning"
+brand: mcdonalds
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "mcdonalds-visual-dna"
+  - "mcdonalds-soul"
+token_count: 572
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual reasoning for McDonald's. Why the design choices work."
+
+# ── Data
+type_logic: >-
+  Speedee typeface by Dalton Maag—designed with curved forms echoing the Golden Arches—creates visual coherence between typography and architectural system. The letterforms are organic but precise, suggesting handwork while maintaining professional quality. Most brands disconnect typography from architecture; McDonald's integrates them philosophically. The three weights (Speedee Regular, Bold, Extra Bold) provide hierarchy while maintaining consistent voice. Speedee works across scales from massive restaurant signage to small packaging because its proportions are mathematically balanced. The curves feel friendly without being cutesy; authoritative without being cold. This balance is what makes the typeface perfect for a mass-market brand that needs both approachability and presence.
+colour_logic: >-
+  McDonald's Red (#DA291C) and Gold (#FFC72C) together create a warmth that research shows increases appetite and comfort feelings. The gold—slightly warm-leaning rather than purely yellow—avoids appearing cheap while the saturation level feels accessible rather than precious. The red provides energy and excitement while the gold provides calm and comfort. Together they create simultaneous messaging: energetic but safe, exciting but familiar. These colors photograph warm in any lighting condition, maintaining brand recognition across different environments. Black appears for typography and signage details. White provides breathing room. This discipline—using only these core colors plus black and white—creates such visual consistency that McDonald's branding is instantly recognizable even at extreme distances or poor visibility (crucial for drive-thru and highway signage).
+composition_philosophy: >-
+  The Golden Arches function as primary visual element, with supporting typography and imagery arranged to frame the Arches rather than compete with them. Layouts emphasize simplicity and quick visual processing—customers need to understand what's available in seconds. Product photography shows food at eye-level, not overhead, so customers immediately recognize it. Menu boards use consistent grid structure with color-coding for categories. Packaging integrates the Arches as architectural element, not applied graphic. The overall composition is hierarchical and functional: the most important information (menu items, locations, offers) is positioned where eyes naturally travel. This is the opposite of artistic composition; it's optimized for quick decision-making in fast-paced environments. Every layout element serves navigation and clarity first, beauty second.
+what_would_break_it: >-
+  - Adopting grayscale, minimalist, or cold design aesthetic abandoning warmth positioning
+  - Hyper-stylized, retouched food photography contradicting "flawesome" authenticity principle
+  - Using trendy contemporary typefaces (Montserrat, Inter, Circular) instead of Speedee
+  - Logo proliferation with secondary marks or brand mascots complicating singular Arches identity
+  - Positioning as "premium," "slow," or "artisanal" competing against mass-market strength
+  - Defensive marketing explaining supply chains or ingredients as justification
+  - Apologetic tone about affordability, scale, or fast food category
+  - Aspirational lifestyle messaging positioning food as guilty indulgence rather than joy
+  - Trend-chasing through memes or viral marketing abandoning confident positioning
+  - Niche-focused brand evolution abandoning democratic, globally accessible positioning

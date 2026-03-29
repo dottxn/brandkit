@@ -1,0 +1,37 @@
+chunk_id: "herman-miller-competitive"
+brand: "herman-miller"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "herman-miller-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Herman Miller. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - apple
+  - remarkable
+  - fender
+  - patagonia
+industry_norms_it_breaks: "The liberated M symbol—freed from circular containers in the 2024 rebrand by Order design studio and now used as pattern, divider, graphic device, and conceptual device throughout the system. This is  | Herman Miller's 120-year commitment to the intersection of art and industry. The brand refuses to choose between beauty and function. Competitors split: IKEA chooses affordability and convenience; Vit | Does this solve a genuine problem? Would mid-century design legends approve? Is this beautiful and useful simultaneously, or is it only one? Would this furniture still feel relevant in a museum in 50 "
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Product-as-sculpture, studio photography, systematic"
+  - cluster: "heritage-craft"
+    role: "secondary"
+    where: "Archive, mid-century legacy, Alexander Girard"
+  - cluster: "dark-premium"
+    role: "accent"
+    where: "Gaming performance line, RGB-inflected, saturated"
+strategic_cluster: "creative-authority"
+category: "consumer-hardware"

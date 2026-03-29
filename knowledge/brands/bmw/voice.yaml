@@ -1,0 +1,48 @@
+chunk_id: "bmw-voice"
+brand: bmw
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "bmw-soul"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for BMW. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="33-17">The BMW Group is the world's leading provider of premium cars and motorcycles and the home of the BMW, MINI, Rolls-Royce and BMW Motorrad brands</cite>. <cite index="20-8">It has b
+tone_traits:
+  - Premium
+  - refined
+  - intelligent
+  - Dynamic
+  - powerful
+  - precise
+  - "Forward-thinking"
+  - technological
+  - pioneering
+anti_traits:
+  - Pretentious
+  - elitist
+  - cold
+  - Aggressive
+  - reckless
+  - intimidating
+  - Complex
+  - overwhelming
+  - impersonal
+example_phrases:
+  - Sheer Driving Pleasure
+  - The Ultimate Driving Machine
+  - Designed for those who refuse to compromise
+  - Freude am Fahren (Joy of Driving)
+guardrails:
+  never_say: []
+  always_sound: "Premium, refined, intelligent, Dynamic, powerful"

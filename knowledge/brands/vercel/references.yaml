@@ -1,0 +1,55 @@
+# ──────────────────────────────────────────────
+# Vercel — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Basement Studio"
+    type: type-foundry
+    url: "https://basement.studio/"
+    project_url: "https://basement.studio/post/the-birth-of-geist-a-typeface-crafted-for-the-web"
+    relationship: "Designed Geist typeface family (2023) in collaboration with Andrés Briganti — the comprehensive typeface ecosystem comprising Geist Sans, Geist Mono, and Geist Pixel with 5 sub-variants"
+
+people:
+  - name: "Nicolás Garro (Evil Rabbit)"
+    role: "Founding Designer / Brand Architect"
+    url: "https://evilrabb.it/"
+    context: "Built Vercel's entire visual identity from scratch since 2016, including the equilateral triangle logo (2020), Swiss-modernist visual system, and code-as-visual-content approach"
+
+  - name: "Andrés Briganti"
+    role: "Type Designer"
+    url: "https://briganti.works/"
+    context: "Co-designed Geist typeface family with Basement Studio (2023), creating a comprehensive three-face system that unifies brand, code, and display contexts"
+
+publications:
+  - title: "The Birth of Geist: A Typeface Crafted for the Web"
+    author: "Basement Studio"
+    relevance: "Case study documenting the design process and philosophy behind Geist typeface family — exploring the synthesis of Swiss-modernist principles with web-native typography"
+
+  - title: "Designer Spotlight: Andrés Briganti"
+    author: "Codrops"
+    relevance: "Profile of type designer Andrés Briganti and his work on Geist, including insights into the typeface's design system and influence on developer-tool branding"
+
+visuals:
+  - url: "https://vercel.com/font"
+    label: "Geist Typeface System — Official Documentation"
+    section: visual-language
+
+  - url: "https://fonts.google.com/specimen/Geist"
+    label: "Geist on Google Fonts — Distribution (1.5M+ downloads)"
+    section: visual-language
+
+  - url: "https://github.com/vercel/geist-font"
+    label: "Geist Font Repository — Open-source on GitHub"
+    section: visual-language
+
+  - url: "https://vercel.com/blog/introducing-geist-pixel"
+    label: "Introducing Geist Pixel — Display variant with 5 sub-variants"
+    section: visual-language
+
+  - url: "https://www.fontsinuse.com/uses/35337/vercel-website"
+    label: "Vercel Website — Fonts In Use Case Study"
+    section: visual-world
+
+  - url: "https://vercel.com/geist/typography"
+    label: "Vercel Geist Typography System — Design documentation"
+    section: visual-world

@@ -1,0 +1,31 @@
+chunk_id: "zoom-positioning"
+brand: zoom
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Zoom. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Zoom
+website: "https://zoom.us"
+founded: 2011
+category: technology
+sub_category: "video-conferencing"
+price_tier: budget
+primary_archetype: The Caregiver
+secondary_archetype: The Everyman
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 2
+  heritage_innovation: 7
+key_differentiators: []

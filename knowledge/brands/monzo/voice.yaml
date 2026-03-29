@@ -1,0 +1,48 @@
+chunk_id: "monzo-voice"
+brand: monzo
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "monzo-soul"
+token_count: 133
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Monzo. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A UK-based digital bank that revolutionized online banking with its hot coral cards and customer-centric approach. Monzo provides mobile-first banking services with real-time spending notifications, b
+tone_traits:
+  - Clear
+  - inclusive
+  - empathetic
+  - accessible language
+  - Transforms mundane banking moments into delightful experiences
+  - Playful
+  - culturally aware
+  - human personality
+anti_traits:
+  - Jargon
+  - corporate speak
+  - complexity
+  - Generic
+  - boring
+  - overly functional
+  - Corporate stuffiness
+  - excessive formality
+  - coldness
+example_phrases:
+  - "Money doesn't need to be complicated or stressful. We believe we can make it just work."
+  - Why pay your bills more easily when you can tame them.
+  - "Hot coral represents our warmth, our empathy and our human quality."
+  - We transform the mundane with moments of unexpected delight.
+guardrails:
+  never_say: []
+  always_sound: >-
+    Clear, inclusive, empathetic, accessible language, Transforms mundane banking moments into delightful experiences

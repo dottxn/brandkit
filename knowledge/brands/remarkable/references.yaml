@@ -1,0 +1,46 @@
+# ──────────────────────────────────────────────
+# reMarkable — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Grape Architects"
+    type: "architecture"
+    url: "https://www.grape.no/"
+    relationship: "Designed reMarkable Oslo headquarters to embody minimal aesthetic reflecting paper-as-metaphor philosophy"
+
+people:
+  - name: "Magnus Haug Wanberg"
+    role: "Founder, Executive Chairman"
+    url: ""
+    context: "Established Scandinavian design ethos and paper-as-metaphor positioning since founding in 2013"
+
+  - name: "Mats Herding Solberg"
+    role: "Chief Design Officer"
+    url: ""
+    context: "Oversees visual system and design philosophy; founding employee shaping brand aesthetics"
+
+publications:
+  - title: "The Minimalist Entrepreneur"
+    author: "Sahil Lavingia"
+    relevance: "Aligns with reMarkable's design philosophy of reduction as a feature"
+
+  - title: "In Praise of Shadows"
+    author: "Junichiro Tanizaki"
+    relevance: "Philosophical foundation for reMarkable's approach to calm, minimal aesthetics"
+
+visuals:
+  - url: "https://www.remarkable.com/"
+    label: "reMarkable homepage with extreme minimalism and product-focused design"
+    section: "visual-language"
+
+  - url: "https://www.remarkable.com/store/products/remarkable-paper-pro"
+    label: "Paper Pro product page showcasing colour display capability and refined aesthetic"
+    section: "visual-language"
+
+  - url: "https://www.remarkable.com/for-business"
+    label: "reMarkable for Business marketing with professional-context visual language"
+    section: "visual-language"
+
+  - url: "https://remarkable.com/stories"
+    label: "User stories and content marketing demonstrating calm, focused writing-and-thinking experience"
+    section: "visual-world"

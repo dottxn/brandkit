@@ -1,0 +1,36 @@
+chunk_id: "udemy-competitive"
+brand: udemy
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "udemy-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Udemy. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - coursera
+  - duolingo
+  - masterclass
+industry_norms_it_breaks: "The purple (#A435F0) used not as brand decoration but as the visual representation of moments of understanding—the color of epiphanies and \"aha\" insights. | The willingness to serve low-priced courses alongside full-price courses with equal visual prominence. Competitors filter by price and create aspirational tiers; Udemy's design treats all learning as  | Would someone intimidated by formal education see themselves in this platform and feel like they belong? Everything flows from this single filter."
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Purple brand, energetic, accessible education"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Learning platform UI, course delivery system"
+  - cluster: "geometric-clean"
+    role: "accent"
+    where: "Business enterprise, systematic, professional"
+strategic_cluster: "creative-authority"
+category: education

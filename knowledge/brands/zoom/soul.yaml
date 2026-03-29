@@ -1,0 +1,33 @@
+chunk_id: "zoom-soul"
+brand: zoom
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "zoom-positioning"
+token_count: 180
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Zoom. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A portal that opens instantly—stepping through from loneliness into connection, one click collapsing the distance between people.
+core_belief: >-
+  Meeting should be frictionless enough that you never think about the meeting infrastructure; it should feel like you're in the same room.
+creative_tension:
+  - >-
+    Remaining the most reliable platform for serious business while capturing the warmth and ease of casual human connection.
+  - >-
+    Operating at institutional scale (hundreds of millions of meetings daily) while maintaining the startup feeling of constant iteration and improvement.
+decision_filter: >-
+  Does this increase the feeling of connection, or does it make people aware they're using technology? Technology should disappear.
+signature_move: >-
+  The rounded rectangular video tile grid that mirrors the actual experience of seeing multiple faces at once—the interface structure reflects the human experience.
+what_would_break_it: >-
+  Introducing complex features that require technical knowledge, or softening the interface to feel "fun" in ways that undermine reliability perception.

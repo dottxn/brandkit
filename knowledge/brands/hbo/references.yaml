@@ -1,0 +1,67 @@
+studios:
+- name: Trollbäck+Company
+  type: branding
+  url: https://www.trollback.com/
+  relationship: Developed HBO Max brand identity and logo design (2019)
+  project_url: https://www.trollback.com/projects/hbo-max
+- name: DixonBaxi
+  type: branding
+  url: https://www.dixonbaxi.com/
+  relationship: Rebranded HBO Max to Max streaming platform identity (May 2023)
+  project_url: https://www.dixonbaxi.com/case-study/max
+- name: F37 Foundry
+  type: type-foundry
+  url: https://f37foundry.com/
+  relationship: Designed Max Sans typeface for Max streaming platform rebrand
+people:
+- name: Bemis Balkind
+  role: Typographer
+  url: https://www.renoguerin.com/bemis-balkind
+  context: Designed Modified Avant Garde Gothic logotype (1975) — the iconic HBO wordmark
+- name: Carvalho Bernau
+  role: Type Designer
+  url: https://www.carralbernau.com/
+  context: Co-designed HBO Street typeface with LettError (2015)
+- name: LettError
+  role: Type Design Studio
+  url: https://www.letterror.com/
+  context: Co-designed HBO Street graded variable font (2015)
+- name: Annie Leibovitz
+  role: Photographer
+  url: https://www.annieleibovitz.com/
+  context: Created iconic key art photography for The Sopranos (1999)
+- name: Andrij Parekh
+  role: Director of Photography
+  url: https://andriyparekh.com/
+  context: Director of Photography for Succession series
+- name: Karun Agimal
+  role: Design Director
+  url: https://www.linkedin.com/in/karunagimal/
+  context: Design Director for Max rebrand at DixonBaxi (2023)
+- name: Dave Curry
+  role: Senior Director Product Design & UX
+  url: https://www.linkedin.com/in/davecurry/
+  context: Oversees digital visual system for HBO
+publications:
+- title: 'HBO Design Language: Prestige Television and Visual Authority'
+  author: HBO Brand Documentation
+  relevance: Comprehensive guide to HBO's visual system, monochrome palette, and series-specific
+    approach to branding
+- title: 'The Static Angel: How a 5-Second Animation Became Television''s Most Iconic
+    Brand Moment'
+  author: Creative Review / Industry Documentation
+  relevance: Documents the history and impact of HBO's signature Quantel Paintbox
+    animation
+visuals:
+- url: https://www.creative-review.co.uk/max-dixonbaxi-identity-branding/
+  label: Max Platform Rebrand Case Study — Creative Review
+  section: visual-language
+- url: https://www.hbo.com/
+  label: HBO.com Brand System — Live Implementation
+  section: visual-language
+- url: https://www.trollback.com/projects/hbo-max
+  label: HBO Max Identity Project Case Study — Trollbäck+Company
+  section: visual-language
+- url: https://www.itsnicethat.com/news/dixon-baxi-hulu-brand-redesign-graphic-design-060421
+  label: DixonBaxi Studio Case Study Overview — It's Nice That
+  section: visual-language

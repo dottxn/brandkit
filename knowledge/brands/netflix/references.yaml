@@ -1,0 +1,82 @@
+# ──────────────────────────────────────────────
+# Netflix — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Gretel"
+    type: "branding"
+    url: "https://gretelny.com/"
+    project_url: "https://gretelny.com/netflix"
+    relationship: "Created the 'Stack' Ribbon N logo design (2014) representing Netflix's endless catalogue and curation philosophy."
+
+  - name: "Study Hall"
+    type: "branding"
+    url: "https://studyhall.design/"
+    project_url: "https://studyhall.design/projects/netflix-sports-identity"
+    relationship: "Designed Netflix Sports identity (2025) with deconstructed N mark, dynamic motion principles, and expanded colour palette."
+
+  - name: "Dalton Maag"
+    type: "type-foundry"
+    url: "https://www.daltonmaag.com/"
+    project_url: "https://www.daltonmaag.com/portfolio/custom-fonts/netflix-sans.html"
+    relationship: "Created Netflix Sans custom typeface (March 2018), replacing Gotham for global consistency and licensing cost reduction."
+
+people:
+  - name: "Noah Nathan"
+    role: "Netflix Brand Design Lead"
+    url: "https://www.daltonmaag.com/"
+    context: "Lead architect of Netflix Sans typeface design (March 2018). Designed with Tanya Kumar, Andre do Amaral, David Gallagher, and Monique Adcock."
+
+  - name: "Tanya Kumar"
+    role: "Type Designer"
+    url: "https://www.daltonmaag.com/"
+    context: "Contributed to Netflix Sans typeface design and development."
+
+  - name: "Stephen Bruno"
+    role: "VP Global Creative Marketing"
+    url: "https://www.netflix.com/"
+    context: "Leadership role overseeing Netflix's creative direction and personalisation systems."
+
+  - name: "Martin Rose"
+    role: "Head of Creative, Global Brand and Partnerships"
+    url: "https://www.netflix.com/"
+    context: "Oversees Netflix brand partnerships and visual content strategy."
+
+  - name: "Todd Yellin"
+    role: "VP Product"
+    url: "https://www.netflix.com/"
+    context: "Former filmmaker who created the Tudum audio-visual signature with Lon Bender and Charlie Campagna."
+
+publications:
+  - title: "Netflix's Personalisation Engine and Thumbnail Optimisation"
+    author: "Netflix Technology Blog"
+    relevance: "Technical explanation of data-driven visual personalisation system that selects optimal key art per user."
+
+  - title: "Designing the Tudum Brand Audio-Visual Signature"
+    author: "Netflix Creative Blog"
+    relevance: "Documentation of the iconic three-note sonic logo and animated N mark created by Todd Yellin and Lon Bender."
+
+  - title: "Netflix Sans Typeface Launch"
+    author: "Dalton Maag / Netflix"
+    relevance: "Type design case study explaining custom font development and global language support."
+
+visuals:
+  - url: "https://gretelny.com/netflix"
+    label: "Netflix Stack N logo case study — Gretel"
+    section: "visual-language"
+
+  - url: "https://studyhall.design/projects/netflix-sports-identity"
+    label: "Netflix Sports identity design — Study Hall"
+    section: "visual-language"
+
+  - url: "https://www.netflix.com/"
+    label: "Netflix interface and visual system"
+    section: "visual-world"
+
+  - url: "https://www.itsnicethat.com/articles/study-hall-netflix-sports-graphic-design-project-190225"
+    label: "Netflix Sports branding case study — It's Nice That"
+    section: "visual-language"
+
+  - url: "https://www.creativereview.co.uk/study-hall-netflix-sports-branding/"
+    label: "Study Hall Netflix Sports identity — Creative Review"
+    section: "visual-language"

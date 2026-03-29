@@ -1,0 +1,31 @@
+chunk_id: "notion-positioning"
+brand: notion
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Notion. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Notion
+website: "https://notion.com"
+founded: 2013
+category: technology
+sub_category: "all-in-one-workspace"
+price_tier: budget
+primary_archetype: The Creator
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 3
+  heritage_innovation: 9
+key_differentiators: []

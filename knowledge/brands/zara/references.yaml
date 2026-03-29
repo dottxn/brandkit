@@ -1,0 +1,69 @@
+# ──────────────────────────────────────────────
+# Zara — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Baron & Baron"
+    type: creative-direction
+    url: "https://www.baronandbarons.com/"
+    relationship: "Designed 2019 logo rebrand using overlapping Linotype Didot Pro Bold letterforms, establishing Zara's luxury-adjacent positioning and serving as creative director for seasonal campaigns"
+
+people:
+  - name: "Fabien Baron"
+    role: "Creative Director / Logo Designer"
+    url: "https://www.baronandbarons.com/"
+    context: "Founded Baron & Baron and designed Zara's 2019 logo rebrand; serves as creative director across all Zara campaigns including art direction and visual strategy"
+
+  - name: "Steven Meisel"
+    role: "Fashion Photographer"
+    url: "https://www.showstudio.com/contributors/steven_meisel"
+    context: "Primary photographer for Zara's campaigns since Spring 2017, bringing Vogue Italia-level editorial quality to the brand's seasonal imagery and collaborations"
+
+  - name: "Karl Templer"
+    role: "Stylist / Creative Director"
+    url: "https://www.instagram.com/karltempler/"
+    context: "Stylist and creative collaborator on Zara's high-fashion campaigns, working alongside Meisel and Baron on seasonal collections and special projects"
+
+  - name: "Pat McGrath"
+    role: "Makeup Artist"
+    url: "https://www.patmcgrathreal.com/"
+    context: "Makeup artist for Zara's editorial campaigns, contributing to the brand's sophisticated visual language across seasonal photography and collaborations"
+
+  - name: "Guido Palau"
+    role: "Hair Stylist"
+    url: "https://www.guidopalau.com/"
+    context: "Hair stylist for Zara's editorial campaigns, creating the polished aesthetic across seasonal collections and special anniversary campaigns"
+
+publications:
+  - title: "Zara logo gets controversial revamp by Baron & Baron"
+    author: "Dezeen"
+    relevance: "Critical analysis of the 2019 Zara logo redesign, documenting the design decisions and industry reception of Fabien Baron's overlapping serif letterforms"
+
+  - title: "Fabien Baron redesigned Zara's serif logo and a new typographic debate has begun"
+    author: "TypeRoom"
+    relevance: "Deep dive into the typographic choices and fashion-positioning strategy behind Baron's 2019 logo rebrand"
+
+  - title: "Zara's 50th Anniversary: A Monumental Celebration of Fashion, Icons, and Timeless Creativity"
+    author: "Luster Magazine"
+    relevance: "Coverage of Zara's 50th anniversary campaign photographed by Steven Meisel, featuring 50 fashion icons and demonstrating the evolution of the brand's editorial visual language"
+
+visuals:
+  - url: "https://www.dezeen.com/2019/02/04/zara-logo-controversial-rebrand-baron-baron/"
+    label: "2019 Logo Rebrand by Baron & Baron — Design Analysis"
+    section: visual-language
+
+  - url: "https://www.thefashionspot.com/forum-buzz/893717-steven-meisels-photographs-become-giant-billboards-for-the-fall-2024-zara-campaign/"
+    label: "Fall 2024 Campaign Photography — Steven Meisel"
+    section: visual-language
+
+  - url: "https://www.wmagazine.com/fashion/steven-meisel-zara-collaboration"
+    label: "Steven Meisel x Zara Capsule Collection Collaboration"
+    section: visual-language
+
+  - url: "https://vmagazine.com/article/zara-celebrates-five-decades-with-50-icons-and-one-epic-film/"
+    label: "Zara's 50th Anniversary Campaign — Creative Team Documentation"
+    section: visual-world
+
+  - url: "https://www.typeroom.eu/article/fabien-baron-redesigned-zara-serif-logo-and-new-typographic-debate-has-begun"
+    label: "Baron's Logo Design and Typographic Strategy — TypeRoom Analysis"
+    section: visual-world

@@ -1,0 +1,28 @@
+chunk_id: "discord-strategy"
+brand: discord
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "discord-positioning"
+token_count: 36
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Discord. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe in giving people the power to create space to find belonging in their lives
+mission: To create space for everyone to find belonging
+vision: >-
+  To be the best place to hang out before, during, and after playing games while fostering genuine connections across diverse communities
+values:
+  - Original
+  - Reliable
+  - Playful
+  - Relatable

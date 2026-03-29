@@ -1,0 +1,31 @@
+chunk_id: "rivian-positioning"
+brand: rivian
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Rivian. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Rivian
+website: "https://rivian.com"
+founded: 2009
+category: automotive
+sub_category: adventure electric vehicles
+price_tier: premium
+primary_archetype: The Explorer
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 7
+  heritage_innovation: 9
+key_differentiators: []

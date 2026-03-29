@@ -1,0 +1,36 @@
+chunk_id: "zoom-voice"
+brand: zoom
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "zoom-soul"
+token_count: 37
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Zoom. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Zoom is a leading communications technology company that provides video conferencing, phone, webinars, and chat solutions. The platform enables seamless collaboration and connection for businesses, ed
+tone_traits:
+  - "simple"
+  - "warm"
+  - "connecting"
+  - "reliable"
+  - "human"
+anti_traits:
+  - corporate
+  - complicated
+  - cold
+  - technical
+  - impersonal
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a tool that just wants to bring people together"

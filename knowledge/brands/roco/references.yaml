@@ -1,0 +1,38 @@
+# ──────────────────────────────────────────────
+# Ro (ro.co) — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "MetaLab"
+    type: "digital-design"
+    url: "https://www.metalab.com/"
+    project_url: "https://www.metalab.com/work/ro"
+    relationship: "Designed patient-centric visual brand system, product design, engineering, and website for Ro telehealth platform"
+
+people:
+  - name: "Andrew Wilkinson"
+    role: "Founder and Creative Director, MetaLab"
+    url: "https://www.metalab.com/about"
+    context: "Founded MetaLab; led design strategy for Ro's comprehensive brand and product system"
+
+publications:
+  - title: "Ro: Redesigning Telehealth for Patient Dignity"
+    author: "MetaLab"
+    relevance: "Documents MetaLab's approach to making sensitive health topics (weight loss, sexual health, hair loss, fertility) accessible and dignified"
+
+  - title: "ro.OS: The Operating System for Integrated Telehealth"
+    author: "Ro"
+    relevance: "Explains the unified visual system connecting telehealth, lab, and pharmacy services under Ro's cohesive brand"
+
+visuals:
+  - url: "https://www.metalab.com/work/ro"
+    label: "MetaLab case study — Brand identity, product design, and visual system"
+    section: "visual-language"
+
+  - url: "https://ro.co/"
+    label: "Ro.co homepage and product pages — Patient-centric visual language and typography"
+    section: "visual-language"
+
+  - url: "https://ro.co/weight-loss"
+    label: "Ro treatment verticals — Category-coded within unified visual system"
+    section: "visual-language"

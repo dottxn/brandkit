@@ -1,0 +1,53 @@
+chunk_id: "bookingcom-voice"
+brand: bookingcom
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "bookingcom-soul"
+token_count: 113
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Booking.com. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Booking.com is the world's leading digital travel platform that connects millions of travelers with the widest choice of incredible places to stay, from hotels and apartments to unique accommodations.
+tone_traits:
+  - Knowledgeable
+  - reassuring
+  - expert guidance
+  - Relatable
+  - empathetic
+  - understanding travel quirks
+  - Enthusiastic about travel possibilities
+  - celebratory
+  - Fun
+  - lighthearted
+  - "travel-excited"
+anti_traits:
+  - Arrogant
+  - pushy
+  - overwhelming
+  - Robotic
+  - corporate
+  - generic
+  - Pessimistic
+  - cautious
+  - "fear-mongering"
+  - Stuffy
+  - overly serious
+  - boring
+example_phrases:
+  - "<cite index=\"3-5\">Get it ridiculously right every time</cite>"
+  - "<cite index=\"3-1\">Booking.yeah</cite>"
+  - "<cite index=\"69-25\">We know what you want and we've got it</cite>"
+  - "<cite index=\"5-1,5-2\">Ask us. We know everything about rented rooms</cite>"
+guardrails:
+  never_say: []
+  always_sound: "Knowledgeable, reassuring, expert guidance, Relatable, empathetic"

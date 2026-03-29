@@ -1,0 +1,54 @@
+chunk_id: "cvs-pharmacy-voice"
+brand: "cvs-pharmacy"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "cvs-pharmacy-soul"
+token_count: 106
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for CVS Pharmacy. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  CVS Pharmacy is America's largest pharmacy chain with over 9,000 locations, operating as the retail pharmacy arm of CVS Health Corporation. The company provides prescription services, health products,
+tone_traits:
+  - empathetic
+  - warm
+  - supportive
+  - compassionate
+  - clear
+  - simple
+  - straightforward
+  - approachable
+  - reliable
+  - knowledgeable
+  - professional
+  - credible
+anti_traits:
+  - clinical
+  - distant
+  - impersonal
+  - transactional
+  - jargony
+  - complex
+  - exclusive
+  - intimidating
+  - salesy
+  - pushy
+  - uncertain
+  - casual
+example_phrases:
+  - Bringing our heart to every moment of your health
+  - "We're here to help you on your path to better health"
+  - Your health is our priority
+  - Making healthcare easier for you
+guardrails:
+  never_say: []
+  always_sound: "empathetic, warm, supportive, compassionate, clear"

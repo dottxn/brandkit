@@ -1,0 +1,37 @@
+chunk_id: "vercel-competitive"
+brand: vercel
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "vercel-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Vercel. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - figma
+  - openai
+  - shopifycom
+  - stripe
+industry_norms_it_breaks: "The triangular geometric element (#0070F3 to #7928CA gradient) representing the collapse of space-time between local development and global deployment. | The willingness to make the visual system so minimal that competing platforms could dismiss it as \"boring,\" only to discover that boring is precisely what technical audiences trust most. | Can someone ship to the internet in the time it takes to brew coffee? If the answer is no, we're adding friction."
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Black-and-white developer aesthetic, triangle logo"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Systematic, precise, clean documentation"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Next.js framework, v0 AI product, developer tools"
+strategic_cluster: "creative-authority"
+category: technology

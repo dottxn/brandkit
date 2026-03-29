@@ -1,0 +1,36 @@
+chunk_id: "vercel-voice"
+brand: vercel
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "vercel-soul"
+token_count: 40
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Vercel. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Vercel is a cloud platform for static sites and serverless functions that enables developers to deploy web applications instantly with zero configuration. The platform specializes in frontend developm
+tone_traits:
+  - "precise"
+  - "developer-first"
+  - "minimal"
+  - "confident"
+  - "technical"
+anti_traits:
+  - corporate
+  - marketing-speak
+  - complicated
+  - hand-wavy
+  - bloated
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a staff engineer who values developer experience above everything"

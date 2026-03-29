@@ -1,0 +1,36 @@
+chunk_id: "remarkable-voice"
+brand: remarkable
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "remarkable-soul"
+token_count: 40
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for reMarkable. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  reMarkable creates digital paper tablets that combine the tactile experience of writing on paper with digital convenience. Their e-ink devices are designed for note-taking, reading, and sketching with
+tone_traits:
+  - "precise"
+  - "minimal"
+  - "focused"
+  - "intelligent"
+  - "measured"
+anti_traits:
+  - flashy
+  - loud
+  - casual
+  - cluttered
+  - hyperbolic
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a tool designed for people who think on paper"

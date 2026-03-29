@@ -1,0 +1,168 @@
+chunk_id: "wise-visual-dna"
+brand: wise
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "wise-positioning"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-03-13"
+status: active
+enrichment_level: deep
+summary: "Visual DNA for Wise. Colors, type, visual tags, signature devices. Deep genealogy of colour traditions, typeface philosophy, and compositional meaning."
+
+# ── Data
+
+colors:
+  - hex: "#9FE870"
+    name: "Disclosure Green"
+    role: >-
+      Primary brand colour. Functions semiotically as *visibility* and
+      *technical revelation*. Descended from punk's acid greens (Jamie Reid,
+      1976-1978, Sex Pistols) through hacker culture's green monochrome
+      terminals (1980s-90s) to contemporary design activism's transparency-
+      coded palette (Metahaven, 2010s). The colour is almost neon —
+      uncomfortable in traditional financial contexts where greens signal
+      "growth" and "money" through nature metaphors (pastoral imagery, leaf
+      motifs). Wise's green signals neither growth nor nature but *disclosure*
+      and *electrical presence*. In colour theory, it sits in the yellow-green
+      quadrant (warm-cool ambiguity), rendering it psychologically restless.
+      The material tradition: this is not the green of ink or paint but the
+      green of *light* — monitor-native, electronic, a colour that only
+      exists on screens and in fluorescent contexts. By choosing it as a
+      primary brand colour, Wise positions itself as *digital native* not
+      *print heritage*. The contrast against banking's navy and slate grays
+      is immediate and confrontational — the colour IS the rebellion.
+  - hex: "#0E1A2B"
+    name: "Depth Navy"
+    role: >-
+      Secondary colour. Functions as *stability* and *necessary contrast*.
+      Descended from Swiss International Style's high-contrast palettes
+      (Müller-Brockmann's grid systems, Massimo Vignelli's subway work,
+      1960s-1970s). The navy (#0E1A2B) is not the navy of traditional banking
+      (lighter, warmer, descended from Royalist heraldic traditions) but a
+      *deep navy* that reads almost black. This depth creates chromatic
+      opposition with the Disclosure Green — the two colours cannot sit
+      without creating visual vibration. The material tradition: this navy
+      recalls the deep indigos of traditional textile dyeing (particularly
+      West African indigo traditions, which Wise references in Tapestries
+      pattern research). But in contemporary use, it functions as the *dark*
+      needed to make the green appear even brighter. This is colour theory
+      as *rhetoric* — the navy is there to amplify the green's shock value.
+  - hex: "#FFFFFF"
+    name: "Clarity White"
+    role: >-
+      Tertiary colour. Functions as *transparency* and *space*. Not a neutral
+      background but a philosophical statement — white = emptiness = clarity =
+      the absence of hidden complexity. Descended from the Bauhaus principle
+      that white space is not lack but *presence*. In traditional banking,
+      white backgrounds are standard (descended from printed cheques and
+      formal documents). Wise's use of white is strategic: the bright green
+      and navy appear against white not because white is neutral but because
+      white *makes nothing* — it adds no texture, no distraction. Every
+      colour choice becomes visible. This is white as *honesty*. The material
+      tradition: this is screen-native white (RGB 255, 255, 255) not print
+      white (CMYK paper with cotton rag). Wise commits to digital delivery
+      where colour appears as light, not as pigment.
+  - hex: "#FF7F7F"
+    name: "Warning Coral"
+    role: >-
+      Accent colour for alerts and critical states. Functions as *caution*
+      and *visibility-of-cost*. The coral (warm, slightly muted red) is
+      descended from warning-light traditions (emergency exits, fire alarms)
+      but softened to avoid aggression. Wise uses this colour sparingly —
+      primarily in fee comparisons (highlighting where you might be overpaying)
+      and error states (something needs attention). The material tradition:
+      coral sits at the intersection of traditional warning red (stop, danger,
+      attention) and warmer, more human orange. It signals "this matters"
+      without screaming. The psychological logic: when you see this coral in
+      Wise's interface, it means money is at stake — yours or a competitor's.
+      The colour triggers immediate attention.
+
+typography:
+  - name: "Wise Sans"
+    role: "primary-brand-typeface"
+    style: >-
+      Humanist sans-serif descended from type design philosophy that
+      typefaces carry personality (Gerrit Noordzij, 1970s onwards). Based
+      on Parafina by Mario Feliciano (Feliciano Type Foundry, Lisbon),
+      which itself descends from the warm-sans tradition of Eric Gill's
+      Gill Sans (1928-1930). Parafina adds contemporary personality through
+      asymmetric letterforms: the 'a' is open-bowled (like handwriting),
+      the 'g' has a two-story tail (personality not mechanism). Extended
+      by NaN/Luke Prowse to cover 342 languages — a structural commitment
+      to inclusion where every script system (Latin, Cyrillic, Greek, Thai,
+      Devanagari, Arabic, Hebrew, Georgian, Armenian, etc.) maintains
+      Parafina's warm character despite completely different letterform
+      logic. This is type design as *values statement* not merely *tool*.
+      The genealogy: Gill Sans (human, warm) → Parafina (contemporary) →
+      Wise Sans (global). The typeface communicates "we are human" at every
+      scale and script.
+  - name: "Inter"
+    role: "secondary-interface-typeface"
+    style: >-
+      Open-source geometric sans-serif by Rasmus Andersson (initiated 2016).
+      Descended from the pixel-optimized tradition of screen typefaces
+      (particularly FF Dax, 2000s) but more refined through contemporary
+      font-technology advancement. Inter's role is *legibility optimization*
+      — at small sizes where Wise Sans would become dark (due to its warmth),
+      Inter's regular weight maintains clarity through careful spacing and
+      metrics. The material tradition: Inter is screen-native from conception
+      (metrics defined for screen rendering, not print). Wise added currency
+      symbol enhancements (pound, euro, yuan, rupee, rand all weighted equally
+      visually) — a modification that treats financial data as first-class
+      content. The philosophy: Inter handles the interface mechanics; Wise
+      Sans handles the brand voice.
+
+visual_tags:
+  palette_mood: "electric-restless"
+  palette_range: "focused-confrontational"
+  type_class: "humanist-sans"
+  type_character: "warm-with-personality"
+  type_weight: "variable-400-to-900"
+  imagery_medium: "documentary-photography"
+  imagery_subject: "people-in-transfer-moments"
+  imagery_treatment: "naturalistic-undermanipulated"
+  layout_density: "moderate-with-strategic-whitespace"
+  whitespace: "purposeful-not-ornamental"
+  aesthetic_era: "contemporary-fintech-with-cultural-depth"
+  conceptual_approach: "transparency-as-visibility"
+  framing_device: "transfer-flow-as-primary-narrative"
+  symbolic_type: "anti-incumbent-through-radical-honesty"
+  texture_feel: "tapestries-as-cultural-specificity"
+  shape_language: "geometric-cultural-patterns"
+  contrast_level: "high-chromatic-vibration"
+  identity_system: "mission-coherent-all-elements-unified"
+  signature_device: "green-as-disclosure-and-confrontation"
+
+composition_logic: >-
+  Wise's composition descends from Donald Norman's principle that great
+  design *disappears* in service of task completion. The transfer flow
+  is the compositional hero — every other element serves clarity of that
+  single action. The visual hierarchy is typographic (heavy-weight Sans at
+  display scale) and chromatic (the green draws attention) rather than
+  spatial (elements don't rely on position for meaning). Information density
+  is moderate: Wise chooses to show comparison data (your rate vs. bank rates)
+  because transparency requires making the cost *visible*. This rejects the
+  minimalist trend that treats information as clutter. Instead, Wise believes
+  information is *empowering* — if you can see what you're really paying,
+  you can choose. The composition must communicate that choice is *possible*
+  and *meaningful*. Whitespace exists not as luxury but as *clarity* — each
+  section of the transfer flow (amount, currency, recipient, fee summary)
+  appears in its own visual space with enough separation that attention can
+  move cleanly from step to step. The Tapestries patterns provide visual
+  rhythm in marketing contexts without adding cognitive noise — the patterns
+  are ornamental in placement but cultural in meaning. Layout at all scales
+  (mobile-first, tablet, desktop) maintains this composition logic: the
+  transfer flow is always the priority; supporting information (rates,
+  testimonials, feature explanations) appears as secondary layer. The
+  composition says: "You can understand this without expertise. Here's the
+  action. Here's what it costs. Here's what you get." It's utilitarian
+  composition descended from Swiss International Style (Müller-Brockmann's
+  grids, 1960s) but humanized through warm typography and cultural pattern-
+  making rather than pure geometric restraint.

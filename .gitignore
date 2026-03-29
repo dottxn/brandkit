@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js
+node_modules/
+.next/
+
+# Editors
+.obsidian/
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Claude Code local settings
+.claude/
+
+# Obsidian research boards
+*.canvas
+*.canvas.bak-*

@@ -1,0 +1,31 @@
+chunk_id: "shopifycom-positioning"
+brand: shopifycom
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Shopify. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Shopify
+website: "https://www.shopify.com"
+founded: 2006
+category: "e-commerce"
+sub_category: Commerce Operating System
+price_tier: "mid-range"
+primary_archetype: The Creator
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 3
+  heritage_innovation: 8
+key_differentiators: []

@@ -1,0 +1,50 @@
+chunk_id: "cash-app-voice"
+brand: "cash-app"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "cash-app-soul"
+token_count: 113
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Cash App. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A digital financial services platform launched by Block, Inc. that enables peer-to-peer payments, banking services, investing in stocks and bitcoin, savings accounts, and buy-now-pay-later options thr
+tone_traits:
+  - direct
+  - unapologetic
+  - culturally aware
+  - "rule-breaking"
+  - fun
+  - experimental
+  - irreverent
+  - surprising
+  - speaks internet language
+  - understands culture
+  - genuine
+anti_traits:
+  - corporate speak
+  - overly formal
+  - "risk-averse"
+  - serious
+  - boring
+  - predictable
+  - forced cool
+  - "out-of-touch"
+  - trying too hard
+example_phrases:
+  - Cash In on better banking
+  - "Make tax filing look and feel comfortable af!"
+  - The coolest kid in the BLOCK™ group
+  - Cash App really embodies the concept that good ideas come from everywhere
+guardrails:
+  never_say: []
+  always_sound: "direct, unapologetic, culturally aware, rule-breaking, fun"

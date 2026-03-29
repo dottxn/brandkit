@@ -1,0 +1,64 @@
+chunk_id: "nothing-visual-dna"
+brand: nothing
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "nothing-positioning"
+token_count: 107
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Nothing. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FF0000"
+    name: ""
+    role: ""
+typography:
+  - name: NDot
+    role: ""
+    style: ""
+  - name: NType 82
+    role: ""
+    style: ""
+  - name: NType 82 Mono
+    role: ""
+    style: ""
+  - name: LL Lettera Mono
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: monochromatic
+  palette_range: minimal
+  type_class: custom
+  type_character: geometric
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: retro
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "typography-led"
+composition_logic: >-
+  Grid-based layouts with generous whitespace, products positioned as focal points against minimal backgrounds, with systematic application of dot-matrix typography and selective color implementation.

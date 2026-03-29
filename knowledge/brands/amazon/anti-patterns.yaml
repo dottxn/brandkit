@@ -1,0 +1,56 @@
+chunk_id: "amazon-anti-patterns"
+brand: amazon
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "amazon-soul"
+  - "amazon-visual-dna"
+token_count: 357
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Amazon. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Complex gradients or layered effects
+    reasoning: "Adds cognitive load to interfaces that must work across 50+ sub-brands and dozens of languages"
+  - pattern: "Small, detailed icons requiring close inspection"
+    reasoning: Fails at the scale needed for international accessibility and retail shelf presence
+  - pattern: Serif typography in primary applications
+    reasoning: "Introduces formality that conflicts with Amazon's casual, anticipatory tone"
+  - pattern: Dark mode as primary visual treatment
+    reasoning: Negates the sense of discovery and openness the smile conveys
+strategic:
+  - pattern: Emphasizing AWS infrastructure over customer benefit
+    reasoning: "Shifts narrative to Amazon's capabilities rather than customer possibility"
+  - pattern: "Separate visual systems for sub-brands without smile device"
+    reasoning: "Fragments coherence and forces customers to re-learn the system"
+  - pattern: Pricing and promotional messaging that prioritizes margin over savings
+    reasoning: Breaks the core belief about customer obsession
+  - pattern: "Product recommendations based on inventory, not actual customer need"
+    reasoning: Reduces Amazon to a warehouse rather than oracle
+tonal:
+  - pattern: Corporate announcements before product benefits
+    reasoning: Places company above customer
+  - pattern: Apologies when things go wrong instead of immediate solutions
+    reasoning: Shifts focus to blame rather than resolution
+  - pattern: Technical jargon without translation
+    reasoning: Excludes the mainstream customer at the heart of Day 1 thinking
+  - pattern: "Urgency language (\"limited time,\" \"while supplies last\")"
+    reasoning: Undermines the confidence that infinite selection creates
+cultural:
+  - pattern: >-
+      Treating diversity initiatives as separate campaigns versus integrated into all casting and representation
+    reasoning: Signals tokenism rather than genuinely inclusive customer understanding
+  - pattern: Centering luxury positioning in Prime benefits
+    reasoning: "Alienates the middle-income customer who generates most repeat volume"
+  - pattern: Marketing that centers convenience without acknowledging environmental cost
+    reasoning: Ignores a growing customer cohort that balances desire with ethics
+  - pattern: Ignoring regional preferences in favor of global standardization
+    reasoning: Wastes the opportunity to be locally intimate at global scale

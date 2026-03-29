@@ -1,0 +1,28 @@
+chunk_id: "monzo-strategy"
+brand: monzo
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "monzo-positioning"
+token_count: 37
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Monzo. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "We believe that money doesn't need to be complicated or stressful"
+mission: To make money work for everyone
+vision: To become the intelligent hub for your entire financial life and serve a billion people globally
+values:
+  - Transparency and openness
+  - Customer empowerment
+  - Financial inclusion
+  - Innovation through simplicity
+  - Social responsibility

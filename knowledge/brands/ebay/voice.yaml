@@ -1,0 +1,36 @@
+chunk_id: "ebay-voice"
+brand: ebay
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "ebay-soul"
+token_count: 42
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for eBay. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  eBay is a global online marketplace that connects millions of buyers and sellers around the world. The platform enables individuals and businesses to buy and sell virtually anything through auction-st
+tone_traits:
+  - "accessible"
+  - "practical"
+  - "optimistic"
+  - "community-minded"
+  - "straightforward"
+anti_traits:
+  - corporate
+  - elitist
+  - aggressive
+  - cold
+  - exclusive
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like the world's most helpful marketplace neighbor"

@@ -1,0 +1,80 @@
+# ──────────────────────────────────────────────
+# Slack — Creative References
+# ──────────────────────────────────────────────
+
+channels:
+  website: "https://slack.com"
+  instagram: "https://www.instagram.com/slackhq/"
+  tiktok: "https://www.tiktok.com/@slackhq"
+  youtube: "https://www.youtube.com/@slackhq"
+  x: "https://x.com/slackhq"
+  app_store: "https://apps.apple.com/us/app/slack/id618783545"
+
+studios:
+  - name: "Pentagram"
+    type: "branding"
+    url: "https://www.pentagram.com/"
+    project_url: "https://www.pentagram.com/work/slack/story"
+    relationship: "2019 rebrand replacing hashtag logo with pinwheel symbol; comprehensive visual identity system"
+
+  - name: "Type Dynamic"
+    type: "type-foundry"
+    url: "https://www.type-dynamic.com/"
+    relationship: "Created Larsseit typeface used for Slack headlines"
+
+  - name: "Lineto"
+    type: "type-foundry"
+    url: "https://www.lineto.com/"
+    relationship: "Published Circular Pro typeface by Laurenz Brunner used for Slack body text"
+
+people:
+  - name: "Michael Bierut"
+    role: "Partner, Pentagram"
+    url: "https://www.pentagram.com/about/michael-bierut"
+    context: "Led the 2019 rebrand transforming Slack's visual identity from hashtag to pinwheel symbol"
+
+  - name: "Nico Inosanto"
+    role: "Type designer, Type Dynamic"
+    context: "Designed Larsseit typeface used for Slack headlines"
+
+  - name: "Laurenz Brunner"
+    role: "Type designer, Lineto"
+    context: "Designed Circular Pro typeface used for Slack body text"
+
+  - name: "Łukasz Dziedzic"
+    role: "Type designer"
+    context: "Designer of Lato typeface used in Slack's product interface UI"
+
+  - name: "Will Miner"
+    role: "VP Product Design, Slack"
+    context: "Oversees visual system and design standards across all Slack product interfaces"
+
+publications:
+  - title: "Slack's 2019 Rebrand: From Hashtag to Pinwheel"
+    author: "Pentagram / Michael Bierut"
+    relevance: "Documents the strategic rationale behind the visual transformation and new logo system"
+
+  - title: "Slack Brand Guidelines: Aubergine, Illustration, and Collaboration"
+    author: "Slack"
+    relevance: "Published brand standards establishing the aubergine-primary, illustration-rich visual language"
+
+visuals:
+  - url: "https://www.pentagram.com/work/slack"
+    label: "Pentagram case study — 2019 rebrand and visual identity system"
+    section: "visual-language"
+
+  - url: "https://slack.com/"
+    label: "Slack.com marketing pages — Aubergine dominant, pinwheel logo, illustration system"
+    section: "visual-language"
+
+  - url: "https://app.slack.com/"
+    label: "Slack product interface — UI implementation with Lato typeface and product-functional design"
+    section: "visual-world"
+
+  - url: "https://www.fontspring.com/fonts/type-dynamic/larsseit"
+    label: "Larsseit typeface by Type Dynamic — Slack headline typeface"
+    section: "visual-language"
+
+  - url: "https://www.lineto.com/"
+    label: "Circular Pro typeface by Lineto — Slack body text typeface"
+    section: "visual-language"

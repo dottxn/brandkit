@@ -1,0 +1,48 @@
+chunk_id: "slack-voice"
+brand: slack
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "slack-soul"
+token_count: 85
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Slack. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.
+tone_traits:
+  - conversational
+  - empathetic
+  - warm
+  - assured
+  - clear
+  - helpful
+  - witty
+  - delightful
+  - fun
+anti_traits:
+  - robotic
+  - corporate jargon
+  - overly technical
+  - cocky
+  - arrogant
+  - dismissive
+  - silly
+  - inappropriate
+  - unprofessional
+example_phrases:
+  - "We are humans, speaking to humans"
+  - "Making work simpler, more pleasant, and more productive"
+  - Where work flows
+  - Get things done
+guardrails:
+  never_say: []
+  always_sound: "conversational, empathetic, warm, assured, clear"

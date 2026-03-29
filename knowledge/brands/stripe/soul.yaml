@@ -1,0 +1,33 @@
+chunk_id: "stripe-soul"
+brand: stripe
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "stripe-positioning"
+token_count: 185
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Stripe. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A perfectly tuned engine you'll never see running—powerful beneath the surface, making the difficult invisible so you can focus on what only you can do.
+core_belief: >-
+  The best infrastructure disappears; our job is to make payment processing so clean it feels like it was never there as an obstacle.
+creative_tension:
+  - >-
+    Offering unlimited sophistication for technical users while maintaining beginner-friendly simplicity in onboarding and core workflows.
+  - >-
+    Being deeply opinionated about design and engineering while remaining radically open to how developers want to use the platform.
+decision_filter: >-
+  Would a developer feel respect for this system? Would building with it feel like collaborating with experts, not fighting a tool?
+signature_move: >-
+  The signature purple (#635BFF) used sparingly, almost reluctantly—color reserved for interactive moments, never for decoration or branding theater.
+what_would_break_it: >-
+  Adding visual flourishes, illustrations, or emotional design language. Stripe's strength is that it never tries to make you feel anything except capable.

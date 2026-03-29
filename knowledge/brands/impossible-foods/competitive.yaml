@@ -1,0 +1,36 @@
+chunk_id: "impossible-foods-competitive"
+brand: "impossible-foods"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "impossible-foods-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Impossible Foods. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - oatly
+  - sweetgreen
+  - mcdonalds
+industry_norms_it_breaks: "Butcher-shop-inspired red packaging with custom Sans Meat typeface—flared strokes referencing hand-painted meat counter signs and vintage butcher shop aesthetic. The red isn't corporate branding red;  | The commitment to meat-centric language and butcher-shop aesthetics in the plant-based space requires both operational boldness (the heme technology must actually deliver meat experience) and position | Would a barbecue enthusiast buy this? Does this claim feel honest or performative? The brand asks whether every design and messaging choice serves meat-eaters first. If something prioritizes environme"
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Meat-rival provocation, confrontational, high energy"
+  - cluster: "scientific-editorial"
+    role: "secondary"
+    where: "Science mission, research-backed claims"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Food community, recipe content, accessibility"
+strategic_cluster: "rebel-provocateur"
+category: "food-beverage"

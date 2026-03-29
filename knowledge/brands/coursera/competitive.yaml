@@ -1,0 +1,36 @@
+chunk_id: "coursera-competitive"
+brand: coursera
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "coursera-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Coursera. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - udemy
+  - duolingo
+  - masterclass
+industry_norms_it_breaks: "The 'C' logo as entry point—literally showing that every journey through learning begins at the start | The focus on learner agency and accomplishment as primary brand narrative rather than institutional prestige or instructional content | Does this expand access or does this create complexity that excludes? Does this celebrate learner journey or instructor prestige?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Brand blue, systematic layout, clean learning interface"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Learning platform UI, course delivery system"
+  - cluster: "soft-minimal"
+    role: "accent"
+    where: "Accessible, gentle onboarding experience"
+strategic_cluster: "trusted-guide"
+category: education

@@ -1,0 +1,37 @@
+chunk_id: "aesop-competitive"
+brand: aesop
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "aesop-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: full
+summary: "Competitive landscape for Aesop. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - glossier
+  - loreal
+  - sephora
+  - hermès
+industry_norms_it_breaks: "The Optima wordmark with the macron over the 'e'. One diacritical mark does all the heavy lifting — it signals classical learning, typographic precision, and cultural depth without changing a single l | Competitors can copy amber glass and minimalist labels. What they can't copy is the reading list. Before any architect begins work on an Aesop store, they receive three books: Peter Zumthor's Atmosphe"
+visual_cluster: "editorial-luxury"
+visual_fingerprint:
+  - cluster: "editorial-luxury"
+    role: "dominant"
+    where: "Editorial-literary content, brand voice, store collateral"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Product-apothecary photography, systematic packaging"
+  - cluster: "scientific-editorial"
+    role: "accent"
+    where: "Ingredient-botanical content, formulation detail"
+strategic_cluster: "creative-authority"
+category: beauty

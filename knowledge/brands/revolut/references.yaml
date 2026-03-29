@@ -1,0 +1,42 @@
+# ──────────────────────────────────────────────
+# Revolut — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Pentagram"
+    type: "branding"
+    url: "https://www.pentagram.com/"
+    relationship: "Brand identity design and visual system development (2023 rebrand)"
+
+people:
+  - name: "Joe Leadbeater"
+    role: "Type designer, CoType Foundry co-founder"
+    url: "https://cotypefoundry.com/"
+    context: "Co-designer of Aeonik Pro typeface, which became Revolut's primary brand typeface"
+
+  - name: "Mark Bloom"
+    role: "Type designer, CoType Foundry founder"
+    url: "https://cotypefoundry.com/"
+    context: "Co-founder of CoType Foundry; co-designer of Aeonik Pro custom typeface for Revolut"
+
+  - name: "Dmitry Zlokazov"
+    role: "Head of Retail/Product"
+    context: "Oversees visual infrastructure and brand implementation at Revolut"
+
+  - name: "Diomidis Papas"
+    role: "Head of Engineering/Design System"
+    context: "Oversees design system and visual infrastructure for Revolut's ecosystem"
+
+publications:
+  - title: "Aeonik Pro: CoType Foundry's Modernist Typeface for Global Brands"
+    author: "CoType Foundry"
+    relevance: "Documents the development and characteristics of Revolut's primary brand typeface with multilingual support (200+ languages)"
+
+visuals:
+  - url: "https://revolut.com/"
+    label: "Revolut marketing and product pages — Visual language implementation"
+    section: "visual-language"
+
+  - url: "https://cotypefoundry.com/our-fonts/aeonik"
+    label: "Aeonik Pro typeface specimen — Primary brand typeface"
+    section: "visual-language"

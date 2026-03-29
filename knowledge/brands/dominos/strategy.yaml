@@ -1,0 +1,28 @@
+chunk_id: "dominos-strategy"
+brand: dominos
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "dominos-positioning"
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Domino's. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in feeding the power of the possible, transforming everyday moments into something more special
+mission: To be the best pizza delivery company in the world
+vision: To be the number one pizza company in the world and in every neighborhood
+values:
+  - Do The Right Thing
+  - Put People First
+  - Create Inspired Solutions
+  - Grow And Win Together

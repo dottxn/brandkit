@@ -1,0 +1,61 @@
+chunk_id: "sweetgreen-visual-dna"
+brand: sweetgreen
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "sweetgreen-positioning"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for sweetgreen. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#4CAF50"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#F5F5F5"
+    name: ""
+    role: ""
+  - hex: "#8BC34A"
+    name: ""
+    role: ""
+typography:
+  - name: Sweetgreen Sans
+    role: ""
+    style: ""
+  - name: Proxima Nova
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: focused
+  type_class: custom
+  type_character: "warm"
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "logo-centric"
+composition_logic: >-
+  Clean grid-based layouts with generous white space, ingredients and bowls positioned as hero elements, typography integrated seamlessly without competing with food imagery

@@ -1,0 +1,71 @@
+chunk_id: "prada-anti-patterns"
+brand: prada
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "prada-soul"
+  - "prada-visual-dna"
+token_count: 809
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Prada. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Using soft-focus or romantic imagery"
+    reasoning: >-
+      Prada's photography is clinical, architectural, high-contrast. Soft-focus suggests emotion; clinical framing demands analysis. The harsh aesthetic matches the demand that fashion be thought through, not felt through.
+  - pattern: Adding colored accents or secondary palettes
+    reasoning: >-
+      Black and white is deceptively radical in fashion, where color is standard. The monochromatic choice forces the construction and silhouette to carry all meaning. Add color and you create distraction from concept.
+  - pattern: "Featuring smiling models or \"relatable\" casting"
+    reasoning: >-
+      Prada's casting is conceptual—sometimes unsettling, often otherworldly. The model isn't selling happiness; they're carrying ideas. Warm, approachable imagery would undermine the intellectual rigor.
+  - pattern: Using decorative typography or script fonts
+    reasoning: >-
+      The custom Prada serif is architectural, not ornamental. It has the cut-out under the R not for beauty but for intellectual disruption. Script or decorative fonts would position the brand as romantic rather than rigorous.
+strategic:
+  - pattern: "Launching a \"Prada for everyone\" diffusion line without conceptual integrity"
+    reasoning: >-
+      Prada's secondary brands (Miu Miu) exist, but they don't dilute the core. A mass-market Prada would destroy the philosophy. Every product must be defended intellectually, not just priced lower.
+  - pattern: "Using social media to show \"behind-the-scenes\" or humanize the brand"
+    reasoning: >-
+      Prada doesn't need intimacy marketing. The mystique comes from distance. Behind-the-scenes content would position the brand as transparent rather than thoughtful. Let the work remain more visible than the process.
+  - pattern: "Launching trend-responsive collections or fast-fashion collaborations"
+    reasoning: >-
+      This contradicts the core belief that ideas matter more than trends. Prada has collaborated, but never with the desperation of chasing relevance. Partnerships must challenge the partner, not chase their audience.
+  - pattern: Creating a friendly customer service tone or approachable brand voice
+    reasoning: >-
+      Prada's voice is curatorial and editorial. Friendly customer service would make the brand feel smaller, more available. Maintain distance in communication. Let interaction with Prada feel like an intellectual exchange, not a customer service transaction.
+tonal:
+  - pattern: Using inspirational or aspirational language
+    reasoning: >-
+      "Be yourself" or "Express yourself." Prada doesn't ask you to express yourself; it asks you to think. The tone should be intellectual challenge, not permission slip.
+  - pattern: Celebrating inclusivity without mentioning the intellectual barrier
+    reasoning: >-
+      Prada's exclusivity isn't about who you are; it's about what you think. The brand can be about challenging conventions while remaining expensive and selective. Mixing inclusive messaging with expensive pricing feels dishonest.
+  - pattern: Explaining the concept after showing the collection
+    reasoning: >-
+      Prada's genius is that concepts are embedded in the work, not in press releases. If you need to explain why the collection is conceptually important, the concept didn't land. Trust the work.
+  - pattern: "Using casual, conversational tone in brand communication"
+    reasoning: >-
+      Prada's tone is formal, edited, dense with meaning. Every word is chosen for weight. Casual tone would make the brand feel trendy rather than timeless. Write like you're curating a museum exhibition, not chatting with a friend.
+cultural:
+  - pattern: Sponsoring mainstream entertainment or pop culture events
+    reasoning: >-
+      Prada appears in serious cultural contexts: biennales, museums, intellectual platforms. Mainstream entertainment sponsorships would position the brand as seeking visibility rather than setting cultural terms.
+  - pattern: "Creating \"brand experiences\" or interactive installations meant to be fun"
+    reasoning: >-
+      Prada exhibitions should be intellectually difficult, not experientially comfortable. If a Prada experience makes you feel good, the concept failed. It should make you think differently.
+  - pattern: Celebrating customer diversity through imagery or testimonials
+    reasoning: >-
+      "People from all walks of life wear Prada." This is true but irrelevant. Prada doesn't care who you are; it cares what you understand. Diversity marketing would make the brand feel like it's accommodating rather than leading.
+  - pattern: Using humor or irony in brand communication to seem relatable
+    reasoning: >-
+      Prada's "weirdness" (as noted in voice pillars) is conceptual weirdness, not comedic weirdness. The brand doesn't joke; it challenges. Humor would soften the intellectual demand and make Prada feel less serious.

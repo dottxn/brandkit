@@ -1,0 +1,29 @@
+chunk_id: "opendoor-soul"
+brand: opendoor
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "opendoor-positioning"
+token_count: 131
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Opendoor. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: The moment you stop being trapped by circumstance and start being enabled by capability
+core_belief: >-
+  Real estate's function (moving your life forward) matters infinitely more than its rituals (staging, touring, negotiating)
+creative_tension:
+  - "Technology-driven efficiency paired with deeply human (neighborly) tone and approach"
+  - "Disrupting an industry while maintaining trustworthiness (the antithesis of \"disruption as brand)"
+decision_filter: "Does it remove friction or just add speed? Opendoor obsesses over removed friction"
+signature_move: >-
+  Primary blue (#1C85E8) as the trust color applied consistently, supported by terra cotta accent for warmth
+what_would_break_it: >-
+  Adding trendy design movements (neumorphism, glassmorphism) or adopting the cold efficiency aesthetic of pure fintech would destroy the "neighborly" positioning

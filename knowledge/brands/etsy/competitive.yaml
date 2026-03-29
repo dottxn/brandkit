@@ -1,0 +1,36 @@
+chunk_id: "etsy-competitive"
+brand: etsy
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "etsy-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Etsy. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - amazon
+  - ebay
+  - shopifycom
+industry_norms_it_breaks: "The seller's name positioned larger than the product photograph—sometimes bolder, sometimes even more central. This inverts every e-commerce convention where the product is god. On Etsy, the maker IS  | The structural commitment to making production visible. Most retailers hide supply chains, factories, labor. Etsy does the opposite—it celebrates seller hands, workshop chaos, and creative process as  | Does this amplify the maker's voice or muffle it? Does this celebrate difficulty or erase it? When choosing between efficiency and authenticity, does Etsy sacrifice the soul of the platform for growth"
+visual_cluster: "warm-humanist"
+visual_fingerprint:
+  - cluster: "warm-humanist"
+    role: "dominant"
+    where: "Handmade community, maker culture, authentic warmth"
+  - cluster: "soft-minimal"
+    role: "secondary"
+    where: "Gift discovery, gentle browsing experience"
+  - cluster: "heritage-craft"
+    role: "accent"
+    where: "Artisanal sellers, craft signals, vintage"
+strategic_cluster: "creative-authority"
+category: "e-commerce"

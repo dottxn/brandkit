@@ -1,0 +1,28 @@
+chunk_id: "netflix-visual-reasoning"
+brand: netflix
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "netflix-visual-dna"
+  - "netflix-soul"
+token_count: 421
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Netflix. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Netflix Sans is geometric and humanized simultaneously—it's a grotesque typeface that feels friendly because the proportions are slightly generous and the curves slightly warm. This matters because it's typically rendered in all-caps on the red background, and sans-serif words in caps would normally feel institutional or harsh. The slight warmth in Netflix Sans's geometry (see the rounded terminals on a, e, r) makes all-caps feel inviting rather than demanding. It's the only typeface shown in marketing because consistency in smallest viable elements suggests systematic reliability beneath the apparent chaos of infinite content.
+colour_logic: >-
+  Netflix Red (#E50914) is crimson red, not orange-red. Crimson is sophisticated and slightly warm, which prevents it from feeling aggressive despite its saturation. It's tested extensively at small scale—thumbnails, app icons, tab colors—where it must read clearly against every background. Black and white create maximum contrast for readability, but more importantly, they reinforce that the red is the only thing you need to focus on. The absence of secondary colors means nothing competes for attention. The pure three-color palette (#E50914, #000000, #FFFFFF) is brutally restrained, which makes the red feel more precious rather than less.
+composition_philosophy: >-
+  The Stack solves for cognitive load in an environment of infinite choice. Each card is identical in size and layout, removing decision-making about what's being presented. The horizontal scroll replicates how humans naturally browse (left-to-right in many cultures), and the card-based system translates perfectly to mobile. Rows and rows of identical cards create a rhythm that feels both organized and infinite. The philosophy is "systematize the interface so the content feels unstructured," creating a paradox where highly organized layout feels serendipitous.
+what_would_break_it: >-
+  Adding a human curatorial layer visually (featuring some shows larger, using different card sizes, adding "editor's pick" badges). This would immediately signal that Netflix makes value judgments about content, breaking the algorithmic neutrality that lets customers feel their choices are their own. The moment The Stack becomes hierarchical, it becomes a magazine instead of a platform.

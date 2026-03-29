@@ -1,0 +1,64 @@
+chunk_id: "disney-visual-dna"
+brand: disney
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "disney-positioning"
+token_count: 104
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for The Walt Disney Company. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#003366"
+    name: ""
+    role: ""
+  - hex: "#ED1C24"
+    name: ""
+    role: ""
+  - hex: "#FFD700"
+    name: ""
+    role: ""
+  - hex: "#6B2C91"
+    name: ""
+    role: ""
+  - hex: "#228B22"
+    name: ""
+    role: ""
+typography:
+  - name: Walt Disney Script
+    role: ""
+    style: ""
+  - name: Avenir
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: focused
+  type_class: script
+  type_character: editorial
+  type_weight: mixed
+  imagery_medium: "mixed-media"
+  imagery_subject: people
+  imagery_treatment: cinematic
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: timeless
+  conceptual_approach: uniform
+  framing_device: housing
+  symbolic_type: wordmark
+  texture_feel: gradient
+  shape_language: organic
+  contrast_level: medium
+  identity_system: flexible
+  signature_device: "illustration-led"
+composition_logic: >-
+  Compositions center around storytelling moments with clear focal points, using organic shapes and curved elements that echo the Disney wordmark while maintaining generous white space for magical breathing room

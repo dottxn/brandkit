@@ -1,0 +1,67 @@
+# ──────────────────────────────────────────────
+# Zillow — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Zillow In-house Design Team"
+    type: branding
+    url: "https://www.zillowgroup.com/"
+    relationship: "Led 2019 comprehensive brand rebrand including logo redesign, typography modernisation, colour system development, and new visual identity accompanying the new business model"
+
+people:
+  - name: "Jess Staley"
+    role: "Group Creative Director (GCD)"
+    url: "https://www.linkedin.com/in/jessicastaley"
+    context: "Led the overarching creative direction for Zillow's 2019 brand evolution, overseeing the complete visual identity refresh"
+
+  - name: "Claire Hartinger"
+    role: "Creative Director"
+    url: "https://www.clairehartinger.com/"
+    context: "Led art direction and visual design for Zillow's 2019 rebrand, developing the typographic and graphic language for the new identity"
+
+  - name: "Nick Kasimatis"
+    role: "Creative Director"
+    url: "https://www.kasimatis.co/"
+    context: "Contributed creative direction and visual design to Zillow's 2019 brand evolution, focusing on the house-Z logo integration and overall visual system"
+
+publications:
+  - title: "Zillow: Brand Refresh"
+    author: "Jessica Smolinski (Designer)"
+    relevance: "Case study documenting the Zillow 2019 brand refresh process, including design rationale for the house-Z logo and visual identity changes"
+
+  - title: "Zillow Marketing Web Design System"
+    author: "Mike Patruno"
+    relevance: "Technical implementation of Zillow's visual system in the marketing web design system, showing how the rebrand translates to code"
+
+  - title: "Teaching user-friendly web design: A case study on Zillow.com in the real estate industry"
+    author: "Barbara A Manko"
+    relevance: "Academic case study examining Zillow's user-centered design principles and information architecture as a real estate platform"
+
+visuals:
+  - url: "https://jessicasmolinski.com/portfolio/zillow-rebrand/"
+    label: "Zillow Brand Refresh 2019 — Complete Case Study"
+    section: visual-language
+
+  - url: "https://mikepatruno.com/project/zillow-marketing-web-design-system"
+    label: "Zillow Marketing Web Design System — Implementation"
+    section: visual-language
+
+  - url: "https://www.clairehartinger.com/"
+    label: "Claire Hartinger Portfolio — Art Direction Work"
+    section: visual-language
+
+  - url: "https://www.kasimatis.co/"
+    label: "Nick Kasimatis Portfolio — Creative Direction Work"
+    section: visual-language
+
+  - url: "https://wp-tid.zillowstatic.com/bedrock/app/uploads/sites/2/2021/02/Zillow-3D-Home-Brand-Guidelines-2021-16e654.pdf"
+    label: "Zillow 3D Home Brand Guidelines — Official Design Documentation"
+    section: visual-world
+
+  - url: "https://medium.com/wayfair-design/ui-at-scale-how-wayfair-supports-multiple-brands-and-geos-with-a-shared-code-base-4e2bfb1e7067"
+    label: "Design System Architecture Case Study (Related Real Estate Design Thinking)"
+    section: visual-world
+
+  - url: "https://www.zillow.com"
+    label: "Zillow.com Platform — Live Case Study of 2019 Rebrand in Production"
+    section: visual-world

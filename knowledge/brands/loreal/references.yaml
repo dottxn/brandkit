@@ -1,0 +1,85 @@
+# ──────────────────────────────────────────────
+# L'Oréal Paris — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "McCann Worldgroup"
+    type: creative-direction
+    url: "https://www.mccannworldgroup.com/"
+    relationship: "Lead global creative agency for L'Oréal Paris campaigns and brand strategy"
+
+  - name: "McCann Paris"
+    type: creative-direction
+    url: "https://www.mccann.fr/en/"
+    relationship: "Paris-based office; leads integrated campaigns and brand development"
+
+people:
+  - name: "Delphine Viguier-Hovasse"
+    role: "Global Brand President"
+    url: "https://www.linkedin.com/in/delphine-viguier-hovasse/"
+    context: "Brand President through June 2025; oversaw visual evolution and inclusivity shift"
+
+  - name: "Laetitia Toupet-Delon"
+    role: "Global Brand President"
+    url: "https://www.linkedin.com/in/laetitia-toupet-delon/"
+    context: "Global Brand President from July 2025; continues brand positioning"
+
+  - name: "Robert Granjon"
+    role: "Historic Type Designer"
+    url: "https://en.wikipedia.org/wiki/Robert_Granjon"
+    context: "16th-century typographer; influenced L'Oréal Royale serif typeface design"
+
+  - name: "Kendall Jenner"
+    role: "Brand Ambassador"
+    url: "https://www.kendalljenner.com/"
+    context: "Global L'Oréal Paris ambassador; featured in campaigns"
+
+  - name: "Cara Delevingne"
+    role: "Brand Ambassador"
+    url: "https://www.caradelevingne.com/"
+    context: "International beauty ambassador for L'Oréal Paris"
+
+  - name: "Helen Mirren"
+    role: "Brand Ambassador"
+    url: "https://www.helenmirren.com/"
+    context: "Multi-generational representation; age-inclusive ambassador casting"
+
+  - name: "Eva Longoria"
+    role: "Brand Ambassador"
+    url: "https://www.evalongoria.com/"
+    context: "Global L'Oréal Paris ambassador; diverse casting representation"
+
+  - name: "Viola Davis"
+    role: "Brand Ambassador"
+    url: "https://www.violadavis.com/"
+    context: "Award-winning actress; represents inclusive beauty standard"
+
+publications:
+  - title: "L'Oréal Paris: 'Because We're Worth It' — The Evolution of Inclusivity in Luxury Beauty"
+    author: "Brand and Marketing Analysis"
+    relevance: "Documents shift from 'You're Worth It' (1973) to 'We're Worth It' (2023)"
+
+  - title: "The Democratic Luxury Model: L'Oréal Paris in the Global Beauty Market"
+    author: "Business Strategy Documentation"
+    relevance: "Positions L'Oréal Paris between mass-market and premium luxury segments"
+
+visuals:
+  - url: "https://www.lorealparisusa.com/"
+    label: "L'Oréal Paris USA Website — Live Brand System"
+    section: visual-language
+
+  - url: "https://www.creativereview.co.uk/loreal-paris-brand-ambassador/"
+    label: "L'Oréal Paris Ambassador Campaigns — Creative Review"
+    section: visual-language
+
+  - url: "https://www.cannesfilmfestival.com/"
+    label: "Cannes Film Festival — L'Oréal Paris Official Beauty Partner"
+    section: visual-world
+
+  - url: "https://www.parisfashionweek.com/"
+    label: "Paris Fashion Week — L'Oréal Paris Partnership and Events"
+    section: visual-world
+
+  - url: "https://www.mccannworldgroup.com/"
+    label: "McCann Worldgroup Portfolio — Agency Website"
+    section: visual-language

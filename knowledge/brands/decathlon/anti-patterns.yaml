@@ -1,0 +1,55 @@
+chunk_id: "decathlon-anti-patterns"
+brand: decathlon
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "decathlon-soul"
+  - "decathlon-visual-dna"
+token_count: 344
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Decathlon. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Vertical, stable compositions without the tilted orbit influence"
+    reasoning: Removes the visual energy and playfulness the brand promises
+  - pattern: Professional athlete imagery exclusively
+    reasoning: Contradicts the inclusive positioning and alienates the mass audience
+  - pattern: Technical performance language dominating marketing
+    reasoning: "Limits appeal to beginners who don't have vocabulary to engage"
+  - pattern: Cool colors without warmth and energy
+    reasoning: Conflicts with the joy and vitality in brand values
+strategic:
+  - pattern: Treating beginners and pros as separate markets requiring different messaging
+    reasoning: "Misses the brand's unique strength—unified platform across skill levels"
+  - pattern: Expanding into fashion or lifestyle without maintaining sport as gravitational center
+    reasoning: Dilutes the category leadership
+  - pattern: "Marketing that emphasizes Decathlon's scale over local community engagement"
+    reasoning: "Loses the \"your neighborhood sport company\" advantage"
+  - pattern: Premium tier expansion that contradicts democratic pricing positioning
+    reasoning: Undermines the core belief about accessible sport
+tonal:
+  - pattern: Expert language that requires sport fluency to understand
+    reasoning: "Alienates the target audience (beginners, non-athletes)"
+  - pattern: Motivational language about pushing limits
+    reasoning: "Conflicts with \"fun first\" culture and alienates non-competitive athletes"
+  - pattern: "Overly cool, detached tone"
+    reasoning: Misses the warmth and genuine enthusiasm for sport that drives culture
+  - pattern: "Performance-centric messaging ignoring health, community, wellbeing benefits"
+    reasoning: Narrows the benefit proposition
+cultural:
+  - pattern: "Representation limited to wealthy, Western sport traditions"
+    reasoning: Misses opportunity to celebrate sport in emerging markets and diverse communities
+  - pattern: Ignoring gender in sport positioning while claiming inclusivity
+    reasoning: Contradicts the actual diversity work being done
+  - pattern: Marketing exclusively to young people while Decathlon customers span ages
+    reasoning: Misses older athletes who have time and money for sport
+  - pattern: "Treating accessibility (disabilities, mobility limitations) as separate initiative"
+    reasoning: Hollow inclusivity claim without genuine product and store accessibility

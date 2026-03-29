@@ -1,0 +1,64 @@
+chunk_id: "paypal-visual-dna"
+brand: paypal
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "paypal-positioning"
+token_count: 105
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for PayPal. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#0070BA"
+    name: ""
+    role: ""
+  - hex: "#003087"
+    name: ""
+    role: ""
+  - hex: "#3D95CE"
+    name: ""
+    role: ""
+typography:
+  - name: PayPal Pro
+    role: ""
+    style: ""
+  - name: PayPal Pro Text
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: neutral
+  palette_range: focused
+  type_class: serif
+  type_character: geometric
+  type_weight: bold
+  imagery_medium: minimal
+  imagery_subject: abstract
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: monogram
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "typography-led"
+composition_logic: >-
+  Modular system with the wordmark as the foundational element, supported by the refined monogram for specific contexts, utilizing generous whitespace and clean geometric arrangements

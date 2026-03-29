@@ -1,0 +1,58 @@
+# ──────────────────────────────────────────────
+# Strava — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Grilli Type"
+    type: type-foundry
+    url: "https://www.grillitype.com/"
+    relationship: "Designed Boathouse typeface (2023), replacing Maison Neue as brand font with athletic-brand character"
+
+  - name: "ILLO Studio"
+    type: branding
+    url: "https://www.illostudio.com/"
+    relationship: "Designed 2023 challenge badge system — artisanal illustration approach to gamification elements"
+
+  - name: "Manual Creative"
+    type: creative-direction
+    url: "https://www.manualcreative.com/"
+    relationship: "Created annual Year in Sport data visualisation campaigns (2023-present)"
+
+  - name: "Mapbox"
+    type: digital-design
+    url: "https://www.mapbox.com/"
+    relationship: "Partnership for Global Heatmap — visualization of 1B+ activities as glowing heat trails"
+
+people:
+  - name: "Anita Patwardhan Butler"
+    role: "Chief Design Officer"
+    url: "https://www.linkedin.com/in/anita-patwardhan-butler/"
+    context: "First CDO appointed February 2023 (ex-Twitter/Facebook) — oversees visual system and design investment"
+
+  - name: "Kris Sowersby"
+    role: "Founder, Klim Type Foundry / Designer"
+    url: "https://www.klim.co.nz/"
+    context: "Creative director of Grilli Type (Zurich) — designed Boathouse with athletic-brand energy"
+
+  - name: "Rasmus Andersson"
+    role: "Typeface Designer"
+    url: "https://rsms.me/"
+    context: "Created Inter typeface (open-source), used for Strava activity data UI"
+
+publications:
+  - title: "Strava Brand Evolution"
+    author: "Strava Design"
+    relevance: "Design system documentation and visual identity guidelines"
+
+visuals:
+  - url: "https://www.strava.com"
+    label: "Strava website — Boathouse typography, orange dominant, activity-data visual language"
+    section: visual-language
+
+  - url: "https://www.grillitype.com/typefaces/boathouse"
+    label: "Boathouse typeface specifications and design story — rowing heritage connection"
+    section: visual-language
+
+  - url: "https://www.strava.com/heatmap"
+    label: "Global Heatmap — 1B+ activities visualised, Mapbox partnership"
+    section: visual-world

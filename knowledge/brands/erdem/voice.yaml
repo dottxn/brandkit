@@ -1,0 +1,48 @@
+chunk_id: "erdem-voice"
+brand: erdem
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "erdem-soul"
+token_count: 111
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Erdem. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  ERDEM is an independent fashion house founded by Erdem Moralioglu MBE in 2005, specializing in romantic ready-to-wear and accessories featuring custom-designed prints, intricate florals, and couture c
+tone_traits:
+  - intellectually curious
+  - historically informed
+  - poetic
+  - passionate about beauty
+  - "detail-oriented"
+  - artistic
+  - sophisticated
+  - worldly
+  - respectful of heritage
+anti_traits:
+  - superficial
+  - trendy
+  - obvious
+  - "mass-produced"
+  - utilitarian
+  - harsh
+  - appropriative
+  - ignorant
+  - dismissive
+example_phrases:
+  - The conversation between past and present inspires
+  - Forensically researched narrative and a belief in the power of craftsmanship
+  - An exuberant language of femininity that transcends fashion
+  - "Collections are formed around a narrative, championing heroic women"
+guardrails:
+  never_say: []
+  always_sound: "intellectually curious, historically informed, poetic, passionate about beauty, detail-oriented"

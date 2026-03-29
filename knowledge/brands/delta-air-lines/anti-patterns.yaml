@@ -1,0 +1,56 @@
+chunk_id: "delta-air-lines-anti-patterns"
+brand: "delta-air-lines"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "delta-air-lines-soul"
+  - "delta-air-lines-visual-dna"
+token_count: 319
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Delta Air Lines. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Static, grounded compositions without motion implied"
+    reasoning: Removes the forward momentum and climbing narrative
+  - pattern: Aircraft and airport imagery as primary content
+    reasoning: Misses the human transformation that justifies premium pricing
+  - pattern: "Cold, blue-dominant corporate palettes"
+    reasoning: Conflicts with the warmth and care in brand voice
+  - pattern: "Symmetrical, centered layouts"
+    reasoning: "Contradicts the dynamic, climbing energy"
+strategic:
+  - pattern: "Marketing that emphasizes operational reliability (on-time, routes, etc.)"
+    reasoning: Positions Delta as commodity instead of experience
+  - pattern: Premium tier expansion that creates tiers of access
+    reasoning: "Contradicts inclusive \"connect the world\" positioning"
+  - pattern: "Cost-cutting that impacts service quality without advertising it"
+    reasoning: Kills the premium service positioning that justifies the brand
+  - pattern: Ignoring sustainability positioning in aviation narrative
+    reasoning: Misses growing cohort of conscious travelers who question flying ethics
+tonal:
+  - pattern: Corporate announcements about company milestones
+    reasoning: Places Delta above customer transformation
+  - pattern: "Safety-focused messaging that emphasizes risk mitigation"
+    reasoning: Creates anxiety instead of inspiration
+  - pattern: "Overly formal, airline-speak language (\"cabin service,\" \"boarding procedure\")"
+    reasoning: Deadens the human connection narrative
+  - pattern: "Fear-based language about travel logistics"
+    reasoning: Contradicts the wonder and possibility positioning
+cultural:
+  - pattern: >-
+      Representation centered on business travelers while ignoring leisure, family, and adventure travel segments
+    reasoning: Misses growing market segments
+  - pattern: "\"Keep Climbing\" language that may alienate people with disabilities or mobility limitations"
+    reasoning: Sounds exclusionary despite actual accessibility efforts
+  - pattern: Ignoring that flying is inaccessible to many globally due to cost and privilege
+    reasoning: "Hollow \"connect the world\" claim without acknowledging barriers"
+  - pattern: Marketing that centers wealthy Western destination travel
+    reasoning: "Misses opportunity to celebrate diaspora, family connection, and cultural pilgrimage travel"

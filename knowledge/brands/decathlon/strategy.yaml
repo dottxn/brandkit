@@ -1,0 +1,29 @@
+chunk_id: "decathlon-strategy"
+brand: decathlon
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "decathlon-positioning"
+token_count: 57
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Decathlon. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "<cite index=\"35-1,6-15\">We believe sport should move people through the wonders of sport</cite>"
+mission: >-
+  <cite index="35-6">To move people through the wonders of sport, making sport accessible to all and providing enriching emotional experiences and creating value for society</cite>
+vision: >-
+  <cite index="39-9">Our mission is to democratize sport so everyone can experience its wonders on their own terms</cite>
+values:
+  - "<cite index=\"31-13\">Vitality</cite>"
+  - "<cite index=\"31-16\">Generosity</cite>"
+  - "<cite index=\"31-15\">Authenticity</cite>"
+  - "<cite index=\"31-14\">Responsibility</cite>"

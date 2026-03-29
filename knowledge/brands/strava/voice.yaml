@@ -1,0 +1,48 @@
+chunk_id: "strava-voice"
+brand: strava
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "strava-soul"
+token_count: 84
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Strava. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index='31-2,31-3,37-1,37-2'>Strava is a social network for athletes connecting millions of active people worldwide through activity tracking and community features. It builds the world's largest
+tone_traits:
+  - encouraging
+  - "achievement-focused"
+  - celebratory
+  - welcoming
+  - "community-driven"
+  - supportive
+  - analytical
+  - precise
+  - informative
+anti_traits:
+  - intimidating
+  - elitist
+  - perfectionist
+  - exclusive
+  - cliquish
+  - judgmental
+  - overwhelming
+  - technical jargon
+  - cold
+example_phrases:
+  - Movement brings us together
+  - "We believe if you sweat, you're an athlete"
+  - "Find your crew, crush your milestones"
+  - Every effort counts
+guardrails:
+  never_say: []
+  always_sound: "encouraging, achievement-focused, celebratory, welcoming, community-driven"

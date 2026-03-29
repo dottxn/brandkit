@@ -1,0 +1,31 @@
+chunk_id: "patagonia-positioning"
+brand: patagonia
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Patagonia. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Patagonia
+website: "https://www.patagonia.com"
+founded: 1973
+category: "sport-outdoor"
+sub_category: premium outdoor gear
+price_tier: luxury
+primary_archetype: The Explorer
+secondary_archetype: The Outlaw
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 6
+  heritage_innovation: 4
+key_differentiators: []

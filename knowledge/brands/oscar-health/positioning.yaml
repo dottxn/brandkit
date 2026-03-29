@@ -1,0 +1,31 @@
+chunk_id: "oscar-health-positioning"
+brand: "oscar-health"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Oscar Health. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Oscar Health
+website: "https://www.hioscar.com"
+founded: 2012
+category: "health-wellness"
+sub_category: "health-insurance"
+price_tier: "mid-range"
+primary_archetype: The Caregiver
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 3
+  heritage_innovation: 8
+key_differentiators: []

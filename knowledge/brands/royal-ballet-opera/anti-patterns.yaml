@@ -1,0 +1,55 @@
+chunk_id: "royal-ballet-opera-anti-patterns"
+brand: "royal-ballet-opera"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "royal-ballet-opera-soul"
+  - "royal-ballet-opera-visual-dna"
+token_count: 218
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Royal Ballet and Opera. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Neutral museum aesthetic (greys, blacks, minimalism)"
+    reasoning: "Vibrant, expansive color palette suggesting emotional depth"
+  - pattern: Contemporary design ignoring institutional heritage
+    reasoning: "Archive-inspired design addressing historical continuity"
+  - pattern: Single unified visual language across all contexts
+    reasoning: "Flexible system allowing product-specific expression (ballet vs. opera)"
+  - pattern: Flat design suggesting timelessness
+    reasoning: "Layered, directional design suggesting movement through time"
+strategic:
+  - pattern: Preserving heritage in stasis
+    reasoning: Evolving heritage as living organism
+  - pattern: High art positioning creating access barriers
+    reasoning: High art paired with inclusive community programs
+  - pattern: Competing on production prestige
+    reasoning: Competing on emotional impact and accessibility
+  - pattern: Serving existing audiences
+    reasoning: Building new audiences through cultural relevance demonstration
+tonal:
+  - pattern: Institutional formality
+    reasoning: Artistic passion paired with institutional competence
+  - pattern: Explaining what ballet/opera is
+    reasoning: Inviting people to feel what ballet/opera does
+  - pattern: Tradition as authority
+    reasoning: Tradition as foundation for contemporary expression
+  - pattern: Art for connoisseurs
+    reasoning: Art for human beings
+cultural:
+  - pattern: High art as exclusive
+    reasoning: High art as universal human experience
+  - pattern: Heritage preservation
+    reasoning: Heritage evolution and relevance
+  - pattern: Performance as event
+    reasoning: Performance as transformation
+  - pattern: Artist service
+    reasoning: Audience impact

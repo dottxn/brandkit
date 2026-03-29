@@ -1,0 +1,36 @@
+chunk_id: "hm-competitive"
+brand: hm
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "hm-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for H&M. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - zara
+  - uniqlo
+  - nike
+industry_norms_it_breaks: "The red ampersand. It appears standalone more often than the full wordmark, establishing the brand's visual presence without repetitive logo usage. The ampersand is genius because it's both symbol and | The custom typography system designed for affordability. HM Sans and HM Amperserif were explicitly created to maintain aesthetic quality while optimizing production costs. Most competitors either spen | Can we execute this well at this price point? Does it feel intentional or derivative? Would a 15-year-old who cares about fashion think this is current? Is this a trend or a moment? H&M's filter is ru"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Systematic retail identity, clean, global consistency"
+  - cluster: "editorial-luxury"
+    role: "secondary"
+    where: "Designer collaborations, H&M Studio, fashion editorial"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Red brand energy, fast fashion pace"
+strategic_cluster: "disruptive-democratizer"
+category: "fashion-retail"

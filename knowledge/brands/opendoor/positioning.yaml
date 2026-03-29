@@ -1,0 +1,31 @@
+chunk_id: "opendoor-positioning"
+brand: opendoor
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Opendoor. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Opendoor
+website: "https://www.opendoor.com"
+founded: 2014
+category: "real-estate"
+sub_category: real estate technology
+price_tier: "mid-range"
+primary_archetype: The Magician
+secondary_archetype: The Hero
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 4
+  heritage_innovation: 9
+key_differentiators: []

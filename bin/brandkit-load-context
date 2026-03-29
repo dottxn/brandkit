@@ -1,0 +1,336 @@
+#!/usr/bin/env python3
+"""
+brandkit-load-context — Assemble brand chunks for agent tasks.
+
+Reads _retrieval-rules.yaml and assembles exactly the right chunks
+for a given task and set of brands, respecting token budgets.
+
+Usage:
+    brandkit-load-context <task> <brand1> [brand2] ...
+    brandkit-load-context brand_comparison nike adidas
+    brandkit-load-context visual_audit aesop --format markdown
+    brandkit-load-context --list-tasks
+    brandkit-load-context --list-brands
+    brandkit-load-context --search fintech
+
+Zero dependencies (no pyyaml).
+"""
+
+import os
+import re
+import sys
+import argparse
+
+
+# ── Paths ──────────────────────────────────────────
+BRANDKIT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_BRANDS_DIR = os.path.join(BRANDKIT_DIR, 'knowledge', 'brands')
+DEFAULT_RULES = os.path.join(BRANDKIT_DIR, 'knowledge', 'brands', '_retrieval-rules.yaml')
+
+
+# ── YAML Parser (minimal, matches our format) ─────
+def parse_rules_yaml(text):
+    tasks = {}
+    lines = text.split('\n')
+    i = 0
+    current_task = None
+
+    while i < len(lines):
+        line = lines[i]
+        if not line.strip() or line.strip().startswith('#'):
+            i += 1
+            continue
+        if line.startswith('version:') or line.startswith('last_updated:'):
+            i += 1
+            continue
+        if line.strip() == 'tasks:':
+            i += 1
+            continue
+
+        m = re.match(r'^  (\w[\w_-]*):\s*$', line)
+        if m:
+            current_task = m.group(1)
+            tasks[current_task] = {
+                'description': '',
+                'always_load': [],
+                'load_if_exists': [],
+                'per_brand_budget': 0,
+            }
+            i += 1
+            continue
+
+        if current_task and line.startswith('    '):
+            stripped = line.strip()
+            m2 = re.match(r'^(\w[\w_-]*):\s*(.*)', stripped)
+            if m2:
+                key = m2.group(1)
+                val = m2.group(2).strip()
+
+                if key == 'description':
+                    tasks[current_task]['description'] = val.strip('"\'')
+                elif key == 'per_brand_budget':
+                    try:
+                        tasks[current_task]['per_brand_budget'] = int(val)
+                    except ValueError:
+                        pass
+                elif key in ('always_load', 'load_if_exists'):
+                    if val == '[]':
+                        tasks[current_task][key] = []
+                    else:
+                        arr = []
+                        i += 1
+                        while i < len(lines):
+                            al = lines[i]
+                            if not al.strip():
+                                i += 1
+                                continue
+                            if al.strip().startswith('- '):
+                                arr.append(al.strip()[2:].strip())
+                                i += 1
+                            else:
+                                break
+                        tasks[current_task][key] = arr
+                        continue
+            i += 1
+            continue
+        i += 1
+    return tasks
+
+
+def parse_chunk_yaml(text):
+    metadata = {}
+    lines = text.split('\n')
+    data_start = 0
+
+    for i, line in enumerate(lines):
+        if line.strip().startswith('# ── Data') or line.strip().startswith('# ─'):
+            data_start = i + 1
+            break
+        m = re.match(r'^(\w[\w_-]*):\s*(.*)', line)
+        if m:
+            metadata[m.group(1)] = m.group(2).strip().strip('"\'')
+
+    # If no data separator found, strip metadata fields and return the rest
+    if data_start == 0:
+        meta_fields = {
+            'chunk_id', 'brand', 'domain', 'context_tags', 'depends_on',
+            'token_count', 'format', 'version', 'last_updated', 'status',
+            'enrichment_level', 'summary'
+        }
+        data_lines = []
+        skip_array = False
+        for line in lines:
+            stripped = line.strip()
+            if stripped.startswith('#'):
+                continue
+            key_match = re.match(r'^(\w[\w_-]*):', line)
+            if key_match and key_match.group(1) in meta_fields:
+                skip_array = True
+                continue
+            if skip_array and (stripped.startswith('- ') or not stripped):
+                if not stripped:
+                    skip_array = False
+                continue
+            skip_array = False
+            data_lines.append(line)
+        data_section = '\n'.join(data_lines).strip()
+    else:
+        data_section = '\n'.join(lines[data_start:]).strip()
+
+    return metadata, data_section
+
+
+def count_tokens(text):
+    return len(text) // 4
+
+
+# ── Context Assembly ───────────────────────────────
+def assemble_context(task_name, brand_names, brands_dir, rules):
+    task = rules.get(task_name)
+    if not task:
+        print(f'Error: unknown task "{task_name}"', file=sys.stderr)
+        print(f'Available tasks: {", ".join(sorted(rules.keys()))}', file=sys.stderr)
+        sys.exit(1)
+
+    always_load = task['always_load']
+    load_if_exists = task['load_if_exists']
+    budget = task['per_brand_budget']
+
+    assembled = []
+    total_tokens = 0
+
+    for brand in brand_names:
+        brand_dir = os.path.join(brands_dir, brand)
+        if not os.path.isdir(brand_dir):
+            print(f'Warning: brand "{brand}" not found', file=sys.stderr)
+            continue
+
+        brand_chunks = []
+        brand_tokens = 0
+
+        for domain in always_load:
+            chunk_path = os.path.join(brand_dir, f'{domain}.yaml')
+            if os.path.exists(chunk_path):
+                with open(chunk_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                meta, data = parse_chunk_yaml(content)
+                tokens = int(meta.get('token_count', 0)) or count_tokens(data)
+                brand_chunks.append({
+                    'brand': brand,
+                    'domain': domain,
+                    'required': True,
+                    'tokens': tokens,
+                    'data': data,
+                })
+                brand_tokens += tokens
+
+        for domain in load_if_exists:
+            if budget > 0 and brand_tokens >= budget:
+                break
+            chunk_path = os.path.join(brand_dir, f'{domain}.yaml')
+            if os.path.exists(chunk_path):
+                with open(chunk_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                meta, data = parse_chunk_yaml(content)
+                tokens = int(meta.get('token_count', 0)) or count_tokens(data)
+                if budget > 0 and brand_tokens + tokens > budget * 1.2:
+                    continue
+                brand_chunks.append({
+                    'brand': brand,
+                    'domain': domain,
+                    'required': False,
+                    'tokens': tokens,
+                    'data': data,
+                })
+                brand_tokens += tokens
+
+        assembled.append({
+            'brand': brand,
+            'chunks': brand_chunks,
+            'total_tokens': brand_tokens,
+        })
+        total_tokens += brand_tokens
+
+    return assembled, total_tokens
+
+
+# ── Output ─────────────────────────────────────────
+def format_output(assembled, task_name, total_tokens):
+    lines = []
+    lines.append(f'# Context: {task_name}')
+    lines.append(f'# Brands: {len(assembled)} | Tokens: ~{total_tokens}')
+    lines.append('')
+
+    for entry in assembled:
+        brand = entry['brand']
+        lines.append(f'# ═══ {brand.upper()} ({entry["total_tokens"]} tokens) ═══')
+        lines.append('')
+        for chunk in entry['chunks']:
+            lines.append(f'# ── {chunk["domain"]} ──')
+            lines.append(chunk['data'])
+            lines.append('')
+    return '\n'.join(lines)
+
+
+# ── Brand index helpers ────────────────────────────
+def _read_field(filepath, field):
+    if not os.path.exists(filepath):
+        return ""
+    with open(filepath) as f:
+        for line in f:
+            if line.startswith(f"{field}:"):
+                return line.split(":", 1)[1].strip().strip('"').strip("'")
+    return ""
+
+
+def _build_index(brands_dir):
+    idx = {}
+    for d in sorted(os.listdir(brands_dir)):
+        dp = os.path.join(brands_dir, d)
+        if not os.path.isdir(dp) or d.startswith("_"):
+            continue
+        pos = os.path.join(dp, "positioning.yaml")
+        comp = os.path.join(dp, "competitive.yaml")
+        idx[d] = {
+            "category": _read_field(pos, "category") or _read_field(comp, "category"),
+            "primary_archetype": _read_field(pos, "primary_archetype"),
+        }
+    return idx
+
+
+# ── Main ───────────────────────────────────────────
+def main():
+    parser = argparse.ArgumentParser(description='Assemble brand chunks for agent tasks')
+    parser.add_argument('task', nargs='?', help='Task profile name')
+    parser.add_argument('brands', nargs='*', help='Brand slugs')
+    parser.add_argument('--brands-dir', default=DEFAULT_BRANDS_DIR)
+    parser.add_argument('--rules', default=DEFAULT_RULES)
+    parser.add_argument('--list-tasks', action='store_true')
+    parser.add_argument('--list-brands', action='store_true')
+    parser.add_argument('--search', help='Search brands by keyword')
+    parser.add_argument('--category', help='Load all brands in a category')
+    args = parser.parse_args()
+
+    if not os.path.exists(args.rules):
+        print(f'Error: retrieval rules not found: {args.rules}', file=sys.stderr)
+        print(f'Run: cd ~/.claude/skills/brandkit && ./setup', file=sys.stderr)
+        sys.exit(1)
+
+    with open(args.rules, 'r', encoding='utf-8') as f:
+        rules = parse_rules_yaml(f.read())
+
+    if args.list_tasks:
+        print('Available task profiles:\n')
+        for name, task in sorted(rules.items()):
+            always = ', '.join(task['always_load'])
+            print(f'  {name:<25} {task["description"]}')
+            print(f'  {"":25} always: {always} | budget: {task["per_brand_budget"]}t')
+            print()
+        return
+
+    if args.list_brands:
+        idx = _build_index(args.brands_dir)
+        print(f'Available brands ({len(idx)}):\n')
+        for name, info in sorted(idx.items()):
+            cat = info["category"] or "?"
+            arch = info["primary_archetype"] or "?"
+            chunks = len([f for f in os.listdir(os.path.join(args.brands_dir, name))
+                         if f.endswith('.yaml')])
+            print(f'  {name:<25} {cat:<20} {arch:<20} {chunks} chunks')
+        return
+
+    if args.search:
+        idx = _build_index(args.brands_dir)
+        terms = args.search.lower().split()
+        hits = []
+        for k, v in idx.items():
+            haystack = f'{k} {v["category"]} {v["primary_archetype"]}'.lower()
+            score = sum(1 for t in terms if t in haystack)
+            if score > 0:
+                hits.append((score, k, v))
+        hits.sort(key=lambda x: -x[0])
+        print(f'Search: "{args.search}" — {len(hits)} matches\n')
+        for _, k, v in hits[:20]:
+            print(f'  {k:<25} {v["category"]:<20} {v["primary_archetype"]}')
+        return
+
+    if args.category:
+        idx = _build_index(args.brands_dir)
+        args.brands = [k for k, v in idx.items() if v["category"] == args.category]
+
+    if not args.task:
+        parser.print_help()
+        sys.exit(1)
+
+    if not args.brands:
+        print('Error: specify brand name(s)', file=sys.stderr)
+        sys.exit(1)
+
+    assembled, total_tokens = assemble_context(
+        args.task, args.brands, args.brands_dir, rules
+    )
+    print(format_output(assembled, args.task, total_tokens))
+
+
+if __name__ == '__main__':
+    main()

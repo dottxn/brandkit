@@ -1,0 +1,55 @@
+chunk_id: "seed-health-anti-patterns"
+brand: "seed-health"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "seed-health-soul"
+  - "seed-health-visual-dna"
+token_count: 217
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Seed Health. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Pharmaceutical pseudo-science aesthetic"
+    reasoning: Genuine academic presentation translated for consumer understanding
+  - pattern: Wellness industry pastels and softness
+    reasoning: Scientific framework colors with specific meaning per product
+  - pattern: Isolated product focus
+    reasoning: Connected ecosystem understanding (microbiome as system)
+  - pattern: Abstract health metaphors
+    reasoning: "Specific scientific imagery (bacteria, microbes, DNA)"
+strategic:
+  - pattern: Educating consumers about products
+    reasoning: "Educating consumers about microbiome science, then showing product fit"
+  - pattern: Selling supplements as health magic
+    reasoning: Positioning supplements as tools supporting biological system
+  - pattern: Centralizing authority in company
+    reasoning: Positioning research as primary authority
+  - pattern: Hiding scientific limitations
+    reasoning: "Transparent about what's known, unknown, and emerging"
+tonal:
+  - pattern: "Sales-driven marketing"
+    reasoning: "Education-first positioning leading to commercial application"
+  - pattern: "Fear-based health messaging"
+    reasoning: "Possibility-based health messaging (microbes as opportunity)"
+  - pattern: Brand authority on health
+    reasoning: Research authority on microbiome science
+  - pattern: Supplement consumption
+    reasoning: System understanding leading to informed choices
+cultural:
+  - pattern: Health as individual biology
+    reasoning: "Health as human-microbial system"
+  - pattern: Microbiome as niche science
+    reasoning: Microbiome as fundamental to health understanding
+  - pattern: Bacteria as threat
+    reasoning: Bacteria as collaborative system
+  - pattern: Supplementation as intervention
+    reasoning: Supplementation as ecological support

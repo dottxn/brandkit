@@ -1,0 +1,360 @@
+chunk_id: "hermès-visual-language"
+brand: "hermès"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "hermès-visual-dna"
+  - "hermès-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Hermès. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "maison-editorial"
+      touchpoints:
+        - "hermes.com campaign and editorial pages"
+        - "Seasonal campaign photography (e.g. Craig McDean, Faubourg Calling SS24)"
+        - "Le Monde d'Hermès magazine (600,000 copies, 11 languages, editor Olivier Wicker)"
+        - "Store window displays"
+      description: >-
+        Warm, narrative, artisanal. The orange (#f37021) threads through
+        everything. Campaign photography by photographers like Craig McDean
+        (Faubourg Calling SS24) uses natural light, warm colour temperature,
+        and a sense of place — the product exists in a crafted world, not a
+        studio vacuum. Memphis Bold (Rudolf Wolf / Stempel, 1929) provides
+        typographic authority without coldness. Le Monde d'Hermès is the
+        purest expression — a 600,000-copy, 11-language magazine that
+        treats the brand as a cultural institution, not a retailer.
+      differs_from_default_by: >-
+        This is the baseline — the fullest expression of the Hermès visual
+        world. All other modes are simplifications of this richness.
+
+    - name: "product-craft"
+      touchpoints:
+        - "hermes.com product pages and e-commerce"
+        - "Product catalogues"
+        - "In-store product display"
+      description: >-
+        Product on warm neutral background, precision-lit to reveal material
+        quality — grain of leather, weight of silk, finish of hardware.
+        Multiple angles per product. The photography is closer to still-life
+        than catalogue — each image treats the object as a piece of
+        craftsmanship worthy of contemplation. No people. The orange
+        appears in accent details (stitching, box edge, ribbon). Typography
+        is minimal — product name, material, price.
+      differs_from_default_by: >-
+        The editorial narrative recedes. The product stands alone. The
+        photography is warmer and more intimate than LV or Chanel's product
+        photography — the warmth communicates handcraft.
+
+    - name: "illustration-narrative"
+      touchpoints:
+        - "Hermès scarves and silk products (300+ illustrators, 2,000+ designs)"
+        - "Linda Merad website illustrations (January 2026, 12 hand-drawn pieces)"
+        - "hermes.com seasonal illustrations"
+        - "Store window illustrations"
+      description: >-
+        Hand-drawn, narrative, whimsical. Hermès has the most significant
+        illustration programme of any luxury house — each silk scarf
+        requires 700+ hours of screen engraving and is created by one of
+        300+ commissioned illustrators. Linda Merad's January 2026 website
+        illustrations (12 pieces, drawn in pencil then finished digitally)
+        continue this tradition in digital form. The illustration register
+        is warmer, more playful, and more human than the photographic modes.
+      differs_from_default_by: >-
+        Photography gives way to illustration. The brand shifts from
+        documenting objects to narrating worlds. The orange is present but
+        the palette expands dramatically through illustrative colour.
+
+    - name: "architectural-retail"
+      touchpoints:
+        - "Hermès flagship stores (designed by RDAI / Denis Montel, successor to Rena Dumas)"
+        - "Pop-up and travelling exhibitions"
+        - "Festival des Métiers craft demonstrations"
+      description: >-
+        The brand in three dimensions. RDAI (Denis Montel, continuing Rena
+        Dumas' practice) designs all Hermès stores — each is unique to its
+        location, incorporating local materials and architectural references.
+        The visual language in physical space is warmer, more natural, and
+        more architecturally ambitious than any luxury competitor. Materials
+        are natural — wood, leather, stone — and the spaces feel residential
+        rather than retail. The orange appears in details, not dominance.
+      differs_from_default_by: >-
+        Two-dimensional visual language becomes three-dimensional spatial
+        experience. The craft ethos that defines the brand's photography
+        and illustration extends into architecture and materials.
+
+  notes: >-
+    Hermès operates distinct creative directions for leather goods, silk,
+    ready-to-wear, homeware, and fragrance. Each category has its own
+    visual nuances within the overarching system. The silk illustration
+    programme is particularly distinct and could warrant its own
+    visual-language chunk at depth.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "Craig McDean — Faubourg Calling SS24 campaign"
+    - "hermes.com campaign and product photography (observed February 2026)"
+    - "Le Monde d'Hermès magazine"
+  subject_and_framing: >-
+    Campaign: models and objects in crafted environments — interiors,
+    landscapes, ateliers. Craig McDean's Faubourg Calling SS24 uses
+    warm interiors and golden light. The framing is generous — subjects
+    have space around them, compositions feel unhurried. The product is
+    present but integrated into a scene rather than isolated. Product:
+    close and intimate. Leather grain, silk drape, hardware finish — the
+    camera gets close enough to feel the material. Compositions are
+    considered, not systematic — each product photograph has an individual
+    quality, unlike the grid-based consistency of LV or Gucci.
+  casting_observed: >-
+    Campaign casting skews toward elegance and individuality rather than
+    conventional model beauty. Hermès models look like interesting people,
+    not aspirational archetypes. The casting is more restrained than LV
+    (fewer celebrities, less spectacle) and warmer than Chanel (less
+    severe). Athletes, artists, and cultural figures appear in editorial
+    content. The casting communicates 'a life well-considered' rather than
+    'a lifestyle to aspire to.'
+  lighting_and_colour: >-
+    Warm, natural, golden. Hermès photography has a consistent warmth that
+    distinguishes it from Chanel (cooler, black-and-white tradition) and
+    LV (more variable by creative director). Natural light is preferred —
+    window light in interiors, golden hour outdoors, the quality of light
+    that suggests a well-made home. The orange (#f37021) influences the
+    overall colour temperature — the world of Hermès is permanently
+    warm. Studio product lighting is warmer than the industry norm —
+    slightly amber, creating an artisanal atmosphere.
+  post_production: >-
+    Restrained. Colour grading enhances warmth without making it artificial.
+    Material textures are preserved with precision — leather grain, silk
+    lustre, and hardware reflections are the subject of the photography
+    and cannot be compromised. Skin in campaign photography is natural —
+    no heavy retouching. The post-production philosophy mirrors the craft
+    philosophy — visible hand, not visible technology.
+  visual_boundaries:
+    stated_exclusions: >-
+      Hermès positions against overt luxury display — no red carpets,
+      no celebrity endorsement campaigns, no 'aspirational lifestyle'
+      photography of the kind used by LV, Gucci, or Dior. The brand
+      also avoids discount, sale, or promotional visual language.
+    observed_exceptions: >-
+      The Apple Watch Hermès collaboration places the brand in a technology
+      context that breaks the artisanal baseline. Some men's ready-to-wear
+      campaign photography uses a more urban, contemporary register than
+      the warm-artisanal baseline.
+    genuine_absence: >-
+      Based on hermes.com and Le Monde d'Hermès review: no visible pricing
+      in editorial or campaign imagery, no 'new season' promotional
+      urgency, no competitive references, no influencer or user-generated
+      content in official channels. Hermès does not use social media for
+      sales-driving content — the absence of commerce pressure is itself
+      a visual quality.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "Linda Merad — hermes.com illustrations (January 2026, 12 pieces, pencil then digital)"
+    - "Hermès silk scarf programme (300+ illustrators, 2,000+ designs, 700+ hours screen engraving per design)"
+    - "hermes.com seasonal illustrations"
+    - "Le Monde d'Hermès editorial illustration"
+  uses_illustration: true
+  illustration_style: >-
+    Hand-drawn at origin, refined for production. Linda Merad's January
+    2026 website illustrations are drawn in pencil, then finished
+    digitally — 12 individual pieces with narrative warmth and personal
+    line quality. The silk scarf programme is the brand's deepest
+    illustration commitment — 300+ illustrators creating 2,000+ designs
+    over the brand's history, each requiring 700+ hours of screen
+    engraving. Illustration styles vary by illustrator (Hermès commissions
+    individual voices, not a house style) but share qualities: narrative
+    depth, visual wit, natural subjects (animals, landscapes, mythology,
+    equestrian themes), and a crafted quality that is unmistakably Hermès.
+  illustration_role: >-
+    Central, not supplementary. Unlike most luxury brands where illustration
+    is decorative, at Hermès illustration carries the brand's storytelling.
+    Website illustrations set seasonal tone. Scarf illustrations are
+    collectible art objects. Le Monde d'Hermès uses illustration editorially.
+    Store windows feature illustrative installations. The illustration
+    programme is the single most distinctive visual asset Hermès has — no
+    other luxury house commissions illustration at this scale or depth.
+  icon_style: >-
+    The Duc carriage and horse logo is the primary brand icon — it appears
+    at modest scale and is never modified or stylised beyond its historical
+    form. The Duc is hand-drawn in origin, consistent with the brand's
+    illustration-forward identity. Functional icons on hermes.com are
+    minimal and do not carry brand character.
+  graphic_devices: >-
+    Orange (#f37021) as colour field, border, and accent — the most
+    recognisable colour-as-device in luxury. The orange box (packaging) is
+    itself a cultural object. The Bolduc ribbon (the brown-and-gold
+    printed cotton ribbon used on packaging). The Duc carriage logo. The
+    hand-drawn quality that threads through all brand touchpoints — from
+    scarf illustration to website illustration to invitation design. The
+    consistent presence of the hand in a category that increasingly relies
+    on digital production.
+  motion_language: >-
+    Limited motion work observed compared to photographic and illustrative
+    output. Campaign films are warm, slow-paced, craft-focused — close-ups
+    of hands working leather, silk being printed, objects being assembled.
+    The motion tempo is unhurried — consistent with the brand's refusal
+    to be rushed. No fast cuts, no urgency, no social-media-native pacing
+    in official content.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Memphis Bold (Rudolf Wolf / Stempel foundry, 1929)"
+    - "hermes.com observed February 2026"
+    - "Le Monde d'Hermès typography"
+    - "Packaging and store signage"
+  signature_move: >-
+    Memphis Bold (Rudolf Wolf / Stempel, 1929) — a slab serif that Hermès
+    has used for decades. In a luxury category dominated by sans-serifs
+    (Futura at LV, Didone variations at fashion houses), Memphis Bold is
+    distinctive: warm, sturdy, with bracketed slab serifs that feel crafted
+    rather than geometric. The typeface has the visual weight of a hand-
+    stamped leather impression. It communicates permanence and craft in a
+    way that no geometric sans-serif can. This is the single most
+    distinctive typographic choice in luxury branding.
+  what_would_look_wrong: >-
+    A geometric sans-serif as the primary face (would look like every
+    other luxury brand). A modern Didone serif (too fashion, too Vogue).
+    Light or thin type weights (Memphis Bold's weight is the point).
+    Custom or trendy typefaces (Memphis Bold's age is the point — it has
+    been around longer than most luxury brands). Digital-native type (too
+    tech, not enough craft).
+  case_convention: >-
+    'HERMÈS' in uppercase for the lockup. Mixed case for most other
+    applications. Product names in title case ('Birkin', 'Kelly', 'Carré').
+    The accent on the 'è' is always present and correctly rendered — this
+    is a non-negotiable detail.
+  display_vs_body: >-
+    Display: Memphis Bold, warm and commanding. The slab serifs give
+    headlines visual authority that feels like it has been carved rather
+    than typed. Body: a supporting serif or sans-serif (varies by context)
+    that defers to Memphis Bold. On hermes.com, body text is a clean
+    sans-serif for readability. In Le Monde d'Hermès, body text is
+    serif — matching the editorial register. The hierarchy is clear:
+    Memphis Bold announces, the body type informs.
+  type_and_image: >-
+    Type defers to photography and illustration. Memphis Bold appears at
+    moderate scale — never competing with the imagery or the product.
+    In Le Monde d'Hermès, type and illustration coexist editorially —
+    the typographic treatment is warm and generous, matching the
+    illustration quality. On product pages, type is minimal — product
+    name, material, colour. The brand lets the object speak.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "hermes.com (observed February 2026)"
+    - "Le Monde d'Hermès magazine"
+    - "Store display and window compositions"
+  signature_composition: >-
+    Generous, considered, unhurried. hermes.com uses full-width editorial
+    sections that alternate between photography, illustration, and product.
+    Each section has room to breathe — compositions are never crowded. The
+    layout rhythm alternates between immersive (full-bleed campaign imagery)
+    and intimate (close product views). Compared to LV (more commercial
+    density in product sections) or Chanel (more dramatic compositional
+    contrast), Hermès layouts feel warm and residential — like the pages
+    of a well-made book.
+  density_and_whitespace: >-
+    Moderate density, generous whitespace. The site is spacious without
+    being sparse — there is content depth, but each element has room.
+    The whitespace communicates quality and consideration — the opposite
+    of the dense, urgent layouts of fast fashion or high-street retail.
+    Le Monde d'Hermès is particularly generous in its use of white space —
+    magazine pages that allow single images or illustrations to occupy
+    full spreads.
+  format_preferences: >-
+    Mixed formats — the brand is comfortable with square, portrait, and
+    landscape depending on the content. Le Monde d'Hermès uses magazine
+    spreads and full-page bleed. The website uses tall, scrollable
+    sections. No single dominant format — the content determines the
+    composition, not a system.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "resister"
+  relationship_to_trends: >-
+    Hermès is the most trend-resistant major luxury brand. The visual
+    identity has evolved slowly over decades — Memphis Bold has been the
+    brand's typeface for longer than most contemporary design trends have
+    existed. The brand's relationship to trends is to outlast them rather
+    than adopt them.
+  examples:
+    - trend: "Digital-first luxury presentation"
+      stance: "selective-adopter"
+      evidence: >-
+        hermes.com features Linda Merad's hand-drawn illustrations
+        (January 2026) as the digital homepage experience rather than
+        the video, animation, or immersive 3D that competitors use.
+        The digital experience is crafted but deliberately analogue in
+        character — drawn, not rendered.
+      reasoning: >-
+        Hermès uses digital platforms to extend its craft ethos rather
+        than to adopt digital-native aesthetics. The hand-drawn quality
+        on a digital screen is itself the brand statement.
+    - trend: "Influencer and social-media-native marketing"
+      stance: "resister"
+      evidence: >-
+        Hermès does not use influencer partnerships, does not create
+        TikTok-native content, and does not participate in social media
+        trends or memes. The brand's social media presence is essentially
+        a gallery — the same editorial and product photography that
+        appears elsewhere, reformatted for the platform.
+      reasoning: >-
+        Hermès' brand value depends on scarcity and exclusivity. Social
+        media-native marketing (which depends on accessibility and
+        participation) contradicts this positioning. The brand's absence
+        from social media conventions IS its social media strategy.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "rigid"
+  what_stays: >-
+    Orange (#f37021). Memphis Bold typography. The craft positioning. The
+    warmth and narrative quality of the visual language. The Duc carriage
+    logo. No collaboration diminishes the artisanal quality or positions
+    Hermès as a trend-participant.
+  what_bends: >-
+    Very little. The Apple Watch Hermès is the primary example — the
+    Hermès watch face and band design maintain the brand's warmth within
+    Apple's digital environment. The illustration programme inherently
+    bends — each of 300+ illustrators brings their own style, but within
+    the Hermès narrative vocabulary.
+  notable_examples: >-
+    Apple Watch Hermès (2015-present): the most significant ongoing
+    collaboration. Hermès leather straps and custom watch faces bring the
+    brand's material and visual warmth into Apple's digital ecosystem.
+    The watch face designs use the Hermès illustration vocabulary — hand-
+    drawn numerals, playful figures, the Hermès colour palette. This is
+    the rare collaboration where both brands' visual identities coexist
+    without one dominating. Hermès does not engage in the fashion-x-
+    streetwear collaborations common at LV, Gucci, or Dior — the brand
+    collaborates with craft, technology, and art rather than subculture.

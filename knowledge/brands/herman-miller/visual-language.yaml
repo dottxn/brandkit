@@ -1,0 +1,348 @@
+chunk_id: "herman-miller-visual-language"
+brand: "herman-miller"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "herman-miller-visual-dna"
+  - "herman-miller-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Herman Miller. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "product-design-authority"
+      touchpoints:
+        - "hermanmiller.com product pages"
+        - "brandstandards.hermanmiller.com (public brand standards site)"
+        - "Product catalogues and specification sheets"
+        - "Herman Miller retail stores"
+      description: >-
+        White or light grey background, product as sculpture. Studio-lit
+        with precise, controlled shadows that reveal form. The furniture
+        is the subject — no people, no room context. Multiple angles per
+        product. The Order identity system (Jesse Reed and Hamish Smyth,
+        first rebrand in 25 years) uses Söhne (Klim Type Foundry / Kris
+        Sowersby) and a freed M symbol. Typography is minimal — product
+        name, designer credit, materials. The visual register says 'design
+        object' not 'furniture for sale.'
+      differs_from_default_by: >-
+        This is the baseline. All other modes depart from this
+        gallery-like, product-as-art register.
+
+    - name: "lifestyle-aspiration"
+      touchpoints:
+        - "hermanmiller.com lifestyle and room-scene imagery"
+        - "'Sit Your Best' campaign (look.inc, photography by Max Siedentopf)"
+        - "Instagram and social media content"
+        - "Herman Miller retail store environments"
+      description: >-
+        Product in context — homes, offices, creative studios. People
+        sitting in, working at, or living with the furniture. Warmer
+        lighting, more environmental. The 'Sit Your Best' campaign
+        (look.inc, photographer Max Siedentopf) introduced a more
+        playful, human register — real people in real settings, slightly
+        quirky compositions. This mode bridges the design-authority
+        positioning with commercial accessibility.
+      differs_from_default_by: >-
+        People appear. Environments provide context. The gallery precision
+        loosens. The visual register shifts from 'design museum' to
+        'designed life.'
+
+    - name: "gaming-performance"
+      touchpoints:
+        - "Herman Miller x Logitech G product pages"
+        - "hermanmiller.com/gaming"
+        - "Gaming-focused social content"
+        - "Esports sponsorship materials"
+      description: >-
+        Darker, more saturated, RGB-inflected. Dark backgrounds with
+        coloured accent lighting. The Embody Gaming Chair is shot in
+        the visual language of gaming peripherals — dramatic angles,
+        coloured backlighting, close-ups of technical details. Typography
+        is bolder. The visual register borrows from gaming culture while
+        maintaining Herman Miller's precision and quality signal.
+      differs_from_default_by: >-
+        Dark palette, coloured lighting, more aggressive compositions.
+        The design-authority baseline is filtered through gaming-culture
+        aesthetics. This is the mode where Herman Miller speaks the
+        language of its partner (Logitech G) rather than its own.
+
+    - name: "heritage-archive"
+      touchpoints:
+        - "hermanmiller.com/stories and editorial content"
+        - "Museum and exhibition materials"
+        - "Anniversary and retrospective campaigns"
+      description: >-
+        Archival photography, mid-century colour palettes, Alexander
+        Girard textile patterns, the original Irving Harper M logo (1946).
+        This mode draws on Herman Miller's genuine design heritage —
+        Eames, Girard, Nelson, Noguchi. Photography is vintage or
+        vintage-referenced. The visual register is 'design museum
+        collection' — reverent, educational, historically grounded.
+      differs_from_default_by: >-
+        Historical rather than contemporary. The current Söhne-based
+        identity recedes in favour of archival visual material. The
+        heritage mode legitimises the contemporary brand by proving
+        the lineage.
+
+  notes: >-
+    Herman Miller operates under MillerKnoll (parent company since 2021
+    Knoll acquisition). The MillerKnoll corporate identity is separate
+    and should not be conflated with the Herman Miller consumer brand.
+    Knoll also has its own distinct visual language.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "'Sit Your Best' campaign (look.inc agency, Max Siedentopf photographer)"
+    - "hermanmiller.com product photography (observed February 2026)"
+    - "brandstandards.hermanmiller.com"
+    - "Heritage designers: Irving Harper (M logo, 1946), John Massey (Helvetica system, 1968), Alexander Girard (textiles)"
+  subject_and_framing: >-
+    Product photography: single piece of furniture on white or light grey,
+    shot at 3/4 angle with additional detail views (joints, materials,
+    adjustment mechanisms). The framing is generous — the piece floats
+    in space with ample negative space around it. Each product receives
+    the visual treatment of a design object in a gallery. Lifestyle:
+    the 'Sit Your Best' campaign (Max Siedentopf for look.inc) broke from
+    the gallery register with real people in warm, domestic settings —
+    slightly off-kilter compositions, natural postures, the chair as a
+    natural part of life rather than an isolated object. The Siedentopf
+    work is warmer and more playful than the previous Herman Miller
+    lifestyle photography.
+  casting_observed: >-
+    'Sit Your Best' features diverse casting — different ages, body types,
+    ethnicities, all shown in natural relationship with the furniture
+    (sitting, adjusting, slouching, working). The casting is anti-
+    aspirational in the traditional sense — these are not models in
+    perfect homes, they are real people in lived-in spaces. This is a
+    deliberate shift from the brand's historical tendency to show
+    furniture without people.
+  lighting_and_colour: >-
+    Product: high-key, even, designed to show material and form accurately.
+    Shadows are controlled and consistent across the product range —
+    the studio lighting is a system, not a style. Lifestyle (Siedentopf):
+    warmer, more natural, daylight-dominant. Interior scenes use practical
+    lighting. The colour palette is neutral with the furniture's colour
+    as the accent — the Herman Miller palette of black, white, red, and
+    natural materials carries through. Compared to Vitra (cooler, more
+    European editorial) and Knoll (warmer, more residential), Herman
+    Miller's product lighting is more controlled and design-focused.
+  post_production: >-
+    Product photography: minimal post-production beyond colour accuracy.
+    The materials are the story — walnut grain, mesh texture, cast
+    aluminium finish must be accurately represented. Lifestyle:
+    Siedentopf's work has a slightly warm grade but is not heavily
+    processed. The brand avoids trendy colour grading — the visual
+    system is designed to age well rather than look of-the-moment.
+  visual_boundaries:
+    stated_exclusions: >-
+      Herman Miller's positioning excludes mass-market furniture codes —
+      no price-point callouts in hero imagery, no 'room makeover' before-
+      and-after, no competitive comparison to IKEA or mass retailers.
+    observed_exceptions: >-
+      The gaming mode (Herman Miller x Logitech G) uses dark, RGB-lit
+      photography that contradicts the white-gallery baseline. The Siedentopf
+      'Sit Your Best' campaign introduced slightly irreverent compositions
+      that broke the previous formal register.
+    genuine_absence: >-
+      Based on hermanmiller.com and campaign review: no visible price
+      tags in hero imagery (unlike mass-market furniture), no flat-pack or
+      assembly imagery, no competitive comparisons, no children in product
+      photography (the brand targets adults and professionals).
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "Order (Jesse Reed, Hamish Smyth) — identity redesign"
+    - "brandstandards.hermanmiller.com"
+    - "Alexander Girard textile archive"
+  uses_illustration: true
+  illustration_style: >-
+    Historical illustration from the Alexander Girard archive appears in
+    heritage and editorial contexts — geometric folk-art patterns, bold
+    colours, playful forms. Contemporary illustration is minimal — the
+    brand relies on photography and the graphic identity system. When
+    illustration appears in current work, it is geometric, clean, and
+    connected to the Girard legacy.
+  illustration_role: >-
+    Heritage and editorial enrichment. Girard patterns appear on textiles,
+    in brand storytelling, and in special editions. Contemporary
+    illustration serves functional roles — assembly diagrams, specification
+    drawings, technical views that show product adjustment.
+  icon_style: >-
+    Minimal, geometric, consistent with Söhne's clean aesthetic. The icon
+    set is functional — adjustment controls, material indicators, size
+    guides. Not a distinctive element of the identity.
+  graphic_devices: >-
+    The freed M symbol (redesigned by Order from Irving Harper's 1946
+    original — the M has been freed from the circle it previously sat in).
+    This is the brand's most recognisable graphic device. The red-on-white
+    or red-on-black M functions at all scales. Horizontal rules and clean
+    dividers structure layouts. The brand uses negative space as a graphic
+    device — the absence of decoration IS the design statement. Alexander
+    Girard's textile patterns serve as a secondary graphic vocabulary for
+    heritage contexts.
+  motion_language: >-
+    Limited motion work observed. The 'Sit Your Best' campaign includes
+    video content with a warm, observational quality — people moving
+    naturally in and around furniture. No fast cuts or dramatic motion.
+    Product pages on hermanmiller.com use 360-degree rotation (interactive,
+    not animated) as the primary motion element. The motion language is
+    restrained — consistent with a brand that values precision over energy.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Söhne (Kris Sowersby / Klim Type Foundry) — adopted in Order rebrand"
+    - "brandstandards.hermanmiller.com"
+    - "Order (Jesse Reed, Hamish Smyth) — identity system"
+    - "Historical: Helvetica (John Massey, adopted 1968)"
+  signature_move: >-
+    Söhne (Kris Sowersby / Klim Type Foundry) used across the entire
+    identity — from display headlines to body text to product labels. The
+    move from Helvetica (which Herman Miller adopted under John Massey in
+    1968 and used for over 50 years) to Söhne was the Order rebrand's most
+    significant typographic decision. Söhne reads as a refined, contemporary
+    evolution of the neo-grotesque tradition that Massey established — it
+    acknowledges the history while signalling modernity. The M symbol
+    alongside Söhne is the brand's irreducible typographic signature.
+  what_would_look_wrong: >-
+    Helvetica (would immediately read as 'old Herman Miller' — the
+    predecessor that Söhne specifically replaced). Serif type of any kind.
+    Decorative or display-only typefaces. Script or hand-drawn type. Any
+    typeface with personality that competes with the furniture. Tight
+    tracking — the system breathes. Condensed weights — the brand needs
+    horizontal space.
+  case_convention: >-
+    Mixed case throughout. 'Herman Miller' in title case. Product names
+    in title case ('Eames Lounge Chair', 'Aeron'). Headlines in sentence
+    case. No all-caps convention — the typography is confident but not
+    loud.
+  display_vs_body: >-
+    Söhne at different weights serves both roles. Display: Söhne Bold or
+    Medium at generous sizes, clean and commanding. Body: Söhne Book or
+    Regular, readable and restrained. The single-family approach creates
+    unity across every touchpoint — from website to packaging to retail
+    signage. The weight contrast (bold display, book body) provides
+    hierarchy without introducing a second typeface.
+  type_and_image: >-
+    Type defers to product photography. The typography is never louder
+    than the furniture — it introduces, labels, and recedes. Product names
+    and designer credits appear in modest sizes alongside or below the
+    product image. In editorial contexts, type can be larger but still
+    measured. The hierarchy is always: product first, type second. This is
+    the opposite of fashion or lifestyle brands where type can dominate —
+    at Herman Miller, the designed object speaks louder than any headline.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "hermanmiller.com product pages and homepage (February 2026)"
+    - "brandstandards.hermanmiller.com"
+    - "Order identity system documentation"
+  signature_composition: >-
+    Product-centred with generous negative space. The composition borrows
+    from gallery exhibition — each piece of furniture is presented with
+    the visual weight and space you would give a sculpture in a white
+    gallery. This approach is distinctive in the furniture category — most
+    competitors (IKEA, West Elm, CB2) use room-scene compositions. Herman
+    Miller's gallery approach positions the product as design, not décor.
+    The Siedentopf lifestyle work is more environmental but maintains
+    generous spacing between elements.
+  density_and_whitespace: >-
+    Low density. The brand uses whitespace assertively — more than most
+    furniture competitors and closer to the density of a luxury fashion
+    brand's website. hermanmiller.com product pages are spacious with
+    single products per section and ample scroll space. This is consistent
+    with the design-authority positioning — the whitespace says 'you can
+    take your time with this object.'
+  format_preferences: >-
+    Square and landscape for product photography. Wide landscape for room
+    scenes and lifestyle. Vertical for social. The product photography
+    aspect ratio is generous — never cropped tight. The full form of the
+    furniture is always visible in hero imagery.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Herman Miller's visual language evolves slowly and deliberately. The
+    Order rebrand (first in 25 years) was itself an event — the brand
+    doesn't chase trends, it updates in significant, considered moves.
+    Design trends that serve clarity and product communication are adopted;
+    trends that would date the brand are avoided.
+  examples:
+    - trend: "Rebrand as cultural event"
+      stance: "selective-adopter"
+      evidence: >-
+        The Order rebrand (Jesse Reed, Hamish Smyth) was covered by
+        design press as a significant event — the first visual update
+        in 25 years. The shift from Helvetica to Söhne and the freed M
+        symbol were both covered as design-world news. The public brand
+        standards site (brandstandards.hermanmiller.com) is itself a
+        trend — making brand guidelines publicly accessible.
+      reasoning: >-
+        Herman Miller's design heritage means any identity change carries
+        cultural weight. The brand leveraged this — the rebrand functioned
+        as both a corporate update and a design-community event.
+    - trend: "Gaming-as-lifestyle market expansion"
+      stance: "selective-adopter"
+      evidence: >-
+        The Herman Miller x Logitech G partnership (Embody Gaming Chair,
+        launched 2020) brought Herman Miller into gaming culture with
+        dedicated visual treatment — dark backgrounds, RGB accent lighting,
+        gaming-native photography. This was an early move for a premium
+        furniture brand into the gaming space.
+      reasoning: >-
+        The gaming market represents a new customer demographic for Herman
+        Miller. The visual adaptation acknowledges gaming culture without
+        abandoning the brand's quality signal — the product is still shot
+        with Herman Miller precision, just in a darker context.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    Söhne typography. The M symbol. Product-as-design-object positioning.
+    Studio-quality product photography. No collaboration cheapens the
+    product or positions it as commodity furniture.
+  what_bends: >-
+    Background environment and lighting can adapt (dark for gaming, warm
+    for lifestyle). Supporting palette can expand for partner-specific
+    contexts. Photography style can shift from gallery-precision to
+    lifestyle-warmth depending on the collaboration context.
+  notable_examples: >-
+    Herman Miller x Logitech G (2020-present): dedicated Embody Gaming
+    Chair with gaming-native visual treatment. The product maintains
+    Herman Miller's design quality while the surrounding visual language
+    adapts to Logitech G's darker, RGB-inflected gaming aesthetic. Herman
+    Miller x HAY (ongoing): Danish design sensibility blended with Herman
+    Miller's American heritage — lighter colours, Scandinavian simplicity,
+    the photography shifts to warmer, more residential tones. Both
+    collaborations demonstrate the pattern: the product quality stays,
+    the visual context bends.

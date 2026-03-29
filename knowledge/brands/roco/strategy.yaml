@@ -1,0 +1,36 @@
+chunk_id: "roco-strategy"
+brand: roco
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "roco-positioning"
+token_count: 91
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Ro. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="35-6">We believe that most of the problems in our healthcare system stem from one single underlying cause: our healthcare system does not incentivize building for patients.</cite>
+mission: >-
+  <cite index="35-11">To revolutionize healthcare by building accessible, impactful, and trusted care that people want.</cite>
+vision: >-
+  <cite index="35-10">A patient-centric healthcare system that radically improves life for every one of us.</cite>
+values:
+  - Fight for patients
+  - Think Big
+  - Operate with urgency
+  - "Give feedback, seek feedback"
+  - Care more about getting it right
+  - Big heart
+  - Work hard
+  - Will to win
+  - Full ownership
+  - Deliver results

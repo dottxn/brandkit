@@ -1,0 +1,32 @@
+chunk_id: "espn-insights"
+brand: espn
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "espn-soul"
+  - "espn-positioning"
+token_count: 184
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for ESPN. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Sports broadcasting only competes on content rights—ESPN's real moat is narrative authority, the story-telling perspective that makes sports feel important
+  - >-
+    The red color (confidence, intensity, passion) is earned through decades of emotionally accurate sports calling—it's credible because ESPN has reputation backing the boldness
+  - >-
+    The white line is genius simplicity—it works at any scale, on any background, and it's so specific to ESPN that it's unmistakable
+  - >-
+    "This is SportsCenter" works because it centers the broadcast moments, not the broadcast entity—ESPN is background infrastructure for sports drama
+  - >-
+    Grid-based, typographically-led layouts work because sports fandom is built on statistics and narrative together—data and storytelling aren't opposites
+what_nobody_copies: >-
+  The discipline to stay red and bold while expanding across multiple platforms and networks, using a single structural device (white line) to maintain coherence

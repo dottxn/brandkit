@@ -1,0 +1,55 @@
+chunk_id: "paypal-anti-patterns"
+brand: paypal
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "paypal-soul"
+  - "paypal-visual-dna"
+token_count: 223
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for PayPal. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Blue-and-white minimalism like every other fintech"
+    reasoning: "Bright blue (#0070BA) with intentional geometric precision"
+  - pattern: Soft rounded corners suggesting friendliness
+    reasoning: Sharp geometric precision suggesting reliability
+  - pattern: Lifestyle imagery of wealthy people
+    reasoning: Documentary imagery of actual transactions and diverse users
+  - pattern: Abstract financial data visualization
+    reasoning: Clear interface showing actual money movement
+strategic:
+  - pattern: Competing on feature parity
+    reasoning: Competing on frictionless experience
+  - pattern: "Positioning PayPal as \"for business\" or \"for consumers\""
+    reasoning: Positioning as infrastructure that serves both seamlessly
+  - pattern: Marketing payment features
+    reasoning: Marketing freedom and possibility enabled by payment
+  - pattern: Centralizing brand control across all partnerships
+    reasoning: Allowing flexible implementation while maintaining consistency
+tonal:
+  - pattern: Financial services formality
+    reasoning: "Confident accessibility, human-to-human"
+  - pattern: Complexity explained thoroughly
+    reasoning: Complexity eliminated before explanation needed
+  - pattern: Trust through authority claims
+    reasoning: Trust through transparent simplicity
+  - pattern: Competitive differentiation through marketing
+    reasoning: Competitive differentiation through actual better experience
+cultural:
+  - pattern: Finance as exclusive club
+    reasoning: "Finance as right, not privilege"
+  - pattern: Payment as transaction
+    reasoning: Payment as enabler of human connection and commerce
+  - pattern: Financial institutions as intermediaries
+    reasoning: Financial institutions as invisible infrastructure
+  - pattern: "\"Disruption\" narrative"
+    reasoning: "\"Accessibility\" narrative"

@@ -1,0 +1,72 @@
+chunk_id: "ford-motor-company-anti-patterns"
+brand: "ford-motor-company"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "ford-motor-company-soul"
+  - "ford-motor-company-visual-dna"
+token_count: 464
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Ford Motor Company. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Blue oval housing (#081534 Maastricht Blue)"
+    reasoning: >-
+      belief that constraint breeds creativity; everything better fits inside the same frame across 120+ years
+  - pattern: Spencerian script typography
+    reasoning: >-
+      handwriting at scale suggests human craft in industrial production; custom, historical, signature-like
+  - pattern: Documentary product photography
+    reasoning: "showing trucks in work environments, not fantasy scenarios; vehicles proving capability through use"
+  - pattern: Generous whitespace
+    reasoning: respecting the vehicle means giving it room to breathe; clarity over visual density
+  - pattern: Darker heritage blue (2024 update)
+    reasoning: >-
+      #081534 darker than previous versions; refined contemporary feel while maintaining heritage recognition
+  - pattern: "High-contrast wordmark"
+    reasoning: white lettering on dark blue background; replacing chrome with flat design for clarity and modernity
+strategic:
+  - pattern: Heritage as strength not weakness
+    reasoning: most legacy automakers hide history; Ford celebrates manufacturing lineage as core value
+  - pattern: Segmentation excellence
+    reasoning: >-
+      Ford Blue for consumer, Model e for EV future, Pro for commercial—clarity through structural separation
+  - pattern: Loyalty through consistency
+    reasoning: "same logo, same values, decades of sameness creates trust and recognition equity"
+  - pattern: American manufacturing pride
+    reasoning: >-
+      positioning union labor and Dearborn production as feature, not cost; blue-collar work as aspirational
+  - pattern: Commercial market focus
+    reasoning: >-
+      Ford Pro as high-margin business serves fleet operators; treats business customers as primary, not secondary
+tonal:
+  - pattern: Trustworthy without being boring
+    reasoning: "authenticity doesn't require dullness; heritage can be dynamic"
+  - pattern: Heritage pride without nostalgia
+    reasoning: honoring the past while building the future; respect for lineage without clinging to it
+  - pattern: Accessible ambition
+    reasoning: "freedom is positioned as achievable, not exclusive; truck ownership as democratic not elitist"
+  - pattern: Straight talk
+    reasoning: >-
+      avoiding corporate euphemism; saying what Ford does clearly; building trust through direct communication
+  - pattern: Manufacturing confidence
+    reasoning: "pride in making things, building quality, serving operators; skilled labor as core value"
+cultural:
+  - pattern: American truck culture permanence
+    reasoning: "F-150 is best-selling vehicle for 40+ years—structural permanence, not trendy category"
+  - pattern: "Manufacturing pride in post-industrial era"
+    reasoning: "celebrating American work when offshore is cheaper; working-class dignity as value proposition"
+  - pattern: Mobility as fundamental right
+    reasoning: "freedom positioning resonates across demographics; vehicle ownership as life-building tool"
+  - pattern: "Blue-collar authenticity revival"
+    reasoning: "when luxury feels fake, working-class confidence becomes premium positioning"
+  - pattern: EV transition without abandonment
+    reasoning: "Ford Blue + Model e represents belief that EV transition doesn't require severing heritage"

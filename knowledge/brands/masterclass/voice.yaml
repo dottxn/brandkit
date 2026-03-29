@@ -1,0 +1,48 @@
+chunk_id: "masterclass-voice"
+brand: masterclass
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "masterclass-soul"
+token_count: 107
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for MasterClass. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  MasterClass is an online subscription streaming platform where anyone can learn from world-renowned experts and celebrities across diverse fields through high-quality, cinematic video lessons.
+tone_traits:
+  - aspirational
+  - motivational
+  - empowering
+  - refined
+  - cinematic
+  - premium
+  - welcoming
+  - inclusive
+  - approachable
+anti_traits:
+  - condescending
+  - intimidating
+  - elitist
+  - pretentious
+  - overly academic
+  - stuffy
+  - exclusive
+  - gatekeeping
+  - intimidating
+example_phrases:
+  - "MasterClass provides our members the tools to learn, grow and be inspired"
+  - The beauty of the platform lies within the different and personal journey of each member
+  - "Learn from the world's best"
+  - "Where anyone can access the world's greatest minds"
+guardrails:
+  never_say: []
+  always_sound: "aspirational, motivational, empowering, refined, cinematic"

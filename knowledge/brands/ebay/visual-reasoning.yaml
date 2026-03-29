@@ -1,0 +1,28 @@
+chunk_id: "ebay-visual-reasoning"
+brand: ebay
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "ebay-visual-dna"
+  - "ebay-soul"
+token_count: 231
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for eBay. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Market Sans is functional, accessible, democratic—no personality, no individuality. This is intentional. The typeface steps back so marketplace content can be prominent. Supporting Helvetica Neue provides familiar clarity. The combined system says: "get out of the way, let transactions happen." Neutrality is the point; the marketplace is more important than the branding
+colour_logic: >-
+  Red (#E53238), blue (#0064D2), yellow (#F7CA00), and green (#86B817)—the four-color wordmark is radical democracy where no color dominates. This works because it's so specific to eBay that no competitor can replicate it (it's already burned into customer consciousness). The colors represent different marketplace territories without hierarchy. Neutrals (grey, white) appear in supporting applications
+composition_philosophy: >-
+  Grid-based layouts keep products front and center. The four-color wordmark appears consistently, reinforcing brand identity while stepping back from content. Product imagery is paramount; company messaging is supplementary. Symmetry and clear organization create scanability, but the sheer diversity of product imagery creates visual excitement
+what_would_break_it: >-
+  Redesigning to single-color logo, luxury aesthetics, professional styled photography, removing the democratic principle of the four-color system, centering brand over marketplace content, or design language that creates artificial exclusivity

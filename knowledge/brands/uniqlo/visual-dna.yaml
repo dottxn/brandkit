@@ -1,0 +1,58 @@
+chunk_id: "uniqlo-visual-dna"
+brand: uniqlo
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "uniqlo-positioning"
+token_count: 87
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Uniqlo. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FF0000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: Helvetica Neue
+    role: ""
+    style: ""
+  - name: Helvetica
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: "precise"
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "logo-centric"
+composition_logic: >-
+  Grid-based layouts with generous white space, left-aligned text hierarchy, and products positioned as heroes with minimal supporting elements.

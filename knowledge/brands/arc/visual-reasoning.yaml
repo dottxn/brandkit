@@ -1,0 +1,28 @@
+chunk_id: "arc-visual-reasoning"
+brand: arc
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "arc-visual-dna"
+  - "arc-soul"
+token_count: 175
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Arc. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  System defaults and Segoe UI Variable work because they're readable without personality—Arc doesn't need a branded font because the brand is the experience, not the typography. Humanist characteristics arrive through interface design, not letterforms
+colour_logic: >-
+  The gradient system (#D2F3E5 to #51D19B, with accents in #EF8C62) works because it's analogous—colors exist in family rather than contrast. No color shouts; all colors harmonize. This creates the psychological effect of coherence and calm without monotony. Warm accent (#EF8C62) appears only in moments requiring attention (actions, alerts)
+composition_philosophy: >-
+  The sidebar as organizing principle creates a manifest of personal identity. Whitespace is abundant, not as luxury but as mental breathing room. Asymmetry mirrors natural organization rather than designed control
+what_would_break_it: >-
+  High-contrast color combinations, chromatic separation (colors that feel unrelated), transparency hierarchies that create visual depth, or removing the sidebar as primary organizing logic

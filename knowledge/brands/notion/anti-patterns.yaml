@@ -1,0 +1,71 @@
+chunk_id: "notion-anti-patterns"
+brand: notion
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "notion-soul"
+  - "notion-visual-dna"
+token_count: 625
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Notion. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Adding gradients to the logo
+    reasoning: >-
+      Gradients soften structure and suggest fluidity. Notion's value is precision and building blocks. Gradients would undermine the core metaphor.
+  - pattern: Using rounded corners throughout the interface
+    reasoning: >-
+      Curves feel friendly but ambiguous. The sharp-edged cube aesthetic creates visual certainty that matches the brand's promise of control.
+  - pattern: Serif body copy in the interface
+    reasoning: >-
+      The serif 'N' in the logo is decorative; Inter (humanist sans-serif) in the interface is functional. Mixing serif body copy would confuse the hierarchy between decoration and utility.
+  - pattern: "High-contrast colored buttons"
+    reasoning: >-
+      Notion uses black buttons on white because restraint reads as confidence. Colored CTAs suggest urgency and manipulation. Users should feel in control, not prompted.
+strategic:
+  - pattern: "Launching a \"Notion for Enterprise\" with separate, premium positioning"
+    reasoning: >-
+      It would fragment the brand into haves and have-nots. Notion's power is in the unified philosophy that everyone uses the same modular system.
+  - pattern: "Releasing a fully-templated competitor to template sites"
+    reasoning: >-
+      This would destroy the core belief. Notion's brand is that you build it. Pre-built templates feel like template sites repackaged.
+  - pattern: "Using mascots or character-driven marketing"
+    reasoning: >-
+      Notion's Creator and Sage archetypes don't need a face. The brand is the user's face. Introducing a mascot would shift authority away from the creator using the tool.
+  - pattern: "Over-explaining features in marketing copy"
+    reasoning: >-
+      Notion's tone is "what's possible" not "here's how." Overly detailed feature walkthroughs would position the brand as complex rather than empowering.
+tonal:
+  - pattern: Adopting urgency language
+    reasoning: >-
+      "Productivity crisis," "limited time," "don't miss out." Notion users are builders, not buyers. Urgency-based copy feels manipulative and contradicts the thoughtful archetype.
+  - pattern: "Celebrating \"wins\" instead of \"possibilities\""
+    reasoning: >-
+      "See how Company X increased productivity 47%." This is reductive. Notion's tone should be "here's what became possible" not "here's what we measured."
+  - pattern: Using industry jargon without explanation
+    reasoning: >-
+      "Scalable architecture," "enterprise-grade," "mission-critical." Notion's human-centered pillar rejects corporate speak. Clear language over credibility signals.
+  - pattern: Positioning against competitors by name
+    reasoning: >-
+      Notion doesn't need to say "unlike Asana, we're customizable." The brand voice says "make what you need" not "we're better than them."
+cultural:
+  - pattern: Sponsoring luxury events or premium positioning
+    reasoning: >-
+      Notion's Creator archetype democratizes software. VIP events would position the brand as exclusive. It should show up where builders congregate (open-source communities, design conferences) not where status is sold.
+  - pattern: Using aspirational lifestyle imagery
+    reasoning: >-
+      Stock photos of people looking confident in coffee shops. Notion's visual strategy is the interface, not the context. The interface is the hero, not the human.
+  - pattern: Celebrating individual achievements without community context
+    reasoning: >-
+      "Sarah built a $5M business on Notion." This is true but partial. The richer story is the ecosystem that made it possible. Individual success without community origin story contradicts values.
+  - pattern: "Creating an official Notion \"design style\" guide for community creators"
+    reasoning: >-
+      Paradoxically, this would enforce conformity. Notion's brand value is that communities adopt the modular philosophy and express it their own way. Prescriptive style guides kill that.

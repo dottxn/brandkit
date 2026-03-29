@@ -1,0 +1,29 @@
+chunk_id: "uniqlo-strategy"
+brand: uniqlo
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "uniqlo-positioning"
+token_count: 68
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Uniqlo. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "We believe in the power of clothing to make everyone's life better"
+mission: >-
+  To create truly great clothing with new and unique value, and to enable people all over the world to experience the joy, happiness and satisfaction of wearing such great clothes
+vision: "To become the world's number one apparel retailer"
+values:
+  - Takumi (craftsmanship)
+  - Innovation through simplicity
+  - "Customer-centricity"
+  - Sustainability
+  - "Global thinking, local acting"

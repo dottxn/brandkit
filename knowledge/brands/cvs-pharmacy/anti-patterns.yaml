@@ -1,0 +1,55 @@
+chunk_id: "cvs-pharmacy-anti-patterns"
+brand: "cvs-pharmacy"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "cvs-pharmacy-soul"
+  - "cvs-pharmacy-visual-dna"
+token_count: 335
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for CVS Pharmacy. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Cold, clinical design language with grey and blue dominance"
+    reasoning: "Undermines the \"bringing our heart\" positioning"
+  - pattern: "Institutional healthcare imagery (sterile clinics, doctors in white coats)"
+    reasoning: Creates distance instead of approachability
+  - pattern: "Complex visual hierarchies or feature-heavy layouts"
+    reasoning: Adds cognitive load when customers are already stressed about health
+  - pattern: "Symmetrical, corporate compositions"
+    reasoning: Lacks the human warmth the brand promises
+strategic:
+  - pattern: Marketing that emphasizes company profits or scale instead of customer health improvement
+    reasoning: Places CVS above the customer relationship
+  - pattern: "Treating pharmacy, insurance, and MinuteClinic as separate brands without integration messaging"
+    reasoning: Wastes the ecosystem advantage that differentiates CVS
+  - pattern: Competing on price instead of on ease and reliability
+    reasoning: Abandons the relationship positioning
+  - pattern: Healthcare advice positioned as expert instruction rather than collaborative partnership
+    reasoning: Signals hierarchy instead of care
+tonal:
+  - pattern: "Instruction-heavy, procedural language"
+    reasoning: Sounds clinical instead of caring
+  - pattern: "Fear-based messaging about health risks"
+    reasoning: "Contradicts the \"help you get healthy\" positioning with negativity"
+  - pattern: Corporate announcements about company initiatives
+    reasoning: Places CVS instead of customers as narrative center
+  - pattern: "One-size-fits-all health messaging ignoring different health priorities"
+    reasoning: Misses that different customer segments have different health anxieties
+cultural:
+  - pattern: "Representation that centers wealthy, healthy consumers"
+    reasoning: Misses the communities where CVS serves as primary healthcare access point
+  - pattern: Ignoring accessibility for disabled customers or those with mobility limitations
+    reasoning: "Contradicts the \"available\" positioning if locations aren't genuinely accessible"
+  - pattern: Marketing that centers prescription drugs without highlighting preventive health and wellness
+    reasoning: Misses growing cohort pursuing holistic health
+  - pattern: "Treating LGBTQ+ health, reproductive health, etc. as separate diversity campaigns"
+    reasoning: Signals these are afterthought rather than core customer service

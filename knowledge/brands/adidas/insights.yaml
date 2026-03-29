@@ -1,0 +1,32 @@
+chunk_id: "adidas-insights"
+brand: adidas
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "adidas-soul"
+  - "adidas-positioning"
+token_count: 157
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for adidas. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    The strongest athletic brands don't celebrate the perfect body—they celebrate the body in transition, vulnerable and sweating toward something
+  - >-
+    Heritage is performance—the three stripes work because they're genuinely functional, not decorative; they organize space like a floor plan
+  - >-
+    Inclusivity in sport doesn't dilute performance culture; it expands the definition of what "athletic" means without compromising excellence
+  - >-
+    Material and technology become emotional language when they directly enable human achievement—Boost foam matters because people feel the difference
+  - >-
+    Owning a clear enemy (gravity, doubt, limitation) makes every design choice meaningful
+what_nobody_copies: >-
+  The willingness to make heritage look contemporary without apologizing for the past, and without treating heritage as a restraint

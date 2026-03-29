@@ -1,0 +1,32 @@
+chunk_id: "netflix-soul"
+brand: netflix
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "netflix-positioning"
+token_count: 185
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Netflix. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "A living room where infinite stories wait in the dark, accessed with a single gesture"
+core_belief: >-
+  Stories are the most efficient tool for human connection; everything else is just interface to that emotional core
+creative_tension:
+  - >-
+    We are simultaneously a technological platform optimizing for algorithmic discovery and a storytelling champion that celebrates human creativity and accident
+  - >-
+    We appear infinitely deep and personalized while operating on standardized, repeatable systems (The Stack, the algorithm, the interface)
+decision_filter: >-
+  Does this solve for frictionless story discovery without creating the feeling of corporate curation? Does it feel like serendipity, not surveillance?
+signature_move: >-
+  The Stack—uniform cards at infinite scroll, making the catalog feel endless while keeping every show/film equally valued in layout
+what_would_break_it: >-
+  Exposing the algorithm visually. The moment customers see how they're being sorted and predicted, Netflix becomes a system rather than a service. Invisibility of the recommendation engine is what creates the magic.

@@ -1,0 +1,55 @@
+chunk_id: "pepsi-anti-patterns"
+brand: pepsi
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "pepsi-soul"
+  - "pepsi-visual-dna"
+token_count: 256
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for PepsiCo. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Upper-case corporate type suggesting authority and distance"
+    reasoning: Lowercase custom typeface suggesting accessibility and peers
+  - pattern: "Traditional brand colors (red-white-blue) protected obsessively"
+    reasoning: "Evolution to earthier, muted tones reflecting consumer shift"
+  - pattern: Abstract symbolic logos removed from context
+    reasoning: "Circular composition with clear representational elements (smile, nature, growth)"
+  - pattern: "High-gloss, pristine product photography"
+    reasoning: "Documentary-style imagery showing actual consumption moments"
+strategic:
+  - pattern: Protecting legacy Pepsi look over 50 years
+    reasoning: Evolution that maintains equity while looking contemporary
+  - pattern: Competing on taste and refreshment alone
+    reasoning: "Competing on cultural relevance and smile-creation"
+  - pattern: Separating sustainability from core business messaging
+    reasoning: Making sustainability inseparable from brand promise
+  - pattern: Global brand with zero local adaptation
+    reasoning: Global infrastructure that allows local cultural expression
+tonal:
+  - pattern: Corporate optimism that feels manufactured
+    reasoning: "Genuine celebration with self-aware humor"
+  - pattern: "Performance-driven feature messaging"
+    reasoning: "Moment and experience-driven positioning"
+  - pattern: Distanced from actual consumer culture
+    reasoning: Embedded in how people actually enjoy things
+  - pattern: Treating marketing as conversion funnel
+    reasoning: Treating marketing as cultural participation
+cultural:
+  - pattern: Beverages as commodities
+    reasoning: Beverages as moments that enable human connection
+  - pattern: Portfolio company hiding portfolio nature
+    reasoning: Portfolio company celebrating the scope of impact
+  - pattern: Sustainability as CSR append
+    reasoning: Sustainability as core business transformation
+  - pattern: Global monoculture
+    reasoning: Global infrastructure respecting local flavor

@@ -1,0 +1,41 @@
+#!/bin/bash
+# brandkit setup — register brand design skills with Claude Code
+#
+# Install:
+#   git clone https://github.com/dottxn/brandkit.git ~/.claude/skills/brandkit
+#   cd ~/.claude/skills/brandkit && ./setup
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+
+echo "brandkit setup"
+echo "=============="
+echo ""
+
+# ── Verify knowledge directory ───────────────────
+if [ ! -d "$SCRIPT_DIR/knowledge/brands" ]; then
+  echo "ERROR: knowledge/brands/ not found."
+  echo "Make sure you cloned the full repo."
+  exit 1
+fi
+
+# ── Make bin scripts executable ──────────────────
+chmod +x "$SCRIPT_DIR/bin/brandkit-load-context" 2>/dev/null || true
+
+# ── Verify skills ────────────────────────────────
+echo "Skills:"
+for skill_dir in "$SCRIPT_DIR"/brand-*/; do
+  skill_name=$(basename "$skill_dir")
+  if [ -f "$skill_dir/SKILL.md" ]; then
+    echo "  /$skill_name"
+  fi
+done
+
+# ── Count brands ─────────────────────────────────
+BRAND_COUNT=$(find "$SCRIPT_DIR/knowledge/brands" -mindepth 1 -maxdepth 1 -type d ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')
+echo ""
+echo "Knowledge: $BRAND_COUNT brands loaded"
+echo ""
+echo "Start with: /brand-discover"
+echo "Then:       /brand-proposition"
+echo "Then:       /brand-concepts"

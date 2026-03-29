@@ -1,0 +1,60 @@
+# ──────────────────────────────────────────────
+# Microsoft — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Monotype"
+    type: "type-foundry"
+    url: "https://www.monotype.com/"
+    relationship: "Type foundry that produced Segoe UI Variable (2021) and Aptos (2023) typefaces for Microsoft's system and document applications."
+
+  - name: "Studio Dumbar"
+    type: "motion-design"
+    url: "https://www.studiodumbar.com/"
+    relationship: "Motion design partner for Fluent 2 Design System implementation and Windows 11 interface animations."
+
+people:
+  - name: "Steve Matteson"
+    role: "Type Designer, Monotype"
+    url: "https://www.monotype.com/"
+    context: "Designed Segoe UI Variable (Windows 11 optical sizing, 2021) and Aptos (replaced Calibri as M365 default font, 2023). Most significant font work in productivity software since Calibri/Times New Roman transition."
+
+  - name: "Michael Gough"
+    role: "Chief Design Officer, Applications Group"
+    url: "https://www.microsoft.com/"
+    context: "Oversees visual systems for Microsoft application suite and product design standards."
+
+  - name: "Jon Friedman"
+    role: "General Manager, Design"
+    url: "https://www.microsoft.com/"
+    context: "Leadership role overseeing design strategy and Fluent 2 Design System governance."
+
+publications:
+  - title: "Fluent 2 Design System"
+    author: "Microsoft Design"
+    relevance: "Official design system documentation governing visual standards across Microsoft products."
+
+  - title: "Windows 11 Design: Fluent 2 Material System"
+    author: "Microsoft Design Blog"
+    relevance: "Technical specification of Mica and Acrylic material systems for Windows 11 interface."
+
+  - title: "Aptos: The New Default Font for Microsoft 365"
+    author: "Microsoft 365 Blog"
+    relevance: "Announcement and rationale for replacing Calibri with custom Aptos typeface."
+
+visuals:
+  - url: "https://www.microsoft.com/design/"
+    label: "Microsoft Design system homepage"
+    section: "visual-language"
+
+  - url: "https://fluent2.microsoft.design/"
+    label: "Fluent 2 Design System documentation"
+    section: "visual-language"
+
+  - url: "https://learn.microsoft.com/en-us/windows/apps/design/fluent-2/"
+    label: "Windows Fluent 2 design guidelines — Microsoft Learn"
+    section: "visual-world"
+
+  - url: "https://www.monotype.com/"
+    label: "Monotype typeface portfolio and design systems"
+    section: "visual-language"

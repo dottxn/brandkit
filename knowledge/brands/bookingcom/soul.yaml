@@ -1,0 +1,29 @@
+chunk_id: "bookingcom-soul"
+brand: bookingcom
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "bookingcom-positioning"
+token_count: 130
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Booking.com. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "The moment wanderlust transforms into certainty, like the world just became yours to choose"
+core_belief: Travel is democratized when friction between desire and experience disappears
+creative_tension:
+  - Infinite choice (3.4 million properties) vs. effortless simplicity (one blue button does everything)
+  - Global platform at scale vs. intensely personal travel moments
+decision_filter: >-
+  Does this reduce the psychological load between wanting to travel and booking, or does this add decision-making friction?
+signature_move: >-
+  The tilted 23.5-degree axis in typography—a subtle echo of earth's axial tilt, suggesting global expansion without literal representation
+what_would_break_it: >-
+  Adding visual complexity, creating multiple CTAs, introducing decorative patterns, or treating the core blue as secondary to imagery

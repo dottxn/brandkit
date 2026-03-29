@@ -1,0 +1,70 @@
+chunk_id: "figma-visual-dna"
+brand: figma
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "figma-positioning"
+token_count: 122
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Figma. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#F24E1E"
+    name: ""
+    role: ""
+  - hex: "#FF7262"
+    name: ""
+    role: ""
+  - hex: "#A259FF"
+    name: ""
+    role: ""
+  - hex: "#1ABCFE"
+    name: ""
+    role: ""
+  - hex: "#0ACF83"
+    name: ""
+    role: ""
+typography:
+  - name: Figma Sans
+    role: ""
+    style: ""
+  - name: Figma Condensed
+    role: ""
+    style: ""
+  - name: Figma Mono
+    role: ""
+    style: ""
+  - name: Figma Hand
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: expansive
+  type_class: "sans-serif"
+  type_character: grotesque
+  type_weight: mixed
+  imagery_medium: illustration
+  imagery_subject: abstract
+  imagery_treatment: "high-contrast"
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: maximalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "illustration-led"
+composition_logic: >-
+  <cite index="22-15,22-16">The team was drawn to the concept of activities playing out in a shared space, akin to parallel play. Brand Designer Jefferson Cheng recalls drawing early inspiration from the playgrounds of Isamu Noguchi and Mitsuru Senda: 'They were a metaphor for the Figma canvas—a place where people come together to create and experiment.'</cite>

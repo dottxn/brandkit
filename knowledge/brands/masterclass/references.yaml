@@ -1,0 +1,51 @@
+studios:
+- name: Gretel
+  type: branding
+  url: https://gretelny.com/
+  relationship: Designed the 2020 MasterClass rebrand, including visual identity system,
+    instructor nameplate system, and filmstrip interactive preview device. Led by
+    Luke Barnell (designer) and Kasia Galla Barrett (strategist).
+  project_url: https://gretelny.com/masterclass
+- name: Klim Type Foundry
+  type: type-foundry
+  url: https://klim.co.nz/
+  relationship: Created Söhne typeface designed by Kris Sowersby. Primary display
+    and UI typeface for MasterClass.
+people:
+- name: Luke Barnell
+  role: Designer at Gretel
+  url: https://gretelny.com/
+  context: Lead designer on the MasterClass rebrand project (2020). Responsible for
+    visual identity system design.
+- name: Kasia Galla Barrett
+  role: Strategist at Gretel
+  url: https://gretelny.com/
+  context: Strategic lead on the MasterClass rebrand. Oversaw brand strategy and positioning
+    framework.
+- name: Kris Sowersby
+  role: Type Designer, Founder of Klim Type Foundry
+  url: https://klim.co.nz/
+  context: Designed Söhne typeface used throughout MasterClass brand identity.
+publications:
+- title: The New Visual Identity of MasterClass
+  author: The Branding Journal
+  relevance: Case study of the Gretel rebrand documenting visual language and design
+    decisions.
+- title: New Logo and Identity for MasterClass by Gretel
+  author: Brand New / Under Consideration
+  relevance: Critical analysis of the MasterClass identity rebrand and its visual
+    system.
+- title: Redesigning MasterClass
+  author: PRINT Magazine
+  relevance: Feature on the brand evolution and design approach to instructor-centric
+    visual identity.
+visuals:
+- url: https://gretelny.com/masterclass
+  label: MasterClass case study — Gretel
+  section: visual-language
+- url: https://klim.co.nz/collections/soehne/
+  label: Söhne typeface documentation — Klim Type Foundry
+  section: visual-language
+- url: https://www.thebrandingjournal.com/2020/11/new-visual-identity-masterclass/
+  label: Visual identity analysis — The Branding Journal
+  section: visual-language

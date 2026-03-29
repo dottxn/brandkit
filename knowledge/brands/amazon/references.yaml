@@ -1,0 +1,51 @@
+studios:
+- name: Turner Duckworth
+  type: branding
+  url: https://www.turnerduckworth.com/
+  relationship: Designed the iconic Amazon smile logo (2000) and oversaw brand identity
+    evolution.
+  project_url: https://turnerduckworth.com/work/amazon
+- name: Dalton Maag
+  type: type-foundry
+  url: https://www.daltonmaag.com/
+  relationship: Created Amazon Ember custom typeface (2015) and Ember Modern (2024-2025).
+- name: Koto
+  type: branding
+  url: https://www.koto.com/
+  relationship: Led 2024-2025 global rebrand including redrawn smile and Amazon Logo
+    Sans creation.
+- name: NaN Foundry
+  type: type-foundry
+  url: https://nanfoundry.com/
+  relationship: Designed Ember Modern variable typeface for digital-first applications
+    (2024-2025).
+- name: Pentagram
+  type: branding
+  url: https://www.pentagram.com/
+  relationship: Emily Oberman led 2023 Prime Video rebrand with new visual identity.
+people:
+- name: Emily Oberman
+  role: Design Director
+  url: https://www.pentagram.com/
+  context: Led 2023 Prime Video rebrand introducing new blue gradient mark and editorial
+    visual system.
+publications:
+- title: amazon.design case studies
+  author: Amazon Design Team
+  relevance: Official design system documentation and guidelines.
+- title: Design systems at scale — Amazon approach
+  author: Amazon Design Leadership
+  relevance: Documentation of visual systems managing 50+ sub-brands.
+visuals:
+- url: https://amazon.design/
+  label: Official design system — amazon.design
+  section: visual-world
+- url: https://www.turnerduckworth.com/
+  label: Smile logo case study — Turner Duckworth
+  section: visual-language
+- url: https://www.daltonmaag.com/
+  label: Amazon Ember and Ember Modern typefaces — Dalton Maag
+  section: visual-language
+- url: https://www.koto.com/
+  label: 2024-2025 rebrand case study — Koto
+  section: visual-language

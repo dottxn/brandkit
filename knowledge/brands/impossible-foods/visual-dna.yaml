@@ -1,0 +1,58 @@
+chunk_id: "impossible-foods-visual-dna"
+brand: "impossible-foods"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "impossible-foods-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Impossible Foods. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#CC0000"
+    name: ""
+    role: ""
+  - hex: "#8B0000"
+    name: ""
+    role: ""
+  - hex: "#FF6B6B"
+    name: ""
+    role: ""
+typography:
+  - name: Sans Meat
+    role: ""
+    style: ""
+  - name: Impossible Wordmark
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: focused
+  type_class: custom
+  type_character: geometric
+  type_weight: bold
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: staged
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: uniform
+  framing_device: housing
+  symbolic_type: wordmark
+  texture_feel: gradient
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "color-led"
+composition_logic: >-
+  Elements arranged to maximize shelf impact with uppercase lettering for shouty intensity and bold red packaging that stands out in meat aisles

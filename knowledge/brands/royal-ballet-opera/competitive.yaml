@@ -1,0 +1,36 @@
+chunk_id: "royal-ballet-opera-competitive"
+brand: "royal-ballet-opera"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "royal-ballet-opera-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Royal Ballet and Opera. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - disney
+  - hbo
+  - masterclass
+industry_norms_it_breaks: "Archive-inspired marque reimagined from historical documents, flowing ampersand connecting Ballet & Opera, directional layering for temporal movement | The architectural decision to center brand identity around the concept of temporal simultaneity (past-present-future visible at once) rather than narrative progression—this is conceptually ambitious | Does this honor heritage while inviting the uninitiated? Both must be true"
+visual_cluster: "editorial-luxury"
+visual_fingerprint:
+  - cluster: "editorial-luxury"
+    role: "dominant"
+    where: "Arts institution, DesignStudio identity, Victor Serif"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Production photography, performance storytelling"
+  - cluster: "heritage-craft"
+    role: "accent"
+    where: "Institutional tradition, living timeline concept"
+strategic_cluster: "creative-authority"
+category: "performing-arts"

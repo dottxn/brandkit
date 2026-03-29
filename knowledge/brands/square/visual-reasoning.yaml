@@ -1,0 +1,28 @@
+chunk_id: "square-visual-reasoning"
+brand: square
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "square-visual-dna"
+  - "square-soul"
+token_count: 224
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Square. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  The custom geometric sans-serif uses consistent stroke weights and open letterforms—characteristics that mirror the concentric squares logo. The typeface reinforces the geometric purity of the brand; every letterform echoes the core visual language. This creates coherence at the typographic level without relying on decorative elements.
+colour_logic: >-
+  The three-color system (white, light gray, black) with strict hierarchy—white as hero, gray as structure, black as text—creates extreme contrast and readability. This is the palette of physical product design scaled to digital interface. Financial instruments require clarity above all; the limited palette ensures no information is ambiguous or hidden.
+composition_philosophy: >-
+  Layout rejects decorative composition; every element serves information clarity. Symmetry and centered alignment dominate because they communicate stability and mathematical precision. Asymmetrical or artistic compositions would feel uncertain in a financial context. The philosophy prioritizes confidence over beauty.
+what_would_break_it: >-
+  Introducing color, organic shapes, or soft transitions would immediately make the brand feel less trustworthy in its financial context. The steel-like rigidity of the visual system is precisely what makes merchants believe the platform is reliable enough for their money.

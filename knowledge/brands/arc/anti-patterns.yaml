@@ -1,0 +1,56 @@
+chunk_id: "arc-anti-patterns"
+brand: arc
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "arc-soul"
+  - "arc-visual-dna"
+token_count: 352
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Arc. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Bright, high-saturation colors throughout the interface"
+    reasoning: "Destroys the mental calm that Arc's entire thesis depends on"
+  - pattern: "Heavy shadows, depth, and layering metaphors"
+    reasoning: Adds visual weight that contradicts the lightness and breathing room Arc creates
+  - pattern: "Centered, symmetrical layouts"
+    reasoning: Conflicts with the implied intimacy and personalization that Arc promises
+  - pattern: Overly geometric or technical typography
+    reasoning: "Negates the \"friendly humans\" voice pillar"
+strategic:
+  - pattern: Promoting Arc as a Chrome alternative rather than as a complete rethink of browsing
+    reasoning: Positions Arc as competitor rather than successor
+  - pattern: Monetizing data or user behavior
+    reasoning: "Immediately breaks the core belief about privacy-first positioning"
+  - pattern: Forcing users to learn boosts before understanding core functionality
+    reasoning: Drowns beginners in capability instead of guiding them to delight
+  - pattern: Marketing to existing power users exclusively
+    reasoning: Misses the mainstream audience that makes scale meaningful
+tonal:
+  - pattern: Technical documentation that emphasizes code over outcomes
+    reasoning: Creates gate between users and customization rather than inviting them through
+  - pattern: Marketing that positions competitors as bad rather than Arc as different
+    reasoning: Sounds defensive instead of visionary
+  - pattern: "Scarcity or urgency language (\"early access,\" \"limited spots\")"
+    reasoning: Contradicts the abundance mindset Arc creates for users
+  - pattern: "Instruction-heavy messaging"
+    reasoning: "Undermines the intuitive, spatial-thinking interface design"
+cultural:
+  - pattern: >-
+      Ignoring that most Arc users are professionals (design, tech, creative) and marketing to casual users
+    reasoning: Dilutes core brand through wrong audience targeting
+  - pattern: Treating privacy as equivalent to isolation rather than protective autonomy
+    reasoning: Loses the nuance that privacy + community are not opposites
+  - pattern: "Overstating AI-driven features before they're genuinely transformative"
+    reasoning: Breaks trust through hype
+  - pattern: Marketing that centers aesthetic cool over functional relief
+    reasoning: "Misses the real promise that mental clutter reduction is arc's superpower"

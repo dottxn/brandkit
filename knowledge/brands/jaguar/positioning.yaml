@@ -1,0 +1,31 @@
+chunk_id: "jaguar-positioning"
+brand: jaguar
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Jaguar. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Jaguar
+website: "https://www.jaguar.com"
+founded: 1922
+category: automotive
+sub_category: "ultra-luxury electric vehicles"
+price_tier: luxury
+primary_archetype: The Creator
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 9
+  access_exclusivity: 9
+  heritage_innovation: 8
+key_differentiators: []

@@ -1,0 +1,37 @@
+chunk_id: "seed-health-competitive"
+brand: "seed-health"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "seed-health-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Seed Health. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - "hims-hers"
+  - harleymeds
+  - pfizer
+  - "impossible-foods"
+industry_norms_it_breaks: "Reimagined Seed dot functioning as lens, portal, and storytelling device rather than static logo mark | The architectural decision to build brand identity around the microbiome concept itself rather than around the company or specific products—this makes the brand infinitely scalable | Would a researcher trust this? Would a consumer understand this? Both must be yes"
+visual_cluster: "scientific-editorial"
+visual_fingerprint:
+  - cluster: "scientific-editorial"
+    role: "dominant"
+    where: "Darwin's Nomenclature, MOUTHWASH Studio, research-coded"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Systematic brand, Seed Sans variable type, precise"
+  - cluster: "soft-minimal"
+    role: "accent"
+    where: "DS-01 product packaging, gentle consumer-facing"
+strategic_cluster: "experience-curator"
+category: "health-wellness"

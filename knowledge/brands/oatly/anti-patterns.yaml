@@ -1,0 +1,71 @@
+chunk_id: "oatly-anti-patterns"
+brand: oatly
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "oatly-soul"
+  - "oatly-visual-dna"
+token_count: 748
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Oatly. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Using clean, perfect typography without imperfections"
+    reasoning: >-
+      Hand-drawn fonts work for Oatly because they signal authenticity and resistance to mass production. Switching to a perfect sans-serif would undermine the "human" narrative and make the brand feel like a processed food company.
+  - pattern: Minimizing or hiding the copy on packaging
+    reasoning: >-
+      The copy is the brand. A visual system that prioritizes product photography over conversational text would lose 50% of Oatly's differentiation. The brand lives in the margins of packaging, not the hero shots.
+  - pattern: Muting the color palette toward pastels or neutrals
+    reasoning: >-
+      The brightness of the palette (#7ED321 green is unnaturally vibrant) is intentional. It signals youth, energy, and resistance. Moving toward sophisticated muted tones would signal "we're growing up" and that upward mobility is the goal.
+  - pattern: "Using realistic product photography in pristine, white contexts"
+    reasoning: >-
+      Oatly's photography lives in coffee shops, in human hands, in messy reality. Moving to sterile white-box photography would signal aspiration rather than authenticity.
+strategic:
+  - pattern: Competing on price rather than on values
+    reasoning: >-
+      Oatly's margin is its conviction. The moment the brand becomes a commodity is the moment it becomes a milk alternative, not a movement. Competing on price signals that the values are marketing, not fundamental.
+  - pattern: Seeking approval from traditional food industry
+    reasoning: >-
+      Oatly's strength is that it remains culturally outside the establishment dairy structure. Any move toward "collaboration" with traditional dairy would signal that the alternative vision was always negotiable.
+  - pattern: Expanding the product line to maximize revenue without ideological coherence
+    reasoning: >-
+      Every new product must serve the core mission. If Oatly launches products for convenience or profit alone (without sustainability or challenger ethos), the brand fragments.
+  - pattern: Scaling manufacturing in ways that compromise sustainability messaging
+    reasoning: >-
+      This is the deepest trap: if Oatly's production methods become as resource-intensive as dairy, the brand's foundational claim collapses. Scaling must not sacrifice the mission.
+tonal:
+  - pattern: "Corporate environmental messaging (\"We care about the planet\")"
+    reasoning: >-
+      The anti-pattern is generic sustainability speak. Oatly works because the copy is specific, human-scaled, often funny. Corporate environmental piety sounds like greenwashing.
+  - pattern: Apologizing for not tasting exactly like milk
+    reasoning: >-
+      This undermines the core positioning. The copy "It's like milk, but made for humans" inverts the hierarchy—instead of defending oat milk against milk's standard, it asserts that humans are what matters. Apologetic tone would reverse this.
+  - pattern: "Using guilt-based messaging (\"You're destroying the planet with dairy\")"
+    reasoning: >-
+      Fear and guilt are temporary motivators. Oatly's approach is invitation: "Try something better." The brand builds allies, not compliance. Guilt-based campaigns would feel manipulative.
+  - pattern: "Adopting corporate jargon (\"Our innovative solutions,\" \"Leading-edge formulations\")"
+    reasoning: >-
+      This would immediately signal assimilation into the establishment. Oatly's tone must remain conversational, specific, and unafraid of simplicity.
+cultural:
+  - pattern: Expanding globally without cultural adaptation
+    reasoning: >-
+      Oatly's irreverence is culturally specific. What reads as cheeky in Sweden or America might read as disrespectful in cultures with different humor norms. The risk is becoming tone-deaf and extractive.
+  - pattern: Claiming to represent veganism without serving the entire category
+    reasoning: >-
+      Oatly must be careful not to position itself as the "only" option. The brand works because it expands the category, not shrinks it.
+  - pattern: "Using \"sustainability\" as marketing cover for labor exploitation"
+    reasoning: >-
+      If Oatly's supply chain relies on unfair labor practices, the brand becomes extractive. The copy's honesty would make hypocrisy twice as visible and damaging.
+  - pattern: "Positioning plant-based as a Western trend rather than a global necessity"
+    reasoning: >-
+      In many cultures, plant-based eating is default, not trendy. Oatly's Western-centric marketing can feel colonialist to cultures with long plant-based traditions.

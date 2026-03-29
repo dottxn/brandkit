@@ -1,0 +1,33 @@
+chunk_id: "starbucks-soul"
+brand: starbucks
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "starbucks-positioning"
+token_count: 267
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Starbucks. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A library that serves coffee instead of selling books—the beverage is entry point, but the actual product is the permission to occupy space and be fully human
+core_belief: >-
+  Coffee's value isn't in the caffeine or the flavor notes; it's the pause it creates in a person's day where they're allowed to simply exist without producing
+creative_tension:
+  - >-
+    Global enterprise at massive scale operating with intimate, community-first values—how to feel locally relevant in 40,000+ locations without losing the "neighborhood" identity
+  - >-
+    Premium pricing that sustains craft standards, paired with accessibility positioning that welcomes everyone—the brand must exist at intersection of aspiration and approachability
+decision_filter: >-
+  Does this expand the moments when people feel genuinely welcomed and humanly connected? If it's optimizing for transaction speed or scale at the expense of human experience, it fails.
+signature_move: >-
+  The Siren logo rendered so it's recognizable even stripped to bare outline, scaled from favicon to storefront—the brand works at *every* size without losing character, suggesting the Siren watches over customers at all scales of presence
+what_would_break_it: >-
+  Accelerating service speed and volume at the expense of visible craftsmanship. The moment customers can't *see* someone steaming milk, grinding beans, or paying attention to their order, Starbucks becomes a commodity dispenser. Invisible labor destroys the brand because craft-through-care is the actual positioning.

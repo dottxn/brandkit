@@ -1,0 +1,44 @@
+studios:
+- name: BUCK
+  type: digital-design
+  url: https://buck.co/
+  relationship: Evolved Cash App's visual identity (2023-2024) with 3D illustration
+    system and 650+ 'collectible game asset' icons.
+  project_url: https://buck.co/
+- name: Index Studio
+  type: digital-design
+  url: https://www.indexstudio.com/
+  relationship: Developed brand portal ensuring visual consistency across Cash App's
+    extensive marketing output.
+- name: Tendril Studio
+  type: digital-design
+  url: https://www.tendrilstudio.com/
+  relationship: Created campaign-specific 3D animation and illustration for Cash App
+    Taxes product.
+people:
+- name: Deva Pardue
+  role: Head of Brand Creative
+  context: Former Pentagram/Emily Oberman team member; oversees Cash App's visual
+    system and brand expression.
+- name: Angus R. Shamal
+  role: Type Designer
+  url: https://arstype.com/
+  context: Designed CashMarket custom display typeface for Cash App's distinctive
+    brand voice.
+publications:
+- title: Cash App design system documentation
+  author: Cash App Design Team
+  relevance: Official brand guidelines and 3D illustration system specifications.
+visuals:
+- url: https://cash.app/
+  label: Official Cash App website and marketing — cash.app
+  section: visual-world
+- url: https://buck.co/
+  label: Visual identity evolution case study — BUCK
+  section: visual-language
+- url: https://arstype.com/
+  label: CashMarket typeface documentation — ARS Type
+  section: visual-language
+- url: https://evenodd.studio/
+  label: Campaign film and creative direction — Even/Odd
+  section: visual-language

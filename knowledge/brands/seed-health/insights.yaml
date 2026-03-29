@@ -1,0 +1,32 @@
+chunk_id: "seed-health-insights"
+brand: "seed-health"
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "seed-health-soul"
+  - "seed-health-positioning"
+token_count: 171
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Seed Health. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Scientific brands that successfully commercialize do so by treating consumers as intelligent rather than dumbing down complexity
+  - >-
+    Seed's evolution from strictly minimal to scientific framework (expanded color palette tied to product categories) shows maturity without losing identity
+  - >-
+    The reimagined Seed dot works as lens/portal metaphor because it's functionally useful (framing imagery, organizing information) AND conceptually meaningful
+  - >-
+    Variable typography (Seed Sans Variable) matters in product contexts where scale varies dramatically—from mobile app interface to product label
+  - >-
+    Microbiome messaging only sticks when paired with specific behavioral change (supplementation, lifestyle) rather than abstract health claims
+what_nobody_copies: >-
+  The architectural decision to build brand identity around the microbiome concept itself rather than around the company or specific products—this makes the brand infinitely scalable

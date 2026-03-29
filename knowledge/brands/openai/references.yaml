@@ -1,0 +1,82 @@
+# ──────────────────────────────────────────────
+# OpenAI — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "ABC Dinamo"
+    type: "type-foundry"
+    url: "https://www.abcdinamo.com/"
+    relationship: "Berlin-based type foundry that collaborated with OpenAI's in-house design team to create OpenAI Sans (February 2025). Foundry behind Whyte, Diatype, and Discord's gg sans."
+
+  - name: "Studio Dumbar"
+    type: "motion-design"
+    url: "https://www.studiodumbar.com/"
+    relationship: "Rotterdam-based motion design studio. Lead motion partner since Spring 2024 developing OpenAI's interaction language and Emotive Point animations."
+
+  - name: "AREA 17"
+    type: "digital-design"
+    url: "https://www.area17.com/"
+    relationship: "Digital agency that designed original openai.com website architecture (2019) and information design framework."
+
+people:
+  - name: "Veit Moeller"
+    role: "Head of Design, OpenAI"
+    url: "https://openai.com/"
+    context: "In-house design leadership on February 2025 rebrand. Collaborated with ABC Dinamo on OpenAI Sans typeface development."
+
+  - name: "Shannon Jager"
+    role: "Design Director, OpenAI"
+    url: "https://openai.com/"
+    context: "In-house designer working with Veit Moeller and ABC Dinamo on OpenAI Sans and overall rebrand (February 2025)."
+
+  - name: "Michael Tabtabai"
+    role: "VP Global Creative, OpenAI"
+    url: "https://openai.com/"
+    context: "Leadership overseeing brand expression and creative strategy across OpenAI products and communications."
+
+  - name: "Ian Silber"
+    role: "Head of Product Design, OpenAI"
+    url: "https://openai.com/"
+    context: "Product design leadership overseeing ChatGPT interface and user experience visual system."
+
+publications:
+  - title: "OpenAI's Brand Refresh: February 2025 Rebrand"
+    author: "Fast Company / Creative Review / Wallpaper"
+    relevance: "Analysis of OpenAI's first-ever rebrand and new visual identity strategy."
+
+  - title: "OpenAI Sans: Custom Typeface Design Philosophy"
+    author: "ABC Dinamo / Design Compass / Wallpaper"
+    relevance: "Type design case study of OpenAI Sans and its 'imperfection' design value."
+
+  - title: "ChatGPT Interface Design and the Emotive Point"
+    author: "OpenAI / Design Publications"
+    relevance: "Documentation of conversational interface pattern and avatar animation system."
+
+visuals:
+  - url: "https://openai.com/"
+    label: "OpenAI website and brand showcase"
+    section: "visual-world"
+
+  - url: "https://chat.openai.com/"
+    label: "ChatGPT interface and visual system"
+    section: "visual-world"
+
+  - url: "https://www.abcdinamo.com/"
+    label: "ABC Dinamo typeface portfolio and case studies"
+    section: "visual-language"
+
+  - url: "https://www.studiodumbar.com/"
+    label: "Studio Dumbar motion design portfolio"
+    section: "visual-language"
+
+  - url: "https://www.creativereview.co.uk/openai-brand-refresh/"
+    label: "OpenAI rebrand analysis — Creative Review"
+    section: "visual-language"
+
+  - url: "https://www.wallpaper.com/tech/openai-has-undergone-its-first-ever-rebrand-giving-fresh-life-to-chatgpt-interactions"
+    label: "OpenAI rebrand feature — Wallpaper"
+    section: "visual-language"
+
+  - url: "https://designcompass.org/en/2025/02/06/openai-rebranding/"
+    label: "OpenAI rebrand design analysis — Design Compass"
+    section: "visual-language"

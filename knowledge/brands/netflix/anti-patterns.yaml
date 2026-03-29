@@ -1,0 +1,71 @@
+chunk_id: "netflix-anti-patterns"
+brand: netflix
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "netflix-soul"
+  - "netflix-visual-dna"
+token_count: 660
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Netflix. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Detailed photography of shows/films
+    reasoning: >-
+      Netflix doesn't showcase content through bespoke photography; it lets the existing show/film artwork live in cards. Creating "Netflix branded" versions of content would add visual noise and slow scanning.
+  - pattern: Gradient transitions or soft edges
+    reasoning: >-
+      The card system uses hard edges and flat blocks of color for speed and clarity. Gradients would create depth that complicates the "all at the same level" promise the system makes.
+  - pattern: Custom illustration or artistic flourishes
+    reasoning: >-
+      Netflix rarely commissioned unique illustration for the interface. Art would suggest curation or curatorial taste, breaking the algorithm-driven neutrality that makes discovery feel unbiased.
+  - pattern: "Multi-color palette in UI elements"
+    reasoning: >-
+      Buttons, interactive elements, and call-to-actions use only Netflix Red against black/white. Adding accent colors would create visual hierarchy that contradicts the "all equally worthy" message of The Stack.
+strategic:
+  - pattern: Competing on content count
+    reasoning: >-
+      Netflix never says "we have 10,000 shows." The number would frame scarcity instead of abundance. Algorithmic abundance feels infinite even when it's finite.
+  - pattern: Highlighting specific algorithm adjustments
+    reasoning: >-
+      Even when personalizing, Netflix describes the system in abstract terms ("Because you watched...") rather than technical language. Transparency about sorting methods would make the customer feel sorted.
+  - pattern: Premium tier based on catalog access
+    reasoning: >-
+      Netflix tier differences are resolution and simultaneous streams, not content breadth. Gatekeeping content would shatter the egalitarian promise at the brand's foundation.
+  - pattern: "Long-form educational marketing"
+    reasoning: >-
+      Netflix doesn't explain why a show is good. The UI simply makes it available. Trust in audience judgment is the actual positioning.
+tonal:
+  - pattern: Formal or distant voice in social/marketing
+    reasoning: >-
+      Netflix's witty, informal tone isn't a stylistic choice—it's essential to feeling like a service made by humans, not a system. Corporate distance would break the parasocial relationship that drives loyalty.
+  - pattern: Apologetic about cancellations or failures
+    reasoning: >-
+      When Netflix cancels shows, the tone never defensive or apologetic. This signals confidence in decision-making and prevents the servile posture that would make cancellation feel like betrayal.
+  - pattern: Selling the emotional impact of content
+    reasoning: >-
+      Netflix never says "this will change your life" or "you'll cry." Letting customers discover emotional resonance prevents disappointment when their response doesn't match marketing promise.
+  - pattern: "Urgency-driven messaging"
+    reasoning: >-
+      "Only here for 30 days" or "expiring soon" creates FOMO rather than the calm exploration Netflix promises. Anxiety is the opposite of the brand's core emotional position.
+cultural:
+  - pattern: Creating original culture content vs. licensing existing
+    reasoning: >-
+      Netflix initially struggled with this but now clearly: originals build brand love (House of Cards, Stranger Things, Crown), licensed content fills catalog. Positioning them equally would confuse the value exchange.
+  - pattern: Advocacy for specific genres or demographics
+    reasoning: >-
+      Netflix's algorithm-neutrality requires it to position every genre as equally available. Curators pick favorites; platforms don't (even when they secretly do).
+  - pattern: Representing creators as personalities
+    reasoning: >-
+      Even when featuring directors or actors in marketing, Netflix frames them within the service, not as separate celebrities. Creator-driven positioning would make Netflix feel like aggregation instead of platform.
+  - pattern: Gatekeeping cultural conversations
+    reasoning: >-
+      Netflix participates in zeitgeist (Squid Game conversations, Bridgerton discourse) but never as authority figure. Speaking to cultural moments requires listening, not lecturing.

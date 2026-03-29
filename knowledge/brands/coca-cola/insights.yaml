@@ -1,0 +1,32 @@
+chunk_id: "coca-cola-insights"
+brand: "coca-cola"
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "coca-cola-soul"
+  - "coca-cola-positioning"
+token_count: 185
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Deep insights for Coca-Cola. Learned wisdom and what nobody copies."
+
+# ── Data
+learned_insights:
+  - >-
+    138 years of history is only valuable if customers *feel* the continuity—Coca-Cola's genius is creating newness through Dynamic Ribbon and imagery while the wordmark anchors everything to heritage
+  - >-
+    "Do a lot with a little" works because constraints generate creativity—reducing the asset library to four elements (color, script, bottle, ribbon) forces every campaign to innovate within discipline
+  - >-
+    Simplification isn't minimalism for aesthetics—it's strategic. Removing complexity allows global teams to execute brand consistently across 200 countries
+  - >-
+    Moments matter more than products—Coca-Cola sells pauses, gatherings, small celebrations, not beverage specifications
+  - >-
+    Color consistency across 138 years creates cumulative brand equity that no competitor can replicate; red is literally Coca-Cola to billions
+what_nobody_copies: >-
+  The discipline to keep heritage sacred while building a living, contemporary visual system that feels alive without betraying what came before

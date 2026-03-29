@@ -1,0 +1,58 @@
+chunk_id: "glossier-visual-dna"
+brand: glossier
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "glossier-positioning"
+token_count: 87
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Glossier. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#F5DADF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Aperçu Bold
+    role: ""
+    style: ""
+  - name: Futura
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: geometric
+  type_weight: bold
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: candid
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: medium
+  identity_system: flexible
+  signature_device: "color-led"
+composition_logic: >-
+  Generous negative space with clean grid systems, balanced asymmetry, and strategic use of the signature pink as accent color against predominantly neutral palettes

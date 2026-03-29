@@ -1,0 +1,48 @@
+chunk_id: "coca-cola-voice"
+brand: "coca-cola"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "coca-cola-soul"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Voice and tone for Coca-Cola. How the brand sounds and what it avoids."
+
+# ── Data
+personality: >-
+  The world's largest beverage company, founded in 1886, operating in over 200 countries. Coca-Cola creates brands and choice of drinks that refresh people in body and spirit while fostering sustainable
+tone_traits:
+  - uplifting
+  - positive
+  - inspiring moments of happiness
+  - welcoming
+  - universal
+  - celebrating togetherness
+  - genuine
+  - timeless
+  - "heritage-rooted"
+anti_traits:
+  - cynical
+  - negative
+  - controversial
+  - exclusive
+  - divisive
+  - elitist
+  - artificial
+  - trendy
+  - manufactured
+example_phrases:
+  - Refresh the world
+  - Inspire moments of optimism and happiness
+  - Create a more sustainable business and better shared future
+  - "Every Coca-Cola is Welcome"
+guardrails:
+  never_say: []
+  always_sound: "uplifting, positive, inspiring moments of happiness, welcoming, universal"

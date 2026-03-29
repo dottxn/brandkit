@@ -1,0 +1,47 @@
+studios:
+- name: JKR (Jones Knowles Ritchie)
+  type: branding
+  url: https://www.jkr.com/
+  relationship: Led comprehensive rebrand (March 14, 2024); repositioned brand as
+    meat category competitor
+  project_url: https://www.jkrglobal.com/work/impossible
+- name: Erich & Kallman
+  type: film-production
+  url: https://www.erichkallman.com/
+  relationship: Produced 'We Can Have Our Meat and Eat It Too' campaign (May 2024)
+people:
+- name: Leslie Sims
+  role: Chief Marketing & Creative Officer
+  url: https://www.linkedin.com/in/leslie-sims/
+  context: Led Impossible's internal marketing and creative teams through rebrand
+- name: JKR Design Team
+  role: Branding Studio
+  url: https://www.jkr.com/
+  context: Created Sans Meat custom typeface and complete visual identity system
+publications:
+- title: 'Impossible Foods Rebrands: The Meat Alternative That Stopped Apologizing'
+  author: Business & Design Press
+  relevance: Documents strategic shift from plant-based category to meat competitor
+    category
+- title: 'The CPG Rebrand: How Category Leaders Reposition in Mature Markets'
+  author: Design and Marketing Strategy
+  relevance: Case study on aggressive visual and messaging repositioning strategy
+visuals:
+- url: https://impossiblefoods.com/
+  label: Impossible Foods Brand Website — Live Visual System
+  section: visual-language
+- url: https://impossiblefoods.com/media/news-releases/impossible-foods-launches-new-brand-identity-and-packaging
+  label: Impossible Foods Rebrand Announcement — Official Press Release
+  section: visual-language
+- url: https://www.creativereview.co.uk/impossible-plant-based-branding-jkr/
+  label: Impossible Foods Rebrand Case Study — Creative Review
+  section: visual-language
+- url: https://thedieline.com/blog/2024/3/14/jkr-grills-up-a-meaty-redesign-for-impossible-foods
+  label: JKR's Meaty Redesign — Dieline
+  section: visual-language
+- url: https://www.fastcompany.com/91057001/impossibles-massive-meatier-new-brand-promises-that-plants-can-bleed-red
+  label: Impossible's Meatier Brand Identity — Fast Company
+  section: visual-language
+- url: https://www.jkr.com/
+  label: JKR Design Studio Portfolio — Studio Website
+  section: visual-language

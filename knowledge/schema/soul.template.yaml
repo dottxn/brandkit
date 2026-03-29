@@ -1,0 +1,32 @@
+# Chunk Template: soul.yaml
+# Domain: soul
+# Target: ~400 tokens
+# Present for: all brands (baseline + enriched)
+
+chunk_id: "{brand}-soul"
+brand: "{brand}"
+domain: "soul"
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "{brand}-positioning"
+token_count: 0
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-20"
+status: "active"
+enrichment_level: "baseline"
+summary: >-
+  Soul of {brand_display}. How it feels, what drives it,
+  what would destroy it.
+
+# ── Data ─────────────────────────────────────────
+
+feels_like: ""              # One evocative sentence
+core_belief: ""             # What the brand fundamentally believes
+creative_tension: []        # Productive contradictions (can be multiple)
+decision_filter: ""         # What the brand always chooses
+signature_move: ""          # The thing they do that's unmistakably them
+what_would_break_it: ""     # The line they can never cross

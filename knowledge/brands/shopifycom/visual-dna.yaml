@@ -1,0 +1,58 @@
+chunk_id: "shopifycom-visual-dna"
+brand: shopifycom
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "shopifycom-positioning"
+token_count: 85
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Shopify. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#95BF47"
+    name: ""
+    role: ""
+  - hex: "#5E8E3E"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: Myriad
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: minimal
+  imagery_subject: product
+  imagery_treatment: documentary
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  Grid-based layouts with generous whitespace, clear visual hierarchy prioritizing merchant actions and key metrics

@@ -1,0 +1,31 @@
+chunk_id: "youtube-positioning"
+brand: youtube
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for YouTube. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: YouTube
+website: "https://www.youtube.com"
+founded: 2005
+category: entertainment
+sub_category: social media
+price_tier: freemium
+primary_archetype: The Creator
+secondary_archetype: The Explorer
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 2
+  heritage_innovation: 8
+key_differentiators: []

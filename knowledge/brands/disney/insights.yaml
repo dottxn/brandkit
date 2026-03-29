@@ -1,0 +1,32 @@
+chunk_id: "disney-insights"
+brand: disney
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "disney-soul"
+  - "disney-positioning"
+token_count: 176
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for The Walt Disney Company. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    100+ years of heritage is only valuable if it makes contemporary storytelling feel more powerful—Disney's genius is evolving the IP universe while the wordmark stays constant
+  - >-
+    Magical brands work when magic is systemic (every touchpoint builds wonder) not just visceral (the movie moment alone)
+  - >-
+    Iconic characters (Mickey, Cinderella Castle) function as visual shorthand for permission to believe in impossible things
+  - >-
+    Disney's competitive moat isn't any single story—it's the ecosystem where old stories inform new ones, creating cumulative emotional investment
+  - >-
+    "Where dreams come true" becomes credible when the brand invests consistently in physical spaces (theme parks), not just digital/film experiences
+what_nobody_copies: >-
+  The maintenance of heritage authenticity across 100+ years while producing culturally relevant contemporary storytelling that expands the definition of what Disney is

@@ -1,0 +1,32 @@
+chunk_id: "impossible-foods-strategy"
+brand: "impossible-foods"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "impossible-foods-positioning"
+token_count: 131
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Impossible Foods. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe the world's food system can be transformed by creating meat from plants that tastes as good or better than animal meat while being better for people and the planet
+mission: >-
+  To positively impact people and the planet by making delicious, nutrient-dense meat from plants products that meat eaters crave, with a smaller environmental footprint compared to meat from animals
+vision: >-
+  To replace animals as the dominant technology for producing meat, fish and dairy foods by creating plant-based alternatives that outperform animal products in taste, nutrition, value and sustainability
+values:
+  - Love what you do and care about people around you
+  - Be kind and generous
+  - Share and welcome new information that challenges convention
+  - Stand up against injustice and intolerance
+  - "Don't let fear of failure stop you"
+  - Take bold risks for urgent mission

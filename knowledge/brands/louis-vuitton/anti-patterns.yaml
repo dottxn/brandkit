@@ -1,0 +1,71 @@
+chunk_id: "louis-vuitton-anti-patterns"
+brand: "louis-vuitton"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "louis-vuitton-soul"
+  - "louis-vuitton-visual-dna"
+token_count: 962
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Louis Vuitton. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Trendy, seasonal color palettes beyond the core brown and gold"
+    reasoning: >-
+      The palette discipline is foundational. Beyond brown, gold, black, and white, additional colors appear rarely and intentionally (seasonal collaborations with artists). Introducing millennial pink, sage green, or other trending colors would signal fashion-consciousness rather than timelessness. The brown has been consistent for 170 years; changing it chases trends.
+  - pattern: "Sans-serif typeface other than Futura for primary branding"
+    reasoning: >-
+      While competitors use custom typefaces or trend-conscious choices (Montserrat, Poppins, Circular), Louis Vuitton maintains Futura—a choice that appears risky precisely because it's so old. Any other contemporary sans-serif would feel more "designed" and therefore more dated. Futura's endurance proves the value of restraint.
+  - pattern: Monogram pattern applied decoratively rather than structurally
+    reasoning: >-
+      The strength of the pattern comes from its integration into the product construction itself, not as an applied graphic. If the monogram became a secondary design element or appeared selectively, it would signal weakness. Every Louis Vuitton product the brand wants recognized carries the monogram as the material itself.
+  - pattern: Photographic style that emphasizes lifestyle over craftsmanship
+    reasoning: >-
+      Louis Vuitton photographs show the product's construction, material quality, and architectural precision. Lifestyle imagery (happy people using bags in aspirational contexts) would undermine the focus on permanence. The product is the narrative; people are secondary.
+strategic:
+  - pattern: "Aggressive expansion to high-volume retail channels"
+    reasoning: >-
+      While Louis Vuitton maintains broad distribution through select department stores and proprietary boutiques, it resists convenience. No Louis Vuitton bags appear in airport duty-free shops or flash sales. Accessibility would dilute exclusivity. The brand maintains scarcity through intentional distribution constraint.
+  - pattern: Celebrity endorsements or influencer partnerships
+    reasoning: >-
+      Like Hermès, Louis Vuitton doesn't need external validation. Celebrities carry Louis Vuitton because it's prestigious, not because they were paid to. The brand remains above influencer culture. Any explicit partnership would undermine the positioning of the brand as self-evident.
+  - pattern: "Explaining the heritage or over-marketing the 170-year history"
+    reasoning: >-
+      "Since 1854" is sufficient context. Excessive storytelling about Louis Vuitton's history would undermine the brand's confidence. The customer should discover the depth over time, not have it explained. Marketing-heavy heritage communication feels insecure—as if the brand needs to justify itself.
+  - pattern: Diversifying beyond core leather goods and the monogram system
+    reasoning: >-
+      While Louis Vuitton successfully produces watches, jewelry, and eyewear, these remain clearly positioned as extensions of the core. Abandoning the monogram or core aesthetic for new product categories would signal loss of direction. The brand wins through consistency, not diversification.
+tonal:
+  - pattern: "Casual, friendly voice mimicking competitor brands"
+    reasoning: >-
+      "We get you," "Luxury reimagined," "For the curious"—these are accessibility plays. Louis Vuitton maintains formal, authoritative tone. The brand doesn't need to prove approachability; its actions speak. The tone should feel composed, knowledgeable, almost professorial. Never apologetic or over-explaining.
+  - pattern: "Self-deprecating humor or ironic positioning"
+    reasoning: >-
+      Irony would undermine the brand's cultural authority. Louis Vuitton speaks with confidence, never questioning its own worth. Competitors use humor to feel relatable; Louis Vuitton achieves connection through excellence, not familiarity.
+  - pattern: Urgency marketing or artificial scarcity
+    reasoning: >-
+      The scarcity is real—production is limited by the commitment to quality. Creating artificial FOMO through "limited time" messaging would feel cheap. The waiting list is organic; the brand doesn't need manufactured urgency.
+  - pattern: Apologetic communication about pricing
+    reasoning: >-
+      Price is a feature, not a problem. "Luxury that's worth the investment" or price-justifying language would signal insecurity. Louis Vuitton states its prices matter-of-factly. The quality justifies itself to those who understand.
+cultural:
+  - pattern: "Attempting to be an \"accessible luxury\" for aspirational consumers"
+    reasoning: >-
+      This positioning belongs to brands like Coach or Kate Spade. Louis Vuitton occupies the "accessible prestige" space differently—accessible distribution, but inaccessible price point that creates natural selection. This is different from positioning as cheap luxury, which it is not.
+  - pattern: "Trend-chasing collaborations with contemporary artists who are briefly relevant"
+    reasoning: >-
+      Artist collaborations work only when the artist's vision serves the brand's vision. Virgil Abloh succeeded because his design philosophy aligned with Louis Vuitton's architectural precision. Collaborating with trend-chasing artists would make the brand feel derivative.
+  - pattern: Decoupling from actual luxury positioning to seem relatable
+    reasoning: >-
+      As luxury brands face pressure to seem more democratic, some dilute their positioning. Louis Vuitton should resist this completely. The power comes from absolute commitment to exclusivity and excellence, not attempts to seem human.
+  - pattern: Allowing the monogram to become kitsch or purely decorative
+    reasoning: >-
+      The monogram only works because it carries structural weight. If it becomes purely applied decoration without functional connection to the product, it devolves into pattern. The monogram must always feel purposeful, integrated, inevitable.

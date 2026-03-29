@@ -1,0 +1,28 @@
+chunk_id: "arc-soul"
+brand: arc
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "arc-positioning"
+token_count: 139
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Arc. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "Calm exhale after years of browser chaos, like finally organizing the mess behind your eyeballs"
+core_belief: "Technology should feel like home, not like you're navigating an airport"
+creative_tension:
+  - "Radical user customization (boosts, spaces) vs. opinionated design that works without configuration"
+  - Browser as operating system (ambitious scope) vs. browser as sanctuary (intimate scale)
+decision_filter: >-
+  Does this reduce mental load or add decision points? Does this feel like Arc owns the future or like I own my internet?
+signature_move: "The sidebar as organizing principle—not navigation drawer, but a manifest of your digital life"
+what_would_break_it: >-
+  Adding tabs-on-top, increasing visual clutter, treating customization as an advanced menu, or using aggressive colors that break the calm aesthetic

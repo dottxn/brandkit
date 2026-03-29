@@ -1,0 +1,31 @@
+chunk_id: "eventbrite-positioning"
+brand: eventbrite
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Eventbrite. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Eventbrite
+website: "https://www.eventbrite.com"
+founded: 2006
+category: "social-community"
+sub_category: event discovery platform
+price_tier: "mid-range"
+primary_archetype: The Caregiver
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 3
+  heritage_innovation: 8
+key_differentiators: []

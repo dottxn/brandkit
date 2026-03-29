@@ -1,0 +1,32 @@
+chunk_id: "gucci-strategy"
+brand: gucci
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "gucci-positioning"
+token_count: 65
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Gucci. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in creating authentic emotional bonds with customers through innovative luxury experiences that honor our heritage while defining the future of fashion
+mission: >-
+  To redefine luxury for the 21st century through creative excellence, quality craftsmanship, and sustainable innovation
+vision: >-
+  To be the global leader in luxury lifestyle experiences by seamlessly integrating rich heritage with cutting-edge contemporary design and technology
+values:
+  - Italian Craftsmanship
+  - Creative Innovation
+  - Authentic Heritage
+  - Environmental Responsibility
+  - Progressive Inclusivity
+  - Quality Excellence

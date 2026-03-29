@@ -1,0 +1,32 @@
+chunk_id: "opendoor-insights"
+brand: opendoor
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "opendoor-soul"
+  - "opendoor-positioning"
+token_count: 178
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Opendoor. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Trust in financial services doesn't come from looking more expensive—it comes from visual clarity and consistency
+  - >-
+    A single decision (instant cash offer instead of listing) reshapes an entire industry, and the brand needs to visually reinforce that one insight
+  - >-
+    Real estate is one of the last industries where visual design can actually change behavior by making processes visible instead of obscured
+  - >-
+    Terra cotta accent (#F7AF98) succeeds not because it's trendy but because it humanizes the cool blue, suggesting a real person behind the algorithm
+  - >-
+    Modular design systems matter most when serving an industry that's constantly inventing new categories of transaction
+what_nobody_copies: >-
+  The architectural choice to center the entire brand around one consumer insight (people hate the traditional process) rather than multiple product features

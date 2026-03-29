@@ -1,0 +1,36 @@
+chunk_id: "pepsi-competitive"
+brand: pepsi
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "pepsi-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for PepsiCo. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - "coca-cola"
+  - oatly
+  - starbucks
+industry_norms_it_breaks: "Custom lowercase typeface signaling approachability while maintaining global brand authority through circular composition | The decision to make the logo type in lowercase across 500+ brands globally—a visual humility that somehow increases rather than decreases authority | Does this create a smile? Everything else is secondary"
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Globe rebrand, energetic, entertainment partnerships"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Systematic brand identity, clean refresh"
+  - cluster: "cinematic-narrative"
+    role: "accent"
+    where: "Entertainment sponsorship, cultural moment campaigns"
+strategic_cluster: "community-connector"
+category: "food-beverage"

@@ -1,0 +1,31 @@
+chunk_id: "seed-health-strategy"
+brand: "seed-health"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "seed-health-positioning"
+token_count: 63
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Seed Health. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that health is not just human - microbes have the potential to transform how we live and care for ourselves, our children, and our environment.
+mission: >-
+  To pioneer applications of microbes for human and planetary health through breakthrough research and innovative commercialization.
+vision: >-
+  To realize the vast potential of the microbiome to significantly impact the health of all life on Earth.
+values:
+  - Scientific Rigor
+  - Transparency
+  - "Education-First"
+  - Sustainability
+  - Innovation

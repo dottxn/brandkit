@@ -1,0 +1,392 @@
+chunk_id: "apple-visual-language"
+brand: "apple"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "apple-visual-dna"
+  - "apple-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Apple. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "product-hero"
+      touchpoints:
+        - "apple.com product pages (iPhone, Mac, iPad, Watch)"
+        - "Keynote presentation slides (WWDC, September event)"
+        - "Apple Store digital displays and window campaigns"
+        - "Global OOH and print advertising"
+      description: >-
+        Product isolated on solid colour or gradient background, studio-lit
+        with invisible light sources. The product floats — no surface, no
+        shadow, no context. Peter Belanger's product photography (Apple's
+        primary product photographer for 15+ years) defines the standard:
+        every chamfer, every material transition, every surface finish is
+        lit to reveal engineering precision. Backgrounds shift seasonally —
+        deep black for Pro products, white or light grey for consumer, bold
+        colour for product-colour launches. San Francisco (Antonio Cavedoni,
+        WWDC 2015) in display weights for headlines. The visual register
+        says 'this object is the entire world.'
+      differs_from_default_by: >-
+        This is the baseline. Every other mode departs from this isolated,
+        product-as-sculpture register.
+
+    - name: "shot-on-iphone"
+      touchpoints:
+        - "'Shot on iPhone' global billboard campaign (running since 2015)"
+        - "'Shot on iPhone, Drawn on iPad' campaign (2025)"
+        - "apple.com/iphone camera sample galleries"
+        - "Apple Newsroom photography showcases"
+      description: >-
+        User-generated and commissioned photography showcasing camera
+        capability. Full-bleed images with minimal branding — just the
+        'Shot on iPhone' credit line and photographer name in San Francisco.
+        The photography spans extreme macro, night mode, portrait mode,
+        cinematic video stills, and spatial video. The visual register is
+        the opposite of product-hero — messy, real, human, emotional. The
+        only Apple branding is the credit line, which functions like a
+        photographer's watermark. The 2025 'Shot on iPhone, Drawn on iPad'
+        extension pairs photography with digital illustration, cross-
+        promoting both devices.
+      differs_from_default_by: >-
+        The controlled, studio-perfect product register disappears entirely.
+        The product is invisible — you see what it creates, not the object
+        itself. Photography is maximalist where product-hero is minimalist.
+
+    - name: "services-entertainment"
+      touchpoints:
+        - "tv.apple.com and Apple TV+ marketing"
+        - "Apple Music editorial and playlist artwork"
+        - "Apple Arcade game artwork"
+        - "Apple News+ and Fitness+ marketing"
+      description: >-
+        Content-led rather than product-led. Apple TV+ marketing uses the
+        visual language of prestige entertainment — show-specific key art,
+        cinematic colour grading, talent photography. Apple Music uses bold
+        colour, artist photography, and genre-specific visual codes. The
+        Apple brand recedes to a small logo — the content IS the marketing.
+        Compared to Netflix (red-dominant, algorithm-driven thumbnails) or
+        Spotify (duotone, data-driven), Apple's services marketing is more
+        restrained and defers to the content creator's visual identity.
+      differs_from_default_by: >-
+        The product disappears. Apple's systematic visual discipline loosens
+        to accommodate the creative identities of shows, artists, and games.
+        The only consistent thread is production quality and the San Francisco
+        typeface in UI elements.
+
+    - name: "liquid-glass"
+      touchpoints:
+        - "iOS 26, iPadOS 26, macOS Tahoe, watchOS 26, visionOS 3 (WWDC June 2025)"
+        - "Apple.com software feature pages"
+        - "Developer documentation and HIG (Human Interface Guidelines)"
+      description: >-
+        Translucent, layered, depth-rich UI aesthetic introduced at WWDC
+        2025. Glass-like surfaces with light refraction, blur, and
+        transparency replace the flat, opaque panels of previous iOS
+        generations. The visual metaphor is looking through layers of
+        tinted glass — each UI element has depth and responds to what sits
+        behind it. This is Apple's most significant UI visual language
+        shift since iOS 7's flat redesign (2013). The system uses dynamic
+        colour that adapts to wallpaper and content. San Francisco and
+        SF Symbols remain the typographic and icon foundation.
+      differs_from_default_by: >-
+        Software-specific rather than marketing or hardware. The product-
+        hero mode shows the outside of the device; Liquid Glass shows
+        what's inside it. More colourful, more dynamic, and more layered
+        than the marketing visual language.
+
+  notes: >-
+    Apple operates distinct visual sub-systems for hardware marketing,
+    software UI, services content, and retail. Each has its own internal
+    logic. The unifying thread is San Francisco typography, obsessive
+    production quality, and the principle that the product (or content)
+    is always the protagonist — never the brand mark.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "Peter Belanger — Apple's primary product photographer (15+ year relationship)"
+    - "apple.com product pages (observed February 2026)"
+    - "TBWA\\Media Arts Lab — Apple's dedicated agency (Lee Clow founded 2006, 28-year Apple partnership)"
+    - "'Shot on iPhone' billboard campaign (running since 2015)"
+    - "'Shot on iPhone, Drawn on iPad' campaign (2025)"
+  subject_and_framing: >-
+    Product photography: the device isolated, shot at precise angles that
+    reveal industrial design details — the camera module, the edge profile,
+    the display. Peter Belanger's work uses invisible lighting rigs that
+    eliminate reflections while revealing material properties (aluminium
+    grain, glass surface, ceramic back). Products are shot at 3/4 angle,
+    straight-on profile, and detail macro. No hands, no people, no surfaces
+    in hero product shots. Campaign photography ('Shot on iPhone'): full-
+    bleed, photographer-credited, spanning every genre from street to
+    landscape to macro to portrait. The framing is the photographer's —
+    Apple does not impose a house style on 'Shot on iPhone' content.
+    Compared to Samsung (more lifestyle-integrated product shots) or Google
+    Pixel (more casual, everyday photography), Apple's product photography
+    is more controlled and Samsung's is more contextual.
+  casting_observed: >-
+    Product photography has no casting — the product is the only subject.
+    Campaign and services marketing features diverse casting across age,
+    ethnicity, and ability. Apple's 'Accessibility' campaigns prominently
+    feature disabled users with Apple products. Celebrity casting is
+    reserved for Apple TV+ (talent from specific shows) and Apple Music
+    (artist partnerships). The brand does not use celebrity endorsement
+    for hardware — the product endorses itself.
+  lighting_and_colour: >-
+    Product: invisible, multi-source studio lighting designed to eliminate
+    harsh reflections while revealing surface texture and material. The
+    lighting is so controlled it appears sourceless — the product seems
+    to generate its own light. Colour is precise and calibrated — product
+    colours must match the physical device exactly across all marketing.
+    Background colours shift by product line: Shark (#1D1D1F) near-black
+    for Pro products, Athens Gray (#F5F5F7) for consumer, Science Blue
+    (#0066CC) and other bold colours for product-colour launches. Compared
+    to Samsung (more saturated, more dramatic lighting) or Google (flatter,
+    more natural lighting), Apple's product lighting is uniquely sourceless
+    and controlled.
+  post_production: >-
+    Product photography: extreme precision retouching — every surface is
+    perfect, every reflection is controlled, but the materials look real
+    (not CGI). The line between photography and 3D rendering is increasingly
+    blurred in Apple's product imagery — some hero shots are likely CG
+    renders matching Belanger's photographic style. 'Shot on iPhone':
+    minimal post-production — the images demonstrate what the camera can
+    do out of the box, so heavy retouching would undermine the message.
+  visual_boundaries:
+    stated_exclusions: >-
+      Apple's positioning excludes price-point callouts in hero imagery,
+      spec-sheet-style comparisons, and any visual language that reads as
+      'tech industry generic' — busy layouts, stock photography, feature
+      checklists.
+    observed_exceptions: >-
+      The services marketing (Apple TV+, Apple Music) introduces the visual
+      codes of entertainment — show posters, artist photography, genre
+      conventions — that break the clean, minimal hardware register. The
+      Apple Store retail environment introduces warmer, more human visual
+      language with people and interaction.
+    genuine_absence: >-
+      Based on apple.com review: no visible pricing in hero imagery (prices
+      appear only in buy flow), no competitive comparisons, no lifestyle
+      context in product hero shots (unlike Samsung), no user testimonials
+      in visual marketing, no before-and-after compositions.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "SF Symbols (4,000+ symbols, introduced WWDC 2019, SF Symbols 6 at WWDC 2025)"
+    - "apple.com product marketing and event graphics"
+    - "Apple Park invitation and event branding"
+    - "'Shot on iPhone, Drawn on iPad' illustration campaign (2025)"
+  uses_illustration: true
+  illustration_style: >-
+    Illustration is rare in Apple's marketing — the brand overwhelmingly
+    favours photography and 3D rendering. When illustration appears, it
+    is through the 'Shot on iPhone, Drawn on iPad' campaign (2025), which
+    pairs commissioned illustrations with iPhone photography to cross-
+    promote both devices. Event invitations (WWDC, September keynote) use
+    custom graphic treatments that hint at announcements — these are the
+    most creatively free visual moments in Apple's calendar.
+  illustration_role: >-
+    SF Symbols is the primary graphic system — 4,000+ vector symbols
+    designed to harmonise with San Francisco type at every weight and size.
+    SF Symbols function as the visual vocabulary of Apple's software UI
+    and increasingly appear in marketing materials. The 'Drawn on iPad'
+    campaign positions illustration as a creative output of Apple products
+    rather than a brand design element.
+  icon_style: >-
+    SF Symbols: variable-weight, optically aligned to San Francisco type,
+    available in nine weights and three scales. The symbols use consistent
+    stroke weight proportional to the accompanying text size. App icons
+    follow the rounded-rectangle (squircle) format across all platforms —
+    the continuous-curvature superellipse is Apple's signature shape. The
+    icon shape language is exclusively rounded — no sharp corners anywhere
+    in the system.
+  graphic_devices: >-
+    The Apple logo (Rob Janoff, 1977, monochrome since 1998) is used
+    sparingly — small on product, small on packaging, never as a dominant
+    compositional element. The product itself IS the graphic device. The
+    rounded-rectangle app icon shape. Gradient backgrounds that shift by
+    product line and season. The Liquid Glass transparency and layering
+    system (WWDC 2025) as a UI graphic device. The 'Shot on iPhone' credit
+    line as a recurring text-based graphic element.
+  motion_language: >-
+    Observed in keynote presentations and apple.com: slow, deliberate
+    product reveals — the device rotating, materials catching light,
+    components assembling. The pacing is unhurried — Apple's motion language
+    gives the viewer time to appreciate details. Transitions use physics-
+    based easing (spring animations in UI, smooth inertia in marketing).
+    Keynote presentations use dramatic zooms into product details and
+    cinematic fly-throughs of chip architecture. The motion language is
+    more controlled and slower than Samsung (more dynamic, faster cuts)
+    or Google (more playful, bouncier).
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "San Francisco (Antonio Cavedoni / Apple, introduced WWDC 2015)"
+    - "New York (Apple, introduced 2019) — serif companion"
+    - "apple.com observed February 2026"
+    - "Apple Human Interface Guidelines (developer.apple.com)"
+  signature_move: >-
+    San Francisco (Antonio Cavedoni / Apple, WWDC 2015) at large display
+    sizes in thin or ultralight weights on apple.com — the headlines are
+    enormous and ethereally light. This is the signature: big type, thin
+    weight, generous line-height. The thinness of the display type against
+    the visual weight of the product creates a deliberate contrast — the
+    words whisper while the product commands. SF Pro for marketing and web,
+    SF Compact for Apple Watch, SF Mono for code. The entire type system
+    is proprietary and cannot be legally used by anyone outside Apple's
+    platforms, which makes it an identity moat.
+  what_would_look_wrong: >-
+    Bold or heavy display type (contradicts the thin, light signature —
+    Apple uses weight for hierarchy, not impact). Helvetica (the predecessor
+    that San Francisco specifically replaced in 2015 — would immediately
+    read as dated Apple). Serif display type in product marketing (New York
+    exists but is reserved for editorial and content contexts, never product
+    headlines). Any typeface with visible personality or quirk — San
+    Francisco is deliberately neutral to avoid competing with the product.
+  case_convention: >-
+    Sentence case for almost everything. Product names in title case
+    ('iPhone 16 Pro', 'MacBook Air'). The brand avoids uppercase —
+    headlines are sentence case even at enormous display sizes. This is
+    distinctive: most tech brands use title case or uppercase for display;
+    Apple's sentence case reads as conversational and confident.
+  display_vs_body: >-
+    Display: San Francisco (SF Pro Display) in thin or ultralight weights
+    at very large sizes. The display type on apple.com is among the largest
+    in the tech industry — sometimes 80-120px. Body: San Francisco (SF Pro
+    Text) in regular weight, optimised for readability at small sizes with
+    tighter letter-spacing and more open counters than the display optical
+    size. New York (Apple, 2019) serves as a serif companion for editorial
+    contexts — Apple News, Books, and long-form content. The SF Pro Display
+    to SF Pro Text transition is handled by optical sizing, making the
+    single family appear as two distinct designs.
+  type_and_image: >-
+    Type and product imagery occupy separate zones — headlines above or
+    below the product, never overlaid on it. The product is never obscured
+    by typography. On apple.com, the scroll often reveals type first, then
+    the product, creating a sequential reveal. In 'Shot on iPhone' OOH,
+    the type is minimal — just the credit line, small, at the bottom. The
+    hierarchy is always: product (or content) first, type second. Apple's
+    type is among the most self-effacing in tech — it introduces and
+    steps aside.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "apple.com (observed February 2026)"
+    - "Apple Store retail displays"
+    - "Keynote presentation layouts"
+  signature_composition: >-
+    Centred product, centred headline, vertical scroll reveal. apple.com
+    product pages are vertical journeys — each scroll position reveals a
+    new feature with its own composition, its own background colour, and
+    often its own animation trigger. The centring is absolute — products
+    sit on the vertical axis, type sits on the vertical axis. This
+    centred-and-scrolling composition is Apple's most distinctive layout
+    choice and has been widely imitated. Compared to Samsung (more grid-
+    based, more dense) or Google (more asymmetric, more playful), Apple's
+    layouts are more symmetrical and more cinematic.
+  density_and_whitespace: >-
+    Extremely low density on product pages — one feature per scroll
+    viewport, generous negative space around the product. The whitespace
+    is functional: it creates focus on a single object or idea at a time.
+    apple.com uses more vertical space per unit of content than almost any
+    other tech company website. The density increases in the Apple Store
+    (commerce) and comparison pages (specs) but remains lower than Samsung
+    or Google's equivalent pages.
+  format_preferences: >-
+    Full-width centred compositions for web. Square and vertical for social.
+    16:9 for keynote presentations. The product's own proportions drive the
+    format — iPhone pages are more vertical, Mac pages are more horizontal.
+    OOH uses the billboard format with a single product and minimal type.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "leader"
+  relationship_to_trends: >-
+    Apple sets visual trends in consumer technology — the white-background
+    product shot, the centred-scroll product page, the thin-weight display
+    type, and most recently the Liquid Glass UI aesthetic. The brand's
+    scale means its design decisions become industry defaults within
+    12-24 months.
+  examples:
+    - trend: "Liquid Glass / translucent UI design"
+      stance: "leader"
+      evidence: >-
+        Liquid Glass, introduced at WWDC June 2025 across iOS 26, iPadOS 26,
+        macOS Tahoe, watchOS 26, and visionOS 3, represents the most
+        significant UI visual language shift since iOS 7 (2013). Translucent,
+        depth-rich surfaces with dynamic light refraction replace flat
+        opaque panels. The design language has already influenced UI trends
+        across the industry within months of announcement.
+      reasoning: >-
+        Apple's platform control means its UI design language is experienced
+        by 1.5+ billion active devices. Any visual system change at this
+        scale automatically becomes a trend that competitors must respond to.
+    - trend: "Thin-weight display typography"
+      stance: "leader"
+      evidence: >-
+        Apple's use of San Francisco in ultralight and thin weights at
+        enormous display sizes (80-120px on apple.com) preceded and likely
+        influenced the broader trend toward thin-weight display type in
+        tech branding. Samsung, Google, and Microsoft have all moved toward
+        lighter type weights in product marketing since Apple normalised
+        the approach.
+      reasoning: >-
+        The thin-weight display convention only works with the level of
+        whitespace and production control Apple maintains. Imitators often
+        fail because they lack the surrounding visual discipline to support
+        type this light.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "rigid"
+  what_stays: >-
+    San Francisco typography. The centred, isolated product composition.
+    Production quality. The Apple logo at prescribed sizes and clear space.
+    No collaboration positions Apple as secondary or compromises the
+    product's visual primacy.
+  what_bends: >-
+    Very little. Apple's collaborations are structured so the partner's
+    contribution lives inside Apple's visual system — Nike+ on Apple Watch
+    uses Nike's Futura-derived type within Apple's Watch UI framework.
+    Hermès Apple Watch uses Hermès orange and leather straps but the
+    marketing photography follows Apple's studio conventions. The partner's
+    visual language appears on the product (band, face) but not in the
+    surrounding marketing composition.
+  notable_examples: >-
+    Apple Watch Hermès (2015-present): Hermès orange, leather straps, and
+    exclusive watch faces within Apple's marketing format. The product
+    photography is Apple's — Hermès brings colour and material, not art
+    direction. Apple Watch Nike (2016-present): Nike's Futura-based type
+    and Volt colourway appear on the watch band and face; marketing follows
+    Apple's conventions. (RED) partnership (2006-present): Product Red
+    colourway across iPhone, Watch, and accessories — the red colour enters
+    Apple's system but the visual language remains Apple's. In every case,
+    Apple controls the visual presentation and the partner contributes
+    material, colour, or content elements within that framework.

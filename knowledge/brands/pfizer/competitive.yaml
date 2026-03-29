@@ -1,0 +1,36 @@
+chunk_id: "pfizer-competitive"
+brand: pfizer
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "pfizer-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Pfizer. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - "oscar-health"
+  - "seed-health"
+  - "cvs-pharmacy"
+industry_norms_it_breaks: "Ribbon helix motif (#0073E6 and #00BFFF) suggesting DNA and medical advancement simultaneously | The architectural decision to make the breakthrough narrative primary rather than the risk-mitigation narrative—pharmaceutical communication usually defaults to risk and safety, but Pfizer's voice cen | Would a patient trust this? Would a researcher respect this? Both must be true"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Corporate brand, systematic, clean, trustworthy"
+  - cluster: "scientific-editorial"
+    role: "secondary"
+    where: "Scientific-medical communications, research publications"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Consumer health, patient-facing, caring tone"
+strategic_cluster: "trusted-guide"
+category: "health-wellness"

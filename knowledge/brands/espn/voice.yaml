@@ -1,0 +1,48 @@
+chunk_id: "espn-voice"
+brand: espn
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "espn-soul"
+token_count: 83
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for ESPN. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  ESPN is the world's leading sports entertainment brand, serving sports fans across television, digital, and streaming platforms with live events, news, analysis, and original programming. The company 
+tone_traits:
+  - Expert
+  - credible
+  - insider knowledge
+  - Exciting
+  - dynamic
+  - passionate
+  - Relatable
+  - conversational
+  - inclusive
+anti_traits:
+  - Arrogant
+  - exclusionary
+  - overly academic
+  - Hyperactive
+  - chaotic
+  - overwhelming
+  - "Dumbed-down"
+  - overly casual
+  - unprofessional
+example_phrases:
+  - The Worldwide Leader in Sports
+  - SportsCenter. Your source.
+  - This is SportsCenter
+  - Serving sports fans. Anytime. Anywhere.
+guardrails:
+  never_say: []
+  always_sound: "Expert, credible, insider knowledge, Exciting, dynamic"

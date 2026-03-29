@@ -1,0 +1,48 @@
+chunk_id: "sephora-voice"
+brand: sephora
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "sephora-soul"
+token_count: 97
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Sephora. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Sephora is the world's leading global prestige beauty retailer, connecting customers and beauty brands within the world's most trusted and dynamic beauty community through its innovative open-sell ret
+tone_traits:
+  - bold
+  - encouraging
+  - innovative
+  - welcoming
+  - celebrating
+  - empowering
+  - knowledgeable
+  - supportive
+  - accessible
+anti_traits:
+  - cautious
+  - judgmental
+  - prescriptive
+  - exclusive
+  - elitist
+  - discriminatory
+  - intimidating
+  - condescending
+  - distant
+example_phrases:
+  - We belong to something beautiful
+  - Champion a world of inspiration and inclusion where everyone can celebrate their beauty
+  - Inspire fearlessness in our community
+  - Reimagine the world of prestige beauty
+guardrails:
+  never_say: []
+  always_sound: "bold, encouraging, innovative, welcoming, celebrating"

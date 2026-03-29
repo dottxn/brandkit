@@ -1,0 +1,32 @@
+chunk_id: "uber-insights"
+brand: uber
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "uber-soul"
+  - "uber-positioning"
+token_count: 218
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Uber. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Uber's visual minimalism serves the product, not aesthetic preference—every eliminated element is friction reduced. This is a product design philosophy expressed through visual language.
+  - >-
+    The green action color (#1FB253) is reserved for the moment of confirmation—"your driver accepted." The color signals the transition from thinking to moving, from uncertainty to action.
+  - >-
+    Uber Move typeface was designed to be globally legible, not locally distinctive. This reflects the brand's statement that movement is universal, not culturally specific.
+  - >-
+    Black and white photography of real people in real urban contexts works because Uber's story is about moving actual people through actual cities, not lifestyle marketing.
+  - >-
+    The brand's willingness to remain visually neutral in major markets (maintaining consistency across 70+ countries) was a strategic sacrifice—could have localized; instead chose global simplicity.
+what_nobody_copies: >-
+  The absolute restraint in visual expression. Competitors try to build brand personality through design; Uber's personality is the app's functionality. The design actively resists expressing brand opinion.

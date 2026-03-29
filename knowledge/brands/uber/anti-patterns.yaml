@@ -1,0 +1,71 @@
+chunk_id: "uber-anti-patterns"
+brand: uber
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "uber-soul"
+  - "uber-visual-dna"
+token_count: 538
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Uber. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Colorful imagery or vibrant branding moments
+    reasoning: >-
+      Uber rejects color for color's sake. Visual system uses color only for functional signals. Everything else is black, white, photography.
+  - pattern: "Playful or personality-driven interface elements"
+    reasoning: >-
+      Even error states avoid humor. The interface maintains a steady, businesslike tone. Personality would distract from the utilitarian purpose.
+  - pattern: Complex hierarchical branding with mascots or characters
+    reasoning: >-
+      Uber's branding is purely abstract and functional. Characters or mascots would humanize the system in ways that undermine efficiency.
+  - pattern: Serif typography or anything suggesting heritage
+    reasoning: >-
+      Uber Move was designed for digital platforms. Historical typography references would feel out of place in an app designed for now.
+strategic:
+  - pattern: "Market-specific product adaptation"
+    reasoning: >-
+      Despite operating in 70+ markets with different regulations and preferences, Uber maintains core product consistency. Localization would fragment the network effect.
+  - pattern: "Driver-favorable policies at scale"
+    reasoning: >-
+      The business model prioritizes availability and consistency over maximizing driver income. Strategic compromise for network effects.
+  - pattern: Premium tiers fragmenting the community
+    reasoning: >-
+      While Uber X and Uber Premium exist, the brand emphasizes basic service. Abandoning standard tier would reduce accessibility and network effects.
+  - pattern: Entertainment or lifestyle expansion
+    reasoning: >-
+      Ventures into food delivery (Uber Eats) use the same principle: movement and convenience, not differentiation. Straying from core motion philosophy would dilute the brand.
+tonal:
+  - pattern: "Enthusiastic or personality-driven voice"
+    reasoning: >-
+      Copy is neutral and informative. No sales language, no celebration, just facts about availability and pricing. Enthusiasm would feel misplaced.
+  - pattern: "Driver-centric messaging"
+    reasoning: >-
+      Despite depending on driver participation, Uber speaks primarily to riders. The service exists for rider convenience; driver positioning contradicts this.
+  - pattern: Market disruption language or revolutionary framing
+    reasoning: >-
+      Copy avoids "disrupting transportation" language. Uber communicates function, not philosophy. Ideological positioning would undermine the neutral utilitarian stance.
+  - pattern: Promise language about lifestyle improvement
+    reasoning: >-
+      Messaging avoids claims about how transportation changes life. Uber moves you; what you do when you arrive is not Uber's narrative.
+cultural:
+  - pattern: Driver as partner versus independent contractor reality
+    reasoning: >-
+      Despite partnership positioning, Uber maintains platform supremacy. Authentic parity would require different organizational design.
+  - pattern: Local market expertise
+    reasoning: >-
+      The global system design prioritizes consistency. Local adaptation would require acknowledging that Uber's global app can't serve all markets equally.
+  - pattern: Safety theater versus actual safety systems
+    reasoning: >-
+      The brand relies on ratings and feedback systems rather than elaborate safety marketing. Overselling safety through design would undermine trust in actual systems.
+  - pattern: Celebrating innovation over reliability
+    reasoning: >-
+      The brand positions itself as reliable transportation, not a tech company innovating. This is a conscious cultural choice to prioritize function over disruption narratives.

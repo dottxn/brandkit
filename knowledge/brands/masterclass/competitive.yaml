@@ -1,0 +1,37 @@
+chunk_id: "masterclass-competitive"
+brand: masterclass
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "masterclass-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for MasterClass. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - coursera
+  - udemy
+  - netflix
+  - hbo
+industry_norms_it_breaks: "The implied underscore—a subtle visual device derived from the wordmark used as connector, divider, selector, and highlighter throughout the platform. It's not obvious; it requires familiarity to noti | The commitment to cinematic production values rivaling Hollywood while other educational platforms cut production costs to maximize margin. MasterClass invests $50k+ per class episode in production—a  | Would a world-renowned expert teach this? Is this learning experience genuinely transformative or just celebrity showcase? Does the production quality serve the learning (revealing process, showing de"
+visual_cluster: "cinematic-narrative"
+visual_fingerprint:
+  - cluster: "cinematic-narrative"
+    role: "dominant"
+    where: "Film-quality instructor portraits, dramatic lighting"
+  - cluster: "dark-premium"
+    role: "secondary"
+    where: "Dark palette, prestige, high-contrast authority"
+  - cluster: "editorial-luxury"
+    role: "accent"
+    where: "Instructor authority, curated expertise"
+strategic_cluster: "creative-authority"
+category: education

@@ -1,0 +1,29 @@
+chunk_id: "hm-strategy"
+brand: hm
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "hm-positioning"
+token_count: 54
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for H&M. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe in democratizing fashion through accessibility and sustainability
+mission: To offer fashion and quality at the best price in a sustainable way
+vision: To lead the change towards circular and renewable fashion while being a fair and equal company
+values:
+  - We believe in people
+  - We are one team
+  - Constant improvement
+  - "Straightforward and open-minded"
+  - Entrepreneurial spirit
+  - Sustainability is a natural part

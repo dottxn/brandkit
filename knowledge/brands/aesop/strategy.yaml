@@ -1,0 +1,32 @@
+chunk_id: "aesop-strategy"
+brand: aesop
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "aesop-positioning"
+token_count: 66
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: full
+summary: "Strategic foundation for Aesop. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe well considered design improves lives and that beauty should be pursued through intellectual rigor, quality formulations, and authentic experiences
+mission: >-
+  To elevate the experience of living by enriching the senses, self, and surrounds through considered formulations and thoughtful design
+vision: >-
+  To create a global community that values authenticity, quality, and the pursuit of beauty through restraint and intention
+values:
+  - Intellectual Beauty
+  - Sustainability
+  - Thoughtful Design
+  - Quality over Quantity
+  - Community Engagement
+  - Transparency

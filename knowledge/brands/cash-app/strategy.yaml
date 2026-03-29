@@ -1,0 +1,32 @@
+chunk_id: "cash-app-strategy"
+brand: "cash-app"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "cash-app-positioning"
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Cash App. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe money should be more relatable, instantly available, and universally accessible to everyone.
+mission: >-
+  To redefine the world's relationship with money by making it more relatable, instantly available and universally accessible.
+vision: >-
+  To democratize access to financial services and reshape the digital money movement for the next generation.
+values:
+  - Bold creativity
+  - Financial inclusion
+  - Cultural relevance
+  - "User-first innovation"
+  - Authenticity
+  - Accessibility

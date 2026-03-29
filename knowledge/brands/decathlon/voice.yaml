@@ -1,0 +1,52 @@
+chunk_id: "decathlon-voice"
+brand: decathlon
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "decathlon-soul"
+token_count: 189
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Decathlon. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="27-8,27-9">Decathlon is the 3rd biggest sports company in the world, with a revenue of over $15bn and 2000 stores worldwide. It designs for all sports, all people and all levels.</cite> <
+tone_traits:
+  - "<cite index=\"5-19"
+  - >-
+    16-14">emphasizing the concept of fun in sports and the communal aspect of exercise; its aim to simply bring fun
+  - "joy and wonder to people of all levels and abilities</cite>"
+  - "<cite index=\"27-21"
+  - "16-24\">an invitation for people to play their ways"
+  - on their terms; enabling everyone to embrace sport on their own terms and live happier
+  - "healthier lives</cite>"
+  - "<cite index=\"16-11"
+  - "16-12\">Decathlon has always been for everybody; a sportsmaker"
+  - "misunderstood as a retailer</cite>"
+anti_traits:
+  - overly serious
+  - intimidating
+  - "elite-focused"
+  - exclusive
+  - "performance-obsessed"
+  - perfectionist
+  - pretentious
+  - corporate
+  - inauthentic
+example_phrases:
+  - "<cite index=\"29-13\">Ready to play?</cite>"
+  - "<cite index=\"10-13\">Make sport yours</cite>"
+  - "<cite index=\"6-15\">Move people through the wonders of sport</cite>"
+  - >-
+    <cite index="20-9">Athletics are meant to induce wonders of play and sport for all, not just pros</cite>
+guardrails:
+  never_say: []
+  always_sound: >-
+    <cite index="5-19, 16-14">emphasizing the concept of fun in sports and the communal aspect of exercise; its aim to simply bring fun, joy and wonder to people of all levels and abilities</cite>, <cite index="27-21, 16-24">an invitation for people to play their ways

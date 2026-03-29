@@ -1,0 +1,35 @@
+chunk_id: "zillow-competitive"
+brand: zillow
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "zillow-positioning"
+token_count: 2
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Zillow. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - redfin
+  - opendoor
+industry_norms_it_breaks: "The bright blue (#006AFF) used as the color of clarity and certainty—when you get your Zestimate, the blue highlight says \"here's what your home is really worth.\" | The willingness to position Zillow as the consumer's advocate against traditional real estate industry. This positioning requires consistent visual communication of data transparency and algorithmic c | Does this tool make someone feel more confident and less manipulated by the real estate industry? If not, it's not serving Zillow's deeper mission."
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Blue systematic brand, structured property platform"
+  - cluster: "data-native"
+    role: "secondary"
+    where: "Zestimate, property data, market statistics"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Home-buying emotional content, dream home"
+strategic_cluster: "creative-authority"
+category: "real-estate"

@@ -1,0 +1,32 @@
+chunk_id: "microsoft-insights"
+brand: microsoft
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "microsoft-soul"
+  - "microsoft-positioning"
+token_count: 157
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Microsoft. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    The brands that actually change the world rarely talk about their impact—they embed it into tooling so deeply that impact becomes invisible
+  - >-
+    "empowerment" messaging only works when backed by infrastructure that actually removes barriers, not just claims it does
+  - >-
+    Microsoft's four-square logo works because it visually shows composition—parts working together—before the brain even processes the word
+  - >-
+    Humanist typography in productivity software signals "we remember you're human" rather than "we're modern"
+  - >-
+    Azure's dominance in brand perception comes not from marketing but from becoming the infrastructure others build on
+what_nobody_copies: >-
+  The restraint to keep the four colors consistent across 50+ years of evolution while competitors chase visual trends quarterly

@@ -1,0 +1,32 @@
+chunk_id: "shopifycom-strategy"
+brand: shopifycom
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "shopifycom-positioning"
+token_count: 76
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Shopify. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe commerce is a force for good that brings people together and creates opportunities for everyone to build better lives
+mission: >-
+  To make commerce better for everyone, so businesses can focus on what they do best: building and selling their products
+vision: >-
+  To be the engine of commerce, powering brands of the future by simplifying the complexities of online retail for merchants of all sizes
+values:
+  - Empowering entrepreneurs globally
+  - Speed and precision in execution
+  - "Customer-centric innovation"
+  - Simplicity and accessibility
+  - Trust and transparency
+  - Global scalability

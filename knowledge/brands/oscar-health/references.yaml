@@ -1,0 +1,69 @@
+# ──────────────────────────────────────────────
+# Oscar Health — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Franklyn"
+    type: "branding"
+    url: "https://franklyn.co/"
+    project_url: "https://franklyn.co/oscar"
+    relationship: "Developed comprehensive brand system partnership with Oscar's internal team; created visual vocabulary for brand expansion and 'optimistic realism' positioning"
+
+  - name: "Klim Type Foundry"
+    type: "type-foundry"
+    url: "https://klim.co.nz/"
+    relationship: "Created Heldane serif typeface, foundational to Oscar's dual-typeface system"
+
+  - name: "Lineto"
+    type: "type-foundry"
+    url: "https://lineto.com/"
+    relationship: "Created Lettera sans-serif, the body typeface that brings conversational warmth to Oscar's communications"
+
+people:
+  - name: "Laura Alejo"
+    role: "Lead Illustrator"
+    url: "https://lauraalejo.com/"
+    context: "Led year-long rebranding collaboration (2017-2018) with Something New/Output, developing character system and illustration style"
+
+  - name: "David Mikula"
+    role: "VP Design"
+    url: ""
+    context: "Oversees visual direction and design strategy for Oscar Health"
+
+  - name: "Heather Santana"
+    role: "Head of Creative"
+    url: ""
+    context: "Former American Express creative director, leads creative strategy and visual direction"
+
+  - name: "Cathy Lee"
+    role: "Brand Designer"
+    url: ""
+    context: "Developed colour and typography strategy for Oscar's visual system"
+
+  - name: "Kate Apostolou"
+    role: "Product Icon Designer"
+    url: ""
+    context: "Translated illustration style into functional product icons for app and website (2020), later roles at Stripe and Dropbox"
+
+  - name: "Pochen Chia"
+    role: "Illustrator/Animator"
+    url: ""
+    context: "Contributed expressive, handmade-feeling illustrations through Something New/Output collaboration"
+
+publications:
+  - title: "The Design of Brands"
+    author: "Various"
+    relevance: "Informs Oscar's human-centred approach to healthcare brand design"
+
+visuals:
+  - url: "https://www.hioscar.com/"
+    label: "Oscar Health homepage and brand marketing"
+    section: "visual-language"
+
+  - url: "https://www.hioscar.com/coverage"
+    label: "Healthcare coverage explanations with illustration-forward design"
+    section: "visual-language"
+
+  - url: "https://www.hioscar.com/about"
+    label: "About page showcasing brand illustration system and values"
+    section: "visual-language"

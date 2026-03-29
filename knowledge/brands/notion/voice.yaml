@@ -1,0 +1,48 @@
+chunk_id: "notion-voice"
+brand: notion
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "notion-soul"
+token_count: 110
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Notion. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  An all-in-one workspace that blends everyday work tools into one platform. It gives individuals and teams AI-powered tools for note-taking, project management, wikis, and databases, all within a flexi
+tone_traits:
+  - confident
+  - enabling
+  - "possibility-focused"
+  - considered
+  - intelligent
+  - purposeful
+  - approachable
+  - relatable
+  - authentic
+anti_traits:
+  - condescending
+  - limiting
+  - restrictive
+  - rushed
+  - superficial
+  - careless
+  - robotic
+  - corporate
+  - impersonal
+example_phrases:
+  - Make it possible for everyone to shape the tools that shape their lives
+  - "The connected workspace for your docs, projects, and knowledge"
+  - "Build any page, communicate any idea, plan any project"
+  - Your AI workspace that works for you
+guardrails:
+  never_say: []
+  always_sound: "confident, enabling, possibility-focused, considered, intelligent"

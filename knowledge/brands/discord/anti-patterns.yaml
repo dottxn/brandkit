@@ -1,0 +1,71 @@
+chunk_id: "discord-anti-patterns"
+brand: discord
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "discord-soul"
+  - "discord-visual-dna"
+token_count: 838
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Discord. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Photography of staged \"diverse communities\""
+    reasoning: >-
+      Reasoning: Real Discord communities are messy, not photogenic. Showing diverse casting in styled environments would feel inauthentic to how Discord actually works. Illustrations allow expression without the false curation of photography
+  - pattern: Minimalist palette focused on a single color
+    reasoning: >-
+      Reasoning: Discord's expanded color range is intentional—different server types feel visually different, and the multichromatic approach mirrors gaming UI. A single-color brand would erase the visual personality that makes communities distinguishable
+  - pattern: "Serif typography or anything that reads \"classic\""
+    reasoning: >-
+      Reasoning: Ginto Nord and gg sans are geometric-humanist, which keeps the brand feeling contemporary and slightly rebellious. Serifs would add gravitas that contradicts the playful, authentic voice. This isn't a traditional institution
+  - pattern: "Centered, symmetrical compositions"
+    reasoning: >-
+      Reasoning: Modular systems work best with dynamic, asymmetrical placement. Centered layouts suggest hierarchy and formality. Discord's visual approach is scattered and exploratory, matching how users actually organize their own spaces
+strategic:
+  - pattern: "Positioning Discord as \"the better Slack\""
+    reasoning: >-
+      Reasoning: Slack's entire brand is built on professional utility. Discord that chases Slack customers by emphasizing business features would dilute its authentic positioning in communities and gaming. Different category, not inferior competitor
+  - pattern: Monetization strategies that create tiered access to community
+    reasoning: >-
+      Reasoning: Discord's freemium model works because the free tier is genuinely powerful. Paywalling community features (servers, channels, discovery) would fragment belonging behind cost. The brand breaks when belonging becomes a premium feature
+  - pattern: Aggressive brand safety or content moderation claims
+    reasoning: >-
+      Reasoning: Real communities are messy. Discord's value is enabling *communities to self-moderate*, not Discord imposing parent-brand values. Over-emphasizing safety tools would feel like corporate surveillance, which directly contradicts the "authentic self-expression" positioning
+  - pattern: "Expansion into spaces where they're not authentically invited"
+    reasoning: >-
+      Reasoning: Discord works in gaming, education, creative communities, niche hobbies because those are where users already gathered. Forcing Discord into corporate team communication or formal institutions feels inauthentic. Better to be the best-fit tool for enthusiast communities than adequate tool everywhere
+tonal:
+  - pattern: Corporate kindness or corporate speak masquerading as authenticity
+    reasoning: >-
+      Reasoning: Tone must match actual team culture. If internal Discord communications ever slip into corporate euphemism ("we're excited to announce," "we're committed to"), that inauthenticity leaks into brand voice and users notice immediately
+  - pattern: "Aspirational messaging about \"building community\""
+    reasoning: >-
+      Reasoning: Communities build themselves; Discord is infrastructure. Messaging that implies Discord creates community (rather than enabling it) sounds patronizing and false. The tone must be humble about Discord's role
+  - pattern: Exclusionary insider language
+    reasoning: >-
+      Reasoning: Gaming references work *because* the community naturally speaks that way. Forced references or gatekeeping language ("only real gamers understand...") would destroy relatability. Authenticity means naturally speaking like your actual users, not performing their language
+  - pattern: Overly serious tone when discussing mental health or belonging
+    reasoning: >-
+      Reasoning: Discord can't swing from playful-meme energy to earnest corporate concern. It should acknowledge belonging matters while maintaining tonal consistency. Tonal whiplash (silly one moment, grave the next) feels manipulative
+cultural:
+  - pattern: "Centering \"gaming\" when the platform has outgrown it"
+    reasoning: >-
+      Reasoning: Discord's origin story is gaming, but excluding non-gamers from the brand narrative shrinks opportunity and creates false gatekeeping. The cultural conversation should be "communities" not "gamers," even though many communities happen to be gamers
+  - pattern: Romanticizing toxicity as authentic
+    reasoning: >-
+      Reasoning: Authenticity ≠ unmoderated chaos. Discord's culture should celebrate authentic self-expression while making space for users to actually *belong* rather than endure. Toxicity as a feature is toxicity, not authenticity
+  - pattern: Distancing from gaming due to mainstream growth
+    reasoning: >-
+      Reasoning: Discord that tries to rebrand itself as more professional risks losing its core differentiator (it actually understands community needs because it was built by and for communities). Authenticity means staying rooted in origins while expanding possibilities
+  - pattern: "Treating user-generated content and brand expression as separate"
+    reasoning: >-
+      Reasoning: In Discord, they're the same thing. The most compelling Discord marketing IS examples of real communities thriving. Corporate content that doesn't center actual users feels like an outside voice trying to speak for the community

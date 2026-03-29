@@ -1,0 +1,36 @@
+chunk_id: "zara-voice"
+brand: zara
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "zara-soul"
+token_count: 39
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Zara. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Spanish fast fashion retailer that offers trendy, runway-inspired clothing and accessories for men, women, and children. Known for its rapid design-to-store cycle, translating high fashion trends into
+tone_traits:
+  - "minimal"
+  - "confident"
+  - "editorial"
+  - "current"
+  - "silent"
+anti_traits:
+  - chatty
+  - nostalgic
+  - explanatory
+  - sentimental
+  - loud
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like fashion that lets the clothes do the talking"

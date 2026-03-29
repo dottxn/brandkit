@@ -1,0 +1,48 @@
+chunk_id: "hermès-voice"
+brand: hermès
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "hermès-soul"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Hermès. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A French luxury goods company founded in 1837, specializing in leather goods, silk products, ready-to-wear, perfume, watches, and jewelry, renowned for its exceptional craftsmanship and timeless elega
+tone_traits:
+  - refined
+  - confident
+  - sophisticated
+  - knowledgeable
+  - traditional
+  - timeless
+  - passionate
+  - meticulous
+  - authentic
+anti_traits:
+  - flashy
+  - boastful
+  - ostentatious
+  - trendy
+  - ephemeral
+  - mass market
+  - automated
+  - rushed
+  - generic
+example_phrases:
+  - "The creation of beautiful, functional objects"
+  - Drawn to craft is the theme of the year
+  - Excellence in each of its métiers and services
+  - "Objects made with exceptional know-how"
+guardrails:
+  never_say: []
+  always_sound: "refined, confident, sophisticated, knowledgeable, traditional"

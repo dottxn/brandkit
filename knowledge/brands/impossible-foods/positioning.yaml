@@ -1,0 +1,31 @@
+chunk_id: "impossible-foods-positioning"
+brand: "impossible-foods"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Impossible Foods. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Impossible Foods
+website: "https://impossiblefoods.com"
+founded: 2011
+category: "food-beverage"
+sub_category: "plant-based-meat"
+price_tier: "mid-range"
+primary_archetype: The Magician
+secondary_archetype: The Outlaw
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 5
+  heritage_innovation: 9
+key_differentiators: []

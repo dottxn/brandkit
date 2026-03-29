@@ -1,0 +1,36 @@
+chunk_id: "udemy-voice"
+brand: udemy
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "udemy-soul"
+token_count: 41
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Udemy. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Udemy is a global online learning platform that connects millions of students with expert instructors, offering over 210,000 courses in various subjects from programming to personal development. The m
+tone_traits:
+  - "encouraging"
+  - "accessible"
+  - "practical"
+  - "empowering"
+  - "clear"
+anti_traits:
+  - academic
+  - condescending
+  - elitist
+  - gatekeeping
+  - jargon-heavy
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a supportive teacher who makes learning feel achievable"

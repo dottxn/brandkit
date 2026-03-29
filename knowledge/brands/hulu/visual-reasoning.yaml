@@ -1,0 +1,28 @@
+chunk_id: "hulu-visual-reasoning"
+brand: hulu
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "hulu-visual-dna"
+  - "hulu-soul"
+token_count: 622
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Hulu. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Graphik is a warm humanist sans-serif designed by Commercial Type, specifically created to balance modernity with approachability. It has slight curves and proportional widths that make it feel drawn by hand rather than calculated mathematically. Mixed weight usage (headlines in bold, body text in regular) creates hierarchy without requiring color shifts or size increases. This is important for Hulu because television content descriptions need to be readable but not overwhelming. The humanist character of Graphik signals that Hulu is designed by people who love watching TV, not by engineers optimizing for engagement metrics. Compare this to Netflix's use of geometric sans-serif (which sounds like a tech platform) or traditional broadcasting fonts (which sound like authority figures). Graphik sounds like a friend giving recommendations.
+colour_logic: >-
+  Hulu Green (#1ce783) is the brand's greatest asset and strategic differentiator. It's positioned in the neon-bright range (not the forest or sage green of nature), which signals energy, electricity, and fresh vitality rather than natural or traditional. Paired with black for maximum contrast and legibility, the system ensures that Hulu is immediately recognizable even in crowded streaming landscape. The absence of secondary colors (no supporting palette, no gradients) creates a clean, uncluttered system. Green appears as primary color, black as anchor. There's no color multiplication that would suggest complexity or corporate hierarchy. The color strategy itself is counter-intuitive (entertainment typically uses darkness to suggest premium), which is exactly why it works—it signals that Hulu is different from competitors and doesn't take the premium television convention seriously.
+composition_philosophy: >-
+  The Vessel system is the organizing principle. Rounded rectangles derived from the 'u' in Hulu wordmark create consistent framing for content throughout all touchpoints. Unlike competitors who use rectangular grids (utilitarian and database-like), the Vessel creates a sense of curation and selection. Elements inside a Vessel feel chosen rather than automatically surfaced. Asymmetrical layouts with generous whitespace respect individual pieces of content rather than maximizing visual density. Compositions feel like editorial design (magazine layouts, film posters) rather than software interface design. This compositional philosophy communicates "we have taste" rather than "we're optimized for conversion."
+what_would_break_it: >-
+  Adopting the dark color palette common to Netflix and HBO Max would position Hulu as interchangeable with competitors. The green is the visual identity. Flattening the Vessel system into algorithmic grids would lose the curation metaphor—grids feel systematic, Vessels feel intentional. Using corporate sans-serif fonts instead of warm humanist Graphik would change the tone from friendly recommendation to authoritative broadcasting. Adopting Disney's design language and aesthetic would subordinate Hulu's distinct identity within corporate infrastructure, destroying the personality that makes it valuable. Adding complexity through supporting colors, gradients, or secondary visual systems would undermine the clean, confident aesthetic. Using stock photography or generic lifestyle imagery instead of content-focused visuals would position Hulu as generic streaming service rather than entertainment destination. Overly serious or corporate tone would undermine the positioning that watching TV should be joyful and friction-free.

@@ -1,0 +1,31 @@
+chunk_id: "square-positioning"
+brand: square
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Square. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Square
+website: "https://squareup.com"
+founded: 2009
+category: fintech
+sub_category: Commerce Operating System
+price_tier: "mid-range"
+primary_archetype: The Caregiver
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 8
+  access_exclusivity: 2
+  heritage_innovation: 9
+key_differentiators: []

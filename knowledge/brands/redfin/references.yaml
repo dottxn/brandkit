@@ -1,0 +1,51 @@
+# ──────────────────────────────────────────────
+# Redfin — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "In-house Design Team"
+    type: "in-house"
+    url: "https://www.redfin.com/"
+    relationship: "Developed visual identity in-house reflecting engineering-driven culture; pragmatic, lineage-connected approach"
+
+people:
+  - name: "Carey Spies"
+    role: "Designer"
+    url: ""
+    context: "Established 2017 design language initiative with comprehensive documentation for typography, colour, spacing, and components; selected Libre Franklin when Helvetica licence ended"
+
+  - name: "Matt Lerner"
+    role: "SVP Product and Design"
+    url: ""
+    context: "Leads product and design (joined November 2017); former Walk Score co-founder, guides Caregiver brand archetype visual decisions"
+
+  - name: "Pablo Impallari"
+    role: "Type Designer"
+    url: "https://www.impallari.com/"
+    context: "Created Libre Franklin open-source typeface (2016), selected for its Franklin Gothic lineage and zero-budget pragmatism"
+
+publications:
+  - title: "The Design of Everyday Things"
+    author: "Don Norman"
+    relevance: "Informs Redfin's approach to map-interaction design and real estate search simplification"
+
+  - title: "Thinking with Type"
+    author: "Ellen Lupton"
+    relevance: "Influences Redfin's typography strategy using open-source fonts for cost-effective brand consistency"
+
+visuals:
+  - url: "https://www.redfin.com/"
+    label: "Redfin homepage with map-and-listing split-screen interface"
+    section: "visual-language"
+
+  - url: "https://www.redfin.com/how-it-works"
+    label: "How Redfin Works marketing showcasing map-technology-forward positioning"
+    section: "visual-language"
+
+  - url: "https://www.redfin.com/homes-for-sale"
+    label: "Property search with colour-coded map pins and interactive data visualisation"
+    section: "visual-world"
+
+  - url: "https://www.redfin.com/redesign"
+    label: "Redfin Redesign AI tool with generative home visualisation (December 2023)"
+    section: "visual-language"

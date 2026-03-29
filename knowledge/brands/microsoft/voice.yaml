@@ -1,0 +1,48 @@
+chunk_id: "microsoft-voice"
+brand: microsoft
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "microsoft-soul"
+token_count: 92
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Microsoft. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A multinational technology corporation that develops computer software, consumer electronics, personal computers, and related services. Microsoft is a market leader in cloud computing, productivity so
+tone_traits:
+  - Inspirational
+  - enabling
+  - "forward-looking"
+  - Empathetic
+  - inclusive
+  - accessible
+  - Innovative
+  - transformative
+  - ambitious
+anti_traits:
+  - Patronizing
+  - limiting
+  - "backward-facing"
+  - Cold
+  - exclusionary
+  - intimidating
+  - Traditional
+  - stagnant
+  - conservative
+example_phrases:
+  - Empower every person and organization to achieve more
+  - From a software factory to an intelligence engine
+  - Democratizing AI for everyone
+  - Creating local surplus in every company and community
+guardrails:
+  never_say: []
+  always_sound: "Inspirational, enabling, forward-looking, Empathetic, inclusive"

@@ -1,0 +1,32 @@
+chunk_id: "louis-vuitton-strategy"
+brand: "louis-vuitton"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "louis-vuitton-positioning"
+token_count: 75
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Louis Vuitton. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in representing the most refined qualities of Western Art de Vivre and crafting dreams through timeless luxury
+mission: >-
+  To represent the most refined qualities of Western 'Art de Vivre' around the world, continuing to be synonymous with both elegance and creativity
+vision: >-
+  To ensure the development of each house while respecting identities and autonomy, preserving a family spirit that places priority on long-term vision
+values:
+  - Excellence in craftsmanship
+  - Creative innovation
+  - Heritage and legacy
+  - Entrepreneurial spirit
+  - Responsibility and sustainability
+  - Exclusivity and prestige

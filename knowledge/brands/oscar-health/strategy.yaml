@@ -1,0 +1,31 @@
+chunk_id: "oscar-health-strategy"
+brand: "oscar-health"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "oscar-health-positioning"
+token_count: 39
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Oscar Health. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe every American deserves access to affordable, high-quality healthcare that fits their needs.
+mission: To make a healthier life accessible and affordable for all.
+vision: >-
+  To create a consumer-centric healthcare system powered by technology where members can get the right care at the right time for the right price.
+values:
+  - Clear
+  - Caring
+  - Credible
+  - Diverse
+  - Inventive
+  - Imperfect

@@ -1,0 +1,32 @@
+chunk_id: "roco-insights"
+brand: roco
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "roco-soul"
+  - "roco-positioning"
+token_count: 171
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Ro. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Telehealth's competitive advantage isn't convenience alone—it's the dignity of access without judgment, which requires design that treats all conditions equally
+  - >-
+    Ro's vertical integration (telehealth + in-home + labs + pharmacy) only matters if communicated as "we removed barriers you didn't know existed"
+  - >-
+    "clean beauty" and "transparency" messaging only works when paired with actual ingredient transparency and clear treatment explanations
+  - >-
+    Flexible logo system that adapts to different verticals (weight loss, sexual health) is essential because shame prevention requires meeting patients with specificity
+  - >-
+    Documentary-style photography beats lifestyle imagery in healthcare because authenticity builds trust faster than aspiration
+what_nobody_copies: >-
+  The architectural decision to treat all health conditions with equal gravity and dignity rather than prioritizing "acceptable" conditions and minimizing stigmatized ones

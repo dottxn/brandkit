@@ -1,0 +1,68 @@
+# ──────────────────────────────────────────────
+# YouTube — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Saffron"
+    type: branding
+    url: "https://www.saffron.com/"
+    project_url: "https://saffron-consultants.com/case-studies/youtube/"
+    relationship: "Designed YouTube Sans typeface (2017, v4 2019) in collaboration with Letterjuice Barcelona and URW++, creating a geometric sans-serif that references the play-button logo's geometry"
+
+  - name: "Letterjuice Barcelona"
+    type: type-foundry
+    url: "https://www.letterjuice.com/"
+    relationship: "Co-designer of YouTube Sans typeface alongside Saffron and URW++, contributing to the geometric type system and international script expansion"
+
+  - name: "URW++"
+    type: type-foundry
+    url: "https://www.urwpp.de/"
+    relationship: "Foundry partner on YouTube Sans typeface design and production (2017, v4 2019), contributing technical type expertise"
+
+people:
+  - name: "Saffron Design Team"
+    role: "Branding / Type Design Agency"
+    url: "https://www.saffron.com/"
+    context: "Led the 2017 design of YouTube Sans, a custom geometric sans-serif that became one of the most recognisable platform typefaces"
+
+publications:
+  - title: "YouTube releases its first own-brand font, YouTube Sans, inspired by the play button"
+    author: "It's Nice That"
+    relevance: "Overview of the YouTube Sans launch, documenting how the typeface references the play-button logo's geometric language"
+
+  - title: "Of Branded Voices and Funny Hats: A Closer Look at YouTube Sans"
+    author: "Typographica"
+    relevance: "In-depth typographic analysis of YouTube Sans design principles, geometric construction, and application across the platform"
+
+  - title: "YouTube Sans, a Font Inspired by the Play Button"
+    author: "Straatosphere"
+    relevance: "Design documentation of how YouTube Sans was inspired by and connects to the platform's iconic visual mark"
+
+  - title: "New Type Family and Refined Play Icon for YouTube by Saffron"
+    author: "Brand New / UnderConsideration"
+    relevance: "Critical design analysis of the YouTube Sans launch and play-button logo refinement by Saffron"
+
+visuals:
+  - url: "https://www.itsnicethat.com/news/youtube-sans-typeface-by-saffron-190517"
+    label: "YouTube Sans Launch — Saffron Design Case Study"
+    section: visual-language
+
+  - url: "https://design.google/library/youtube-sans-the-making-of-a-typeface"
+    label: "YouTube Sans: The Making of a Typeface — Google Design"
+    section: visual-language
+
+  - url: "https://fontsinuse.com/typefaces/129928/youtube-sans"
+    label: "YouTube Sans in Use — Fonts In Use Documentation"
+    section: visual-language
+
+  - url: "https://typographica.org/on-typography/of-branded-voices-and-funny-hats-a-closer-look-at-youtube-sans/"
+    label: "YouTube Sans Analysis — Typographica Deep Dive"
+    section: visual-language
+
+  - url: "https://www.underconsideration.com/brandnew/archives/new_type_family_and_refined_play_icon_for_youtube_by_saffron.php"
+    label: "YouTube Brand Refresh (2017) — Brand New / UnderConsideration"
+    section: visual-world
+
+  - url: "https://youtube.com"
+    label: "YouTube Platform — Live Case Study of Design System in Action"
+    section: visual-world

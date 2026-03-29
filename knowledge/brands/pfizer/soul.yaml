@@ -1,0 +1,27 @@
+chunk_id: "pfizer-soul"
+brand: pfizer
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "pfizer-positioning"
+token_count: 122
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Pfizer. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: Scientific precision meeting human hope—the moment a breakthrough becomes a life saved
+core_belief: "Medicine works because it's grounded in evidence, and evidence only matters because it saves people"
+creative_tension:
+  - "175-year heritage (1849 founding) honored while positioning as forward-looking innovation company"
+  - Scientific rigor that would intimidate most audiences paired with compassionate accessibility
+decision_filter: "Would a patient trust this? Would a researcher respect this? Both must be true"
+signature_move: "Ribbon helix motif (#0073E6 and #00BFFF) suggesting DNA and medical advancement simultaneously"
+what_would_break_it: >-
+  Adopting biotechnology's cold clinical aesthetic or wellness industry's soft pastel palette would destroy Pfizer's positioning as serious breakthrough science

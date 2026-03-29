@@ -1,0 +1,55 @@
+chunk_id: "prada-visual-dna"
+brand: prada
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "prada-positioning"
+token_count: 85
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Prada. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: "<cite index=\"41-3,42-2\">Custom Prada Serif (similar to Rosan)</cite>"
+    role: ""
+    style: ""
+  - name: Futura
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: monochromatic
+  palette_range: minimal
+  type_class: serif
+  type_character: editorial
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: editorial
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: timeless
+  conceptual_approach: deconstructed
+  framing_device: housing
+  symbolic_type: monogram
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="21-10">What is considered beauty and what's deemed questionable are deliberately mixed in an endless play of past, present and future in which bourgeois codes are often broken down and reconstructed</cite>

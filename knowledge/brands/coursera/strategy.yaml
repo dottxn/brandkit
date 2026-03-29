@@ -1,0 +1,28 @@
+chunk_id: "coursera-strategy"
+brand: coursera
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "coursera-positioning"
+token_count: 33
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Coursera. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe education can unlock your potential and help you become your best self
+mission: "To provide universal access to world-class learning"
+vision: "We envision a world where anyone, anywhere has the power to transform their lives through learning"
+values:
+  - Impact
+  - Learning
+  - Innovation
+  - Community
+  - Integrity

@@ -1,0 +1,31 @@
+chunk_id: "oatly-strategy"
+brand: oatly
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "oatly-positioning"
+token_count: 71
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Oatly. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in making it easy for people to eat better and live healthier lives without recklessly taxing the planet's resources in the process
+mission: >-
+  To make it easy for people to eat better and live healthier lives without recklessly taxing the planet's resources in the process
+vision: >-
+  To become the world's leading Climate Solutions Company, transforming the global food system through plant-based alternatives
+values:
+  - Transparency
+  - Sustainability
+  - Innovation
+  - Challenging the Status Quo
+  - "Human-Centered Approach"

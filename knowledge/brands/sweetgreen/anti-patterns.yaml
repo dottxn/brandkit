@@ -1,0 +1,71 @@
+chunk_id: "sweetgreen-anti-patterns"
+brand: sweetgreen
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "sweetgreen-soul"
+  - "sweetgreen-visual-dna"
+token_count: 513
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for sweetgreen. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Minimalist, austere plating aesthetic"
+    reasoning: >-
+      Sweetgreen rejects the "elegant empty plate" photography that suggests food is art. The visual shows abundance, ingredients visible, real bowls of real food.
+  - pattern: Synthetic or heavily processed food styling
+    reasoning: >-
+      All photography shows recognizable ingredients and honest plating. Stock food photography with artificial lighting is avoided entirely.
+  - pattern: "Dark, moody color palettes suggesting luxury"
+    reasoning: >-
+      The bright, warm palette rejects luxury food positioning. This is democratized, healthy food—never exclusive or rarefied.
+  - pattern: Serif typefaces suggesting heritage or tradition
+    reasoning: >-
+      Modern geometric sans-serif (Sweetgreen Sans, Proxima Nova) communicates innovation in food systems, not historical reverence.
+strategic:
+  - pattern: Infinite menu expansion
+    reasoning: >-
+      Sweetgreen deliberately limits options and changes seasonally. Wide menus would destroy the supply chain relationships that are the entire competitive advantage.
+  - pattern: Franchising through capital partners
+    reasoning: >-
+      The brand maintains operational control and direct farmer relationships. Scaling through franchising would necessitate compromise on sourcing integrity.
+  - pattern: Positioning premium pricing as luxury
+    reasoning: >-
+      Sweetgreen communicates that higher prices reflect farmer compensation and quality, not scarcity or status. Premium pricing with transparent justification is the strategy.
+  - pattern: Competing on convenience over substance
+    reasoning: >-
+      The brand positions itself as the intersection of speed AND quality. Sacrificing quality for speed would be brand death.
+tonal:
+  - pattern: Wellness industry jargon or nutritional claims
+    reasoning: >-
+      Copy avoids "superfood," "detox," or performance claims. Instead it celebrates flavor, seasonality, and ingredients as interesting in themselves.
+  - pattern: Aspirational lifestyle positioning
+    reasoning: >-
+      The voice celebrates real eating for real people. Avoiding the "glow up" language that dominates wellness marketing is essential to the brand's authenticity.
+  - pattern: Corporate transparency theater
+    reasoning: >-
+      Farmer relationships are shown because they're real, not because they're good marketing. Performative sustainability language would ring hollow.
+  - pattern: "Food trends or novelty-chasing"
+    reasoning: >-
+      The voice is steady and focused on ingredients and seasons. Chasing viral trends would fragment the brand's identity.
+cultural:
+  - pattern: Treating farmers as faceless suppliers
+    reasoning: >-
+      Each farmer, each relationship is given character and visibility. Anonymizing the supply chain to protect margins would destroy the brand's foundation.
+  - pattern: Scaling beyond operational integrity
+    reasoning: >-
+      The brand accepts that growth is limited by the depth of farmer relationships. Pursuing unlimited scale would require compromise.
+  - pattern: Separating food from environment
+    reasoning: >-
+      Seasonality isn't a constraint but a feature. The brand embraces seasonal limitations as proof of integrity.
+  - pattern: Premium positioning divorced from product reality
+    reasoning: >-
+      Sweetgreen doesn't position as luxury; it positions as premium-but-fair. The product must justify every price point through visible quality and ethics.

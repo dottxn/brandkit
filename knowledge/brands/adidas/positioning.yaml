@@ -1,0 +1,31 @@
+chunk_id: "adidas-positioning"
+brand: adidas
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for adidas. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: adidas
+website: "https://www.adidas.com"
+founded: 1949
+category: "sport-outdoor"
+sub_category: performance sportswear
+price_tier: premium
+primary_archetype: The Hero
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 4
+  heritage_innovation: 7
+key_differentiators: []

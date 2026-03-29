@@ -1,0 +1,58 @@
+chunk_id: "rivian-visual-dna"
+brand: rivian
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "rivian-positioning"
+token_count: 91
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Rivian. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#DEB526"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#2C2C2C"
+    name: ""
+    role: ""
+typography:
+  - name: Rivian Custom (Pentagram)
+    role: ""
+    style: ""
+  - name: "Sans-serif supporting fonts"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: custom
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: cinematic
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="51-12,51-13">Carefully constructed lockups that balance letters and numerals with strong visual prominence, with elements like widened numerals for equal weight and rounded corners that nod to the Rivian symbol</cite>

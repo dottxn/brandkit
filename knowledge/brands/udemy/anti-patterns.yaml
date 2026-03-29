@@ -1,0 +1,71 @@
+chunk_id: "udemy-anti-patterns"
+brand: udemy
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "udemy-soul"
+  - "udemy-visual-dna"
+token_count: 518
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Udemy. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Dark academia aesthetics or library imagery
+    reasoning: >-
+      Udemy avoids creating associations with formal education institutions. The design must feel accessible to people intimidated by traditional learning.
+  - pattern: Minimalist or austere interface design
+    reasoning: >-
+      The platform embraces visual warmth through color and rounded corners. Cold, minimal design would feel exclusionary to nervous learners.
+  - pattern: Serif typography or formal hierarchy
+    reasoning: >-
+      Udemy Sans was designed to feel modern and approachable, not authoritative. Serifs would create psychological distance from the platform.
+  - pattern: Stock photography of successful professionals
+    reasoning: >-
+      Course imagery shows instructors in casual settings, often in homes or simple studios. Aspirational business photography would undermine the accessibility message.
+strategic:
+  - pattern: Credential gatekeeping or instructor verification hierarchy
+    reasoning: >-
+      Udemy allows anyone to teach; this is the entire competitive advantage. Adding instructor tiers or verification badges would create artificial scarcity.
+  - pattern: Course quality guarantees
+    reasoning: >-
+      The marketplace model requires students to read reviews and make choices. Curating or pre-filtering courses would reduce choice and increase costs.
+  - pattern: Premium learning paths
+    reasoning: >-
+      While Udemy offers bundle pricing, core navigation doesn't guide students toward expensive packages. Forcing guided paths would change the business model fundamentally.
+  - pattern: Learning outcomes guarantees
+    reasoning: >-
+      The platform avoids promises about skill acquisition or career outcomes. This protects both learner expectations and instructor liability.
+tonal:
+  - pattern: Inspirational or motivational voice
+    reasoning: >-
+      Copy is encouraging without being patronizing. "You can do it" language would feel hollow to learners facing real skill gaps and real career pressure.
+  - pattern: Performance or achievement language
+    reasoning: >-
+      Udemy uses "learning" language, not "winning" language. Avoiding gamification language keeps focus on genuine skill building, not badges.
+  - pattern: "Instructor-as-guru positioning"
+    reasoning: >-
+      The voice emphasizes that instructors are people sharing knowledge, not unquestionable authorities. This humility is essential to the brand's accessibility mission.
+  - pattern: Scarcity or urgency tactics
+    reasoning: >-
+      Pricing is transparent and consistent; course availability is not limited. Artificial scarcity would undermine the "education for everyone" positioning.
+cultural:
+  - pattern: Instructor as elite credentialed expert
+    reasoning: >-
+      The brand celebrates self-taught experts and practical knowledge. Requiring traditional credentials would exclude the most innovative teachers.
+  - pattern: Learning paths as mandatory progression
+    reasoning: >-
+      Students choose their own learning journey. Prescriptive curricula would contradict the individualization that makes self-directed learning work.
+  - pattern: Learning as solo endeavor
+    reasoning: >-
+      Despite being independent, Udemy enables student communities, Q&A forums, and peer learning. Positioning as purely individual would be inaccurate.
+  - pattern: Formal assessment and grading
+    reasoning: >-
+      Udemy focuses on completion and practice, not grades. Traditional grading would reintroduce anxiety and failure patterns that undermine adult learning.

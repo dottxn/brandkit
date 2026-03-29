@@ -1,0 +1,31 @@
+chunk_id: "etsy-positioning"
+brand: etsy
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 54
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Etsy. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Etsy
+website: "https://etsy.com"
+founded: 2005
+category: "e-commerce"
+sub_category: "Handmade & Vintage Marketplace"
+price_tier: "mid-range"
+primary_archetype: The Creator
+secondary_archetype: The Caregiver
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 4
+  heritage_innovation: 6
+key_differentiators: []

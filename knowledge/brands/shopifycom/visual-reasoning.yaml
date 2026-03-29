@@ -1,0 +1,28 @@
+chunk_id: "shopifycom-visual-reasoning"
+brand: shopifycom
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "shopifycom-visual-dna"
+  - "shopifycom-soul"
+token_count: 287
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Shopify.com. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Myriad represents humility in the service of clarity—no personality, no flourish, just information delivered at maximum legibility. The choice rejects design fashion entirely, which paradoxically makes it timeless. Its humanist sans-serif character ensures approachability while maintaining the geometric precision required for reading dense interface labels and merchant data.
+colour_logic: >-
+  The palette operates on signal hierarchy rather than aesthetic harmony. #95BF47 (emerald green) doesn't complement other colors; it demands attention as the "next action" color. White isn't just background—it's the container that makes every element feel deliberate rather than cluttered. Black text on white creates maximum contrast, rejecting the softer blacks and grays that would feel less authoritative. This is the color logic of safety systems, not beauty: clear, unambiguous, and intentional.
+composition_philosophy: >-
+  Grid-based composition with no decorative elements serves merchant focus. Every layout decision removes cognitive load: left-aligned text, predictable information hierarchy, generous padding around critical controls. The philosophy treats interface real estate as precious—not for visual drama but for breathing room that lets users think. Asymmetrical compositions are rejected; symmetry communicates stability.
+what_would_break_it: >-
+  Introducing a design language where the platform's visual identity competed with merchant content (vibrant backgrounds, complex imagery, playful UI). The moment Shopify's design becomes "beautiful" in a traditional sense, it stops being a vessel for merchant success and becomes a distraction. The platform must remain visually neutral enough to disappear.

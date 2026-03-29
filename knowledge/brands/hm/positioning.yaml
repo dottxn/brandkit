@@ -1,0 +1,31 @@
+chunk_id: "hm-positioning"
+brand: hm
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for H&M. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: "H&M"
+website: "https://hm.com"
+founded: 1947
+category: "fashion-retail"
+sub_category: "fast-fashion-accessible"
+price_tier: "mid-range"
+primary_archetype: The Everyman
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 2
+  heritage_innovation: 6
+key_differentiators: []

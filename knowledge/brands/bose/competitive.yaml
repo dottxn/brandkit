@@ -1,0 +1,36 @@
+chunk_id: "bose-competitive"
+brand: bose
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "bose-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Bose. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - apple
+  - nothing
+  - fender
+industry_norms_it_breaks: "The 30-degree italic angle—visual representation of a waveform, persistent across all typography and key graphic devices | The willingness to make a 60-year-old handwritten wordmark feel contemporary through supporting system design, not through redesign | Does this make sound *feel* like breakthrough, or does this explain sound's technical properties?"
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Brand campaigns, product hero, cinematic high-contrast"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Bose Professional, systematic product ecosystem"
+  - cluster: "cinematic-narrative"
+    role: "accent"
+    where: "QuietComfort lifestyle, immersive audio storytelling"
+strategic_cluster: "creative-authority"
+category: "consumer-hardware"

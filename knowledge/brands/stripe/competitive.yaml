@@ -1,0 +1,37 @@
+chunk_id: "stripe-competitive"
+brand: stripe
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "stripe-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Stripe. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - square
+  - paypal
+  - shopifycom
+  - wise
+industry_norms_it_breaks: "The signature purple (#635BFF) used sparingly, almost reluctantly—color reserved for interactive moments, never for decoration or branding theater. | The radical restraint in visual design. Competitors try to project sophistication through detailed design systems; Stripe projects sophistication through elimination of non-essential elements. | Would a developer feel respect for this system? Would building with it feel like collaborating with experts, not fighting a tool?"
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Mesh gradients on dark, WebGL-powered brand experience"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Documentation, Sail design system, developer tools"
+  - cluster: "editorial-luxury"
+    role: "accent"
+    where: "Stripe Press publishing, book design, literary quality"
+strategic_cluster: "creative-authority"
+category: fintech

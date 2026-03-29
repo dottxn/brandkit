@@ -1,0 +1,55 @@
+chunk_id: "robinhood-anti-patterns"
+brand: robinhood
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "robinhood-soul"
+  - "robinhood-visual-dna"
+token_count: 223
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Robinhood. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Startup energy design (bright colors, playful elements)"
+    reasoning: Sophisticated minimalism with surgical color accents
+  - pattern: Aggressive feather imagery suggesting speed
+    reasoning: Refined feather with subtle upward movement suggesting growth
+  - pattern: Primary colors applied broadly
+    reasoning: "Minimal palette (black, white) with Robin Neon as singular power accent"
+  - pattern: Youthful imagery targeting young traders
+    reasoning: Sophisticated photography suggesting serious professionals
+strategic:
+  - pattern: Competing on trading volumes
+    reasoning: Competing on access expansion
+  - pattern: "Targeting young, internet-native traders first"
+    reasoning: Targeting all excluded people regardless of age
+  - pattern: Celebrating disruption of Wall Street
+    reasoning: Celebrating democratization of financial power
+  - pattern: "Feature-driven product roadmap"
+    reasoning: "User-empowerment-driven product roadmap"
+tonal:
+  - pattern: Startup irreverence
+    reasoning: Mature conviction about rights
+  - pattern: "\"We're different\" positioning"
+    reasoning: "\"This was always supposed to be this way\" positioning"
+  - pattern: Disruption as personality
+    reasoning: Disruption as consequence of better design
+  - pattern: "Hype-driven growth"
+    reasoning: Sustainable expansion of financial access
+cultural:
+  - pattern: Investing as wealth multiplication
+    reasoning: "Investing as wealth-building right"
+  - pattern: Financial institutions as gatekeepers
+    reasoning: Financial institutions as utilities
+  - pattern: Market access as exclusive privilege
+    reasoning: Market access as equal right
+  - pattern: Retail traders vs. institutions
+    reasoning: All traders as market participants

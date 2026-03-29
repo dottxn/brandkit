@@ -1,0 +1,29 @@
+chunk_id: "amazon-strategy"
+brand: amazon
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "amazon-positioning"
+token_count: 63
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Amazon. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in obsessing over customers to build a place where people can find and discover anything they might want to buy online.
+mission: >-
+  To be Earth's most customer-centric company, Earth's best employer, and Earth's safest place to work.
+vision: To build a place where people can come to find and discover anything they might want to buy online.
+values:
+  - Customer Obsession
+  - Passion for Invention
+  - Commitment to Operational Excellence
+  - "Long-term Thinking"

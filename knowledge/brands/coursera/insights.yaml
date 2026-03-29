@@ -1,0 +1,32 @@
+chunk_id: "coursera-insights"
+brand: coursera
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "coursera-soul"
+  - "coursera-positioning"
+token_count: 133
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Coursera. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Universal access only works when the interface stays simple—complexity anywhere excludes someone somewhere
+  - >-
+    Learning platforms fail when they celebrate their own scale instead of celebrating learner transformation
+  - >-
+    Blue (#0056D3) builds trust in educational contexts because it signals institutional reliability without coldness
+  - >-
+    Learner testimonials and visible progress markers create psychological momentum that course content alone doesn't
+  - >-
+    "anyone, anywhere" is only credible when pricing, language support, and interface design genuinely flatten barriers
+what_nobody_copies: >-
+  The focus on learner agency and accomplishment as primary brand narrative rather than institutional prestige or instructional content

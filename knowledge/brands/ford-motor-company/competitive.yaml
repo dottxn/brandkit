@@ -1,0 +1,37 @@
+chunk_id: "ford-motor-company-competitive"
+brand: "ford-motor-company"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "ford-motor-company-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Ford Motor Company. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - tesla
+  - rivian
+  - bmw
+  - jaguar
+industry_norms_it_breaks: "The blue oval frame—everything Ford uses must fit inside this shape, creating unity across 120+ years of diverse vehicles. It's a constraint that breeds creativity. Every vehicle model has unique desi | The Spencerian script wordmark—custom, historical, impossible to replicate without feeling like a copy. Most competitors abandoned script typography decades ago; Ford kept the handwritten aesthetic an | Does this help people build better lives? Is it honest about Ford's heritage while credible about its future? The brand asks whether every design and messaging choice acknowledges both where Ford came"
+visual_cluster: "heritage-craft"
+visual_fingerprint:
+  - cluster: "heritage-craft"
+    role: "dominant"
+    where: "Blue Oval, trust, American automotive tradition"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Corporate identity, systematic, modern Ford"
+  - cluster: "cinematic-narrative"
+    role: "accent"
+    where: "Electric future campaigns, performance heritage films"
+strategic_cluster: "experience-curator"
+category: automotive

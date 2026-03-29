@@ -1,0 +1,48 @@
+chunk_id: "airbnb-voice"
+brand: airbnb
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "airbnb-soul"
+token_count: 83
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Airbnb. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Airbnb is a global community marketplace and hospitality platform that connects hosts and guests through unique travel experiences, expanding from home-sharing to services and experiences.
+tone_traits:
+  - warm
+  - inclusive
+  - "community-focused"
+  - genuine
+  - "human-centered"
+  - "story-driven"
+  - inspiring
+  - "possibility-focused"
+  - optimistic
+anti_traits:
+  - cold
+  - corporate
+  - transactional
+  - manufactured
+  - artificial
+  - generic
+  - boring
+  - safe
+  - predictable
+example_phrases:
+  - Belong Anywhere
+  - "Don't just see a place. Experience it."
+  - Now you can Airbnb more than an Airbnb
+  - "Fun, alive, and simple"
+guardrails:
+  never_say: []
+  always_sound: "warm, inclusive, community-focused, genuine, human-centered"

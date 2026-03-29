@@ -1,0 +1,56 @@
+chunk_id: "cash-app-anti-patterns"
+brand: "cash-app"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "cash-app-soul"
+  - "cash-app-visual-dna"
+token_count: 338
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Cash App. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Corporate blues and greys in primary palette
+    reasoning: Signals traditional banking instead of cultural revolution
+  - pattern: "Symmetrical, grid-based layouts"
+    reasoning: "Contradicts the \"infinite canvas\" and physics-based interaction philosophy"
+  - pattern: "Formal, professional tone in all communication"
+    reasoning: Loses the playfulness and authenticity that define Cash App culture
+  - pattern: "Product-focused hero imagery (screenshots, features)"
+    reasoning: "Misses the moments (culture, music, memes) where Cash App actually lives"
+strategic:
+  - pattern: Expanding into enterprise financial products without maintaining cultural relevance
+    reasoning: Loses the Gen Z audience that made Cash App valuable
+  - pattern: "Scaling without geographic/cultural sensitivity—applying U.S.-born meme culture globally"
+    reasoning: Appears inauthentic in markets with different cultural reference points
+  - pattern: "Safety-first marketing that emphasizes fraud protection"
+    reasoning: "Tells people what could go wrong instead of showing what's possible"
+  - pattern: Abandoning music partnerships or cultural moment integration for quarterly marketing
+    reasoning: Kills the virality engine that creates organic growth
+tonal:
+  - pattern: "Instruction-heavy, procedural language"
+    reasoning: "Contradicts the intuitive, exploratory tone"
+  - pattern: "Apologetic or compliance-focused messaging"
+    reasoning: Signals distrust instead of empowerment
+  - pattern: "Overly clever, forced meme language"
+    reasoning: Feels like marketing trying too hard instead of genuine culture
+  - pattern: "Serious, risk-averse communication about money"
+    reasoning: Undermines the accessibility and liberation core belief
+cultural:
+  - pattern: "Marketing exclusively through hip-hop and rap while ignoring other music genres and subcultures"
+    reasoning: Misses emerging Gen Z musical preferences
+  - pattern: Treating financial inclusion as charity narrative instead of market expansion
+    reasoning: Signals patronizing attitude instead of genuine customer respect
+  - pattern: >-
+      Centering male-dominated financial use cases (day trading, crypto) without highlighting female user innovations
+    reasoning: Misses growing female fintech audience
+  - pattern: Ignoring accessibility for unbanked populations while claiming democratization
+    reasoning: Hollow claim without matching product pricing and feature simplification

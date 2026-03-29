@@ -1,0 +1,31 @@
+chunk_id: "tesla-positioning"
+brand: tesla
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 55
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Tesla. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Tesla
+website: "https://www.tesla.com"
+founded: 2003
+category: automotive
+sub_category: electric vehicles and clean energy
+price_tier: premium
+primary_archetype: The Magician
+secondary_archetype: The Hero
+positioning_scales:
+  utility_theater: 8
+  access_exclusivity: 7
+  heritage_innovation: 10
+key_differentiators: []

@@ -1,0 +1,61 @@
+chunk_id: "zoom-visual-dna"
+brand: zoom
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "zoom-positioning"
+token_count: 94
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Zoom. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#2D8CFF"
+    name: ""
+    role: ""
+  - hex: "#FF6900"
+    name: ""
+    role: ""
+  - hex: "#00D924"
+    name: ""
+    role: ""
+  - hex: "#9B59B6"
+    name: ""
+    role: ""
+typography:
+  - name: Lato
+    role: ""
+    style: ""
+  - name: System UI
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: expansive
+  type_class: "sans-serif"
+  type_character: "approachable"
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "logo-centric"
+composition_logic: >-
+  Interface-driven layouts with clear hierarchy, generous white space, and centered focal points that mirror the video conferencing experience

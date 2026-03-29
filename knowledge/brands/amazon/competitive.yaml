@@ -1,0 +1,38 @@
+chunk_id: "amazon-competitive"
+brand: amazon
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "amazon-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Amazon. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - ebay
+  - etsy
+  - wayfair
+  - shopifycom
+  - apple
+industry_norms_it_breaks: "The smile arrow—a-to-z in one gesture, representing both beginning and completion | The structural courage to subordinate visual identity to customer utility, while maintaining unmistakable brand presence | Will this remove friction between desire and fulfillment, or will this add complexity to the customer journey?"
+visual_cluster: "tech-system"
+visual_fingerprint:
+  - cluster: "tech-system"
+    role: "dominant"
+    where: "Retail marketplace UI, devices-Alexa, scalable systems"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Prime Video content, entertainment marketing"
+  - cluster: "data-native"
+    role: "accent"
+    where: "AWS enterprise, dashboards, developer documentation"
+strategic_cluster: "trusted-guide"
+category: "e-commerce"

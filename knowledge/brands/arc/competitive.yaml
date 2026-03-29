@@ -1,0 +1,33 @@
+chunk_id: "arc-competitive"
+brand: arc
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "arc-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Arc. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - notion
+  - figma
+  - discord
+industry_norms_it_breaks: "The sidebar as organizing principle—not navigation drawer, but a manifest of your digital life | The willingness to position a browser as lifestyle choice rather than utility swap, creating a moat through delight rather than function | Does this reduce mental load or add decision points? Does this feel like Arc owns the future or like I own my internet?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Browser UI, brand identity, systematic design"
+  - cluster: "soft-minimal"
+    role: "secondary"
+    where: "Arc Search mobile, gentle rounded interface"
+strategic_cluster: "creative-authority"
+category: technology

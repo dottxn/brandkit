@@ -1,0 +1,31 @@
+# Chunk Template: anti-patterns.yaml
+# Domain: anti-patterns
+# Target: ~400 tokens
+# Present for: enriched brands only
+
+chunk_id: "{brand}-anti-patterns"
+brand: "{brand}"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "{brand}-soul"
+  - "{brand}-visual-dna"
+token_count: 0
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-20"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Anti-patterns for {brand_display}. What this brand would
+  never do — visual, strategic, tonal, cultural.
+
+# ── Data ─────────────────────────────────────────
+
+visual: []                  # Array of {pattern, reasoning}
+strategic: []               # Array of {pattern, reasoning}
+tonal: []                   # Array of {pattern, reasoning}
+cultural: []                # Array of {pattern, reasoning}

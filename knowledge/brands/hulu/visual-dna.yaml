@@ -1,0 +1,52 @@
+chunk_id: "hulu-visual-dna"
+brand: hulu
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "hulu-positioning"
+token_count: 70
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Hulu. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#1ce783"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: Graphik
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: "mixed-media"
+  imagery_subject: mixed
+  imagery_treatment: cinematic
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: housing
+  symbolic_type: wordmark
+  texture_feel: gradient
+  shape_language: rounded
+  contrast_level: high
+  identity_system: modular
+  signature_device: "color-led"
+composition_logic: >-
+  <cite index="22-24,22-25,22-26">Simple, flexible grid system that brings Hulu together on every platform using consistent 1:1 grid ratios</cite>

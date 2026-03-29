@@ -1,0 +1,69 @@
+# ──────────────────────────────────────────────
+# Notion — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "BUCK"
+    type: "motion-design"
+    url: "https://buck.co/"
+    project_url: "https://buck.co/work/notion-think-it-make-it"
+    relationship: "Produced 'Think it. Make it.' campaign (2024) introducing primary colours to Notion's visual system. Created Notion AI character animation with hand-drawn personality."
+
+  - name: "Order Design Studio"
+    type: "branding"
+    url: "https://www.orderdesignstudio.com/"
+    relationship: "Created visual identity for Make with Notion conference, extending brand into event contexts."
+
+people:
+  - name: "Roman Muradov"
+    role: "Illustrator and Art Director at Notion"
+    url: "https://romanmuradov.com/"
+    context: "Notion's primary illustrator defining brand personality through hand-drawn editorial illustration. New Yorker-quality black and white ink work."
+
+  - name: "Rob Giampietro"
+    role: "Head of Creative, Notion"
+    url: "https://notion.com/"
+    context: "Former Google and MoMA design leader. Joined Notion (2023) overseeing brand direction and creative strategy."
+
+  - name: "Randy Hunt"
+    role: "Head of Design, Notion"
+    url: "https://notion.com/"
+    context: "Ex-Etsy design leader overseeing product design and visual system governance."
+
+publications:
+  - title: "The Thinking Behind Our Latest Brand Campaign"
+    author: "Notion Blog"
+    relevance: "Official documentation of 'Think it. Make it.' campaign strategy and creative approach."
+
+  - title: "Notion's New Brand Campaign"
+    author: "It's Nice That"
+    relevance: "Analysis of how BUCK expanded Notion's visual language while maintaining core principles."
+
+  - title: "Roman Muradov Illustration System"
+    author: "Design Publications"
+    relevance: "Profile of Notion's distinctive editorial illustration approach and artistic direction."
+
+visuals:
+  - url: "https://www.notion.com/"
+    label: "Notion website and product interface"
+    section: "visual-world"
+
+  - url: "https://buck.co/work/notion-think-it-make-it"
+    label: "'Think it. Make it.' campaign case study — BUCK"
+    section: "visual-language"
+
+  - url: "https://buck.co/work/notion-ai"
+    label: "Notion AI character design — BUCK"
+    section: "visual-language"
+
+  - url: "https://romanmuradov.com/notion-2"
+    label: "Roman Muradov Notion illustration portfolio"
+    section: "visual-language"
+
+  - url: "https://www.notion.com/blog/the-thinking-behind-our-latest-brand-campaign"
+    label: "Notion campaign announcement and creative process — Notion Blog"
+    section: "visual-language"
+
+  - url: "https://www.itsnicethat.com/articles/buck-notion-graphic-design-illustration-project-170724"
+    label: "BUCK and Notion collaboration — It's Nice That"
+    section: "visual-language"

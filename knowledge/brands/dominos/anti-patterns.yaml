@@ -1,0 +1,56 @@
+chunk_id: "dominos-anti-patterns"
+brand: dominos
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "dominos-soul"
+  - "dominos-visual-dna"
+token_count: 325
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Domino's. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Cool, sophisticated color palettes or minimalist aesthetics"
+    reasoning: "Kills appetite activation that vibrant, intense colors create"
+  - pattern: Product photography that emphasizes health or nutrition
+    reasoning: "Contradicts the craving-celebration positioning"
+  - pattern: "Geometric, clean compositions without the dots pattern influence"
+    reasoning: Removes the visual rhythm and motion
+  - pattern: Formal typography or corporate voice language
+    reasoning: "Conflicts with the playful, accessible brand character"
+strategic:
+  - pattern: Emphasizing sustainability or healthy options as primary narrative
+    reasoning: Dilutes the core craving positioning and alienates core audience
+  - pattern: Marketing focused on delivery technology instead of the pizza moment
+    reasoning: Misses the sensory experience that drives loyalty
+  - pattern: Premium tier expansion that charges more for pizza
+    reasoning: "Conflicts with the \"hungry for MORE\" positioning and accessibility"
+  - pattern: Treating pizza as commodity in marketing instead of cultural experience
+    reasoning: Loses competitive differentiation against all other pizza brands
+tonal:
+  - pattern: "Instruction-heavy, procedural language"
+    reasoning: Sounds corporate instead of playful
+  - pattern: Apologetic language about indulgence or calories
+    reasoning: "Undermines the \"craving is good\" core belief"
+  - pattern: Overly cute or forced meme language trying too hard to be trendy
+    reasoning: Feels inauthentic versus genuine culture participation
+  - pattern: "Sophisticated, refined tone"
+    reasoning: "Conflicts with the accessible, craveable brand character"
+cultural:
+  - pattern: Marketing exclusively to specific demographics instead of universal craving positioning
+    reasoning: Misses that hunger is universal across all audiences
+  - pattern: >-
+      Ignoring regional pizza preferences (crust styles, toppings, sauce profiles) while standardizing globally
+    reasoning: Loses local relevance opportunities
+  - pattern: Treating vegetarian/vegan options as niche instead of mainline
+    reasoning: "Misses growing dietary-preference segments"
+  - pattern: Marketing that centers the delivery speed/convenience rather than the pizza experience
+    reasoning: Optimizes for wrong customer value prop

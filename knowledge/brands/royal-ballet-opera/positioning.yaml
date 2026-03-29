@@ -1,0 +1,32 @@
+chunk_id: "royal-ballet-opera-positioning"
+brand: "royal-ballet-opera"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 61
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: >-
+  Core positioning for Royal Ballet and Opera. Category, archetypes, price tier, and positioning scales.
+
+# ── Data
+name: Royal Ballet and Opera
+website: "https://www.rbo.org.uk"
+founded: 1946
+category: "performing-arts"
+sub_category: opera and ballet
+price_tier: premium
+primary_archetype: The Creator
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 10
+  access_exclusivity: 7
+  heritage_innovation: 3
+key_differentiators: []

@@ -1,0 +1,42 @@
+chunk_id: "amazon-voice"
+brand: amazon
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "amazon-soul"
+token_count: 87
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Amazon. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Amazon is a global e-commerce and cloud computing giant that operates as an everything store, from online retail to web services, streaming, and smart home technology. Founded in 1994, it has evolved 
+tone_traits:
+  - Helpful
+  - anticipatory
+  - "solution-focused"
+  - Consistent
+  - trustworthy
+  - dependable
+anti_traits:
+  - Corporate jargon
+  - "self-serving"
+  - pushy
+  - Unpredictable
+  - flashy
+  - overpromising
+example_phrases:
+  - "We're obsessed with customer experience"
+  - Working backwards from customer needs
+  - "It's still Day 1"
+  - Customers trust us to do the right thing
+guardrails:
+  never_say: []
+  always_sound: "Helpful, anticipatory, solution-focused, Consistent, trustworthy"

@@ -1,0 +1,63 @@
+studios:
+- name: Wieden+Kennedy (W+K) New York
+  type: advertising
+  url: https://www.wk.com/
+  relationship: Created 'Ready Set Ford' global campaign (January 2025); first global
+    Ford campaign in 15 years
+  project_url: https://www.wk.com/work/ready-set-ford
+- name: K5 Company
+  type: design
+  url: https://www.k5company.com/
+  relationship: Designed Ford Signature 2.0 dealership interiors and retail experience
+    standards
+- name: Typotheque
+  type: type-foundry
+  url: https://www.typotheque.com/
+  relationship: Commissioned custom typeface by Peter Biľak (2019) for headlines and
+    brand display applications
+people:
+- name: Seb Edwards
+  role: Film Director
+  url: https://www.parkpictures.com/
+  context: Directed 'Ready Set Ford' hero film (2025) via Park Pictures; Bryan Cranston
+    narration
+- name: Alex Kramer
+  role: Photographer
+  url: https://www.alexkramerphotography.com/
+  context: Captured still photography for 'Ready Set Ford' campaign
+- name: Jay Kolsch
+  role: Photographer
+  url: https://jaykolsch.com/
+  context: Captured still photography for 'Ready Set Ford' campaign
+- name: Peter Biľak
+  role: Type Designer / Typotheque Founder
+  url: https://peterbilak.com/
+  context: Designed Ford custom typeface (2019) for HMI and branding; The Hague-based
+    independent foundry
+- name: Cyrus Highsmith
+  role: Type Designer
+  url: https://www.fontbureau.com/
+  context: Designed Ford Antenna typeface for body text and UI applications
+publications:
+- title: Ford Antenna Typeface
+  author: Cyrus Highsmith / Font Bureau
+  relevance: Custom typeface family designed for Ford body text and UI readability
+    across print and digital
+visuals:
+- url: https://www.ford.com/
+  label: Ford.com homepage and product pages — Vehicle photography and brand campaigns
+  section: visual-world
+- url: https://www.ford.com/electric
+  label: Ford Electric division — Model e visual identity and minimal tech-forward
+    register
+  section: visual-language
+- url: https://media.ford.com/
+  label: Ford Media Center — Campaign assets and press materials
+  section: visual-language
+- url: https://www.adsoftheworld.com/campaigns/ready-set-ford
+  label: Ready Set Ford campaign (Ads of the World) — Global campaign case study and
+    creative execution
+  section: visual-language
+- url: https://www.k5company.com/ford-signature/
+  label: K5 design Ford Signature 2.0 — Dealership design standards and retail experience
+  section: visual-world

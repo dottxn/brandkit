@@ -1,0 +1,331 @@
+chunk_id: "coursera-visual-language"
+brand: "coursera"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "coursera-visual-dna"
+  - "coursera-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Coursera. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-coursera-blue"
+      touchpoints:
+        - "coursera.org homepage and marketing pages"
+        - "Coursera brand campaigns"
+        - "Coursera social media channels"
+        - "Coursera corporate communications"
+      description: >-
+        Primary Blue (#0056D2) dominant with a 'sunrise' palette extending
+        through purple, orange, and yellow. The 2020 rebrand (Sarah Lynch,
+        Lead Brand Designer) replaced the infinity-symbol logo with a
+        clean C wordmark and shifted to a brighter, more vibrant blue.
+        Source Sans Pro and Noto Sans Pro (supporting 582 languages) serve
+        as the primary typefaces — prioritising global accessibility over
+        typographic distinctiveness. Matt MacQueen (first Director of
+        Design, 2014) established the design foundation. The visual
+        identity was developed in-house following agency-led strategy.
+        Four imagery families (Product Features, Patterns & Details,
+        Learning and Working, Portraits and Outcomes) structure the
+        photographic approach. Compared to edX (red, more academic-
+        institution-coded) or Udemy (purple, more marketplace-coded),
+        Coursera's visual language is the most globally accessible and
+        the most university-partnership-coded.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this blue,
+        Source Sans-set, globally accessible register.
+
+    - name: "coursera-for-business"
+      touchpoints:
+        - "Coursera for Business (enterprise learning)"
+        - "Enterprise marketing and sales materials"
+        - "Coursera for Government and Campus"
+      description: >-
+        More corporate, more data-driven. Coursera for Business uses
+        the same blue palette and Source Sans typography but with a more
+        professional register — ROI data, skills analytics, workforce
+        development metrics. The visual language must communicate both
+        learning quality and business impact. Dashboard interfaces and
+        learning-path visualisations replace individual course imagery.
+      differs_from_default_by: >-
+        More restrained and professional. Data visualisation and business
+        metrics replace learner-centred photography. The visual register
+        serves enterprise procurement rather than individual course
+        discovery.
+
+    - name: "coursera-learning-experience"
+      touchpoints:
+        - "Coursera course player and learning interface"
+        - "Course catalogue and search"
+        - "Certificate and credential pages"
+        - "Coursera app learning experience"
+      description: >-
+        Content-first, institution-branded. The learning experience mode
+        must accommodate visual content from 300+ university and industry
+        partners — each course brings its own visual identity (Stanford's
+        red, Google's colours, IBM's blue). Coursera's visual system
+        provides the frame while partner content provides the imagery.
+        The course catalogue uses a card-based browsing system. Certificate
+        and credential pages use formal, document-coded compositions.
+      differs_from_default_by: >-
+        Partner visual identities dominate. Coursera's brand serves as
+        platform chrome rather than primary visual content. The visual
+        register accommodates massive variety from 300+ partners.
+
+  notes: >-
+    Coursera's visual identity must balance its own brand with 300+
+    university and industry partner brands — the visual system is designed
+    as a flexible frame rather than a dominant visual presence. The 2020
+    rebrand (dropping the infinity symbol for the C wordmark) simplified
+    the identity for global scalability.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "coursera.org (observed February 2026)"
+    - "2020 rebrand imagery guidelines"
+    - "Four imagery families system"
+  subject_and_framing: >-
+    Four structured imagery families guide Coursera's photography. Product
+    Features: screenshots and interface imagery showing the learning
+    experience. Patterns & Details: abstract, textural imagery — close-ups,
+    patterns, and visual details that provide atmosphere without specific
+    human subjects. Learning and Working: people actively engaged in
+    learning and professional contexts — laptop screens, study environments,
+    workplace settings. Portraits and Outcomes: individual and group
+    portraits emphasising the human outcomes of education — graduation,
+    career achievement, personal growth. Compared to edX (more campus-
+    institutional-coded) or LinkedIn Learning (more professional-
+    development-coded), Coursera's photography is the most globally
+    diverse and the most outcome-focused.
+  casting_observed: >-
+    Highly diverse, globally representative. Coursera's photography
+    shows learners across age, ethnicity, geography, and educational
+    context — from developing-world mobile learners to Western
+    professional-development students. The casting reflects Coursera's
+    global reach (100+ million learners) and mission of universal
+    access to education.
+  lighting_and_colour: >-
+    Warm, optimistic, natural. Photography uses bright, well-lit
+    environments — study spaces, offices, outdoor learning contexts.
+    The 'sunrise' palette (blue, purple, orange, yellow) influences
+    colour treatment — images trend warm and optimistic. The Primary
+    Blue (#0056D2) appears in graphic overlays and UI elements rather
+    than photographic colour grade.
+  post_production: >-
+    Clean, moderate processing. Photography aims for authenticity and
+    global representativeness. Colour treatment is warm and bright —
+    supporting the optimistic 'sunrise' brand palette. No heavy
+    manipulation or stylised effects.
+  visual_boundaries:
+    stated_exclusions: >-
+      Coursera avoids exclusively Western, campus-only educational
+      imagery. The brand's global mission requires showing education
+      beyond traditional university settings. Avoids imagery that
+      suggests education is only for young, affluent populations.
+    observed_exceptions: >-
+      University partner marketing (Stanford, Yale, etc.) uses more
+      campus-specific, institution-coded photography.
+    genuine_absence: >-
+      Based on coursera.org review: no celebrity or influencer imagery,
+      no luxury or aspirational lifestyle photography, no technology-
+      abstract imagery disconnected from learning contexts.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "coursera.org (observed February 2026)"
+    - "2020 rebrand (C wordmark)"
+    - "Sunrise palette system"
+  uses_illustration: true
+  illustration_style: >-
+    Abstract, geometric, pattern-based. Coursera uses abstract patterns,
+    geometric shapes, and gradient compositions from the 'sunrise' palette
+    as supporting graphic elements. The illustration style is more
+    atmospheric than figurative — providing visual texture without
+    competing with partner-branded content. Compared to Duolingo
+    (character-driven, highly distinctive illustration) or Khan Academy
+    (hand-drawn, more educational), Coursera's graphic language is
+    more restrained and more pattern-based.
+  illustration_role: >-
+    Category identification, section differentiation, and visual texture.
+    Abstract patterns from the sunrise palette appear in marketing
+    backgrounds, section dividers, and course category headers. The
+    illustration system provides visual rhythm without introducing
+    specific imagery that might conflict with partner brands.
+  icon_style: >-
+    Clean, functional, standard. Course category icons, learning-path
+    icons, and certificate icons follow standard edtech conventions. The
+    icon system prioritises clarity across global markets and cultures
+    rather than distinctive brand expression.
+  graphic_devices: >-
+    The C wordmark — a clean, simple mark that replaced the original
+    infinity-loop symbol in 2020. The sunrise palette gradient — a
+    smooth colour progression from blue through purple to orange and
+    yellow, symbolising the dawn of learning opportunity. The Primary
+    Blue (#0056D2) — the signature blue provides chromatic consistency
+    across diverse partner-branded content. The university-partner logo
+    grid — partner institution logos arranged in visual grids serve as
+    trust signals and quality indicators.
+  motion_language: >-
+    Functional, learning-supportive. Video playback controls, progress
+    indicators, and course-completion animations provide learning
+    experience feedback. Marketing videos use sunrise-palette gradient
+    transitions. The motion language is more functional than expressive —
+    designed to support learning rather than create brand atmosphere.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Source Sans Pro (Adobe, Paul D. Hunt)"
+    - "Noto Sans Pro (Google, 582 languages)"
+    - "coursera.org (observed February 2026)"
+  signature_move: >-
+    Source Sans Pro (Adobe, designed by Paul D. Hunt, 2012) as the
+    primary brand typeface, paired with Noto Sans Pro (Google, supporting
+    582 languages) for global coverage. The typographic strategy prioritises
+    maximum language support over brand distinctiveness — a deliberate
+    trade-off reflecting Coursera's global-access mission. Noto Sans Pro's
+    582-language coverage means Coursera can render content correctly in
+    virtually any language its learners use. Source Sans Pro provides
+    the slightly warmer, more designed character for Latin-script contexts.
+    Both are open-source typefaces — reflecting Coursera's roots in
+    open-access education (the platform was founded by Stanford professors
+    Andrew Ng and Daphne Koller). Compared to Duolingo (Feather, custom-
+    designed) or LinkedIn Learning (proprietary LinkedIn type), Coursera's
+    typography trades uniqueness for maximum global accessibility.
+  what_would_look_wrong: >-
+    A decorative or display typeface (contradicts the functional, global-
+    access register). A typeface with limited language support (Coursera
+    serves 100+ million learners globally — typographic coverage is a
+    functional requirement). A serif typeface for body text (the interface
+    is entirely sans-serif). Any typeface that reads as exclusive or
+    premium rather than universally accessible.
+  case_convention: >-
+    'Coursera' uses title case. Product names use 'Coursera for' prefix
+    ('Coursera for Business,' 'Coursera for Campus'). Course titles follow
+    academic conventions. Body text uses sentence case. The brand avoids
+    ALL CAPS.
+  display_vs_body: >-
+    Display: Source Sans Pro at semibold and bold weights for marketing
+    headlines. The typeface is competent at display sizes without being
+    distinctive — the brand relies on colour and imagery for visual
+    impact. Body: Source Sans Pro at regular weight for all brand text,
+    with Noto Sans Pro handling non-Latin scripts. The two-typeface
+    system provides comprehensive global coverage without typographic
+    tension.
+  type_and_image: >-
+    Typography serves informational purposes — course titles, instructor
+    names, university partner names, prices, and ratings. In the course
+    catalogue, type provides the primary content with thumbnail imagery
+    as supporting context. In marketing, type and photography share
+    space — the sunrise palette provides chromatic unity.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "coursera.org (observed February 2026)"
+    - "Coursera course catalogue"
+    - "Coursera learning interface"
+  signature_composition: >-
+    Catalogue-browsing, card-based. The Coursera homepage and course
+    catalogue use a card-grid layout — course cards showing thumbnail,
+    title, partner institution logo, rating, and enrolment count. This
+    marketplace-catalogue composition is standard in edtech but Coursera's
+    scale (10,000+ courses) makes the browsing experience more like
+    e-commerce than education. The learning interface uses a video-player-
+    centred composition with supplementary materials. Compared to Udemy
+    (more marketplace-dense, more promotional) or edX (more institution-
+    curated), Coursera's layout balances browsing efficiency with academic
+    credibility.
+  density_and_whitespace: >-
+    Moderate density. Course cards show essential information (title,
+    partner, rating, level) without overwhelming. Marketing pages use
+    generous whitespace with sunrise-palette backgrounds. The learning
+    interface prioritises content over chrome. Partner logo grids create
+    information-dense trust sections.
+  format_preferences: >-
+    Desktop-first for course browsing and learning. Mobile-adaptive for
+    app-based learning. Course thumbnails use landscape format. Marketing
+    materials adapt to standard digital formats.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Coursera's visual evolution is driven by educational-access mission
+    rather than design trends. The platform adopts visual conventions
+    that improve global accessibility and learning outcomes.
+  examples:
+    - trend: "Global-first typography in edtech"
+      stance: "leader"
+      evidence: >-
+        Noto Sans Pro (582 languages) as a primary typeface represents
+        one of the most comprehensive typographic coverage decisions in
+        edtech. This investment reflects Coursera's global reach —
+        100+ million learners across 190+ countries.
+      reasoning: >-
+        For a platform serving learners in 190+ countries, typographic
+        coverage is not a design preference but a functional requirement.
+        Noto Sans Pro's 582-language support ensures every learner sees
+        correctly rendered text.
+    - trend: "Simplified tech-brand identities"
+      stance: "selective-adopter"
+      evidence: >-
+        The 2020 rebrand dropped the infinity-loop symbol for a simpler
+        C wordmark — following the broader trend of tech companies
+        simplifying their logos (similar to Airbnb, Spotify, and others).
+      reasoning: >-
+        The infinity symbol was conceptually rich but practically complex
+        — the C wordmark scales better across the diverse contexts where
+        Coursera's identity appears alongside 300+ partner brands.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    Primary Blue (#0056D2). Source Sans Pro / Noto Sans Pro typography.
+    The C wordmark. The sunrise palette. The four imagery families.
+  what_bends: >-
+    University partner content introduces partner-specific visual
+    identities (Stanford red, Yale blue, Google colours). Coursera for
+    Business adopts a more corporate register. Regional marketing adapts
+    to local educational contexts. Industry partners (Google, IBM, Meta)
+    bring their own visual standards to co-branded certificate programmes.
+  notable_examples: >-
+    Coursera x 300+ university partners: the most significant visual
+    collaboration is the platform's accommodation of hundreds of partner
+    brand identities — Coursera's visual system is designed as a flexible
+    frame within which Stanford, Yale, Google, IBM, and hundreds of others
+    present their courses with their own visual branding. Coursera x
+    Sarah Lynch (2020 rebrand): the Lead Brand Designer created a
+    simplified identity (C wordmark, sunrise palette) that works as a
+    platform frame rather than competing with partner brands. Coursera x
+    Matt MacQueen (2014 design foundation): the first Director of Design
+    established the design infrastructure that scaled from startup to
+    global platform.

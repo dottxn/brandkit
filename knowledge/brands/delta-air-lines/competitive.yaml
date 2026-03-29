@@ -1,0 +1,36 @@
+chunk_id: "delta-air-lines-competitive"
+brand: "delta-air-lines"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "delta-air-lines-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Delta Air Lines. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - uber
+  - airbnb
+  - bookingcom
+industry_norms_it_breaks: "The dynamic 3D triangle widget—a literal representation of the brand's \"Keep Climbing\" philosophy, appearing in motion throughout the system | The repositioning from airline company to lifestyle brand built on human connection and transformation, executed through consistent 3D motion design language | Does this celebrate the human capacity to connect and grow, or does this market airline convenience features?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Brand system, cool palette, precise corporate identity"
+  - cluster: "dark-premium"
+    role: "secondary"
+    where: "Delta One premium, sophisticated travel experience"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Digital experience, app UI, booking platform"
+strategic_cluster: "trusted-guide"
+category: "travel-transport"

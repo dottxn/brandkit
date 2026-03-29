@@ -1,0 +1,61 @@
+chunk_id: "etsy-voice"
+brand: etsy
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "etsy-soul"
+token_count: 131
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Etsy. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A global online marketplace connecting millions of creative entrepreneurs with buyers seeking handmade, vintage, custom, and unique goods. Founded in 2005, Etsy operates on a mission to 'Keep Commerce
+tone_traits:
+  - honest
+  - genuine
+  - personal
+  - real
+  - supportive
+  - encouraging
+  - inspiring
+  - uplifting
+  - imaginative
+  - artistic
+  - unique
+  - expressive
+  - inclusive
+  - connecting
+  - collaborative
+  - caring
+anti_traits:
+  - corporate
+  - manufactured
+  - cold
+  - generic
+  - condescending
+  - limiting
+  - dismissive
+  - formulaic
+  - "mass-produced"
+  - generic
+  - boring
+  - exclusive
+  - isolating
+  - competitive
+  - selfish
+example_phrases:
+  - Keep Commerce Human
+  - "What does a robot know about love?"
+  - "We are, and will remain, the marketplace for original items from real people"
+  - "Our sellers are the heart of our marketplace, and their unique human touch is what makes Etsy, Etsy"
+guardrails:
+  never_say: []
+  always_sound: "honest, genuine, personal, real, supportive"

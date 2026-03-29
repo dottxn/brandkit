@@ -1,0 +1,32 @@
+chunk_id: "zillow-insights"
+brand: zillow
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "zillow-soul"
+  - "zillow-positioning"
+token_count: 208
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Zillow. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Zillow's competitive advantage is algorithm-driven transparency (Zestimate) that challenges agent gatekeeping. The visual system must communicate data confidence without appearing to discount professional expertise.
+  - >-
+    The blue (#006AFF) works because it communicates "this is real information" without the cold associations of tech-only blues. It's warm enough to feel human.
+  - >-
+    Diverse, authentic imagery of real homes and real families was essential because home buying anxiety requires seeing people like yourself succeeding in the process.
+  - >-
+    The brand positions itself as a consumer advocate, which requires visual language that feels trustworthy to anxious buyers while remaining accessible to skeptical sellers.
+  - >-
+    The integration of buying, selling, financing, and renting services required a visual system flexible enough to serve multiple roles without fragmenting brand identity.
+what_nobody_copies: >-
+  The willingness to position Zillow as the consumer's advocate against traditional real estate industry. This positioning requires consistent visual communication of data transparency and algorithmic confidence.

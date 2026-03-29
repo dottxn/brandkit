@@ -1,0 +1,32 @@
+chunk_id: "dominos-insights"
+brand: dominos
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "dominos-soul"
+  - "dominos-positioning"
+token_count: 176
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Deep insights for Domino's. Learned wisdom and what nobody copies."
+
+# ── Data
+learned_insights:
+  - >-
+    Food brands win by making products taste better in customers' minds before they taste them—Domino's visual system should activate appetite sensory memory
+  - >-
+    The 2025 color refresh (hotter red, deeper blue) works because it signals increased intensity and heat, literally visualizing what makes pizza desirable
+  - >-
+    The stretched "mmm" typography (Cravemark) is genius because it's phonetic representation of craving—it sounds how hunger feels
+  - >-
+    Domino dots create mathematical pattern that feels both playful and structured, making fast food feel intentional rather than chaotic
+  - >-
+    Technology-first messaging ("60% digital orders") becomes background noise unless tied to cultural moments and cravings
+what_nobody_copies: >-
+  The willingness to make a 60+ year old logo feel contemporary through supporting system design (color intensity, typography personality) while keeping the core domino dots sacred

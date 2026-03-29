@@ -1,0 +1,36 @@
+chunk_id: "uniqlo-voice"
+brand: uniqlo
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "uniqlo-soul"
+token_count: 39
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Uniqlo. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  UNIQLO is a Japanese casual wear designer, manufacturer and retailer known for creating high-quality basics and innovative functional apparel. The company focuses on making comfortable, durable clothi
+tone_traits:
+  - "understated"
+  - "functional"
+  - "precise"
+  - "calm"
+  - "considered"
+anti_traits:
+  - loud
+  - trendy
+  - flashy
+  - overstated
+  - emotional
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a quiet designer explaining the purpose behind every thread"

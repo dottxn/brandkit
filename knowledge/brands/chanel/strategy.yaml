@@ -1,0 +1,31 @@
+chunk_id: "chanel-strategy"
+brand: chanel
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "chanel-positioning"
+token_count: 70
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Chanel. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that creativity and beauty are essential drivers of progress, and that by providing the enabling environment for creation, we can be a positive force for change in the world
+mission: "To be the Ultimate House of Luxury, defining style and creating desire, now and forever"
+vision: >-
+  To maintain the conditions in which creation thrives while successfully moving the legacy of Chanel into the future
+values:
+  - Exceptional Creation
+  - Timeless Elegance
+  - Independence
+  - Innovation
+  - Craftsmanship
+  - Authenticity

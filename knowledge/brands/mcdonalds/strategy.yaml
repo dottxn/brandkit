@@ -1,0 +1,29 @@
+chunk_id: "mcdonalds-strategy"
+brand: mcdonalds
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "mcdonalds-positioning"
+token_count: 26
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for McDonald's. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe in feeding and fostering communities
+mission: "To make delicious feel-good moments easy for everyone"
+vision: >-
+  To move with velocity to drive profitable growth and become an even better McDonald's serving more customers delicious food each day around the world
+values:
+  - Serve
+  - Inclusion
+  - Integrity
+  - Community
+  - Family

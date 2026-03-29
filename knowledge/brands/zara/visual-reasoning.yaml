@@ -1,0 +1,28 @@
+chunk_id: "zara-visual-reasoning"
+brand: zara
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "zara-visual-dna"
+  - "zara-soul"
+token_count: 275
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Zara. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Zara's custom sans-serif typeface and Helvetica (for secondary applications) are chosen for their geometric precision and neutrality. The typefaces don't distract or add personality—they serve the clothing. Clean letterforms and regular weights ensure that typography becomes invisible and the clothing becomes visible. This is a deliberate rejection of the design-forward typography trends that would introduce distraction.
+colour_logic: >-
+  The palette is aggressively monochromatic: black (#000000) and white (#FFFFFF) with subtle grays for separation and nuance. This creates the editorial aesthetic of fashion magazines and gallery environments. No seasonal color shifts or trend-driven palette updates; the monochromatic approach is permanent and timeless. Supporting colors exist only for functional UI (prices, badges, seasonal indicators).
+composition_philosophy: >-
+  Product photography uses architectural angles, clean lighting, and carefully controlled shadows that suggest gallery presentation. Overhead and 45-degree angles emphasize garment construction. Models are positioned with architectural precision rather than natural, flowing poses. Grid-based layouts in retail environments maintain mathematical relationships between products, suggesting curation and deliberation.
+what_would_break_it: >-
+  Introducing colorful or lifestyle imagery, seasonal palette changes, or design-forward creativity would immediately undermine the editorial sophistication that justifies the price point. The moment Zara's visual system starts looking like aspirational lifestyle branding instead of curatorial editorial work, the premium positioning collapses. The system must communicate "this was carefully selected" not "this is on trend."

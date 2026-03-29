@@ -1,0 +1,29 @@
+chunk_id: "pepsi-strategy"
+brand: pepsi
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "pepsi-positioning"
+token_count: 61
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for PepsiCo. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="1-20">We believe that smiles are the signature of our success and the currency of our growth.</cite>
+mission: >-
+  <cite index="33-1,38-1">To create more smiles with every sip and every bite for our consumers, customers, communities, and the planet.</cite>
+vision: >-
+  <cite index="38-2,39-1">To be a best-in-class and admired global food company that places sustainability at the center of our business strategy, seeking to drive growth and build a stronger, more resilient future for PepsiCo and the communities where we operate.</cite>
+values:
+  - "<cite index=\"37-27\">Sustained Growth</cite>"
+  - "<cite index=\"37-27\">Empowered People</cite>"
+  - "<cite index=\"37-27\">Trust Built Through Responsibility</cite>"

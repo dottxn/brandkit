@@ -1,0 +1,47 @@
+# ──────────────────────────────────────────────
+# Etsy — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Commercial Type"
+    type: "type-foundry"
+    url: "https://www.commercialtype.com/"
+    relationship: "Designed Guardian Sans and Guardian Egyptian typeface families for Etsy brand identity"
+
+people:
+  - name: "Rupa Shankar"
+    role: "Head of Design"
+    url: "https://www.rupashankar.com/"
+    context: "Oversees visual system and design direction; ex-Moda Operandi VP of Product Design, Estée Lauder Global Head of Buyer Design"
+
+  - name: "Paul Barnes"
+    role: "Type Designer / Commercial Type Co-founder"
+    url: "https://www.commercialtype.com/"
+    context: "Co-founder of Commercial Type; designed Guardian typeface family for Etsy"
+
+  - name: "Christian Schwartz"
+    role: "Type Designer / Commercial Type Co-founder"
+    url: "https://www.commercialtype.com/"
+    context: "Co-founder of Commercial Type; designed Guardian typeface family for Etsy"
+
+publications:
+  - title: "Etsy Design System: Collage"
+    author: "Etsy Design Team"
+    relevance: "Atomic Design methodology-based component library managing visual consistency across marketplace"
+
+visuals:
+  - url: "https://www.etsy.com/"
+    label: "Etsy.com marketplace — Product grid layouts and seller-crafted visual diversity"
+    section: "visual-world"
+
+  - url: "https://www.etsy.com/shop/"
+    label: "Etsy seller dashboard — Operational interface and shop management tools"
+    section: "visual-world"
+
+  - url: "https://www.etsy.com/gift-mode"
+    label: "Etsy Gift Mode (2024) — Curated gift discovery visual experience"
+    section: "visual-language"
+
+  - url: "https://help.etsy.com/"
+    label: "Etsicons system documentation — Icon design patterns and guidelines"
+    section: "visual-language"

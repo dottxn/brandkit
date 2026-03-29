@@ -1,0 +1,39 @@
+# Chunk Template: competitive.yaml
+# Domain: competitive
+# Target: ~400 tokens
+# Present for: all brands (baseline + enriched)
+
+chunk_id: "{brand}-competitive"
+brand: "{brand}"
+domain: "competitive"
+context_tags:
+  - "competition"
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "{brand}-positioning"
+token_count: 0
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-20"
+status: "active"
+enrichment_level: "baseline"
+summary: >-
+  Competitive landscape for {brand_display}. Who it competes with,
+  what norms it breaks, cluster memberships.
+
+# ── Data ─────────────────────────────────────────
+
+actually_competes_with: []   # Brand filenames from our database
+industry_norms_it_breaks: "" # What conventions this brand ignores
+
+visual_cluster: ""           # Backward-compatible alias = visual_fingerprint[0].cluster
+visual_fingerprint:          # 2-4 clusters with qualitative roles and touchpoint grounding
+  - cluster: ""              # From 12-cluster taxonomy
+    role: "dominant"          # dominant | secondary | accent
+    where: ""                # Specific touchpoints where this register appears
+  - cluster: ""
+    role: "secondary"
+    where: ""
+strategic_cluster: ""        # From taxonomy (e.g. aspiration-engine)
+category: ""                 # Consolidated category

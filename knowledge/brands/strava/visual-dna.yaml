@@ -1,0 +1,58 @@
+chunk_id: "strava-visual-dna"
+brand: strava
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "strava-positioning"
+token_count: 85
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Strava. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FC5200"
+    name: ""
+    role: ""
+  - hex: "#CC4200"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Inter
+    role: ""
+    style: ""
+  - name: Boathouse
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: geometric
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: documentary
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "color-led"
+composition_logic: >-
+  <cite index='51-28,51-29'>Design philosophy prioritizes presenting performance data with maximum clarity and without visual clutter, using consistent UI elements across the platform.</cite>

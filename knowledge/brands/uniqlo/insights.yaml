@@ -1,0 +1,32 @@
+chunk_id: "uniqlo-insights"
+brand: uniqlo
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "uniqlo-soul"
+  - "uniqlo-positioning"
+token_count: 222
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for UNIQLO. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Fashion brands survive through novelty; Uniqlo survives through mastery of the mundane. This is an inversion of fashion strategy, which is philosophically correct but commercially terrifying.
+  - >-
+    Helvetica was chosen because it's the most neutral typeface—it's been used for safety signs and functional systems for decades. A serif font would introduce personality; Helvetica serves clarity.
+  - >-
+    White backgrounds and sparse styling in product photography showcase fabric quality and construction. Lifestyle photography would distract from garment functionality.
+  - >-
+    The red square logo works as a certification mark because it's positioned as assurance of function, not creative identity. This is textile manufacturing confidence, not fashion branding.
+  - >-
+    Resisting trend-chasing requires immense discipline in a category where seasons and collections are the primary marketing tool. Uniqlo's constraint to slow cycles creates trust.
+what_nobody_copies: >-
+  The willingness to make fashion boring in a category that's defined by excitement and novelty. This is so counterintuitive that competitors dismiss it as unambitious until the revenue numbers prove otherwise.

@@ -1,0 +1,37 @@
+chunk_id: "shopifycom-competitive"
+brand: shopifycom
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "shopifycom-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Shopify. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - square
+  - stripe
+  - amazon
+  - etsy
+industry_norms_it_breaks: "The emerald green (#95BF47) used never as highlight but as the visual representation of \"ready to go live\"—action unlocked, permission granted. | The deliberate refusal to make the visual system showy. Every competitor tries to add vibrancy and emotional appeal; Shopify leans harder into the inverse—making the merchant's products the star, not  | Does this reduce friction for merchants to focus on what they actually love doing? If no, we don't ship it."
+visual_cluster: "tech-system"
+visual_fingerprint:
+  - cluster: "tech-system"
+    role: "dominant"
+    where: "Polaris design system, admin UI, component-based"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Brand identity, Shopify Green, systematic"
+  - cluster: "soft-minimal"
+    role: "accent"
+    where: "Merchant-friendly onboarding, accessible experience"
+strategic_cluster: "creative-authority"
+category: "e-commerce"

@@ -1,0 +1,61 @@
+chunk_id: "ebay-visual-dna"
+brand: ebay
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "ebay-positioning"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for eBay. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#E53238"
+    name: ""
+    role: ""
+  - hex: "#0064D2"
+    name: ""
+    role: ""
+  - hex: "#F7CA00"
+    name: ""
+    role: ""
+  - hex: "#86B817"
+    name: ""
+    role: ""
+typography:
+  - name: Market Sans
+    role: ""
+    style: ""
+  - name: Helvetica Neue
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: neutral
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: "friendly"
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: contemporary
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: "logo-centric"
+composition_logic: >-
+  Grid-based layouts with clear visual hierarchy, prominent search functionality, and organized category navigation. Product imagery takes center stage with minimal decorative elements competing for attention.

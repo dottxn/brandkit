@@ -1,0 +1,36 @@
+chunk_id: "airbnb-competitive"
+brand: airbnb
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "airbnb-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Airbnb. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - bookingcom
+  - uber
+  - disney
+industry_norms_it_breaks: "The Belo symbol—a single glyph that represents simultaneously arms raised in welcome, a location pin, a heart, and the letter A. One mark that can be drawn by hand, customized infinitely, yet remains  | The courage to center a symbol (Belo) rather than a wordmark. Most brands fear that pure symbols are risky—they require massive reach to become legible. Airbnb trusted the symbol enough to make it cus | When faced with a fork, Airbnb asks \"Does this increase trust between host and guest?\" not \"Does this maximize conversion?\""
+visual_cluster: "warm-humanist"
+visual_fingerprint:
+  - cluster: "warm-humanist"
+    role: "dominant"
+    where: "Marketplace core, belonging photography, host community"
+  - cluster: "soft-minimal"
+    role: "secondary"
+    where: "App UI, booking experience, gentle colour palette"
+  - cluster: "cinematic-narrative"
+    role: "accent"
+    where: "Icons experiences, aspirational travel content"
+strategic_cluster: "experience-curator"
+category: "travel-transport"

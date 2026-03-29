@@ -1,0 +1,50 @@
+chunk_id: "shopifycom-voice"
+brand: shopifycom
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "shopifycom-soul"
+token_count: 109
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Shopify. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Shopify is a leading global commerce platform that enables businesses of all sizes to create, customize, and manage online stores and point-of-sale systems. The platform serves over 5.1 million active
+tone_traits:
+  - confident
+  - enabling
+  - supportive
+  - aspirational
+  - friendly
+  - clear
+  - human
+  - accessible
+  - innovative
+  - progressive
+  - visionary
+anti_traits:
+  - condescending
+  - limiting
+  - overwhelming
+  - technical jargon
+  - corporate speak
+  - elitist
+  - outdated
+  - reactive
+  - stagnant
+example_phrases:
+  - Make commerce better for everyone
+  - "Focus on what you do best: building and selling your products"
+  - Everything new across Shopify. Every six months.
+  - The commerce platform fueling the next generation of entrepreneurs
+guardrails:
+  never_say: []
+  always_sound: "confident, enabling, supportive, aspirational, friendly"

@@ -1,0 +1,31 @@
+chunk_id: "nothing-positioning"
+brand: nothing
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Nothing. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Nothing
+website: "https://nothing.tech"
+founded: 2020
+category: "consumer-hardware"
+sub_category: "smartphones-audio"
+price_tier: "mid-range"
+primary_archetype: The Creator
+secondary_archetype: The Outlaw
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 4
+  heritage_innovation: 9
+key_differentiators: []

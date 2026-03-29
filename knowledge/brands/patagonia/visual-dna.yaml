@@ -1,0 +1,58 @@
+chunk_id: "patagonia-visual-dna"
+brand: patagonia
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "patagonia-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Patagonia. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#4A90E2"
+    name: ""
+    role: ""
+  - hex: "#8E44AD"
+    name: ""
+    role: ""
+typography:
+  - name: Belwe Bold
+    role: ""
+    style: ""
+  - name: "Sans-serif supporting fonts"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: muted
+  palette_range: minimal
+  type_class: serif
+  type_character: editorial
+  type_weight: bold
+  imagery_medium: photography
+  imagery_subject: lifestyle
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: timeless
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  Minimal layouts with generous whitespace allow the iconic logo and powerful messaging to dominate, supporting the brand's no-nonsense approach

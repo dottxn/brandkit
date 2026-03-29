@@ -1,0 +1,30 @@
+chunk_id: "hulu-strategy"
+brand: hulu
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "hulu-positioning"
+token_count: 70
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Hulu. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="31-2,31-5">We believe in captivating and connecting people with stories they love by creating amazing experiences</cite>
+mission: >-
+  <cite index="36-12">To empower everyone to discover, share, and celebrate the stories that connect us</cite>
+vision: "<cite index=\"32-1,32-5\">To be the leading destination for premium storytelling</cite>"
+values:
+  - "<cite index=\"36-7\">We Start with The Viewer</cite>"
+  - "<cite index=\"36-7\">We Think Big</cite>"
+  - "<cite index=\"36-7\">We Are One Team</cite>"
+  - "<cite index=\"36-7\">We Embrace Fun</cite>"
+  - "<cite index=\"36-7,37-1,37-3\">We Are All Hulugans</cite>"

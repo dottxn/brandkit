@@ -1,0 +1,58 @@
+chunk_id: "etsy-visual-dna"
+brand: etsy
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "etsy-positioning"
+token_count: 87
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Etsy. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#F56400"
+    name: ""
+    role: ""
+  - hex: "#222222"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Guardian Sans
+    role: ""
+    style: ""
+  - name: Georgia
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: documentary
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "color-led"
+composition_logic: >-
+  Clean, uncluttered layouts that let products and seller stories breathe, with strategic use of white space to avoid overwhelming the handcrafted aesthetic

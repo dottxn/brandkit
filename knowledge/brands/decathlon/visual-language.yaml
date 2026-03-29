@@ -1,0 +1,329 @@
+chunk_id: "decathlon-visual-language"
+brand: "decathlon"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "decathlon-visual-dna"
+  - "decathlon-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Decathlon. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-decathlon"
+      touchpoints:
+        - "decathlon.com homepage and marketing pages"
+        - "Decathlon brand campaigns ('Ready to Play?')"
+        - "Decathlon social media channels"
+        - "Decathlon retail stores (1,750+ locations)"
+      description: >-
+        Dynamic violet-blue dominant — replacing the lighter blue of the
+        previous identity. Decathlon Sans (Grilli Type, Zurich) serves as
+        the brand typeface, a clean grotesque with slanted alternate
+        characters that introduce dynamic energy. The L'Orbit logo —
+        Decathlon's first-ever brand mark — is a slanted ellipse suggesting
+        both a mountain peak and an ocean wave, symbolising the breadth
+        of sporting activity. Wolff Olins (London, 2-year project 2022-
+        2024, Emma Barratt as ECD) led the most comprehensive rebrand in
+        Decathlon's history, consolidating 85 sub-brands (Quechua, Kipsta,
+        Domyos, Tribord, etc.) under a unified visual identity. AMV BBDO
+        launched the 'Ready to Play?' campaign (March 2024). Kerensa Neale
+        leads internal design. The visual language is energetic, accessible,
+        and sport-democratic — designed to welcome all athletes rather than
+        celebrate elite performance. Compared to Nike (performance-coded,
+        athlete-aspiration-driven) or Intersport (retailer-generic),
+        Decathlon's visual language is the most sport-democratic and the
+        most value-accessible.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this violet-blue,
+        Decathlon Sans-set, L'Orbit-anchored register.
+
+    - name: "decathlon-sport-categories"
+      touchpoints:
+        - "Sport-specific product pages"
+        - "Decathlon own-brand products (formerly sub-branded)"
+        - "In-store sport-category signage"
+        - "Sport-specific marketing content"
+      description: >-
+        Category-coded within unified system. The 2022-2024 Wolff Olins
+        rebrand consolidated 85 previously independent sub-brands (Quechua
+        for hiking, Kipsta for team sports, Domyos for fitness, Tribord
+        for water sports, etc.) into a single Decathlon identity. Sport
+        categories are now differentiated through photography, iconography,
+        and colour accents within the unified system rather than through
+        separate brand identities. This represents one of the most
+        significant sub-brand consolidation exercises in retail history.
+      differs_from_default_by: >-
+        Sport-specific photography and category iconography differentiate
+        contexts. The 85 former sub-brand identities are replaced by
+        Decathlon-branded category treatments. The visual register serves
+        product discovery within a unified brand framework.
+
+    - name: "decathlon-digital-experience"
+      touchpoints:
+        - "Decathlon app and e-commerce platform"
+        - "Decathlon Second Life (resale platform)"
+        - "Decathlon Rental and services"
+      description: >-
+        More functional, more commerce-coded. The digital experience mode
+        serves product browsing, purchasing, and service access. The visual
+        language adapts the brand system for e-commerce conventions —
+        product photography grids, filtering interfaces, checkout flows.
+        Decathlon Second Life (resale) and Rental introduce sustainability-
+        coded visual elements within the brand framework.
+      differs_from_default_by: >-
+        E-commerce functional conventions dominate. Product photography
+        replaces brand imagery. The visual register serves shopping
+        efficiency rather than brand inspiration.
+
+  notes: >-
+    The Wolff Olins rebrand (2022-2024) is one of the largest brand
+    consolidation projects in retail history — unifying 85 sub-brands
+    under one identity across 1,750+ stores in 70+ countries. The
+    purpose statement 'Move People Through the Wonders of Sport' drives
+    the visual language's democratic, accessible character.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "decathlon.com (observed February 2026)"
+    - "'Ready to Play?' campaign (AMV BBDO, March 2024)"
+    - "Decathlon marketing materials"
+  subject_and_framing: >-
+    Inclusive, joyful, participation-focused. Decathlon's photography
+    emphasises the joy of sporting participation rather than elite
+    performance — everyday athletes enjoying running, cycling, swimming,
+    hiking, and team sports. The 'Ready to Play?' campaign (AMV BBDO,
+    March 2024) captures the playful, democratic spirit: sport as
+    accessible play rather than competitive achievement. Product
+    photography shows Decathlon's own-brand equipment in use contexts.
+    Compared to Nike (more aspirational, more elite-athlete-coded) or
+    Adidas (more streetwear-culture-coded), Decathlon's photography is
+    the most participation-democratic and the most family-inclusive.
+  casting_observed: >-
+    Diverse in age, ability, body type, and sporting context. Decathlon's
+    photography shows children, seniors, families, beginners, and
+    experienced athletes — reflecting the brand's 'sport for all'
+    positioning. No celebrity athletes — the everyday participant IS
+    the casting. The diversity is functional (reflecting Decathlon's
+    actual customer base across 70+ countries) rather than performative.
+  lighting_and_colour: >-
+    Outdoor-natural and gymnasium-functional. Photography uses the
+    natural lighting of sporting environments — trails, parks, pools,
+    sports halls. The dynamic violet-blue appears in branded elements
+    and graphic overlays rather than influencing photographic colour
+    grade. The overall colour temperature is warm and energetic.
+  post_production: >-
+    Natural, moderate processing. Photography maintains the authentic,
+    accessible feel — no heavy manipulation or aspirational styling.
+    The processing supports the 'real sport, real people' positioning.
+  visual_boundaries:
+    stated_exclusions: >-
+      Decathlon avoids elite-performance-coded photography (Olympic-style
+      athletic perfection). The brand avoids luxury-sport imagery
+      (exclusive clubs, premium equipment). The visual language celebrates
+      accessibility rather than exclusivity.
+    observed_exceptions: >-
+      Some product marketing uses more polished, conventional sports-
+      equipment photography for technical product communication.
+    genuine_absence: >-
+      Based on decathlon.com review: no celebrity athlete photography,
+      no aspirational luxury sport imagery, no fashion-sport crossover
+      photography.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "L'Orbit logo (Wolff Olins, 2022-2024)"
+    - "Decathlon Sans slanted alternates"
+    - "85 sub-brand icon consolidation"
+    - "decathlon.com (observed February 2026)"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    Sport-category iconography replaces the 85 former sub-brand logos.
+    Each sport category (hiking, cycling, fitness, water sports, team
+    sports, etc.) uses consistent, clean iconography within the unified
+    Decathlon system. The icons follow the geometric, modern character
+    of Decathlon Sans. The L'Orbit mark functions as the primary brand
+    icon at all scales.
+  graphic_devices: >-
+    L'Orbit — Decathlon's first-ever logo mark, a slanted ellipse that
+    suggests both a mountain peak and an ocean wave. The mark's dual
+    reading (mountain/wave) communicates the breadth of sporting activity
+    Decathlon covers. The slant echoes the dynamic angle in Decathlon
+    Sans's alternate characters. Dynamic violet-blue — the signature
+    colour, deeper and more energetic than the previous lighter blue.
+    The Decathlon Sans slanted alternates — select characters in the
+    typeface have slanted variants that introduce kinetic energy into
+    typographic compositions, echoing L'Orbit's angle. The unified
+    Decathlon wordmark — replacing 85 separate sub-brand wordmarks with
+    one consistent identity.
+  motion_language: >-
+    Dynamic, sport-energy-coded. The L'Orbit mark animates with orbital,
+    sweeping movements. Marketing videos use energetic, participant-
+    focused motion — quick cuts between diverse sporting activities.
+    The slanted energy of L'Orbit and Decathlon Sans carries through
+    into motion graphics. The 'Ready to Play?' campaign uses playful,
+    invitation-coded motion.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Decathlon Sans (Grilli Type, Zurich, 2022-2024)"
+    - "Wolff Olins rebrand"
+    - "decathlon.com (observed February 2026)"
+  signature_move: >-
+    Decathlon Sans (Grilli Type, Zurich, 2022-2024) — a clean grotesque
+    with a distinctive feature: slanted alternate characters that
+    introduce dynamic energy into typographic compositions. Grilli Type
+    (the Zurich foundry behind GT America, GT Flexa, and Strava's
+    Boathouse) created a typeface that balances Swiss-modernist clarity
+    with sporting dynamism. The slanted alternates echo L'Orbit's angle,
+    creating visual continuity between mark and type. The typeface must
+    work across 70+ countries and multiple scripts — the language coverage
+    requirement shaped the design's functional foundations. Compared to
+    Nike (Futura/Helvetica tradition, more authoritative) or Adidas
+    (custom type, more fashion-coded), Decathlon Sans is the most
+    playfully dynamic and the most sport-democratic.
+  what_would_look_wrong: >-
+    A heavy, aggressive display typeface (contradicts the accessible,
+    democratic register). A delicate, lightweight typeface (contradicts
+    the energetic, sporting character). The previous Decathlon typography
+    (signals the pre-2024, fragmented sub-brand era). Any typeface
+    without the dynamic slanted-alternate feature (removes the connection
+    to L'Orbit).
+  case_convention: >-
+    'Decathlon' uses title case. Product descriptions use sentence case.
+    Former sub-brand names (Quechua, Kipsta, Domyos) are being phased
+    out in favour of 'Decathlon' primary branding. Marketing headlines
+    use sentence case. The brand avoids ALL CAPS — the tone is inviting,
+    not aggressive.
+  display_vs_body: >-
+    Display: Decathlon Sans at heavier weights with slanted alternates
+    activated for marketing headlines and campaign type — the dynamic
+    characters are most impactful at display sizes. Body: Decathlon Sans
+    at regular weight for all product text, website content, and store
+    signage. The slanted alternates may be used selectively in body
+    contexts for emphasis.
+  type_and_image: >-
+    Typography and sport photography share space with L'Orbit providing
+    visual anchorage. In marketing, Decathlon Sans headlines overlay or
+    sit alongside action photography. In product contexts, type provides
+    specifications, pricing, and category information. The slanted
+    alternates create visual energy that complements action photography.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "decathlon.com (observed February 2026)"
+    - "Decathlon retail store design"
+  signature_composition: >-
+    Sport-category-navigated, product-grid-dominant. decathlon.com
+    organises around sport categories — the primary navigation is by
+    activity type (running, cycling, hiking, swimming, etc.) rather than
+    by product type. This sport-first organisation reflects the rebrand's
+    consolidation of 85 sub-brands into activity categories. Product
+    grids show equipment with activity-context photography. In-store
+    layout follows the same sport-category organisation. Compared to
+    Nike (lifestyle-editorial + product) or Sports Direct (price-led,
+    brand-aggregation layout), Decathlon's layout is the most sport-
+    activity-organised.
+  density_and_whitespace: >-
+    High density in product browsing — Decathlon's value proposition
+    includes extensive product range at accessible prices, requiring
+    dense product grids. Marketing pages use more generous spacing with
+    dynamic violet-blue backgrounds. In-store signage follows retail-
+    density conventions across 1,750+ locations.
+  format_preferences: >-
+    Mobile-adaptive for e-commerce. In-store signage follows standard
+    retail formats. Marketing materials use standard digital and print
+    formats. Product photography uses consistent aspect ratios across
+    the sport-category grid.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Decathlon's visual evolution was driven by operational necessity
+    (85 sub-brands were unsustainable) rather than trend-following.
+    The rebrand adopted contemporary design practices to solve a
+    business problem.
+  examples:
+    - trend: "Sub-brand consolidation in retail"
+      stance: "leader"
+      evidence: >-
+        Consolidating 85 sub-brands (Quechua, Kipsta, Domyos, Tribord,
+        etc.) into a single Decathlon identity (Wolff Olins, 2022-2024)
+        is one of the most ambitious brand-consolidation exercises in
+        retail history. The scale of the simplification — from 85 separate
+        visual identities to one — is unprecedented in sports retail.
+      reasoning: >-
+        The sub-brand proliferation created customer confusion and
+        operational complexity. The consolidation under one Decathlon
+        identity simplifies communication while maintaining sport-
+        category differentiation through other visual means.
+    - trend: "Dynamic typography in sports branding"
+      stance: "early-adopter"
+      evidence: >-
+        Decathlon Sans's slanted alternate characters — typographic
+        elements that can switch between static and dynamic forms —
+        represent an innovative approach to encoding movement and
+        energy in letterforms without resorting to italic defaults.
+      reasoning: >-
+        The slanted alternates create a unique typographic device that
+        connects to L'Orbit's angle — making the dynamic energy of the
+        mark available throughout the typographic system.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    L'Orbit mark. Decathlon Sans (with slanted alternates). Dynamic
+    violet-blue. The unified Decathlon brand identity. The sport-
+    democratic, accessible register.
+  what_bends: >-
+    Sport-category marketing adapts imagery, photography, and colour
+    accents for specific activities. Regional marketing adapts for 70+
+    country-specific requirements. Decathlon Second Life (resale) and
+    Rental introduce sustainability-coded visual treatments. Partner
+    brands within Decathlon stores maintain their own identities.
+  notable_examples: >-
+    Decathlon x Wolff Olins (2022-2024 rebrand): the London agency
+    (Emma Barratt as ECD) created the most comprehensive brand
+    consolidation in sports retail — unifying 85 sub-brands under one
+    identity with L'Orbit, Decathlon Sans, and dynamic violet-blue. The
+    2-year project scope reflects the complexity of replacing 85 visual
+    identities across 1,750+ stores in 70+ countries. Decathlon x Grilli
+    Type (Decathlon Sans): the Zurich foundry created a typeface with
+    slanted alternate characters that encode sporting dynamism in the
+    letterforms — connecting type to mark through shared angular energy.
+    Decathlon x AMV BBDO ('Ready to Play?', March 2024): the launch
+    campaign for the new identity captured the democratic, playful spirit
+    of the rebrand — inviting participation rather than demanding
+    aspiration.

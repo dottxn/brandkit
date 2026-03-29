@@ -1,0 +1,31 @@
+chunk_id: "cvs-pharmacy-positioning"
+brand: "cvs-pharmacy"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for CVS Pharmacy. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: CVS Pharmacy
+website: "https://www.cvs.com"
+founded: 1963
+category: "health-wellness"
+sub_category: "pharmacy-retail"
+price_tier: budget
+primary_archetype: The Caregiver
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 2
+  access_exclusivity: 2
+  heritage_innovation: 5
+key_differentiators: []

@@ -1,0 +1,28 @@
+chunk_id: "uber-visual-reasoning"
+brand: uber
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "uber-visual-dna"
+  - "uber-soul"
+token_count: 262
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Uber. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Uber Move was designed as a global sans-serif that works across all writing systems without requiring localization. The typeface rejects personality—it's purely functional. This philosophical choice creates consistency across 70+ markets where custom typography could fragment the brand. Geometric precision in letter forms ensures readability at small sizes in mobile interfaces.
+colour_logic: >-
+  The palette (#000000, #FFFFFF, #1FB253) operates on signal hierarchy. Black and white are the foundation; green is reserved for action confirmation. This creates a system where color has meaning (green = "go") rather than aesthetic value. No supporting colors, no accent palette, no seasonal variations. The system is deliberately constrained to eliminate complexity.
+composition_philosophy: >-
+  Interface design prioritizes information density and quick comprehension. Grid-based layouts minimize cognitive load. User attention is channeled toward action items (request button) through whitespace and scale, not through color or decorative composition. Documentation and marketing follow the same principle: no decorative imagery, pure information architecture.
+what_would_break_it: >-
+  Introducing warm, inviting brand colors or lifestyle photography would immediately change the perceived nature of the service from utilitarian movement to aspirational lifestyle. The moment Uber's design starts to seduce rather than facilitate, it becomes less efficient. The brand's power is that it feels necessary, not desirable. Injecting desirability would compromise this positioning.

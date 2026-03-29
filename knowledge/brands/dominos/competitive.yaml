@@ -1,0 +1,36 @@
+chunk_id: "dominos-competitive"
+brand: dominos
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "dominos-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Domino's. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - mcdonalds
+  - sweetgreen
+  - uber
+industry_norms_it_breaks: "The domino dots pattern—appearing not just in logo but as compositional organizing principle that creates visual rhythm and implies motion | The willingness to make a 60+ year old logo feel contemporary through supporting system design (color intensity, typography personality) while keeping the core domino dots sacred | Does this activate appetite and urgency, or does this explain pizza logistics?"
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Domino's red-blue, energetic ordering experience"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Pizza Tracker UI, ordering platform, delivery systems"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Community delivery, local store warmth"
+strategic_cluster: "disruptive-democratizer"
+category: "food-beverage"

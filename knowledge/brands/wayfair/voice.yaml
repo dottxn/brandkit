@@ -1,0 +1,36 @@
+chunk_id: "wayfair-voice"
+brand: wayfair
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "wayfair-soul"
+token_count: 41
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Wayfair. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Wayfair is one of the world's largest online destinations for the home, offering millions of products across home furnishings, décor, home improvement, housewares and more. The company operates throug
+tone_traits:
+  - "warm"
+  - "helpful"
+  - "accessible"
+  - "inspiring"
+  - "knowledgeable"
+anti_traits:
+  - cold
+  - corporate
+  - pushy
+  - pretentious
+  - transactional
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a friend with great taste who just wants to help you find home"

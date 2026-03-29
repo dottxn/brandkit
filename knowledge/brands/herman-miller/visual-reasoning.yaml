@@ -1,0 +1,37 @@
+chunk_id: "herman-miller-visual-reasoning"
+brand: "herman-miller"
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "herman-miller-visual-dna"
+  - "herman-miller-soul"
+token_count: 525
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Herman Miller. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Söhne by Klim Type Foundry—a humanist sans-serif updated from Akzidenz-Grotesk principles—works for Herman Miller because it balances modernist precision with human warmth. The letterforms contain subtle curves and irregularities that suggest drawing rather than mathematical construction. Compare to Futura (which Nike uses): Futura is perfectly geometric and emotionally cold, suggesting athletic precision. Söhne is equally modern but emotionally warm, suggesting human-centered design. The three weights (Krä ftig/bold, Halbfett/medium, Buch/light) provide typographic flexibility within coherent voice. The letterforms work equally well in print, digital, signage, and architectural applications. This versatility—being equally effective in all contexts—is a hallmark of truly great modernist typeface design.
+colour_logic: >-
+  The expanded palette post-2024 rebrand—red (#E02B20), blues (#0066CC), grays (#666666), pinks (#FF6B9D), greens (#00A651), oranges (#FF7A00)—reclaims the original 1960s modernist boldness. These colors work together because they're carefully saturated: not so bright they feel cheap, not so muted they feel corporate. The palette references the color field paintings that influenced modernism—Rothko, Newman, Albers. Colors appear expressively in marketing, product finishes, and architectural installations. The core red remains primary, but secondary colors can dominate in specific contexts. This discipline—allowing color boldness while maintaining coherence—proves that modernism can be vibrant without becoming chaotic. The gray (#666666) serves as neutral anchor, preventing the palette from becoming overwhelming.
+composition_philosophy: >-
+  Layouts prioritize clarity and proportion over decoration. Elements align to geometric grids; white space is respected and calculated. Product photography emphasizes craftsmanship details—visible stitching, material texture, construction precision. When humans appear, they're shown moving through and using furniture naturally, not posed. Architectural photography shows spaces transformed by Herman Miller furniture in actual use contexts. Typography is deployed sparingly and precisely; every word choice matters. The overall philosophy is that the design itself is the primary communication—layouts should support the product, not compete with it. This reflects the design principle: form follows function. The composition should be functional first, beautiful second.
+what_would_break_it: >-
+  - Returning to single-color branding (red-only) after palette expansion
+  - Adopting sterile, emotionless sans-serif like Helvetica or DM Sans for primary typography
+  - Using inspirational, lifestyle-focused photography replacing documentary authenticity
+  - Monolithic M symbol appearing identically across applications without flexibility
+  - Emphasizing luxury or exclusivity positioning over democratic accessibility
+  - Abandoning modular design philosophy to chase contemporary "wellness" trends
+  - Manufacturing visible quality compromises while maintaining premium pricing
+  - Casual, friendly tone mimicking consumer brands instead of professional respect
+  - Seasonal collection drops and trend-driven releases contradicting timelessness
+  - Allowing M symbol proliferation without strategic purpose or intentionality

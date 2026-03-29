@@ -1,0 +1,72 @@
+chunk_id: "hm-anti-patterns"
+brand: hm
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "hm-soul"
+  - "hm-visual-dna"
+token_count: 707
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for H&M. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Discount retail visual language (thin weights, cheap photo stock, harsh lighting)"
+    reasoning: >-
+      Every visual element must signal "elevated affordable fashion," not "bargain bin." Restraint and intentionality in photography and typography separate H&M from competitors positioning downward.
+  - pattern: "Geometric sans-serif uniformity across all applications"
+    reasoning: >-
+      While minimalism is part of Swedish identity, unrelenting geometric sans makes fashion communication feel cold and corporate. HM Amperserif's high-contrast serif brings personality and editorial sensibility.
+  - pattern: Homogeneous casting or aspirational beauty standards
+    reasoning: >-
+      Suggesting that H&M fashion is only for a specific body type, age, or ethnicity contradicts the "fashion for everyone" positioning. Diversity is structural requirement, not optional.
+  - pattern: Overly trendy color systems or seasonal palette rotations
+    reasoning: >-
+      While fashion is seasonal, the brand identity must feel stable. Chasing trends in visual identity would undermine the positioning that H&M SETS trends rather than follows them.
+strategic:
+  - pattern: "Competing with ultra-cheap competitors (Shein, Temu) on price or speed"
+    reasoning: >-
+      This is unwinnable. H&M's moat is design quality and brand trust, not race-to-bottom pricing. Competing with Shein on speed or price destroys margin and brand positioning.
+  - pattern: Sustainability claims without structural proof
+    reasoning: >-
+      Greenwashing gets exposed quickly. H&M's sustainability narrative must be backed by material innovation, supply chain transparency, and circular economy infrastructure. Messaging without action is strategically damaging.
+  - pattern: Chasing premium positioning at the expense of accessibility
+    reasoning: >-
+      H&M's entire value lives in the middle—better design than competitors at affordable price. Attempting to "elevate" into premium territory would abandon the core customer and market position.
+  - pattern: Design homogeneity across geographies
+    reasoning: >-
+      While global consistency matters, H&M must respect local fashion cultures. Over-standardization would ignore regional style preferences and positioning as globally-aware brand.
+tonal:
+  - pattern: Corporate earnestness about sustainability
+    reasoning: >-
+      The tone about circular economy should feel like the brand is learning and experimenting, not claiming mastery. Humility about the transition to sustainability is more credible than chest-thumping claims.
+  - pattern: Elitist or gatekeeping language about fashion
+    reasoning: >-
+      "Fashion isn't for everyone" kind of implications would contradict core positioning. Tone must celebrate democratization while avoiding tone-deafness about privilege.
+  - pattern: Overly playful or trendy voice
+    reasoning: >-
+      H&M is a serious fashion brand that happens to be affordable. The voice should feel design-forward and confident, not trying to be youth-focused or meme-friendly. Trends in tone date faster than trends in clothing.
+  - pattern: Defensive positioning against premium fashion
+    reasoning: >-
+      H&M shouldn't position itself as "just like luxury brands but cheaper." The brand's voice should be absolutely confident in its own design philosophy, not derivative.
+cultural:
+  - pattern: Fast fashion criticism requires conscious positioning response
+    reasoning: >-
+      Etsy and vintage positioning have made fast fashion culturally suspicious. H&M's response isn't to deny it; it's to claim that democratic fashion is more important than climate purism, and to prove it through action.
+  - pattern: >-
+      Gen Z's experience economy values (experiences > possessions) require repositioning fashion from product to identity
+    reasoning: >-
+      H&M must frame fashion as cultural participation and self-expression, not consumption. This reframe is necessary for relevance.
+  - pattern: Supply chain transparency expectations from younger customers
+    reasoning: >-
+      Where previous generations accepted "made overseas," Gen Z expects visibility. H&M's supply chain communication must be detailed and honest or positioning fails.
+  - pattern: Sustainability leadership claim requires differentiation from competitors
+    reasoning: >-
+      Being sustainable isn't enough—H&M must be VISIBLY more sustainable than other accessible fashion brands while remaining more affordable than premium sustainable brands. The positioning is precise and requires constant reinforcement.

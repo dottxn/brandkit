@@ -1,0 +1,35 @@
+chunk_id: "bookingcom-competitive"
+brand: bookingcom
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "bookingcom-positioning"
+token_count: 2
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Booking.com. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - airbnb
+  - "delta-air-lines"
+industry_norms_it_breaks: "The tilted 23.5-degree axis in typography—a subtle echo of earth's axial tilt, suggesting global expansion without literal representation | The discipline to keep core brand \"sacred\" while building flexible creative principles that allow personality within constraints | Does this reduce the psychological load between wanting to travel and booking, or does this add decision-making friction?"
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Booking Blue brand, energetic travel discovery"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Partner extranet, booking engine, platform UI"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Traveller community content, candid photography"
+strategic_cluster: "experience-curator"
+category: "travel-transport"

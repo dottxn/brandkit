@@ -1,0 +1,64 @@
+# ──────────────────────────────────────────────
+# Seed Health — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "MOUTHWASH Studio"
+    type: "branding"
+    url: "https://mouthwash.studio/"
+    project_url: "https://mouthwash.studio/project/seed/"
+    relationship: "Creative direction, visual identity, and motion design for brand evolution"
+
+  - name: "DCA Symphony"
+    type: "creative-direction"
+    url: "https://dcasymphony.com/"
+    relationship: "Tokyo-based studio providing dimensional extension and creative direction"
+
+  - name: "Landscape Studio"
+    type: "digital-design"
+    url: "https://thisislandscape.com/"
+    relationship: "Visual system connecting human health to planetary health; information architecture and UX design"
+
+  - name: "Dinamo Typefaces"
+    type: "type-foundry"
+    url: "https://abcdinamo.com/"
+    relationship: "Developed Seed Sans custom variable typeface designed to mirror microbiome behavior"
+
+people:
+  - name: "Ara Katz"
+    role: "Co-founder, Seed Health"
+    context: "Visionary behind Seed's brand-as-science-communication positioning"
+
+  - name: "Yuji Sakuma"
+    role: "Design strategist, Landscape Studio"
+    context: "Led visual system development connecting micro and macro imagery for brand experience"
+
+publications:
+  - title: "Seed Sans: A Custom Variable Typeface for Microbiome Science Communication"
+    author: "MOUTHWASH Studio + Dinamo"
+    relevance: "Documents the custom typeface designed to expand and contract reflecting microbiome behavior"
+
+  - title: "Brand Evolution: Making Microbial Science Beautiful"
+    author: "MOUTHWASH Studio"
+    relevance: "Comprehensive brand evolution documentation after six years of initial brand establishment"
+
+  - title: "Darwin's Nomenclature of Colour: Palette Development for Seed"
+    author: "MOUTHWASH Studio"
+    relevance: "Color system drawn from 1814 scientific reference, creating science-grounded aesthetic"
+
+visuals:
+  - url: "https://mouthwash.studio/project/seed/"
+    label: "MOUTHWASH Studio case study — Brand identity and motion design"
+    section: "visual-language"
+
+  - url: "https://thisislandscape.com/projects/seed/"
+    label: "Landscape Studio project — Visual system connecting human and planetary health"
+    section: "visual-language"
+
+  - url: "https://seed.com/"
+    label: "Seed.com marketing pages — Science-beautiful visual language and Seed Sans typography"
+    section: "visual-language"
+
+  - url: "https://seedhealth.org/"
+    label: "Seed Health company site — Research and scientific credibility communication"
+    section: "visual-world"

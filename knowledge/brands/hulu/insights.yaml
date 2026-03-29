@@ -1,0 +1,32 @@
+chunk_id: "hulu-insights"
+brand: hulu
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "hulu-soul"
+  - "hulu-positioning"
+token_count: 436
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Hulu. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Green (#1ce783) works for entertainment precisely because it's NOT in the traditional television color palette. Cable TV lives in dark grays and blacks (signaling seriousness and premium). Hulu's neon green signals freshness, youth, and differentiation. Owning a color completely in a competitive space is rare and valuable—it becomes the brand's visual shorthand.
+  - >-
+    Graphik typeface in mixed weights feels contemporary and conversational, not broadcaster formal. Traditional television uses serious, geometric fonts that suggest authority. Graphik is warm humanist sans-serif that sounds like a friend recommending a show, not a network executive selling you something. The typeface choice reframes who is speaking and in what tone.
+  - >-
+    The Vessel creates psychological framing—content inside a rounded-rectangle feels curated and selected, not algorithmic. A grid looks like a database. A Vessel looks like someone with taste saying "watch this." This simple framing device shifts the entire experience from "algorithm showing you options" to "Hulu suggesting something you'll like."
+  - >-
+    Avoiding the sad gray and black palette of traditional cable TV is not aesthetic choice, it's strategic repositioning. The moment Hulu looked like Netflix or traditional television, it would become interchangeable. The green is color as differentiator and brand ownership. It's one of the few assets in streaming that's legally defensible and unmistakably Hulu.
+  - >-
+    Artist-created logo remixes (allowing diverse creators to reimagine the Hulu mark) build community and signal that the brand respects creative expression. This also creates differentiation from corporate competitors. You never see Netflix letting artists remix the logo. This openness is a statement about Hulu's values and relationship with creators.
+what_nobody_copies: >-
+  The commitment to Hulu Green as the differentiating color in streaming space. While other platforms are black, dark blue, or neutral, Hulu owns green completely. This ownership is both aesthetic and strategic—it makes Hulu instantly recognizable and creates a psychological association between green and "discovery-friendly entertainment." Competitors would appear to be copying if they adopted similar green, so the color is Hulu's permanent competitive advantage.

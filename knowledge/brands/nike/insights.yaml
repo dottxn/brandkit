@@ -1,0 +1,32 @@
+chunk_id: "nike-insights"
+brand: nike
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "nike-soul"
+  - "nike-positioning"
+token_count: 267
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Nike. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Nike's true competitor isn't Adidas or New Balance — it's comfort. Nike sells the discomfort of ambition, the friction of becoming. Every design choice must enforce this tension rather than resolve it.
+  - >-
+    The monochromatic palette (#000000, #FFFFFF, occasional #FF0000) isn't minimalism for its own sake — it's a visual metaphor for the athlete's focus. Distraction is the enemy. Color scarcity creates intensity.
+  - >-
+    Nike's photography is never about the product being beautiful; it's about the body being capable. The athlete's muscles, effort, and determination are the actual products being sold. The shoe is almost incidental.
+  - >-
+    "Every athlete in the world" is Nike's most radical statement. This isn't market segmentation; it's a philosophical position. It means Nike believes your body, regardless of size, age, or ability, contains an athlete waiting to be activated.
+  - >-
+    Nike's architecture of Hero + Magician archetypes creates a duality: you are capable of greatness (Hero), but greatness requires technology and knowledge (Magician). This partnership is where Nike's value lives.
+what_nobody_copies: >-
+  Nike's refusal to soften its messaging even as it scales globally. Competitors dilute their tone to be inclusive; Nike intensifies its message of personal striving. This is counterintuitive but unbreakable.

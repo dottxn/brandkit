@@ -1,0 +1,51 @@
+chunk_id: "oscar-health-voice"
+brand: "oscar-health"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "oscar-health-soul"
+token_count: 96
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Oscar Health. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="31-1">Oscar Health, Inc. is a leading healthcare technology company, whose mission is to make a healthier life accessible and affordable for all.</cite> <cite index="34-16">The company fo
+tone_traits:
+  - Human terms
+  - "jargon-free"
+  - conversational
+  - direct
+  - "Member-first"
+  - supportive
+  - empathetic
+  - personal
+  - "Tech-forward"
+  - clever
+  - original
+  - innovative
+anti_traits:
+  - Clinical language
+  - industry speak
+  - confusing terminology
+  - Corporate coldness
+  - indifferent
+  - transactional
+  - Traditional
+  - stale
+  - predictable
+example_phrases:
+  - Choice is power
+  - We call it health insurance for real life
+  - "Healthcare is broken; we're trying to fix it"
+  - Care everywhere
+guardrails:
+  never_say: []
+  always_sound: "Human terms, jargon-free, conversational, direct, Member-first"

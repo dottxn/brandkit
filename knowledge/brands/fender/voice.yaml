@@ -1,0 +1,48 @@
+chunk_id: "fender-voice"
+brand: fender
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "fender-soul"
+token_count: 135
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Fender. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Fender is the world's leading manufacturer of stringed musical instruments and amplifiers, best known for iconic electric guitars like the Stratocaster and Telecaster that have shaped modern music cul
+tone_traits:
+  - genuine
+  - rooted in musical heritage
+  - honest about craft
+  - empowering
+  - motivational
+  - celebrating musical expression
+  - energetic
+  - enthusiastic about music
+  - emotionally connected
+anti_traits:
+  - avoid being fake
+  - overly corporate
+  - or disconnected from music culture
+  - avoid being preachy
+  - elitist
+  - or discouraging to beginners
+  - avoid being cold
+  - "technical-only"
+  - or purely transactional
+example_phrases:
+  - "Discover the sound of Fender, the spirit of rock-n-roll since 1946"
+  - "Artists are Angel's, it's our job to give them wings to fly"
+  - The sounds that create legends
+  - Still the one
+guardrails:
+  never_say: []
+  always_sound: "genuine, rooted in musical heritage, honest about craft, empowering, motivational"

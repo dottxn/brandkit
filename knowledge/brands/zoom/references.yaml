@@ -1,0 +1,54 @@
+# ──────────────────────────────────────────────
+# Zoom — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Zoom In-house Design Office (WDS Design System Team)"
+    type: digital-design
+    url: "https://zoom.us/"
+    relationship: "Developed and maintained the Zoom Design System (WDS) using atomic design methodology, achieving 70% reduction in UI development time-to-market"
+
+people:
+  - name: "Mark Kawano"
+    role: "Chief Design Officer (First CDO)"
+    url: "https://www.linkedin.com/in/mkawano/"
+    context: "Appointed first Chief Design Officer at Zoom (November 2024); brings 25+ years of design leadership from Apple, Adobe, Microsoft, Slack, and Zendesk; leads global design team overseeing AI-first workplace platform"
+
+  - name: "Łukasz Dziedzic"
+    role: "Type Designer"
+    url: "https://www.typotheque.com/designers/lukasz-dziedzic"
+    context: "Created Lato typeface (open-source), which serves as Zoom's primary UI typeface system-wide"
+
+publications:
+  - title: "What does it mean to be the Chief Design Officer at Zoom"
+    author: "Future London Academy"
+    relevance: "Interview and analysis with Mark Kawano discussing his role as Zoom's first CDO and the company's design priorities"
+
+  - title: "Designer Spotlight: Mark Kawano"
+    author: "Qwoted"
+    relevance: "Professional profile documenting Mark Kawano's career trajectory and design leadership philosophy across major tech companies"
+
+visuals:
+  - url: "https://futurelondonacademy.co.uk/en/articles/dl-chief-design-officer-at-zoom"
+    label: "Mark Kawano as Zoom's First CDO — Strategy and Vision"
+    section: visual-language
+
+  - url: "https://medium.com/@futurelondonacademy/what-does-it-mean-to-be-the-chief-design-officer-at-zoom-af36fe0b05ca"
+    label: "Chief Design Officer Role at Zoom — Medium Article"
+    section: visual-language
+
+  - url: "https://www.linkedin.com/in/mkawano/"
+    role: "Mark Kawano LinkedIn Profile — Professional Background"
+    section: visual-language
+
+  - url: "https://fonts.google.com/specimen/Lato"
+    label: "Lato Typeface on Google Fonts — Open-source UI Font"
+    section: visual-world
+
+  - url: "https://zoom.us"
+    label: "Zoom Platform — Live Case Study of Design System Implementation"
+    section: visual-world
+
+  - url: "https://explore.zoom.us/design/"
+    label: "Zoom Design System Documentation — Official Guidelines"
+    section: visual-world

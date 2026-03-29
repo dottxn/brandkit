@@ -1,0 +1,55 @@
+chunk_id: "aesop-anti-patterns"
+brand: aesop
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "aesop-soul"
+  - "aesop-visual-dna"
+token_count: 288
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Aesop. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Glossy finishes or metallic accents on packaging
+    reasoning: "breaks the honest-material philosophy"
+  - pattern: Bright or saturated colour in brand communications
+    reasoning: contradicts the warm/muted/natural palette
+  - pattern: Lifestyle photography showing aspirational beauty standards
+    reasoning: "Aesop's imagery avoids traditional beauty tropes entirely"
+  - pattern: Gradient backgrounds or contemporary digital aesthetics
+    reasoning: "too trend-responsive for a timeless positioning"
+strategic:
+  - pattern: Discount codes or seasonal sales
+    reasoning: "price discipline is non-negotiable"
+  - pattern: Celebrity endorsements or influencer partnerships
+    reasoning: "collaborates with architects, writers, and designers — not fame"
+  - pattern: Department store counter displays
+    reasoning: loses control of the experience
+  - pattern: Rapid new product launches to drive seasonal replenishment
+    reasoning: products stay in the line for years
+tonal:
+  - pattern: "Before-and-after claims or \"visible results in X days\" language"
+    reasoning: refuses to promise transformation
+  - pattern: "Superlatives or urgency — \"best-selling,\" \"limited edition,\" \"don't miss out\""
+    reasoning: "incompatible with the brand's register"
+  - pattern: "Emojis or casual digital-native tone"
+    reasoning: "the register is literary, not conversational"
+  - pattern: Any language that implies the customer is incomplete without the product
+    reasoning: "core positioning is 'you already are'"
+cultural:
+  - pattern: "\"Clean beauty\" trend signalling"
+    reasoning: Aesop was doing this before it had a name and refuses to claim the label
+  - pattern: Wellness culture aesthetics
+    reasoning: "too close to self-help, too far from intellectual rigour"
+  - pattern: "AI or tech-forward product innovation framing"
+    reasoning: the brand is deliberately analogue in feel
+  - pattern: "TikTok-native content or viral marketing tactics"
+    reasoning: incompatible with the pace and register

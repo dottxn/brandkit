@@ -1,0 +1,71 @@
+chunk_id: "strava-anti-patterns"
+brand: strava
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "strava-soul"
+  - "strava-visual-dna"
+token_count: 510
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Strava. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Muted or desaturated color palettes
+    reasoning: >-
+      Strava's orange demands attention because athletic effort is loud and visible. Toning down the color would diminish the celebration of movement.
+  - pattern: Dark interface or moody aesthetics
+    reasoning: >-
+      The platform uses bright, high-contrast design because physical activity is energetic. Dark modes would feel inappropriate for a tool celebrating effort.
+  - pattern: Corporate or formal typography in the interface
+    reasoning: >-
+      Inter is chosen for its neutrality, but never for sterility. Serif fonts or formal typefaces would make athletic community feel bureaucratic.
+  - pattern: Lifestyle photography divorced from actual movement
+    reasoning: >-
+      All imagery connects back to the act of moving—running, cycling, swimming. Stock photos of happy people indoors would betray the brand.
+strategic:
+  - pattern: Monetization through leaderboard dominance
+    reasoning: >-
+      Unlike competing platforms, Strava doesn't use rankings or achievement tiers as primary engagement hooks. Shifting to this would corrupt the community trust.
+  - pattern: Algorithmic feed prioritizing extreme athletes
+    reasoning: >-
+      The algorithm emphasizes consistency and personal progress over celebrity or elite performance. Changing this hierarchy would discourage amateur athletes.
+  - pattern: Exclusive premium features for serious athletes
+    reasoning: >-
+      Strava deliberately keeps core features free and equal. Tiering core functionality by performance level would violate the egalitarian positioning.
+  - pattern: Competition over documentation
+    reasoning: >-
+      The brand emphasizes recording your effort over competing with others. Shifting to competition-first would fundamentally change the product's soul.
+tonal:
+  - pattern: Motivational or inspirational voice
+    reasoning: >-
+      Copy avoids cheerleader energy. Instead, Strava uses neutral, factual language that lets athlete achievements speak for themselves.
+  - pattern: "Performance-focused language"
+    reasoning: >-
+      The brand celebrates effort and movement, not speed or endurance. Emphasizing "faster," "stronger," "better" would exclude slower athletes.
+  - pattern: "Achievement-unlock or gamification language"
+    reasoning: >-
+      No "unlock," "earn," or "achieve" language. Strava speaks in terms of recording, sharing, and community—not conquering.
+  - pattern: "Comparison-driven messaging"
+    reasoning: >-
+      Copy never suggests competition or comparison with others. It emphasizes personal improvement and shared experience instead.
+cultural:
+  - pattern: Elite sports positioning
+    reasoning: >-
+      Despite attracting professional athletes, Strava's brand celebrates the local running club member equally. Abandoning the amateur athlete would kill the network.
+  - pattern: Performance as the only metric of success
+    reasoning: >-
+      Strava celebrates consistency and community participation, not just winning. A performance-only culture would alienate most users.
+  - pattern: Training as a solo endeavor
+    reasoning: >-
+      The brand positions activity as fundamentally social and communal. Emphasizing individual training metrics over shared experience would reduce engagement.
+  - pattern: Segregating fitness disciplines
+    reasoning: >-
+      Runners, cyclists, swimmers, and every other athletic movement are celebrated with equal visual prominence. No hierarchy of "more serious" sports.

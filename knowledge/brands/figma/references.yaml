@@ -1,0 +1,56 @@
+# ──────────────────────────────────────────────
+# Figma — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Grilli Type"
+    type: "type-foundry"
+    url: "https://www.grillitype.com/"
+    relationship: "Designed Figma Sans bespoke variable typeface system (5 families, 60 fonts, commissioned by Figma)"
+
+  - name: "OH no Type Company"
+    type: "type-foundry"
+    url: "https://ohnotype.co/"
+    relationship: "Designed Figma Hand custom typeface for FigJam whiteboarding application"
+
+people:
+  - name: "Damien Correll"
+    role: "VP Design, Brand & Creative"
+    url: "https://read.cv/damien"
+    context: "Led September 2024 brand refresh; oversees Brand Studio direction and visual system evolution"
+
+  - name: "Grilli Type (Founders)"
+    role: "Type Designers"
+    url: "https://www.grillitype.com/"
+    context: "Independent Swiss-American type foundry; designed Figma Sans variable font system"
+
+  - name: "Kris Sowersby"
+    role: "Type Designer"
+    url: "https://klim.co.nz/"
+    context: "Creator of Founders Grotesk (used by Eventbrite); informed contemporary type design practices"
+
+publications:
+  - title: "Just Our Type: The Story of Creating Figma Sans"
+    author: "Figma"
+    relevance: "Official blog post documenting Figma Sans design process and variable font system philosophy"
+
+  - title: "Figma on Figma: Evolving Our Visual Language"
+    author: "Damien Correll / Figma"
+    relevance: "September 2024 brand refresh announcement; details maximalist design direction and Sol LeWitt/Barbara Stauffacher Solomon influences"
+
+visuals:
+  - url: "https://figma.com/"
+    label: "Figma.com homepage and marketing — Post-September 2024 brand refresh with abstract primitives"
+    section: "visual-language"
+
+  - url: "https://www.figma.com/design"
+    label: "Figma design editor product interface — Neutral tool-focused canvas-centric UI"
+    section: "visual-world"
+
+  - url: "https://www.figjam.com/"
+    label: "FigJam whiteboarding tool — Warmer, more playful visual register with Figma Hand typeface"
+    section: "visual-world"
+
+  - url: "https://config.figma.com/"
+    label: "Config annual conference — Annual visual identity refresh and experimental supergraphics"
+    section: "visual-language"

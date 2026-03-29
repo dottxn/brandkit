@@ -1,0 +1,25 @@
+chunk_id: "loreal-voice"
+brand: loreal
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "loreal-soul"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Voice and tone for L'Oréal. How the brand sounds and what it avoids."
+
+# ── Data
+personality: ""
+tone_traits: []
+anti_traits: []
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: ""

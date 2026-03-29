@@ -1,0 +1,51 @@
+studios:
+- name: DixonBaxi
+  type: branding
+  url: https://www.dixonbaxi.com/
+  relationship: Created 2025 centennial visual refresh; designed Delta Serif and Delta
+    Aura system
+  project_url: https://www.dixonbaxi.com/case-study/delta-air-lines
+- name: Pangram Pangram Foundry
+  type: type-foundry
+  url: https://pangrampangram.com/
+  relationship: Designed Delta Serif and Delta Sans typefaces for 2025 centennial
+- name: Lippincott
+  type: branding
+  url: https://www.lippincott.com/
+  relationship: Created modern Delta identity post-bankruptcy (2007)
+- name: FUGO Studios
+  type: film-production
+  url: https://www.fugo.tv/
+  relationship: Created 'Midnight Oil' in-flight welcome video (180M+ views/year)
+people:
+- name: Mauricio Parise
+  role: VP Brand Experience Design
+  url: ''
+  context: Oversees Delta visual system and brand experience design
+publications:
+- title: Delta Air Lines Centennial Visual Refresh
+  author: DixonBaxi
+  relevance: 2025 rebrand honoring 100 years of brand heritage while modernizing visual
+    system
+- title: Keep Climbing — Delta Brand Philosophy
+  author: Delta Air Lines
+  relevance: Positioning that drives motion-based visual language and compositions
+visuals:
+- url: https://www.creativereview.co.uk/dixonbaxi-refreshes-the-delta-air-lines-brand-as-it-turns-100/
+  label: Delta Centennial Refresh — Creative Review Feature
+  section: visual-language
+- url: https://www.fastcompany.com/91382080/delta-just-ushered-in-the-era-of-the-lifestyle-airline
+  label: Delta Lifestyle Airline Positioning — Fast Company
+  section: visual-language
+- url: https://brandarchive.xyz/identity/delta-2025
+  label: Delta 2025 Visual Identity — Brand Archive
+  section: visual-language
+- url: https://news.delta.com/mediakit/deltas-centennial
+  label: Delta Centennial News Hub
+  section: visual-world
+- url: https://www.delta.com/
+  label: Delta.com — Current Brand Implementation
+  section: visual-world
+- url: https://www.lippincott.com/work/ebay/
+  label: Lippincott Portfolio — 2007 Delta Rebrand
+  section: visual-language

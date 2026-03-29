@@ -1,0 +1,49 @@
+chunk_id: "chanel-voice"
+brand: chanel
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "chanel-soul"
+token_count: 115
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Chanel. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A French luxury fashion house that creates haute couture, ready-to-wear, accessories, fragrances, and beauty products. Founded by Gabrielle 'Coco' Chanel in 1910, the brand revolutionized women's fash
+tone_traits:
+  - sophisticated
+  - confident
+  - cultured
+  - classic
+  - graceful
+  - enduring
+  - pioneering
+  - artistic
+  - visionary
+anti_traits:
+  - boastful
+  - flashy
+  - pretentious
+  - trendy
+  - temporary
+  - casual
+  - conventional
+  - predictable
+  - derivative
+example_phrases:
+  - >-
+    Designer, visionary, artist, Gabrielle 'Coco' Chanel reinvented fashion by transcending its conventions
+  - "She followed no rules, epitomising the very modern values of freedom, passion and feminine elegance"
+  - Simplicity is the keynote of all true elegance
+  - "A woman who doesn't wear perfume has no future"
+guardrails:
+  never_say: []
+  always_sound: "sophisticated, confident, cultured, classic, graceful"

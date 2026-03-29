@@ -1,0 +1,36 @@
+chunk_id: "uber-competitive"
+brand: uber
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "uber-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Uber. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - airbnb
+  - "delta-air-lines"
+  - dominos
+industry_norms_it_breaks: "The refined 'U' monogram used as a symbol of motion and direction—not a decorative logo but a directional indicator that means \"go this way.\" | The absolute restraint in visual expression. Competitors try to build brand personality through design; Uber's personality is the app's functionality. The design actively resists expressing brand opin | Does this reduce friction between \"I need to get somewhere\" and \"I'm there\"? Anything else is unnecessary complexity."
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Brand Black, nocturnal urban mobility, authoritative"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Systematic global brand, modular, clean"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Uber Eats food delivery, community, warmth"
+strategic_cluster: "experience-curator"
+category: "travel-transport"

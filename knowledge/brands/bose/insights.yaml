@@ -1,0 +1,32 @@
+chunk_id: "bose-insights"
+brand: bose
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "bose-soul"
+  - "bose-positioning"
+token_count: 157
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Bose Corporation. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Audio brands need visual metaphors for sound—the 30-degree angle is Bose's waveform, making sound visible without resorting to abstract representation
+  - >-
+    60 years of acoustic research only matters as a brand asset when customers can *feel* the difference, not just read the specification
+  - >-
+    The handwritten wordmark survived the 2024 rebrand because it's genuine history—customers recognize Bose wordmark across generations, making it a moat
+  - >-
+    Premium audio positioning works through comparative listening experiences, not through lifestyle marketing
+  - >-
+    Chromatic color systems (colors as musical notes) create coherent visual language without requiring ornamental patterns
+what_nobody_copies: >-
+  The willingness to make a 60-year-old handwritten wordmark feel contemporary through supporting system design, not through redesign

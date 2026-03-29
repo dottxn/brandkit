@@ -1,0 +1,346 @@
+chunk_id: "bose-visual-language"
+brand: "bose"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "bose-visual-dna"
+  - "bose-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Bose. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-bose"
+      touchpoints:
+        - "bose.com homepage and marketing pages"
+        - "Bose brand campaigns ('Sound is Power')"
+        - "Bose social media channels"
+        - "Bose corporate communications"
+      description: >-
+        The October 2024 Collins rebrand ('Sound is Power') established
+        the current visual system — the most significant brand refresh
+        in Bose's history. Collins (Brian Collins, NYC-based brand
+        consultancy) and Tekio (Jan Estrada-Osmycki) created a custom
+        typeface derived from Bose's original 1960s hand-drawn italic
+        wordmark (30-degree angle). An eight-tone chromatic palette based
+        on musical scale notes replaced the previous conservative colour
+        system. The visual language deliberately avoids literal sound-wave
+        motifs — Collins positioned Bose as a cultural brand (sound as
+        power, sound as emotion) rather than an engineering brand (sound
+        as frequency). Compared to Sony (corporate, electronics-coded,
+        broader product range) or Apple (minimal, ecosystem-coded, design-
+        as-identity), Bose's post-Collins visual language is the most
+        music-culture-coded among audio brands.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this italic,
+        chromatic, music-culture-coded register.
+
+    - name: "product-quietcomfort"
+      touchpoints:
+        - "Bose QuietComfort product marketing"
+        - "QuietComfort headphones and earbuds packaging"
+        - "Bose retail and online store"
+        - "Product comparison and feature pages"
+      description: >-
+        Product-hero with lifestyle context. QuietComfort (Bose's most
+        recognised product line) uses photography-dominant marketing —
+        the products worn by people in everyday contexts (commuting,
+        working, exercising). The chromatic palette from the brand system
+        appears in background treatments and accent elements. Product
+        photography is clean and detail-oriented — showing materials,
+        fit, and design quality. Compared to the corporate brand mode
+        (more conceptual, more cultural), the product mode is more
+        tangible and consumer-accessible.
+      differs_from_default_by: >-
+        Product photography replaces cultural branding as the primary
+        visual content. The register is more consumer-commerce-coded.
+        The chromatic palette appears as accent rather than dominant.
+
+    - name: "bose-professional"
+      touchpoints:
+        - "Bose Professional (commercial audio systems)"
+        - "Bose Professional documentation and specifications"
+        - "Architecture and installation project references"
+      description: >-
+        More technical, more specification-driven. Bose Professional
+        (commercial audio for venues, stadiums, houses of worship) uses
+        a more restrained visual language — technical diagrams, installation
+        photography, acoustic specifications. The professional mode serves
+        architects, AV integrators, and facility managers rather than
+        consumers. The visual language borrows from architectural
+        documentation rather than consumer-electronics marketing.
+      differs_from_default_by: >-
+        Technical and specification-driven. Installation and venue
+        photography replaces lifestyle imagery. The visual register serves
+        B2B professional procurement rather than consumer aspiration.
+
+  notes: >-
+    The October 2024 Collins rebrand represents a dramatic visual
+    departure for Bose — from conservative engineering-brand aesthetics
+    to music-culture-coded visual confidence. The 'Sound is Power'
+    positioning and the chromatic musical palette signal Bose's intent to
+    compete culturally (against Beats by Dre, Sony) rather than solely
+    on engineering specifications. Partnerships with Donald Glover, Jamie
+    XX, PinkPantheress, and Joe Burrow extend the cultural positioning.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "bose.com (observed February 2026)"
+    - "'Sound is Power' campaign (October 2024)"
+    - "Product marketing photography"
+    - "Cultural partnership imagery"
+  subject_and_framing: >-
+    Two primary modes: cultural-brand photography and product-hero
+    photography. Cultural: the 'Sound is Power' campaign uses atmospheric,
+    music-culture-coded imagery — performance moments, studio sessions,
+    the emotional experience of listening. Product: clean, detailed
+    product photography showing headphones, earbuds, and speakers with
+    attention to material quality (leather, metal, mesh). The cultural
+    partnership photography (Donald Glover, Jamie XX, PinkPantheress, Joe
+    Burrow) brings artist and athlete imagery into the brand. Compared to
+    Beats by Dre (more celebrity-forward, more hip-hop-culture-coded) or
+    Sony (more product-specification-coded), Bose's post-Collins
+    photography bridges engineering quality with cultural credibility.
+  casting_observed: >-
+    Artist and athlete partnerships: Donald Glover (music/film), Jamie XX
+    (electronic music), PinkPantheress (Gen-Z music), Joe Burrow (NFL
+    quarterback). The casting reflects Bose's cultural-repositioning
+    ambition — diverse across music genres and sports, credible rather
+    than mainstream. Lifestyle photography shows diverse, contemporary
+    people in music-listening contexts.
+  lighting_and_colour: >-
+    Cultural photography uses atmospheric, mood-driven lighting — concert
+    and studio environments, coloured gels, dramatic shadows. The eight-
+    tone chromatic palette influences photographic colour treatment.
+    Product photography uses clean, controlled studio lighting with
+    attention to material texture. The colour treatment is richer and
+    more expressive than pre-2024 Bose photography (which was more
+    conservative and engineering-coded).
+  post_production: >-
+    Cultural photography: atmospheric processing with the chromatic
+    palette influencing colour grades. Product photography: clean,
+    precise, material-faithful. The post-Collins post-production is
+    more expressive and colour-rich than Bose's previous conservative
+    approach.
+  visual_boundaries:
+    stated_exclusions: >-
+      Post-Collins, Bose avoids literal sound-wave imagery, frequency-
+      spectrum graphics, and engineering-jargon visual treatments. The
+      brand repositioned from 'sound engineering' to 'sound as cultural
+      power' — the photography reflects this shift.
+    observed_exceptions: >-
+      Bose Professional (commercial audio) maintains a more technical
+      photographic register with installation and venue documentation
+      photography.
+    genuine_absence: >-
+      Based on bose.com review: no abstract or conceptual photography,
+      no lifestyle photography disconnected from sound/music contexts,
+      no corporate-environment photography.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "October 2024 Collins rebrand"
+    - "Eight-tone chromatic palette (musical scale)"
+    - "Custom Bose typeface (Collins + Tekio/Jan Estrada-Osmycki)"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    The Bose wordmark functions as the primary icon — the custom italic
+    typeface with its 30-degree angle creates a distinctive mark at any
+    size. Product-category icons are minimal and functional. The brand
+    deliberately avoids sound-wave or frequency-spectrum iconography —
+    no literal representations of sound. Navigation and feature icons
+    follow standard consumer-electronics conventions.
+  graphic_devices: >-
+    The custom italic typeface — derived from Bose's original 1960s
+    hand-drawn wordmark, the 30-degree italic angle is the primary
+    graphic device. It creates a forward-leaning, dynamic quality that
+    communicates energy and movement without depicting sound. The eight-
+    tone chromatic palette — colours named after musical scale notes,
+    creating a synaesthetic connection between sound and colour. This
+    palette is the most conceptually grounded colour system among audio
+    brands. The absence of sound-wave motifs is itself a graphic device
+    — by refusing the obvious, Bose signals that sound is an experience,
+    not a waveform.
+  motion_language: >-
+    The italic wordmark animates with forward-leaning, energetic
+    movements — the 30-degree angle suggests momentum. The chromatic
+    palette shifts and pulses in video content — colours transition
+    in sequences inspired by musical progression. Campaign videos use
+    music-synchronised motion (visual elements responding to audio beats
+    and rhythms). The motion language is more dynamic and culturally coded
+    than pre-2024 Bose (which was conservative and product-demonstration-
+    focused). Compared to Beats (more hip-hop-coded, bass-pulse-driven)
+    or Sony (more cinematic, more atmospheric), Bose's post-Collins
+    motion is the most music-theory-influenced.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Custom Bose typeface (Collins + Tekio/Jan Estrada-Osmycki, October 2024)"
+    - "1960s hand-drawn italic wordmark (30-degree angle)"
+    - "bose.com (observed February 2026)"
+  signature_move: >-
+    Custom Bose typeface (Collins brand consultancy + Tekio / Jan
+    Estrada-Osmycki, October 2024) — derived from Bose's original 1960s
+    hand-drawn italic wordmark. The 30-degree italic angle from the
+    original hand-drawn mark was preserved and extended into a full
+    typeface system. Jan Estrada-Osmycki (Tekio, independent type
+    designer) translated the hand-drawn heritage into digital precision.
+    The result is a typeface that carries six decades of brand history
+    while feeling entirely contemporary. The italic is the default —
+    not an option but the baseline, creating a consistently dynamic visual
+    rhythm. Compared to Beats (no distinctive custom type) or Sony (Sony
+    Sans, corporate-neutral), Bose's typography is the most heritage-
+    connected and the most dynamically angled.
+  what_would_look_wrong: >-
+    An upright, static typeface (the italic angle IS the identity). A
+    thin, delicate typeface (contradicts the confident, powerful register
+    of 'Sound is Power'). A generic sans-serif like Helvetica or Inter
+    (removes brand distinction). The pre-2024 typography (associated with
+    the more conservative engineering-brand era). Sound-wave-shaped
+    letterforms (too literal for the conceptual rebrand).
+  case_convention: >-
+    'Bose' uses title case in the wordmark. Product names use title case
+    ('QuietComfort,' 'SoundLink,' 'Smart Soundbar'). Body text uses
+    sentence case. Marketing headlines use sentence case or title case
+    depending on context. The brand avoids ALL CAPS in body contexts.
+  display_vs_body: >-
+    Display: The custom Bose italic at heavier weights for campaign
+    headlines and brand moments — the 30-degree angle is most impactful
+    at display sizes. Body: The custom typeface at regular weight for
+    marketing and website text. Product descriptions and specification
+    content may use a complementary sans-serif for readability at smaller
+    sizes. The italic default creates a uniquely dynamic reading experience
+    — every piece of text leans forward.
+  type_and_image: >-
+    The italic typography and product photography work in concert — the
+    forward-leaning type and the clean product imagery share a dynamic
+    quality. In cultural campaign contexts, the type sits alongside
+    atmospheric photography with the chromatic palette providing visual
+    unity. The typography is confident enough to stand alone — the 'Sound
+    is Power' headline in the custom italic needs no image to communicate
+    brand.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "bose.com (observed February 2026)"
+    - "Bose product marketing pages"
+    - "'Sound is Power' campaign materials"
+  signature_composition: >-
+    Product-showcase-centred with chromatic environments. bose.com uses
+    a clean, sectioned layout with large product images, generous
+    whitespace, and strong calls to action. Product pages follow a
+    scroll-reveal structure — each section introduces a feature with
+    photography and concise description. The chromatic palette provides
+    distinctive coloured backgrounds for different sections. Campaign
+    pages use more atmospheric, full-bleed compositions. Compared to
+    Apple (similar product-showcase structure but monochrome) or Sony
+    (denser, more specification-forward), Bose's post-Collins layout
+    is the most colour-expressive.
+  density_and_whitespace: >-
+    Low-to-moderate density. Product pages use generous whitespace with
+    clean section breaks. The chromatic palette backgrounds create visual
+    variety without density. Specification sections are appropriately
+    dense with technical details. Campaign content uses atmospheric,
+    full-bleed compositions with minimal text overlay.
+  format_preferences: >-
+    Landscape for product hero images. Various formats for product
+    photography (front, side, detail, lifestyle). Marketing materials
+    adapt to standard digital and print formats. The italic wordmark
+    works horizontally.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    The October 2024 Collins rebrand repositioned Bose from a conservative
+    engineering brand to a culturally engaged audio brand. This represents
+    a deliberate trend adoption — moving toward the cultural-brand
+    positioning that Beats by Dre established a decade earlier.
+  examples:
+    - trend: "Cultural-brand positioning for consumer electronics"
+      stance: "late-adopter"
+      evidence: >-
+        The 'Sound is Power' rebrand and cultural partnerships (Donald
+        Glover, Jamie XX, PinkPantheress, Joe Burrow) position Bose as
+        a cultural brand rather than an engineering brand. Beats by Dre
+        established this approach for audio brands in 2008; Bose adopted
+        it in 2024.
+      reasoning: >-
+        Bose's engineering heritage created strong product loyalty but
+        limited cultural relevance among younger consumers. The Collins
+        rebrand bridges Bose's audio quality with cultural credibility —
+        attempting to own 'premium sound as cultural power' rather than
+        ceding the cultural space to Beats.
+    - trend: "Heritage typography revival in tech branding"
+      stance: "leader"
+      evidence: >-
+        The custom typeface derived from Bose's 1960s hand-drawn italic
+        wordmark (30-degree angle preserved) is one of the most successful
+        heritage-typography-revival projects in consumer electronics.
+        The approach honours brand history while creating a contemporary
+        visual tool.
+      reasoning: >-
+        Most audio brands have no typographic heritage worth reviving.
+        Bose's original hand-drawn wordmark was a design asset that
+        Collins recognised and elevated — proving that heritage can be
+        a source of contemporary visual distinction.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    The custom italic typeface (30-degree angle). The eight-tone
+    chromatic palette. The 'Sound is Power' positioning. The absence of
+    literal sound-wave motifs. The Bose wordmark.
+  what_bends: >-
+    Product lines (QuietComfort, SoundLink, Professional) each adopt
+    the visual system with product-appropriate emphasis — headphones
+    emphasise lifestyle and fit, speakers emphasise room context and
+    sound, Professional emphasises installation and specification.
+    Cultural partnerships (Donald Glover, Jamie XX) introduce artist-
+    specific visual treatments within the brand framework. Seasonal and
+    campaign variations use the chromatic palette's flexibility.
+  notable_examples: >-
+    Bose x Collins (October 2024 rebrand): Brian Collins and team
+    created the most significant visual transformation in Bose's history
+    — repositioning from engineering brand to cultural brand through the
+    'Sound is Power' positioning, the heritage-derived italic typeface,
+    and the musical chromatic palette. Bose x Tekio/Jan Estrada-Osmycki
+    (custom typeface): the type designer translated Bose's 1960s hand-
+    drawn wordmark into a contemporary typeface system — preserving the
+    30-degree angle while creating a full-weight family. Bose x cultural
+    partners (Donald Glover, Jamie XX, PinkPantheress, Joe Burrow): these
+    partnerships extend the visual language into music and sports culture
+    — each partner brings their own visual world into the Bose framework,
+    demonstrating the brand system's ability to accommodate diverse
+    cultural contexts.

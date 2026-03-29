@@ -1,0 +1,36 @@
+chunk_id: "adidas-voice"
+brand: adidas
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "adidas-soul"
+token_count: 40
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for adidas. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  adidas is a global sports brand that designs, manufactures, and markets athletic footwear, apparel, and accessories. The company focuses on creating innovative products for athletes and sports enthusi
+tone_traits:
+  - "confident"
+  - "athletic"
+  - "inclusive"
+  - "direct"
+  - "street-smart"
+anti_traits:
+  - corporate
+  - stiff
+  - pretentious
+  - passive
+  - cautious
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a coach who believes impossible is nothing"

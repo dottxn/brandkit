@@ -1,0 +1,67 @@
+chunk_id: "jaguar-anti-patterns"
+brand: jaguar
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "jaguar-soul"
+  - "jaguar-visual-dna"
+token_count: 416
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Jaguar. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Primary painter's palette colors"
+    reasoning: >-
+      belief that electric luxury can be vibrant and expressive, not black/gray/white minimalism favored by Tesla/Lucid
+  - pattern: "JaGUar mixed-case wordmark"
+    reasoning: "asymmetry as artistic expression, not design error; geometric custom form over safe sans-serif"
+  - pattern: Strikethrough pattern system
+    reasoning: "graphic language signifying deletion and forward momentum, appearing across all brand expressions"
+  - pattern: Editorial fashion photography over automotive
+    reasoning: "showing diverse people in high-fashion settings, not product photography showing vehicles"
+  - pattern: Abstract visual treatments and gradient textures
+    reasoning: "movement and artistic expression over clean, geometric restraint"
+  - pattern: Floating compositions with generous whitespace
+    reasoning: editorial magazine layout philosophy applied to automotive branding
+strategic:
+  - pattern: Complete audience reset
+    reasoning: "abandoning century-old core customer for younger, design-conscious ultra-luxury segment"
+  - pattern: Artistic vision as the product
+    reasoning: design philosophy IS the luxury positioning; the car is secondary to the creative statement
+  - pattern: Deliberate controversy
+    reasoning: "creating noise and conversation through boldness and rule-breaking; expecting media backlash"
+  - pattern: "Two-year visual runway"
+    reasoning: building new identity before 2026 EV launch; allowing time for new visual code to become normalized
+  - pattern: Gender diversity as explicit strategy
+    reasoning: "targeting design-conscious women in traditionally male-dominated luxury automotive"
+tonal:
+  - pattern: Fearlessly creative
+    reasoning: refusal to play it safe; artistic confidence without apology or hedging
+  - pattern: Exuberantly original
+    reasoning: celebrating uniqueness as core value; positioning singularity as luxury marker
+  - pattern: Provocatively smart
+    reasoning: challenging industry conventions while building entirely new luxury codes
+  - pattern: Artistic expression
+    reasoning: "tone of contemporary artist, not automotive engineer or luxury heritage brand"
+  - pattern: Unconventionally confident
+    reasoning: "owning the rebrand's boldness without defensive explanation"
+cultural:
+  - pattern: Luxury redefinition
+    reasoning: >-
+      Jaguar repositioning luxury from heritage accumulation to creative expression and emotional intensity
+  - pattern: Design as disruption
+    reasoning: challenging what luxury cars should look like and who buys them
+  - pattern: Gender diversity in heritage brands
+    reasoning: "proving that 100-year-old automotive institution can pivot toward women buyers"
+  - pattern: Youth culture in heritage brands
+    reasoning: demonstrating that 100 years of history can be consciously destroyed and rebuilt
+  - pattern: "Post-authenticity luxury"
+    reasoning: positioning artificial boldness as more authentic than false heritage nostalgia

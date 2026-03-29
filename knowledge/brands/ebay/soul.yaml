@@ -1,0 +1,31 @@
+chunk_id: "ebay-soul"
+brand: ebay
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "ebay-positioning"
+token_count: 144
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of eBay. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  The thrill of discovery when you find exactly what you didn't know existed, the feeling of winning something rare
+core_belief: Markets work best when everyone has equal access to the same opportunities
+creative_tension:
+  - >-
+    Massive, chaotic inventory (everything is possible) vs. simple, organized navigation (nothing is overwhelming)
+  - "Authentic, sometimes imperfect merchandise vs. curated, premium positioning"
+decision_filter: >-
+  Does this celebrate authentic human commerce and opportunity, or does this create artificial scarcity and exclusivity?
+signature_move: >-
+  The four-color wordmark (red, blue, yellow, green)—each color distinct and equally prominent, suggesting diversity without hierarchy
+what_would_break_it: >-
+  Redesigning the logo to use a single color, adopting luxury aesthetics, emphasizing rare collectibles over volume diversity, or creating visual systems that privilege some categories over others

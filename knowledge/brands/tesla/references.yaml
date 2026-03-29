@@ -1,0 +1,48 @@
+# ──────────────────────────────────────────────
+# Tesla — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "RO Studio"
+    type: branding
+    url: "https://www.rostudio.com/"
+    project_url: "https://www.ro-studio.com/tesla"
+    relationship: "Designed Tesla 'T' logo (2003) — geometric mark referencing electric motor cross-section"
+
+  - name: "Letters from Sweden"
+    type: type-foundry
+    url: "https://www.lettersfromsweden.se/"
+    relationship: "Designed Tesla sans-serif typeface (2014) — minimal, tech-forward geometric font used across all touchpoints"
+
+people:
+  - name: "Göran Söderström"
+    role: "Typeface Designer, Letters from Sweden"
+    url: "https://www.lettersfromsweden.se/"
+    context: "Designed Tesla custom sans-serif (2014) — clean, geometric, tech-modern typeface for vehicle UI and marketing"
+
+  - name: "Franz von Holzhausen"
+    role: "Chief Designer"
+    url: "https://www.linkedin.com/in/franzxyz/"
+    context: "Chief Designer since 2008 — defines vehicle design language that marketing visual language serves"
+
+publications:
+  - title: "A Rare Interview with Tesla's Chief Designer"
+    author: "CNBC"
+    relevance: "Deep dive into Franz von Holzhausen's design philosophy and vehicle design leadership"
+
+  - title: "Tesla Design Philosophy"
+    author: "Medium / Andrew Kuprionis"
+    relevance: "Analysis of Tesla's minimalist design approach and Chief Designer's influence"
+
+visuals:
+  - url: "https://tesla.com"
+    label: "Tesla website — vehicle configurator, 3D renders, minimal layouts, product-dominant composition"
+    section: visual-language
+
+  - url: "https://tesla.com/model3"
+    label: "Model 3 product page — scroll-triggered reveals, centered vehicle, Apple-influenced layout"
+    section: visual-language
+
+  - url: "https://www.artcenter.edu/about/get-to-know-artcenter/people/franz-von-holzhausen.html"
+    label: "Franz von Holzhausen — ArtCenter faculty profile"
+    section: visual-world

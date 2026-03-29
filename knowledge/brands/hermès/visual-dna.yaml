@@ -1,0 +1,58 @@
+chunk_id: "hermès-visual-dna"
+brand: hermès
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "hermès-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Hermès. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#F37022"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Memphis Bold
+    role: ""
+    style: ""
+  - name: Hermès Serif
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: serif
+  type_character: editorial
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: editorial
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: heritage
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: medium
+  identity_system: fixed
+  signature_device: "logo-centric"
+composition_logic: >-
+  Generous whitespace, careful product placement, and restrained typography create breathing room that emphasizes quality over quantity

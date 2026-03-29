@@ -1,0 +1,42 @@
+# Chunk Template: positioning.yaml
+# Domain: positioning
+# Target: ~400 tokens
+# Present for: all brands (baseline + enriched)
+
+chunk_id: "{brand}-positioning"
+brand: "{brand}"
+domain: "positioning"
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - "archetypes"
+depends_on: []
+token_count: 0          # auto-calculated
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-20"
+status: "active"
+enrichment_level: "baseline"
+summary: >-
+  Core positioning for {brand_display}. Category, archetypes,
+  price tier, and positioning scales.
+
+# ── Data ─────────────────────────────────────────
+
+name: ""
+website: ""
+founded: ""
+category: ""
+sub_category: ""
+price_tier: ""            # budget | value | mid-range | premium | luxury | ultra-luxury
+
+primary_archetype: ""
+secondary_archetype: ""
+
+positioning_scales:
+  utility_theater: 0       # 1 (pure utility) → 10 (pure theater)
+  access_exclusivity: 0    # 1 (mass access) → 10 (ultra exclusive)
+  heritage_innovation: 0   # 1 (heritage-driven) → 10 (innovation-driven)
+
+key_differentiators: []

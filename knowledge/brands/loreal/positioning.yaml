@@ -1,0 +1,31 @@
+chunk_id: "loreal-positioning"
+brand: loreal
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for L'Oréal. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: "L'Oréal"
+website: "https://www.loreal.com"
+founded: 1909
+category: beauty
+sub_category: "beauty-tech-global"
+price_tier: "mid-range"
+primary_archetype: The Magician
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 0
+  access_exclusivity: 0
+  heritage_innovation: 0
+key_differentiators: []

@@ -1,0 +1,31 @@
+chunk_id: "wise-positioning"
+brand: wise
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Wise. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Wise
+website: "https://wise.com"
+founded: 2011
+category: fintech
+sub_category: International Money Transfer
+price_tier: budget
+primary_archetype: The Outlaw
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 2
+  heritage_innovation: 8
+key_differentiators: []

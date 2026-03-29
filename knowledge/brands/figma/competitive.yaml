@@ -1,0 +1,37 @@
+chunk_id: "figma-competitive"
+brand: figma
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "figma-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Figma. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - notion
+  - vercel
+  - arc
+  - microsoft
+industry_norms_it_breaks: "Jumbo nodes—oversized corner handles on every element that visualize selection and create a shared visual language of intention across the canvas | The refusal to create a \"professional\" design tool aesthetic in the traditional sense. By treating the interface itself as an artifact worth designing beautifully, Figma created permission for teams t | Does this expand the creative possibility space while maintaining shared clarity? Does it honor both the individual maker and the collaborative moment?"
+visual_cluster: "expressive-maximalist"
+visual_fingerprint:
+  - cluster: "expressive-maximalist"
+    role: "dominant"
+    where: "Brand identity, dense, colourful, experimental"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Product interface, design system components"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Config conference, event energy, community"
+strategic_cluster: "creative-authority"
+category: technology

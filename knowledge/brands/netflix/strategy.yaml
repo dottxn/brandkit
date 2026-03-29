@@ -1,0 +1,35 @@
+chunk_id: "netflix-strategy"
+brand: netflix
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "netflix-positioning"
+token_count: 41
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Netflix. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in the power of stories to entertain the world and connect people across cultures and languages
+mission: To entertain the world
+vision: >-
+  Becoming the best global entertainment distribution service, seeking localized content around the world
+values:
+  - Judgment
+  - Communication
+  - Curiosity
+  - Courage
+  - Passion
+  - Selflessness
+  - Innovation
+  - Integrity
+  - Inclusion
+  - Impact

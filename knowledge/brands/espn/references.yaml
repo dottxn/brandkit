@@ -1,0 +1,42 @@
+studios:
+- name: Trollbäck+Company
+  type: branding
+  url: https://www.trollback.com/
+  relationship: Visual identity and brand system design for ESPN+ streaming platform
+    (2021)
+  project_url: https://www.trollback.com/projects/espn
+people:
+- name: Chin Wang
+  role: Vice President of Design, Creative Systems & Strategy
+  url: https://espnpressroom.com/us/bios/chin-wang/
+  context: Oversees ESPN visual system with team of 50+ designers, animators, and
+    artists; Emmy-winning broadcast graphics
+- name: Tim O'Shaughnessy
+  role: Creative Director, College Sports
+  url: https://espn.com/
+  context: Develops sport-specific visual packages including 2025 College Football
+    rebrand
+- name: Aldo Novarese
+  role: Type Designer (historical)
+  url: https://en.wikipedia.org/wiki/Aldo_Novarese
+  context: Designer of 'Stop' typeface (1971), which influenced ESPN's custom wordmark
+publications:
+- title: ESPN The Magazine Archive
+  author: ESPN
+  relevance: Iconic sports media publication (2009-2019) setting standards for athlete
+    portraiture and editorial photography (ESPN Body Issue)
+visuals:
+- url: https://www.espn.com/
+  label: ESPN.com homepage and editorial — Digital broadcast graphics and editorial
+    design
+  section: visual-language
+- url: https://www.espnplus.com/
+  label: ESPN+ streaming platform — Visual identity and motion graphics system
+  section: visual-world
+- url: https://www.nba.com/
+  label: ESPN NBA broadcasts — Sport-specific graphics package (iridescent chrome
+    aesthetic, October 2022)
+  section: visual-language
+- url: https://www.espn.com/college-football/
+  label: ESPN College Football rebrand (2025) — Shield logo and updated graphics system
+  section: visual-language

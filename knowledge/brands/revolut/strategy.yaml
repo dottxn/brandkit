@@ -1,0 +1,31 @@
+chunk_id: "revolut-strategy"
+brand: revolut
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "revolut-positioning"
+token_count: 71
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Revolut. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe people and businesses deserve more from their money - more visibility, more control, more freedom
+mission: >-
+  To enable every person and business to do all things money — spending, saving, investing, borrowing, managing, and more — in just a few taps
+vision: >-
+  To build the world's first financial super app and remove the friction that stands in the way of your money goals becoming your new reality
+values:
+  - Never Settle
+  - Get It Done
+  - Think Deeper
+  - Put Customers First
+  - Keep It Simple

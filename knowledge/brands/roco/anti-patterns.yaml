@@ -1,0 +1,55 @@
+chunk_id: "roco-anti-patterns"
+brand: roco
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "roco-soul"
+  - "roco-visual-dna"
+token_count: 237
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Ro. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Clinical healthcare beige-and-navy palette"
+    reasoning: "Cool, minimal modern palette with specific color coding per condition"
+  - pattern: Aspirational lifestyle imagery
+    reasoning: Documentary photography showing actual people in actual contexts
+  - pattern: Medical photography suggesting clinical settings
+    reasoning: Home imagery suggesting comfort and privacy
+  - pattern: Vague abstract health concepts
+    reasoning: "Specific, direct condition naming and treatment documentation"
+strategic:
+  - pattern: Separating different conditions into different brands
+    reasoning: Unified Ro platform treating all conditions equally
+  - pattern: "Positioning as \"telemedicine convenience\""
+    reasoning: "Positioning as \"healthcare dignity and access\""
+  - pattern: Marketing to existing healthcare consumers
+    reasoning: Marketing to people avoiding traditional healthcare due to shame/judgment
+  - pattern: Hiding treatment options through complex interface
+    reasoning: "Transparent, straightforward treatment access"
+tonal:
+  - pattern: Clinical medical language
+    reasoning: "Conversational, non-judgmental patient language"
+  - pattern: Physician authority as primary trust marker
+    reasoning: Patient autonomy as primary trust marker
+  - pattern: Healthcare as service received
+    reasoning: Healthcare as partnership between patient and provider
+  - pattern: Condition treatment as isolated transaction
+    reasoning: Condition treatment as part of ongoing wellness relationship
+cultural:
+  - pattern: Healthcare stigma
+    reasoning: Healthcare normalization
+  - pattern: "Some conditions are \"acceptable\" to discuss"
+    reasoning: All health conditions deserve equal access and dignity
+  - pattern: Patients as passive recipients
+    reasoning: Patients as informed partners
+  - pattern: Healthcare gatekeeping
+    reasoning: Healthcare democratization

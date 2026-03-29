@@ -1,0 +1,58 @@
+chunk_id: "reddit-visual-dna"
+brand: reddit
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "reddit-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Reddit. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FF4500"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Reddit Sans
+    role: ""
+    style: ""
+  - name: Reddit Display
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: custom
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: "3d-render"
+  imagery_subject: people
+  imagery_treatment: documentary
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: housing
+  symbolic_type: mascot
+  texture_feel: dimensional
+  shape_language: rounded
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="11-21,24-14,24-17,24-18">Conversation bubbles serve as the cornerstone of visual identity, adapting and shape-shifting to frame text and images while celebrating Reddit's community essence</cite>

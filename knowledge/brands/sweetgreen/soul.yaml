@@ -1,0 +1,32 @@
+chunk_id: "sweetgreen-soul"
+brand: sweetgreen
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "sweetgreen-positioning"
+token_count: 182
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of sweetgreen. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A farmers market that follows you to work—abundance captured in a bowl, seasonality honored within urban convenience, real ingredients that taste like where they're from.
+core_belief: "Food is a relationship, not a transaction; when you know your farmer, you eat differently."
+creative_tension:
+  - >-
+    Building a scaled enterprise business while maintaining the integrity of direct farmer relationships that don't scale linearly.
+  - >-
+    Creating aspirational wellness imagery while remaining authentically connected to real people and actual food production.
+decision_filter: >-
+  Can we trace every ingredient to a name and a farm? If no, it doesn't go in a bowl. This discipline shows in every design choice.
+signature_move: >-
+  The bright green (#4CAF50) used as the visual representation of growing things—not tech green, but the actual color of living plants and fresh leaves.
+what_would_break_it: >-
+  Compromising ingredient sourcing for margin expansion and letting the visual system become just another trendy wellness brand aesthetic.

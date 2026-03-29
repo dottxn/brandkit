@@ -1,0 +1,58 @@
+chunk_id: "seed-health-visual-dna"
+brand: "seed-health"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "seed-health-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Seed Health. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#1B4A3C"
+    name: ""
+    role: ""
+  - hex: "#6BA582"
+    name: ""
+    role: ""
+  - hex: "#E8F4F0"
+    name: ""
+    role: ""
+typography:
+  - name: Seed Sans Variable
+    role: ""
+    style: ""
+  - name: Seed Sans
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: focused
+  type_class: custom
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: medium
+  identity_system: modular
+  signature_device: "typography-led"
+composition_logic: >-
+  Modular system allowing flexible adaptation across touchpoints while maintaining coherent brand expression through consistent typographic and color systems.

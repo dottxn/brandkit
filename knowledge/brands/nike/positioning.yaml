@@ -1,0 +1,31 @@
+chunk_id: "nike-positioning"
+brand: nike
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Nike. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Nike
+website: "https://www.nike.com"
+founded: 1964
+category: "sport-outdoor"
+sub_category: performance sportswear
+price_tier: premium
+primary_archetype: The Hero
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 5
+  heritage_innovation: 7
+key_differentiators: []

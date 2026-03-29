@@ -1,0 +1,285 @@
+chunk_id: "roco-visual-language"
+brand: "roco"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "roco-visual-dna"
+  - "roco-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-27"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Ro (ro.co). How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+visual_modes:
+  modes:
+    - name: "brand-ro"
+      touchpoints:
+        - "ro.co homepage and marketing pages"
+        - "Ro brand campaigns"
+        - "Ro social media channels"
+        - "Ro corporate communications"
+      description: >-
+        Deep blue (#003366) dominant with mid-blue (#0066CC) as supporting
+        accent on white backgrounds. Ro Sans (custom) serves as the primary
+        typeface. MetaLab (design agency) partnered with Ro on product
+        design, engineering, website, and brand — establishing a patient-
+        centric visual approach. The visual language is warm, direct, and
+        destigmatising — designed to make sensitive health topics (weight
+        loss, sexual health, hair loss, fertility) feel accessible and
+        dignified rather than clinical or embarrassing. The ro.OS
+        operating system (launched May 2024) vertically integrates
+        telehealth, lab, and pharmacy services under a cohesive visual
+        system. Colour-coded textual tags function as both visual
+        organisation and treatment categorisation. Compared to Hims &
+        Hers (more lifestyle-wellness-coded, more pastel, more consumer-
+        brand-forward) or GoodRx (more coupon-and-price-coded), Ro's
+        visual language is the most medically credible and the most
+        patient-dignity-focused.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this deep blue,
+        Ro Sans-set, patient-dignity-coded register.
+
+    - name: "ro-treatment-verticals"
+      touchpoints:
+        - "Ro Weight Loss (GLP-1 programmes)"
+        - "Ro Sexual Health (Roman heritage brand)"
+        - "Ro Hair Loss"
+        - "Ro Fertility (Dadi sperm storage)"
+      description: >-
+        Category-coded within unified system. Each treatment vertical
+        uses the same blue palette and Ro Sans typography but with colour-
+        coded tags and category-specific photography that differentiates
+        health contexts. Weight loss, sexual health, hair loss, and
+        fertility each address different patient concerns and sensitivities.
+        The visual language must destigmatise each condition while
+        maintaining medical credibility. The colour-tag system provides
+        visual navigation across treatment categories.
+      differs_from_default_by: >-
+        Colour-coded category tags differentiate treatment verticals.
+        Photography shifts to category-specific patient contexts.
+        The visual register serves treatment-specific communication
+        while maintaining the unified Ro identity.
+
+    - name: "ro-os-platform"
+      touchpoints:
+        - "ro.OS platform interface"
+        - "Clinician-facing tools"
+        - "Pharmacy fulfilment system"
+        - "Lab integration interface"
+      description: >-
+        More functional, more systems-coded. The ro.OS platform mode
+        serves healthcare professionals and operational teams — the visual
+        language shifts from patient-facing warmth to clinical-operational
+        efficiency. Dashboard interfaces, patient records, prescription
+        management, and lab results use clean, information-dense layouts
+        with the blue palette.
+      differs_from_default_by: >-
+        Operational-system interfaces replace patient-facing content.
+        Information density increases. The visual register serves
+        healthcare professionals and operational efficiency.
+
+  notes: >-
+    Ro's design team grew from a small founding group to a comprehensive
+    product and brand design function. The internal design system ensures
+    consistency across web, mobile, and platform interfaces. The company
+    maintains its own design system reflecting human-centred design
+    principles and UX best practices.
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "ro.co (observed February 2026)"
+    - "Ro treatment category pages"
+  subject_and_framing: >-
+    Patient-centred, warm, destigmatising. Ro's photography shows real
+    people in healthcare and everyday contexts — not clinical settings
+    but homes, outdoor environments, and personal spaces. The photography
+    addresses sensitive health topics (weight loss, sexual health, hair
+    loss) with dignity and warmth rather than clinical detachment or
+    lifestyle aspiration. Product photography shows Ro's medication
+    packaging and delivery — the home-delivery experience is a core
+    visual element. Compared to Hims & Hers (more lifestyle-product-
+    coded, more Instagram-aesthetic) or traditional telehealth (more
+    clinical-screen-coded), Ro's photography is the most patient-
+    dignity-focused.
+  casting_observed: >-
+    Diverse, relatable, dignity-coded. Patients across age groups,
+    body types, and demographics — reflecting the conditions Ro treats.
+    Healthcare professionals appear as accessible partners. The casting
+    avoids idealised body imagery — particularly important for weight
+    loss and sexual health contexts.
+  lighting_and_colour: >-
+    Warm, natural, home-environment-coded. Photography uses natural
+    lighting in personal spaces. The deep blue palette influences graphic
+    elements rather than photographic colour grade. The overall colour
+    temperature is warm and approachable.
+  post_production: >-
+    Clean, natural, authenticity-preserving. Photography maintains
+    natural quality — no heavy retouching or aspirational styling that
+    would contradict the patient-dignity positioning.
+  visual_boundaries:
+    stated_exclusions: >-
+      Ro avoids clinical, sterile healthcare imagery (beige, minimal,
+      hospital-coded). Avoids wellness-industry aspirational lifestyle
+      imagery. Avoids imagery that would create shame around health
+      conditions.
+    observed_exceptions: >-
+      Some medical-information content uses more clinical visual
+      conventions as required.
+    genuine_absence: >-
+      Based on ro.co review: no celebrity-endorsement imagery, no
+      aspirational-body photography, no traditional-pharmacy or
+      hospital imagery.
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "ro.co (observed February 2026)"
+    - "MetaLab (brand and product design)"
+    - "Colour-coded tag system"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    Clean, healthcare-functional. Treatment-category icons, health-
+    condition icons, and navigation icons follow a clean, modern
+    style consistent with Ro Sans. The icon system must communicate
+    sensitive health topics clearly without stigmatisation.
+  graphic_devices: >-
+    Colour-coded textual tags — the most distinctive graphic device,
+    functioning as both visual organisation and treatment categorisation.
+    Tags differentiate weight loss, sexual health, hair loss, and
+    fertility at a glance. Deep blue (#003366) — the primary chromatic
+    device, communicating medical credibility and trustworthiness. The
+    Ro wordmark — two clean letters that are maximally simple and
+    direct, reflecting the brand's 'remove friction' philosophy.
+    Medication packaging design — clean, modern pharmaceutical packaging
+    that arrives at patients' homes.
+  motion_language: >-
+    Functional, patient-journey-coded. Health assessment flows, treatment
+    selection, and consultation booking use smooth, reassuring animations.
+    No distinctive branded motion language — the motion serves the
+    patient experience.
+
+type_treatment:
+  confidence: "medium"
+  primary_sources:
+    - "Ro Sans (custom typeface)"
+    - "ro.co (observed February 2026)"
+  signature_move: >-
+    Ro Sans — a custom clean modern sans-serif that provides the brand's
+    typographic foundation. The typeface is functional, warm, and
+    medically credible — communicating professionalism without clinical
+    coldness. The two-letter brand name 'Ro' makes the wordmark one of
+    the most minimal in healthcare — the typography must carry the entire
+    brand identity in just two characters. The simplicity is strategic:
+    Ro removes friction from healthcare, and the minimal name and
+    typography reflect this friction-removal philosophy. Compared to
+    Hims (custom type, more consumer-brand-coded) or Nurx (no distinctive
+    type), Ro's typography is the most medically professional among
+    direct-to-patient telehealth platforms.
+  what_would_look_wrong: >-
+    A serif typeface (contradicts the modern, digital-first register).
+    A decorative or playful typeface (contradicts the medical credibility).
+    A cold, clinical typeface (Ro must feel warm and accessible). Any
+    typeface that reads as either traditional healthcare or consumer
+    lifestyle brand.
+  case_convention: >-
+    'Ro' uses title case. Treatment names use title case. Body text
+    uses sentence case. Marketing headlines use sentence case. The
+    brand avoids ALL CAPS.
+  display_vs_body: >-
+    Display: Ro Sans at bold weights for headlines. Body: Ro Sans at
+    regular weight for all website, app, and product text. The single-
+    typeface system provides consistency across all health-topic
+    contexts — important when communicating sensitive information.
+  type_and_image: >-
+    Typography provides critical health information — treatment details,
+    medication information, dosage instructions, consultation prompts.
+    In healthcare contexts, typographic clarity is both a design choice
+    and a safety requirement. The colour-coded tag system combines type
+    and colour for treatment-category identification.
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "ro.co (observed February 2026)"
+    - "Ro treatment selection flow"
+  signature_composition: >-
+    Assessment-flow-centred, step-by-step. ro.co leads with treatment
+    categories and health-assessment flows — the primary composition
+    guides patients from symptom identification to treatment access.
+    The step-by-step flow design reduces complexity in sensitive health
+    decisions. Clean card-based layouts present treatment options.
+    Compared to Hims & Hers (more product-catalogue-coded) or traditional
+    telehealth (more video-consultation-centred), Ro's layout is the
+    most assessment-flow-optimised.
+  density_and_whitespace: >-
+    Low-to-moderate density. Health information is presented with generous
+    spacing — reducing anxiety for patients navigating sensitive topics.
+    Clean, focused compositions guide attention through the assessment
+    flow.
+  format_preferences: >-
+    Mobile-first for health assessments and consultations. Responsive for
+    web. Medication packaging follows pharmaceutical format standards.
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Ro's visual evolution is driven by patient experience optimisation
+    and healthcare-access mission rather than design trends.
+  examples:
+    - trend: "Destigmatising visual language in telehealth"
+      stance: "leader"
+      evidence: >-
+        Ro's visual approach to sensitive health topics (sexual health,
+        weight loss, hair loss) — warm photography, clean typography,
+        colour-coded categories — established a visual standard for
+        treating these conditions with dignity in direct-to-patient
+        healthcare.
+      reasoning: >-
+        Traditional healthcare imagery either clinicalises or avoids
+        sensitive conditions. Ro's visual language addresses them
+        directly with warmth — making patients feel empowered rather
+        than ashamed.
+    - trend: "Vertical integration visual systems in healthcare"
+      stance: "early-adopter"
+      evidence: >-
+        ro.OS (May 2024) — a vertically integrated platform encompassing
+        telehealth, lab, and pharmacy services — required a visual
+        system that maintains patient-facing warmth while supporting
+        operational complexity across multiple healthcare touchpoints.
+      reasoning: >-
+        Most telehealth brands focus on the patient-facing interface.
+        Ro's ro.OS extends the visual system into operational-platform
+        design — a more comprehensive visual challenge.
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    Deep blue (#003366). Ro Sans typeface. The Ro wordmark. Colour-
+    coded treatment-category tags. The patient-dignity-focused register.
+  what_bends: >-
+    Treatment verticals introduce category-specific photography and
+    colour-coded tags. ro.OS introduces operational-platform visual
+    context. Marketing campaigns for specific treatments receive
+    dedicated visual treatments. Medication packaging adapts for
+    different treatment categories.
+  notable_examples: >-
+    Ro x MetaLab (product design and brand): the design agency partnered
+    with Ro on comprehensive product design, engineering, website, and
+    brand — establishing the patient-centric visual approach. Ro x ro.OS
+    (May 2024): the launch of the integrated operating system required
+    extending the visual identity across telehealth, lab, and pharmacy
+    services — the most comprehensive visual-system challenge in direct-
+    to-patient healthcare.

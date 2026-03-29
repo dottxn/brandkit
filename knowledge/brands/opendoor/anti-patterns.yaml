@@ -1,0 +1,55 @@
+chunk_id: "opendoor-anti-patterns"
+brand: opendoor
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "opendoor-soul"
+  - "opendoor-visual-dna"
+token_count: 252
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Opendoor. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Luxury real estate imagery and aspirational photography
+    reasoning: Clean interface design showing actual homes and actual data
+  - pattern: Cold fintech minimalism without personality
+    reasoning: Approachable blue with warmth accents
+  - pattern: Abstract geometric patterns as decoration
+    reasoning: Actual home illustrations that suggest real properties
+  - pattern: Dark mode as default aesthetic
+    reasoning: "Light, readable interfaces that prioritize clarity"
+strategic:
+  - pattern: Listing inventory like traditional brokers
+    reasoning: Buying properties directly to offer instant certainty
+  - pattern: Competing on features
+    reasoning: Competing on fundamental timeline transformation
+  - pattern: "Charging percentage-based commissions like traditional agents"
+    reasoning: Charging predictable flat rates
+  - pattern: "Positioning as \"tech for real estate\""
+    reasoning: "Positioning as \"real estate redesigned\""
+tonal:
+  - pattern: Financial services formality
+    reasoning: Neighborly confidence paired with transparency
+  - pattern: Complexity hidden in polished interfaces
+    reasoning: "Complexity reduced, then honestly explained"
+  - pattern: Hard sell and persuasion tactics
+    reasoning: Straightforward information and clear choice
+  - pattern: Aspirational lifestyle messaging
+    reasoning: "Functional clarity about what's actually happening"
+cultural:
+  - pattern: Real estate as status symbol
+    reasoning: Real estate as life transition enabler
+  - pattern: Keeping transaction complexity hidden from consumers
+    reasoning: Radical transparency about process and pricing
+  - pattern: Agent gatekeeping of market information
+    reasoning: Consumer access to same data professionals use
+  - pattern: Real estate as something you do with experts
+    reasoning: Real estate as something you do with technology

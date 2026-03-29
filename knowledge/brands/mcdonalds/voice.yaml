@@ -1,0 +1,51 @@
+chunk_id: "mcdonalds-voice"
+brand: mcdonalds
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "mcdonalds-soul"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Voice and tone for McDonald's. How the brand sounds and what it avoids."
+
+# ── Data
+personality: >-
+  McDonald's Corporation is the world's largest chain of hamburger fast food restaurants, serving around 68 million customers daily in 119+ countries. Founded in 1940, it has become a global icon known 
+tone_traits:
+  - warm
+  - welcoming
+  - approachable
+  - conversational
+  - upbeat
+  - positive
+  - "joy-focused"
+  - celebratory
+  - genuine
+  - relatable
+  - honest
+  - "'flawesome'"
+anti_traits:
+  - corporate
+  - cold
+  - intimidating
+  - cynical
+  - negative
+  - pessimistic
+  - fake
+  - pretentious
+  - overly polished
+example_phrases:
+  - "I'm Lovin' It"
+  - "ba-da-ba-BA-BAAA"
+  - We get better together
+  - "Making delicious feel-good moments easy for everyone"
+guardrails:
+  never_say: []
+  always_sound: "warm, welcoming, approachable, conversational, upbeat"

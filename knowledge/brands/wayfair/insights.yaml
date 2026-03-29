@@ -1,0 +1,32 @@
+chunk_id: "wayfair-insights"
+brand: wayfair
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "wayfair-soul"
+  - "wayfair-positioning"
+token_count: 206
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Wayfair. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Wayfair's competitive advantage is scale at margins that traditional retail can't match. The visual system must communicate abundance without appearing chaotic.
+  - >-
+    The purple (#7B189F) works because it's neither masculine (blue) nor feminine (pink), allowing the platform to serve all gender expressions in home design without excluding anyone.
+  - >-
+    Product photography standards are critical—every supplier's image must feel equivalent in quality and lighting, creating a unified visual experience across millions of listings.
+  - >-
+    The brand's strength comes from transparent pricing and consistent experience. Supplier variance that was invisible in physical retail must be managed in the visual system.
+  - >-
+    The brand serves first-time home buyers (anxious, uncertain) equally with design professionals (confident, specific). The visual system treats all browsers with the same approachable clarity.
+what_nobody_copies: >-
+  The capability to present 18+ million products as exploration rather than chaos. Most e-commerce brands hide product count; Wayfair celebrates it as customer advantage.

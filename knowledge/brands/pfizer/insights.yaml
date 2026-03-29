@@ -1,0 +1,32 @@
+chunk_id: "pfizer-insights"
+brand: pfizer
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "pfizer-soul"
+  - "pfizer-positioning"
+token_count: 192
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Pfizer. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Pharmaceutical brands built on fear (disease messaging) perform worse than brands built on hope (breakthrough messaging), yet emotional messaging alone fails without evidence
+  - >-
+    The ribbon helix works because it's simultaneously scientific (references DNA) and humanistic (suggests movement and life), not just decorative
+  - >-
+    Pfizer's competitive edge (11.4 billion R&D investment, 115 programs in development) only resonates when communicated as "we're serious about changing lives" not "we have the biggest budget"
+  - >-
+    Two-tone blue palette works in pharmaceutical context because it shows evolution and layers, preventing the one-dimensional coldness of single corporate blue
+  - >-
+    Pfizer's rebranding shows that 175-year institutions can evolve without erasure—the logo evolution shows maturity, not abandonment
+what_nobody_copies: >-
+  The architectural decision to make the breakthrough narrative primary rather than the risk-mitigation narrative—pharmaceutical communication usually defaults to risk and safety, but Pfizer's voice centers on transformation

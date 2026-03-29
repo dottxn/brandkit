@@ -1,0 +1,37 @@
+chunk_id: "decathlon-competitive"
+brand: decathlon
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "decathlon-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Decathlon. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - nike
+  - adidas
+  - patagonia
+  - uniqlo
+industry_norms_it_breaks: "L'Orbit—a tilted circular icon representing the brand's North Star and the earth's axial tilt, appearing as structural element across all compositions | The comprehensive brand system redesign (L'Orbit logo, Decathlon Sans typeface, composition logic) executed cohesively to reposition the brand toward younger, more diverse audiences | Does this celebrate the diversity of how humans experience sport, or does this center athletic achievement as the primary narrative?"
+visual_cluster: "bold-challenger"
+visual_fingerprint:
+  - cluster: "bold-challenger"
+    role: "dominant"
+    where: "Sport categories, energetic blue, accessible athletics"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Digital experience, e-commerce platform, global scale"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Community sport, democratic accessibility"
+strategic_cluster: "disruptive-democratizer"
+category: "sport-outdoor"

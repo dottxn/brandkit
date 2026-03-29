@@ -1,0 +1,56 @@
+chunk_id: "erdem-anti-patterns"
+brand: erdem
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "erdem-soul"
+  - "erdem-visual-dna"
+token_count: 321
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for ERDEM. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Geometric, minimal design language"
+    reasoning: "Strips away the romantic maximalism that defines ERDEM's visual identity"
+  - pattern: "Bright, high-saturation colors"
+    reasoning: "Contradicts the muted, atmospheric color palette that suggests refinement"
+  - pattern: "Straightforward, literal imagery"
+    reasoning: "Loses the poetic, painterly quality that makes ERDEM feel like wearable art"
+  - pattern: "Symmetrical, centered compositions"
+    reasoning: "Conflicts with the asymmetrical, unexpected beauty in garment silhouettes"
+strategic:
+  - pattern: Treating prints as decorative embellishment rather than as researched historical narratives
+    reasoning: "Reduces prints to surface-level ornamentation"
+  - pattern: Expanding into diffusion lines that abandon intellectual rigor
+    reasoning: Dilutes the luxury positioning and alienates core audience
+  - pattern: Marketing that emphasizes price point or exclusivity without explaining cultural significance
+    reasoning: Misses opportunity to build intellectual community
+  - pattern: Seasonal collections that chase trends instead of advancing historical dialogue
+    reasoning: Loses the timelessness positioning
+tonal:
+  - pattern: "Trendy, Instagram-speak language"
+    reasoning: "Conflicts with the erudite, scholarly voice positioning"
+  - pattern: "Sales-focused, promotional tone"
+    reasoning: "Undermines the curatorial, cultural authority positioning"
+  - pattern: Overly romantic language without intellectual grounding
+    reasoning: Becomes saccharine and diminishes the seriousness of the work
+  - pattern: Technical fashion terminology without contextual storytelling
+    reasoning: Alienates audiences outside design industry
+cultural:
+  - pattern: Research sourced exclusively from Western art history while claiming cultural appreciation
+    reasoning: Hollow positioning without genuine global inquiry
+  - pattern: Representation that centers Western beauty standards while wearing diverse cultural references
+    reasoning: Appropriation risk without careful community engagement
+  - pattern: >-
+      Ignoring that luxury fashion access is economically restricted while claiming to celebrate femininity universally
+    reasoning: Contradictory messaging
+  - pattern: Treating sustainability as afterthought rather than integrated into research and design process
+    reasoning: Misses that conscious luxury customers expect ethical practices

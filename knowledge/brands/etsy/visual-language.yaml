@@ -1,0 +1,328 @@
+chunk_id: "etsy-visual-language"
+brand: "etsy"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "etsy-visual-dna"
+  - "etsy-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Etsy. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-etsy-orange"
+      touchpoints:
+        - "etsy.com homepage and marketing pages"
+        - "Etsy brand campaigns"
+        - "Etsy social media channels"
+        - "Etsy corporate communications"
+      description: >-
+        Etsy Orange (#F56400) dominant with Mine Shaft (#222222) as the
+        primary dark. Guardian Sans and Guardian Egyptian serve as the
+        headline typefaces, with Minister EF Book for the Etsy logo.
+        Rupa Shankar (Head of Design, ex-Moda Operandi/Estée Lauder/CLEAR)
+        oversees the visual system. The 'Etsicons' icon system (24px max,
+        2px grid, 7 design patterns) provides consistent visual vocabulary.
+        The 'Collage' design system (based on Atomic Design methodology)
+        manages visual consistency across the platform. No major rebrand
+        between 2020-2026 — the visual identity has been refined
+        incrementally rather than overhauled. Four imagery families
+        emphasise handmade detail, maker process, and product craft.
+        Compared to Amazon Handmade (Amazon-framework-constrained) or
+        Depop (more Gen-Z-resale-coded), Etsy's visual language is the
+        most craft-coded and the most maker-community-forward.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this orange,
+        Guardian-set, craft-coded register.
+
+    - name: "etsy-seller-tools"
+      touchpoints:
+        - "Etsy seller dashboard"
+        - "Etsy Seller app"
+        - "Seller education and marketing tools"
+        - "Etsy Ads and promotions"
+      description: >-
+        More functional, more data-driven. The seller experience uses
+        the same Etsy Orange and Guardian typography but with a more
+        operational register — sales analytics, inventory management,
+        order processing, and marketing tools. The visual language must
+        communicate both creative empowerment (for maker-entrepreneurs)
+        and business utility (for shop management). Dashboard
+        visualisations and performance metrics dominate.
+      differs_from_default_by: >-
+        Data and analytics interfaces replace curated product browsing.
+        The visual register serves shop management rather than buyer
+        discovery. More functional, less atmospheric.
+
+    - name: "etsy-gift-discovery"
+      touchpoints:
+        - "Etsy Gift Mode (launched 2024)"
+        - "Gift guides and seasonal discovery"
+        - "Made for You personalisation features"
+        - "Holiday and occasion marketing"
+      description: >-
+        More curated, more occasion-coded. Gift Mode (launched 2024) and
+        'Made for You' personalisation create a more editorially curated
+        visual experience than the standard marketplace browse. Gift
+        guides use styled product photography with seasonal colour
+        palettes. The visual language emphasises thoughtfulness and
+        personalisation — each gift suggestion feels individually
+        selected rather than algorithmically generated.
+      differs_from_default_by: >-
+        More editorially curated. Seasonal colour treatments and gift-
+        occasion framing supplement the standard orange palette. The
+        visual register shifts from marketplace browsing to curated
+        gift selection.
+
+  notes: >-
+    Etsy's visual identity must accommodate millions of seller-created
+    product images — the brand provides the frame, but seller photography
+    provides the dominant visual content. The 2024 Creativity Standards,
+    Gift Mode, and Made for You features signal increased visual curation
+    within the marketplace. Rupa Shankar's background (luxury retail at
+    Moda Operandi, beauty at Estée Lauder) suggests design ambitions
+    beyond the craft-marketplace baseline.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "etsy.com (observed February 2026)"
+    - "Four imagery families"
+    - "Etsy marketing campaigns"
+  subject_and_framing: >-
+    Handmade-detail-focused, maker-process-visible. Etsy's brand
+    photography (as distinct from seller-uploaded product images)
+    emphasises the human craft behind products — maker hands at work,
+    studio and workshop environments, detail close-ups of material
+    texture and construction quality. Four imagery families guide the
+    approach: product detail (macro shots of craft quality), maker
+    process (artisans at work), styled product (products in curated
+    lifestyle contexts), and community (buyers and sellers connecting).
+    Compared to Amazon (product-on-white, specification-coded) or Depop
+    (user-selfie-coded), Etsy's photography is the most craft-process-
+    visible.
+  casting_observed: >-
+    Makers and artisans as the primary cast. Etsy's photography shows
+    the people who create — ceramicists, jewellers, printmakers, textile
+    artists, woodworkers. The casting emphasises creative diversity:
+    varied ages, backgrounds, and craft disciplines. Buyers appear in
+    gift-giving and home contexts. The maker IS the brand ambassador.
+  lighting_and_colour: >-
+    Warm, natural, studio-and-workshop-coded. Photography uses the
+    natural lighting of maker environments — studio windows, workshop
+    lamps, outdoor markets. Product photography uses warm, slightly
+    styled lighting that enhances material texture. The Etsy Orange
+    appears in branded elements rather than influencing photographic
+    colour grade. The overall temperature is warm and handmade-feeling.
+  post_production: >-
+    Moderate, craft-respectful. Photography maintains the authentic,
+    handmade quality — no heavy manipulation or commercial styling that
+    would contradict the artisanal positioning. Colour treatment enhances
+    material warmth and texture detail.
+  visual_boundaries:
+    stated_exclusions: >-
+      Etsy avoids mass-production-coded photography (factory lines,
+      industrial manufacturing). The brand avoids luxury-fashion-coded
+      photography that would position Etsy as premium rather than
+      accessible craft.
+    observed_exceptions: >-
+      Some seasonal marketing (holiday gift guides) uses more conventional
+      retail styling.
+    genuine_absence: >-
+      Based on etsy.com review: no celebrity imagery, no factory or
+      mass-production photography, no abstract or disconnected-from-
+      craft visual content.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "'Etsicons' icon system (24px max, 2px grid, 7 design patterns)"
+    - "'Collage' design system (Atomic Design)"
+    - "etsy.com (observed February 2026)"
+  uses_illustration: true
+  illustration_style: >-
+    Crafted, slightly handmade-feeling spot illustrations and decorative
+    elements. Etsy uses illustration sparingly but with a distinctive
+    character — slightly organic, slightly imperfect, suggesting the
+    handmade quality of the marketplace. The illustration style bridges
+    the gap between digital platform and physical craft.
+  illustration_role: >-
+    Category identification, empty states, and seasonal decoration.
+    Illustrations appear in category navigation, seller-tool onboarding,
+    and seasonal marketing. The illustration system provides visual
+    warmth in contexts where product photography is absent.
+  icon_style: >-
+    'Etsicons' — a systematic icon library built on a 24px maximum size,
+    2px grid, with 7 defined design patterns. The icon system provides
+    consistent, clean iconography for marketplace navigation, category
+    identification, and product features. The constraints (24px, 2px
+    grid) ensure legibility at small sizes across the platform.
+  graphic_devices: >-
+    Etsy Orange (#F56400) — the warm orange is Etsy's most ownable
+    chromatic device, instantly recognisable in marketplace contexts.
+    The Etsy wordmark in Minister EF Book — the specific serif typeface
+    gives the wordmark a slightly vintage, craft-coded character. The
+    'Etsicons' system — 7 design patterns providing visual vocabulary
+    for marketplace actions and categories. The heart/favourite icon —
+    the save-for-later heart is the most-used interactive graphic element
+    on the platform.
+  motion_language: >-
+    Minimal, functional. Add-to-cart animations, favourite-heart
+    interactions, and search refinement transitions. No distinctive
+    branded motion language — the platform prioritises functional
+    interaction feedback. Marketing videos use product-detail and maker-
+    process compositions.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Guardian Sans / Guardian Egyptian (Commercial Type)"
+    - "Minister EF Book (logo)"
+    - "etsy.com (observed February 2026)"
+  signature_move: >-
+    Minister EF Book for the Etsy wordmark — a slightly quirky serif
+    that gives the brand name a warm, slightly vintage character. The
+    serif choice is deliberate: it signals handmade quality and historical
+    craft tradition in a category where sans-serifs dominate. Guardian
+    Sans and Guardian Egyptian (Commercial Type, based on the Guardian
+    newspaper typeface family) serve as the functional typefaces — the
+    newspaper-derived provenance gives the typography a communicative,
+    editorial quality. The serif wordmark + sans-serif/slab body system
+    creates a productive tension: the wordmark says 'craft heritage,'
+    the body says 'modern marketplace.' Compared to Amazon (corporate
+    sans-serif, scale-coded) or eBay (Market Sans, auction-coded),
+    Etsy's typography is the most craft-heritage-coded.
+  what_would_look_wrong: >-
+    A geometric, tech-coded sans-serif for the wordmark (removes the
+    craft-heritage signal). A heavy, commercial display typeface
+    (contradicts the artisanal, accessible register). ALL CAPS treatment
+    (the brand's warmth requires humanist typographic conventions).
+    Any typeface that reads as mass-market retail or corporate technology.
+  case_convention: >-
+    'Etsy' uses title case. Product feature names use title case ('Gift
+    Mode,' 'Made for You,' 'Etsy Ads'). Body text uses sentence case.
+    Marketing headlines use sentence case. The brand avoids ALL CAPS
+    in brand contexts — the tone is warm and inviting, not commercial
+    or aggressive.
+  display_vs_body: >-
+    Display: Guardian Egyptian at heavier weights for marketing headlines
+    — the slab-serif character adds warmth and craft quality at display
+    sizes. Body: Guardian Sans at regular weight for all marketplace text,
+    product descriptions, and navigation. The slab/sans variation within
+    the Guardian family provides tonal range without typographic discord.
+  type_and_image: >-
+    Typography provides marketplace information — product titles, prices,
+    seller names, shipping details, reviews. In the marketplace context,
+    type is functional and subservient to product photography. In
+    marketing, Guardian Egyptian headlines and product photography share
+    space — the slab-serif type adds editorial quality to retail content.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "etsy.com (observed February 2026)"
+    - "'Collage' design system (Atomic Design)"
+  signature_composition: >-
+    Marketplace-grid, product-image-dominant. Etsy's signature layout is
+    the product grid — search results and category pages showing product
+    thumbnails with titles, prices, and seller information. The grid
+    accommodates the visual diversity of millions of seller-uploaded
+    images — no two thumbnails look the same, creating a visually rich
+    browsing experience that communicates marketplace variety. The
+    'Collage' design system (Atomic Design methodology: atoms, molecules,
+    organisms, templates) structures the component library. Compared to
+    Amazon (information-dense, specification-coded) or Pinterest (visual-
+    discovery-coded, no pricing), Etsy's layout is the most marketplace-
+    craft-coded.
+  density_and_whitespace: >-
+    Moderate density. Product grids show enough items for browsing
+    efficiency while maintaining visual breathing room. Product detail
+    pages use more generous spacing with large product photography and
+    seller information. Marketing and gift-guide sections use editorial-
+    level whitespace.
+  format_preferences: >-
+    Square product thumbnails for grid consistency. Various aspect ratios
+    for product detail photography. Mobile-adaptive for app browsing.
+    The product grid adapts column count for screen width.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Etsy's visual evolution is driven by marketplace needs and maker-
+    community values rather than design trends. The brand adopts visual
+    conventions that serve craft discovery and seller empowerment.
+  examples:
+    - trend: "AI-powered visual discovery in e-commerce"
+      stance: "selective-adopter"
+      evidence: >-
+        Gift Mode (2024) and Made for You personalisation introduce AI-
+        curated visual discovery — algorithmically selected products
+        presented in editorially-styled formats. The 2024 Creativity
+        Standards establish visual quality requirements for seller imagery.
+      reasoning: >-
+        Etsy's challenge is curating millions of unique, handmade items
+        for individual discovery. AI-powered features improve visual
+        curation without imposing visual uniformity on seller content.
+    - trend: "Design systems in marketplace platforms"
+      stance: "selective-adopter"
+      evidence: >-
+        The 'Collage' design system (Atomic Design methodology) provides
+        systematic visual consistency while accommodating the inherent
+        visual diversity of a marketplace with millions of sellers.
+        'Etsicons' (24px, 2px grid, 7 patterns) establishes icon
+        consistency.
+      reasoning: >-
+        Marketplace design systems must balance brand consistency with
+        seller-content diversity — a fundamentally different challenge
+        from single-brand design systems.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    Etsy Orange (#F56400). The Minister EF Book wordmark. Guardian
+    typeface family. 'Etsicons' icon system. The craft-coded, maker-
+    community-forward register.
+  what_bends: >-
+    Seller-created content introduces massive visual diversity — millions
+    of product images, shop branding, and personal photography styles.
+    Seasonal marketing (holiday, Valentine's, wedding season) introduces
+    campaign-specific colour and styling treatments. Gift Mode and Made
+    for You create curated visual sub-experiences. Regional marketing
+    adapts for international market conventions.
+  notable_examples: >-
+    Etsy x Commercial Type (Guardian family): the newspaper-derived
+    typeface family gives Etsy's marketplace an editorial, communicative
+    quality — bridging retail commerce with editorial curation. Etsy x
+    Atomic Design ('Collage' system): the design-system methodology
+    provides the architectural structure for visual consistency across
+    a platform where seller-created content provides the dominant visual
+    variety. Etsy x maker community (ongoing): the most significant
+    visual collaboration is the marketplace itself — millions of sellers
+    creating product imagery that collectively defines Etsy's visual
+    character more powerfully than any brand-designed system.

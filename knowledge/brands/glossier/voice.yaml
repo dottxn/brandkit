@@ -1,0 +1,55 @@
+chunk_id: "glossier-voice"
+brand: glossier
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "glossier-soul"
+token_count: 115
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Glossier. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Glossier is a direct-to-consumer beauty company that leverages content and community to power a superior shopping experience. Known for its 'no-makeup makeup' products and 'clean girl' aesthetic, the 
+tone_traits:
+  - cheerful
+  - optimistic
+  - goofy memes
+  - fun selfies
+  - approachable
+  - relatable
+  - "dialogue-driven"
+  - diverse representation
+  - welcoming
+  - "community-focused"
+  - transparent
+  - genuine
+  - real people focused
+anti_traits:
+  - overly serious
+  - corporate
+  - intimidating
+  - formal
+  - hierarchical
+  - "one-way communication"
+  - exclusive
+  - gatekeeping
+  - elitist
+  - artificial
+  - overly polished
+  - fake
+example_phrases:
+  - "Skin First, Makeup Second"
+  - You Look Good
+  - "Beauty is about having fun, wherever you are in your journey"
+  - We create the products you tell us you wish existed
+guardrails:
+  never_say: []
+  always_sound: "cheerful, optimistic, goofy memes, fun selfies, approachable"

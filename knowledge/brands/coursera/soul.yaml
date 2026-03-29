@@ -1,0 +1,29 @@
+chunk_id: "coursera-soul"
+brand: coursera
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "coursera-positioning"
+token_count: 123
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Coursera. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "The moment a stranger becomes expert, when knowledge suddenly feels within reach and attainable"
+core_belief: Education removes the gates between potential and achievement
+creative_tension:
+  - "Democratized access (anyone, anywhere) vs. premium positioning (university-quality learning)"
+  - "Scale at global level vs. intimate, personal transformation stories"
+decision_filter: >-
+  Does this expand access or does this create complexity that excludes? Does this celebrate learner journey or instructor prestige?
+signature_move: >-
+  The 'C' logo as entry point—literally showing that every journey through learning begins at the start
+what_would_break_it: >-
+  Creating institutional aesthetics, using academic design language, treating instructors as celebrities instead of guides, or removing focus on learner accomplishment

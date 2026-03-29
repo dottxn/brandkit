@@ -1,0 +1,49 @@
+chunk_id: "opendoor-voice"
+brand: opendoor
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "opendoor-soul"
+token_count: 106
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Opendoor. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A leading digital platform for residential real estate that revolutionizes home buying and selling through instant cash offers, streamlined online processes, and AI-powered technology solutions.
+tone_traits:
+  - confident
+  - straightforward
+  - "solution-oriented"
+  - approachable
+  - knowledgeable
+  - trustworthy
+  - clear
+  - honest
+  - upfront
+anti_traits:
+  - pushy
+  - overwhelming
+  - condescending
+  - corporate
+  - distant
+  - impersonal
+  - hidden fees
+  - vague
+  - misleading
+example_phrases:
+  - "Get a free offer today!"
+  - "Skip the hassle of listing, showings and months of stress"
+  - Close on your own timeline
+  - >-
+    We're reinventing the experience of buying and selling homes to put customers at the center of their move
+guardrails:
+  never_say: []
+  always_sound: "confident, straightforward, solution-oriented, approachable, knowledgeable"

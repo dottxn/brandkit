@@ -1,0 +1,29 @@
+chunk_id: "ebay-strategy"
+brand: ebay
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "ebay-positioning"
+token_count: 57
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for eBay. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe everyone should have the opportunity to grow and thrive — no matter who they are or where they are in the world
+mission: "To be the world's most vibrant marketplace where anyone, anywhere can connect, create and grow"
+vision: To empower people and create economic opportunity for all
+values:
+  - Authenticity
+  - Boldness
+  - Inclusion
+  - Teamwork
+  - Respect

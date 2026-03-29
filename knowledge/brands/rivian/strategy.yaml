@@ -1,0 +1,31 @@
+chunk_id: "rivian-strategy"
+brand: rivian
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "rivian-positioning"
+token_count: 49
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Rivian. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe there is a more responsible way to explore the world and are determined to make the transition to sustainable transportation an exciting one
+mission: "<cite index=\"31-1,35-2\">To keep the world adventurous forever</cite>"
+vision: >-
+  <cite index="33-2,36-8">To create a sustainable future by leading the way in emissions-free transportation and inspiring people to explore the world responsibly</cite>
+values:
+  - Adventure
+  - Innovation
+  - Sustainability
+  - Quality
+  - Community
+  - Courage

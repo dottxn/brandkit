@@ -1,0 +1,64 @@
+# ──────────────────────────────────────────────
+# BMW — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "KMS TEAM"
+    type: branding
+    url: "https://www.kms-team.com/"
+    relationship: "Strategic brand positioning, identity architecture, and brand development for BMW."
+
+  - name: "Dalton Maag"
+    type: type-foundry
+    url: "https://www.daltonmaag.com/"
+    relationship: "Designed BMW Type Next Pro variable font (2019-2021) for brand communications."
+
+  - name: "Serviceplan Group"
+    type: creative-direction
+    url: "https://www.serviceplan.com/"
+    relationship: "European creative agency handling global advertising campaigns for BMW."
+
+  - name: "Designworks"
+    type: digital-design
+    url: "https://www.designworks.de/"
+    relationship: "BMW's in-house design studio; created configurator imagery and digital experiences."
+
+people:
+  - name: "Adrian van Hooydonk"
+    role: "Chief Design Officer"
+    context: "Leads overall design direction and visual language for BMW brand (since February 2009)."
+
+  - name: "Bernd Körber"
+    role: "SVP Brand & Product Management"
+    context: "Oversees brand communication strategy and visual identity implementation (since November 2023)."
+
+  - name: "Nick Knight"
+    role: "Photographer"
+    url: "https://nickknight.com/"
+    context: "High-end commercial and campaign photography; directed BMW i7 'Forwardism' campaign with experimental visual language."
+
+  - name: "Robert Strauch"
+    role: "Type Designer"
+    context: "Designed BMW Type Next Pro variable font (Augsburg, 2019-2021)."
+
+publications:
+  - title: "BMW design language documentation"
+    author: "BMW Design Team"
+    relevance: "Official brand guidelines and design system specifications."
+
+visuals:
+  - url: "https://www.bmw.com/"
+    label: "Official BMW brand website and campaign materials — bmw.com"
+    section: visual-world
+
+  - url: "https://www.kms-team.com/"
+    label: "Brand case study and strategy — KMS TEAM"
+    section: visual-language
+
+  - url: "https://nickknight.com/"
+    label: "Campaign photography — Nick Knight"
+    section: visual-language
+
+  - url: "https://www.daltonmaag.com/"
+    label: "BMW Type Next Pro typeface — Dalton Maag"
+    section: visual-language

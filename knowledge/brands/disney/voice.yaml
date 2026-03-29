@@ -1,0 +1,48 @@
+chunk_id: "disney-voice"
+brand: disney
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "disney-soul"
+token_count: 81
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for The Walt Disney Company. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A global entertainment powerhouse that creates unparalleled storytelling experiences across films, television, streaming platforms, theme parks, and consumer products. Founded in 1923, Disney has grow
+tone_traits:
+  - "Wonder-inspiring"
+  - enchanting
+  - transformative
+  - Uplifting
+  - hopeful
+  - positive
+  - Welcoming
+  - celebrating diversity
+  - universal
+anti_traits:
+  - Cynical
+  - mundane
+  - jaded
+  - Dark
+  - pessimistic
+  - discouraging
+  - Exclusive
+  - divisive
+  - alienating
+example_phrases:
+  - Where dreams come true
+  - The magic is calling
+  - Bringing stories to life
+  - Creating magical moments that last a lifetime
+guardrails:
+  never_say: []
+  always_sound: "Wonder-inspiring, enchanting, transformative, Uplifting, hopeful"

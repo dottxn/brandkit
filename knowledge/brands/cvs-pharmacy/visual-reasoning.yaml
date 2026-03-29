@@ -1,0 +1,28 @@
+chunk_id: "cvs-pharmacy-visual-reasoning"
+brand: "cvs-pharmacy"
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "cvs-pharmacy-visual-dna"
+  - "cvs-pharmacy-soul"
+token_count: 195
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for CVS Pharmacy. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  The CVS custom font is bold sans-serif—strong, decisive, clear. This isn't delicate or subtle; it says "we know what we're doing." Helvetica Neue appears in supporting applications for familiarity. The type combination (custom bold primary + trusted familiar secondary) signals that CVS is both innovative and reliable
+colour_logic: >-
+  CVS Red (#CC0000) is specifically warm-leaning red—not blue-red (which feels corporate) but human-red (which feels alive, like heartbeat). White (#FFFFFF) creates breathing room. The palette rejects cool colors; warmth signals care without saccharine sweetness
+composition_philosophy: >-
+  The red heart becomes compositional anchor—it appears not just in logo but as organizing principle throughout layouts. Heart-centered layouts suggest that customer wellbeing is central to every design decision. Generous white space reduces stress. Photography shows real people in real health moments (not model-perfect, not clinical)
+what_would_break_it: >-
+  Cool colors (especially blues), clinical institutional aesthetics, removing heart from visual system, sterile imagery, corporate language, or design that treats health as transactional

@@ -1,0 +1,61 @@
+chunk_id: "amazon-visual-dna"
+brand: amazon
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "amazon-positioning"
+token_count: 98
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Amazon. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FF9900"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#146EB4"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Amazon Ember Modern
+    role: ""
+    style: ""
+  - name: Amazon Logo Sans
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: focused
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  Logo-centric layouts with generous whitespace, smile-derived curved elements, and hierarchical information architecture

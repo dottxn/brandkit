@@ -1,0 +1,37 @@
+chunk_id: "spotify-competitive"
+brand: spotify
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "spotify-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Spotify. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - netflix
+  - youtube
+  - apple
+  - hulu
+industry_norms_it_breaks: "The Spotify Green (#1DB954) functioning not as brand color but as a signal—a permission slip that says \"this is the moment of connection.\" The color appears only when you need it, letting the content  | The strategic underuse of the signature color. Most brands exhaust their primary color across every surface. Spotify understands that restraint creates desire—the green appears only in moments of genu | When faced with a fork, Spotify asks \"Does this deepen the relationship between human and sound?\" not \"How many users does this acquire?\""
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Near-black interface, green-on-dark, listening environment"
+  - cluster: "expressive-maximalist"
+    role: "secondary"
+    where: "Wrapped annual campaign, reinventive, experimental"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Editorial playlists, duotone photography, energetic"
+strategic_cluster: "creative-authority"
+category: entertainment

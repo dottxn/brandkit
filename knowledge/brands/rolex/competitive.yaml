@@ -1,0 +1,36 @@
+chunk_id: "rolex-competitive"
+brand: rolex
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "rolex-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Rolex. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - hermès
+  - chanel
+  - prada
+industry_norms_it_breaks: "The five-pointed crown (#A37E2C) rendered in solid gold on dark green—a single gesture that says dominance, precision, and permanence without needing words. The crown isn't aspirational; it's earned. | Rolex's refusal to have an \"entry-level\" collection. Competitors create watches at every price point. Rolex keeps the barrier high, which paradoxically makes each Rolex more powerful. You don't own a  | \"Will this decision make the watch last longer, function better, or age more beautifully? If it's for marketing, the answer is no.\""
+visual_cluster: "heritage-craft"
+visual_fingerprint:
+  - cluster: "heritage-craft"
+    role: "dominant"
+    where: "Crown, Oyster case, craft, provenance, timelessness"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Testimonee sport, dramatic achievement photography"
+  - cluster: "editorial-luxury"
+    role: "accent"
+    where: "Product hero presentation, refined composition"
+strategic_cluster: "heritage-guardian"
+category: luxury

@@ -1,0 +1,30 @@
+chunk_id: "herman-miller-strategy"
+brand: "herman-miller"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "herman-miller-positioning"
+token_count: 46
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Herman Miller. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: Design for the Good of Humankind
+mission: "To design and make the world's best products in the most sustainable way"
+vision: >-
+  To transform the way buildings and communities are designed, built and operated while contributing to a more equitable and sustainable future for all
+values:
+  - Better Together
+  - Extraordinary in Every Way
+  - We Win as One
+  - "Customer-First Mindset"
+  - Environmental Stewardship
+  - "Innovation Through Problem-Solving"

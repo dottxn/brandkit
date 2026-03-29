@@ -1,0 +1,32 @@
+chunk_id: "slack-insights"
+brand: slack
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "slack-soul"
+  - "slack-positioning"
+token_count: 193
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Slack. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Enterprise software succeeds not when it feels powerful but when it feels fun to use every day—playfulness is a feature, not a distraction.
+  - >-
+    Color in communication tools should feel like personality, not branding—each color (#36C5F0, #E01E5A, #2EB67D, #ECB22E) works because they feel familiar, not novel.
+  - >-
+    The octothorpe rebranding worked because it represented what Slack actually was—conversation infrastructure—rather than inventing a new visual metaphor.
+  - >-
+    Slack's genius lies in making async feel as good as real-time, which is a cultural position expressed through interface design more than UI elements.
+  - >-
+    The Pentagram rebrand succeeded because it subtracted rather than added—removing the original's messiness created breathing room for content.
+what_nobody_copies: >-
+  The audacity to use multiple saturated colors without creating visual chaos. Most brands fear this; Slack proved that color variety works when each color represents a distinct communication channel.

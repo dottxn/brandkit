@@ -1,0 +1,27 @@
+chunk_id: "adidas-soul"
+brand: adidas
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "adidas-positioning"
+token_count: 100
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of adidas. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "A drumbeat building through an athlete's chest moments before breakthrough"
+core_belief: "Sport transforms bodies and beliefs into evidence of what's possible"
+creative_tension:
+  - Engineered innovation for everyone vs. engineered innovation for champions
+  - Heritage simplicity (three stripes) vs. constant technological reinvention
+decision_filter: "Does this elevate athletic potential or enable moments of authentic human effort?"
+signature_move: Three stripes as a visual device that organizes space—logo becomes architecture
+what_would_break_it: >-
+  Adding modulation or style variation to the three-stripe system, or softening the geometric perfection of performance aesthetics

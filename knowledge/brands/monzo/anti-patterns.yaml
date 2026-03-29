@@ -1,0 +1,71 @@
+chunk_id: "monzo-anti-patterns"
+brand: monzo
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "monzo-soul"
+  - "monzo-visual-dna"
+token_count: 789
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Monzo. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Using a traditional bank blue as the primary color
+    reasoning: >-
+      Blue signals institutional authority and historical trustworthiness—exactly what Monzo is rejecting. Coral signals warmth, approachability, and modernity. Moving to blue would position Monzo as "bank-like" rather than "bank-different."
+  - pattern: "Adopting a cold geometric sans-serif instead of Oldschool Grotesk"
+    reasoning: >-
+      Oldschool Grotesk has "analogue friendliness"—rounded corners, warm proportions—that makes financial communication feel human. A geometric sans would signal efficiency and distance, undermining the "kindness" positioning.
+  - pattern: "Using aspirational lifestyle imagery (beautiful people, wealth signaling)"
+    reasoning: >-
+      This contradicts the "Everyman" archetype. Monzo's strength is that the photography shows ordinary people managing ordinary financial anxieties. Luxury imagery would position the product for the already-wealthy.
+  - pattern: Minimizing the coral thread device or treating it as an optional accent
+    reasoning: >-
+      The coral thread is the signature move. Deprioritizing it would dilute one of the brand's most distinctive visual systems. The coral must thread through layouts, apps, and experiences constantly.
+strategic:
+  - pattern: Expanding into wealth management or luxury investment products
+    reasoning: >-
+      This would fragment the brand. Monzo's positioning is democratization of financial simplicity. Adding wealth products (even simplified ones) contradicts the core narrative and positions the brand as hierarchical.
+  - pattern: Competing with traditional banks on interest rates or credit products
+    reasoning: >-
+      This would turn Monzo into a commodity. The brand's differentiation is tone and experience, not financial terms. Competing on rate signals that the brand has accepted commodification.
+  - pattern: Pursuing enterprise or B2B customers
+    reasoning: >-
+      Monzo's brand soul is B2C—helping individuals understand their relationship with money. Pivoting to businesses would muddy the core identity and require different visual and tonal systems.
+  - pattern: Pursuing growth through obfuscation instead of transparency
+    reasoning: >-
+      The moment Monzo adds hidden fees, complex terms, or unclear pricing, the brand collapses. The entire positioning depends on transparency being genuine, not performative.
+tonal:
+  - pattern: "Corporate financial speak (\"Optimized portfolio management,\" \"Intelligent diversification\")"
+    reasoning: >-
+      This is the default language of banking. The anti-pattern is slipping back into jargon because it sounds authoritative. Monzo's strength is that it speaks in human language, even when the topic is complex.
+  - pattern: Assuming users are financially literate
+    reasoning: >-
+      The tone must assume intelligence (users aren't stupid) but not knowledge (users may not know financial terminology). Patronizing would feel insulting; assuming knowledge would feel alienating. The sweet spot is empathetic education.
+  - pattern: "Using fear-based messaging about financial security"
+    reasoning: >-
+      Banks traditionally create anxiety to sell security products. Monzo's approach is the inverse: reduce anxiety through transparency, then security feels like a benefit, not a necessity. Fear-based campaigns would contradict the brand's entire philosophy.
+  - pattern: Adopting a mascot or cartoon character for financial education
+    reasoning: >-
+      This would trivialize complex topics and undermine credibility. Monzo's tone works because it's human and serious, not cute or simplified. A character would signal that the brand isn't taking financial literacy seriously.
+cultural:
+  - pattern: "Ignoring financial inequality while marketing to \"everyone\""
+    reasoning: >-
+      Monzo's "Everyman" positioning is inclusive, but it's false if the product isn't truly accessible (high device costs, limited features, geographic restrictions). The brand must actively work to serve lower-income users or the "everyone" claim becomes performative.
+  - pattern: Positioning financial simplicity as a personal virtue rather than a systemic issue
+    reasoning: >-
+      If Monzo's messaging implies "you're bad with money" (requiring Monzo to fix), it's victim-blaming. The brand must consistently position financial complexity as a system-created problem, not a user failure.
+  - pattern: "Using predominantly white, UK-centric imagery while expanding globally"
+    reasoning: >-
+      Monzo's photography strategy is culturally specific. Expanding without updating imagery to reflect diverse users and cultures would signal that diversity is an afterthought rather than foundational.
+  - pattern: Treating fintech disruption as inherently positive without addressing systemic displacement
+    reasoning: >-
+      As Monzo grows, it displaces traditional banking jobs and infrastructure. The brand should acknowledge this tension rather than celebrate disruption without cost.

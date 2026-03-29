@@ -1,0 +1,32 @@
+chunk_id: "rolex-strategy"
+brand: rolex
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "rolex-positioning"
+token_count: 66
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Rolex. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in creating timepieces that transcend mere instruments to become symbols of human achievement and excellence
+mission: >-
+  To create the most precise, reliable, and elegant timepieces that not only reflect our heritage of excellence but also inspire exploration and achievement in those who wear them
+vision: >-
+  To be a constant presence in moments of triumph and discovery, embodying the highest standards of quality and performance while inspiring generations to achieve greatness
+values:
+  - Excellence
+  - Precision
+  - Durability
+  - Innovation
+  - Heritage
+  - Sustainability

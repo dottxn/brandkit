@@ -1,0 +1,48 @@
+chunk_id: "reddit-voice"
+brand: reddit
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "reddit-soul"
+token_count: 105
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Reddit. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="34-5,35-23,35-24,35-25">Reddit operates as a social news aggregation and discussion platform with a mission to bring community and belonging to everyone in the world. The platform enables
+tone_traits:
+  - authentic
+  - candid
+  - transparent communication
+  - diverse
+  - quirky
+  - embracing weirdness
+  - "community-driven"
+  - "user-focused"
+  - democratic
+anti_traits:
+  - corporate speak
+  - insincerity
+  - marketing fluff
+  - mainstream conformity
+  - boring uniformity
+  - "top-down"
+  - authoritarian
+  - restrictive
+example_phrases:
+  - >-
+    <cite index="62-12">We built Reddit with the belief that communities unlock the power of human creativity</cite>
+  - "<cite index=\"11-15\">The heart of the internet</cite>"
+  - "<cite index=\"31-32\">Bringing community to everyone</cite>"
+  - "<cite index=\"24-13\">People-powered tips and observations</cite>"
+guardrails:
+  never_say: []
+  always_sound: "authentic, candid, transparent communication, diverse, quirky"

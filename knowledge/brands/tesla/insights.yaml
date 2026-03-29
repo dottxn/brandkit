@@ -1,0 +1,32 @@
+chunk_id: "tesla-insights"
+brand: tesla
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "tesla-soul"
+  - "tesla-positioning"
+token_count: 244
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Tesla. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Tesla succeeds not because people love electric cars, but because the brand positioned the car as evidence of a solved problem. The product is propaganda for a worldview.
+  - >-
+    Tesla's minimalism is a form of aggression—the white-on-black palette and mathematical precision communicate "we've removed everything unnecessary because we're that confident." It's not humble restraint; it's aristocratic refusal.
+  - >-
+    Tesla owns "acceleration" as a metaphor that extends beyond vehicles into company growth, innovation speed, and human progress itself. Every design choice must feel like motion.
+  - >-
+    The brand's refusal to do traditional advertising actually makes the product do double duty: car + manifesto. Every vehicle is a moving billboard for sustainable energy evangelism.
+  - >-
+    Tesla deliberately maintains the tension between scientific determinism (we control everything through engineering) and technological mystique (nobody really understands what Elon will do next). This keeps the brand perpetually forward-moving.
+what_nobody_copies: >-
+  The commitment to making the technical specifications visible as graphic design (rendering battery architecture in marketing materials, making the Supercharger network a design element, turning over-the-air updates into narrative). Technical excellence becomes visual language.

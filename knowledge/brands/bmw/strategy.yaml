@@ -1,0 +1,30 @@
+chunk_id: "bmw-strategy"
+brand: bmw
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "bmw-positioning"
+token_count: 40
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for BMW. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in creating vehicles that evoke emotions and provide premium mobility experiences that enhance people's lives
+mission: "<cite index=\"36-25\">To move people with products that evoke emotions</cite>"
+vision: >-
+  <cite index="36-11">To be the most successful, most sustainable premium manufacturer for individual mobility</cite>
+values:
+  - Responsibility
+  - Appreciation
+  - Transparency
+  - Trust
+  - Openness

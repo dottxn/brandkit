@@ -1,0 +1,41 @@
+# ──────────────────────────────────────────────
+# Monzo — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Monzo Design Team"
+    type: "digital-design"
+    url: "https://monzo.com/"
+    relationship: "In-house design team developing and maintaining Monzo's visual language across product and brand contexts."
+
+people:
+  - name: "Tom Blomfield"
+    role: "Co-founder and CEO"
+    url: "https://monzo.com/"
+    context: "Established brand vision and positioning. Drove shift from traditional banking aesthetics to approachable fintech design."
+
+publications:
+  - title: "Monzo Design System and Brand Guidelines"
+    author: "Monzo"
+    relevance: "Documentation of Oldschool Grotesk, Monzo Sans typography, and visual system principles."
+
+  - title: "Monzo's Visual Language: Challenging Banking Design Conventions"
+    author: "Design Blogs and Publications"
+    relevance: "Analysis of how Monzo's coral-led visual identity disrupted fintech design category."
+
+visuals:
+  - url: "https://monzo.com/"
+    label: "Monzo website and product showcase"
+    section: "visual-world"
+
+  - url: "https://monzo.com/blog/"
+    label: "Monzo blog with design case studies and product updates"
+    section: "visual-language"
+
+  - url: "https://www.instagram.com/monzo/"
+    label: "Monzo Instagram — visual language and campaign examples"
+    section: "visual-language"
+
+  - url: "https://twitter.com/monzo"
+    label: "Monzo Twitter/X — brand voice and visual communication"
+    section: "visual-language"

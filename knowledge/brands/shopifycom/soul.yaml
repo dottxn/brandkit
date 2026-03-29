@@ -1,0 +1,31 @@
+chunk_id: "shopifycom-soul"
+brand: shopifycom
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "shopifycom-positioning"
+token_count: 162
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Shopify.com. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A scaffolding that evaporates—infrastructure so useful it vanishes from notice, leaving only commerce blooming where barriers stood.
+core_belief: Complexity is the greatest thief of entrepreneurship; our job is to steal it back.
+creative_tension:
+  - "Making systems so simple they empower beginners, yet robust enough to scale Fortune 500 operations."
+  - >-
+    Building features at relentless velocity while maintaining the clarity that makes the platform feel timeless.
+decision_filter: >-
+  Does this reduce friction for merchants to focus on what they actually love doing? If no, we don't ship it.
+signature_move: >-
+  The emerald green (#95BF47) used never as highlight but as the visual representation of "ready to go live"—action unlocked, permission granted.
+what_would_break_it: >-
+  Switching to a dark, complex dashboard aesthetic or burying core actions behind multiple menus. The platform's soul is immediate access to merchant power.

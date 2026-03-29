@@ -1,0 +1,58 @@
+chunk_id: "hims-hers-visual-dna"
+brand: "hims-hers"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "hims-hers-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Hims & Hers. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#333333"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#E8F4FF"
+    name: ""
+    role: ""
+typography:
+  - name: "Custom Sans-Serif"
+    role: ""
+    style: ""
+  - name: Lowercase System Font
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: neutral
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: high
+  identity_system: modular
+  signature_device: "typography-led"
+composition_logic: >-
+  <cite index="26-3,26-19,26-23">Clean, streamlined layouts with minimal navigation and clear product focus, utilizing vertical layouts with playful imagery and strong CTAs to guide users through simplified buying process</cite>

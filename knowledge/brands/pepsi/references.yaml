@@ -1,0 +1,48 @@
+# ──────────────────────────────────────────────
+# Pepsi — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "PepsiCo Design & Innovation"
+    type: "in-house"
+    url: "https://www.pepsico.com/"
+    relationship: "400-person internal design team managing visual systems across PepsiCo portfolio; led 2023 rebrand"
+
+  - name: "Mrs&Mr"
+    type: "creative-direction"
+    url: "https://www.mrsandmr.com/"
+    relationship: "Creative partnership supporting 2023 rebrand campaigns and visual direction"
+
+  - name: "MCKL"
+    type: "type-foundry"
+    url: "https://www.mckltype.com/"
+    relationship: "Created Pepsi Owners custom typeface (based on Adobe Owners), bold condensed geometric sans-serif for brand impact"
+
+people:
+  - name: "Mauro Porcini"
+    role: "Chief Design Officer"
+    url: ""
+    context: "Led design strategy 2012-2025, championed 2023 rebrand generating 28B impressions and 99% positive sentiment"
+
+  - name: "Jeremy Mickel"
+    role: "Type Designer, MCKL"
+    url: "https://www.mckltype.com/"
+    context: "Founded MCKL Type Foundry (2012), designed Pepsi Owners custom typeface and Uber Move"
+
+publications:
+  - title: "The History and Future of Logos"
+    author: "Paul Rand"
+    relevance: "Informs Pepsi's approach to logo redesign as category evolution signal"
+
+visuals:
+  - url: "https://www.pepsi.com/"
+    label: "Pepsi homepage with 2023 globe redesign and Electric Blue palette"
+    section: "visual-language"
+
+  - url: "https://www.pepsi.com/en-us/pepsico-brands/pepsi-zero-sugar"
+    label: "Pepsi Zero Sugar variant with black packaging and inverted visual language"
+    section: "visual-language"
+
+  - url: "https://www.pepsi.com/en-us/products/pepsi-wild-cherry"
+    label: "Pepsi product portfolio showcasing visual system variants across flavours"
+    section: "visual-language"

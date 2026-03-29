@@ -1,0 +1,295 @@
+chunk_id: "impossible-foods-visual-language"
+brand: "impossible-foods"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "impossible-foods-visual-dna"
+  - "impossible-foods-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Impossible Foods. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "meat-rival"
+      touchpoints:
+        - "impossiblefoods.com product pages"
+        - "Retail packaging (grocery shelf)"
+        - "'We Can Have Our Meat and Eat It Too' campaign (May 2024, Erich & Kallman)"
+        - "QSR partner menu boards (Burger King, Starbucks)"
+      description: >-
+        Red-dominant, appetising, confrontational. The food is shot like
+        real meat — sizzling, dripping, charred, juicy. The red palette
+        (based on meat cooking stages, per JKR rebrand) saturates the frame.
+        Sans Meat custom typeface at large scale. The visual register says
+        'this is meat' not 'this is an alternative to meat.' Closer to a
+        premium burger brand than a plant-based brand.
+      differs_from_default_by: >-
+        This is the baseline. The entire visual system is built to compete
+        in the meat aisle, not the health food aisle.
+
+    - name: "cultural-provocation"
+      touchpoints:
+        - "Met Gala 2024 activation ('Garden of Meat')"
+        - "Social media campaign extensions"
+        - "Event and experiential marketing"
+      description: >-
+        Higher-concept, more editorial. The food is presented as art or
+        cultural statement rather than grocery product. The palette can
+        expand beyond red. Photography is more styled, more conceptual.
+        The Met Gala 2024 activation placed Impossible products in fine
+        dining and fashion contexts — the opposite of the everyday
+        burger positioning.
+      differs_from_default_by: >-
+        The accessibility of the meat-rival mode gives way to exclusivity
+        and cultural cachet. This mode is about repositioning plant-based
+        from niche to culturally central.
+
+    - name: "science-mission"
+      touchpoints:
+        - "impossiblefoods.com/mission pages"
+        - "Investor and press materials"
+        - "Environmental impact content"
+        - "LinkedIn and corporate communications"
+      description: >-
+        More informational, data-forward, less red. The palette shifts
+        toward the supporting colours (greens and earth tones). Photography
+        includes labs, ingredients at molecular level, agricultural imagery.
+        The visual register is tech-company-meets-food-company — closer to
+        how a biotech startup presents than how a CPG brand presents.
+      differs_from_default_by: >-
+        The emotional, appetising energy of the meat-rival mode is replaced
+        by rational, evidence-based communication. The red recedes; data
+        and environmental messaging lead.
+
+  notes: >-
+    The JKR rebrand (March 14, 2024) was a fundamental visual reset. Pre-JKR
+    Impossible (Bob Dinetz original identity, 2014) was significantly more
+    tech-startup in its visual language. Current visual analysis should be
+    weighted entirely toward the post-JKR system.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "'We Can Have Our Meat and Eat It Too' campaign (May 2024, Erich & Kallman)"
+    - "impossiblefoods.com product photography (observed February 2026)"
+    - "JKR rebrand visual identity (launched March 14, 2024)"
+    - "Retail packaging photography"
+  subject_and_framing: >-
+    The food is always the subject. Shot tight — the frame is full of
+    burger, sausage, meatball, or whatever the product is. Cooking action
+    is captured: sizzle on a grill, fat rendering, cheese melting, juices
+    running. The photography deliberately mirrors conventional meat
+    advertising — these are not 'plant-based' compositions, they are
+    'burger' compositions. No ingredient shots showing plants or proteins
+    in the hero photography. In the Erich & Kallman campaign, the food
+    is shot at macro scale with visible texture — char marks, grill lines,
+    caramelisation.
+  casting_observed: >-
+    People appear in campaign and social content but the food is always
+    more prominent. When people are present, they are eating enthusiastically
+    — big bites, visible enjoyment. The casting is broad — families, young
+    adults, BBQ settings — designed to signal mainstream rather than niche.
+    No chefs in whites, no farmers in fields, no scientists in labs in the
+    hero food photography.
+  lighting_and_colour: >-
+    Warm, saturated, food-photography lighting. Hard light from above for
+    grill and cooking shots — this creates the char shadows and sizzle
+    highlights that make food look appetising. Softer fill for product-on-
+    plate compositions. The red palette of the rebrand influences the
+    lighting choices — warm colour temperature, red tones pushed in
+    grading. Compared to Beyond Meat's photography (cleaner, more
+    health-coded, greener palette), Impossible's lighting is deliberately
+    more indulgent and less virtuous.
+  post_production: >-
+    Colour grading pushes reds and warm tones. The 'bleeding' quality of
+    the product is enhanced — the heme (soy leghemoglobin) that makes
+    Impossible products pink/red is a hero visual feature and is
+    emphasised in post-production. Food styling is aggressive — these
+    products are styled to look as meaty as possible. No visible
+    retouching issues observed; the food photography is high-quality and
+    consistent across touchpoints.
+  visual_boundaries:
+    stated_exclusions: >-
+      The brand explicitly positions against 'health food' visual codes —
+      green palettes, raw ingredients, clean-eating aesthetics, yoga-and-
+      salad imagery. Impossible is meat, not vegetables.
+    observed_exceptions: >-
+      The science-mission mode does use green and earth tones, and the
+      environmental impact content includes agricultural and nature imagery.
+      The Met Gala activation used fine-dining plating that contradicted
+      the everyday-burger accessibility of the main visual system.
+    genuine_absence: >-
+      Based on impossiblefoods.com and campaign review: no health claims
+      in visual form (no 'heart-healthy' badges or nutritional callouts
+      in hero imagery), no visible plant ingredients in hero food shots,
+      no comparison photography against conventional meat products.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "JKR rebrand identity system (March 2024)"
+    - "impossiblefoods.com and packaging"
+    - "Roboboogie website design"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    Minimal. The packaging uses simple product-type icons but these are
+    not a distinctive part of the identity. Functional and category-standard.
+  graphic_devices: >-
+    The red colour system is the dominant graphic device — JKR built the
+    palette around meat cooking stages (rare to well-done), creating a red
+    gradient that is unique in both the plant-based and conventional meat
+    categories. The Sans Meat wordmark itself functions as a graphic device
+    — the custom letterforms are distinctive enough to work as pattern or
+    texture. Bold colour blocking in red on packaging creates shelf impact
+    in the meat aisle. The 'Impossible' logotype with its distinctive
+    custom letterforms is recognisable at distance.
+  motion_language: >-
+    Observed in the Erich & Kallman campaign film: close-up food shots
+    with real-time cooking action — sizzle, steam, flip. The pacing is
+    appetising, not frenetic. Cuts are timed to cooking rhythms. Music
+    and sound design emphasise the sizzle — the audio is as much a
+    sensory device as the visuals. Slower and more indulgent than typical
+    fast-food advertising.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "medium"
+  primary_sources:
+    - "Sans Meat — custom typeface commissioned for JKR rebrand (March 2024)"
+    - "impossiblefoods.com observed February 2026"
+    - "Retail packaging typography"
+  signature_move: >-
+    Sans Meat at large scale. The custom typeface designed for the JKR
+    rebrand is the single most distinctive typographic decision — a bold,
+    slightly quirky geometric sans-serif that reads as confident and
+    slightly irreverent. The name 'Sans Meat' is itself a brand statement
+    (sans serif → sans meat). At display sizes on red backgrounds, it is
+    immediately recognisable and unlike anything else in the plant-based
+    or conventional meat categories.
+  what_would_look_wrong: >-
+    Green type or green backgrounds (health food coding). Thin or light
+    type weights (too delicate for a brand that wants to feel substantial).
+    Serif or script type (too premium/artisanal). A conventional food
+    brand typeface like Gotham or Proxima Nova would strip the personality.
+    Any typeface that reads as 'wellness' rather than 'appetite.'
+  case_convention: >-
+    Mixed. 'IMPOSSIBLE' appears in uppercase on packaging for shelf impact.
+    Campaign headlines vary — sentence case or uppercase depending on
+    context. Body text in sentence case. The brand name is capitalised
+    ('Impossible') in editorial contexts.
+  display_vs_body: >-
+    Display: Sans Meat — the custom face carries the brand's personality.
+    Bold weight, generous scale, always commanding attention. Body: a
+    supporting sans-serif (observed as a clean grotesque on the website)
+    that recedes to let Sans Meat and the food photography dominate. The
+    contrast is significant — Sans Meat has strong character while the
+    body type is invisible and functional.
+  type_and_image: >-
+    Type and food photography compete for attention in campaign work —
+    big red headline over or adjacent to a macro food shot. On packaging,
+    the 'Impossible' wordmark dominates the face with the food image below
+    or behind. The type is confident enough to sit next to appetising food
+    without being overwhelmed — Sans Meat's boldness matches the visual
+    intensity of the food photography.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "impossiblefoods.com (Roboboogie, observed February 2026)"
+    - "Retail packaging shelf presentation"
+    - "Campaign OOH placements"
+  signature_composition: >-
+    Full-bleed food photography with bold type overlay or adjacent block.
+    The layout is simple and impactful — one food image, one message, one
+    red accent. Packaging follows the same principle: product name dominant,
+    food image prominent, red field commanding. Compared to Beyond Meat
+    (busier packaging with more health callouts and nutritional badges),
+    Impossible's layouts are cleaner and more brand-confident.
+  density_and_whitespace: >-
+    Low density. The brand relies on scale and impact rather than
+    information density. Website pages are spacious with large images and
+    generous scroll sections. Packaging is dominated by one or two elements.
+    Campaign work is deliberately sparse — the message lands in one glance.
+  format_preferences: >-
+    Square and vertical for social and digital. Wide landscape for campaign
+    OOH. Packaging is conventional retail format. The brand favours
+    full-bleed over bordered compositions — the red extends to every edge.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "leader"
+  relationship_to_trends: >-
+    Impossible Foods has twice redefined the visual language of its
+    category — first with the original tech-startup identity (Bob Dinetz,
+    2014) that positioned plant-based as a science problem, then with the
+    JKR rebrand (2024) that repositioned it as a meat brand. The brand
+    leads visual trends in plant-based food rather than following them.
+  examples:
+    - trend: "Meat-coded plant-based branding"
+      stance: "leader"
+      evidence: >-
+        The JKR rebrand (March 2024) was the first major plant-based brand
+        to completely abandon green/health visual coding in favour of
+        red/meat visual coding. The red palette based on meat cooking
+        stages and the 'Sans Meat' typeface name are category firsts.
+        Competitors have not yet followed this approach at scale.
+      reasoning: >-
+        Impossible bet that the category's growth ceiling was created by
+        health-food visual coding that limited the audience. The rebrand
+        targets meat eaters, not vegetarians.
+    - trend: "Food-as-culture positioning"
+      stance: "early-adopter"
+      evidence: >-
+        The Met Gala 2024 'Garden of Meat' activation placed a plant-based
+        brand in a high-fashion cultural context — unprecedented for the
+        category. This positions Impossible as culturally relevant rather
+        than category-confined.
+      reasoning: >-
+        Cultural positioning creates brand value beyond product attributes.
+        No other plant-based brand operates in fashion or arts contexts.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    The red palette. Sans Meat typography. The 'this is meat' visual
+    assertion. No collaboration positions the product as a compromise,
+    alternative, or health food.
+  what_bends: >-
+    Photography style adapts to partner contexts — QSR partner imagery
+    follows the partner's food photography conventions. The palette can
+    expand for cultural collaborations (Met Gala used broader colours).
+    Layout and format adapt to partner platforms.
+  notable_examples: >-
+    Impossible x Burger King (Impossible Whopper, 2019-present): Impossible
+    product appears within BK's visual system — BK photography, BK menu
+    boards, BK packaging. The Impossible logo appears as an ingredient
+    badge rather than a co-brand. Impossible x Starbucks (Impossible
+    Breakfast Sandwich): similar approach — the product enters the partner's
+    visual world. These partnerships demonstrate that Impossible prioritises
+    distribution reach over visual brand control in QSR contexts.

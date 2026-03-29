@@ -1,0 +1,28 @@
+chunk_id: "notion-visual-reasoning"
+brand: notion
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "notion-visual-dna"
+  - "notion-soul"
+token_count: 377
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Notion. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Inter (humanist sans-serif) works because it's designed for clarity on screens and carries a neutral, optimistic tone without personality imposition. The serif 'N' in the logo sits in tension—it's the only decorative gesture, which makes it land harder. This serif-sans hybrid mirrors the brand's core tension: structured systems with human values. Competitors use full serif (traditional) or full sans (tech). Notion does both intentionally. The weight stays regular (not bold) because bold feels promotional; regular feels like infrastructure.
+colour_logic: >-
+  Black and white is deceptively strategic. It removes chromatic bias—you can't feel "energized" by Notion's red or "calm" by its blue because there is no color. This forces users to feel those things about their own work, not the tool. The palette also signals: black (authority, structure, databases), white (space, freedom, possibility). It's the smallest palette that can communicate both dimensions. Competitors add accent colors because their tools feel empty. Notion's emptiness is the point.
+composition_philosophy: >-
+  The modular block system extends beyond interface design into all brand compositions. Marketing layouts use grid systems, generous whitespace, and block-based hierarchy. This isn't just aesthetic consistency—it's philosophical consistency. When you see a Notion ad, you should see the same building-block mentality as the product interface. Layouts should feel like they're built with the same logic users use to build in Notion. Avoid compositions that feel "designed for beauty." All design should feel like it was composed for clarity, then beauty emerged as a byproduct.
+what_would_break_it: >-
+  Moving the logo into the upper-left corner and adding a colored underline. This small gesture—standard SaaS branding—would position Notion as a conventional tool. The cube logo's power comes from its floating, centerless placement in compositions. Anchoring it signals centrality, control, hierarchy. Notion's aesthetic refuses hierarchy. A grounded, cornered logo would destroy that.

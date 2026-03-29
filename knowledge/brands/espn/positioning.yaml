@@ -1,0 +1,31 @@
+chunk_id: "espn-positioning"
+brand: espn
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for ESPN. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: ESPN
+website: "https://www.espn.com"
+founded: 1979
+category: entertainment
+sub_category: sports entertainment
+price_tier: "mid-range"
+primary_archetype: The Hero
+secondary_archetype: The Everyman
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 4
+  heritage_innovation: 6
+key_differentiators: []

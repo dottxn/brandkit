@@ -1,0 +1,31 @@
+chunk_id: "stripe-positioning"
+brand: stripe
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Stripe. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Stripe
+website: "https://stripe.com"
+founded: 2010
+category: fintech
+sub_category: Payment Infrastructure
+price_tier: premium
+primary_archetype: The Creator
+secondary_archetype: The Sage
+positioning_scales:
+  utility_theater: 3
+  access_exclusivity: 4
+  heritage_innovation: 9
+key_differentiators: []

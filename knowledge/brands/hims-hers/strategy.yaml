@@ -1,0 +1,30 @@
+chunk_id: "hims-hers-strategy"
+brand: "hims-hers"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "hims-hers-positioning"
+token_count: 48
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Hims & Hers. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="31-2,37-2">We believe how you feel in your body and mind transforms how you show up in life</cite>
+mission: "<cite index=\"31-2,34-1\">To help the world feel great through the power of better health</cite>"
+vision: >-
+  <cite index="33-23,35-1,35-2">To be the trusted front door to healthcare. Build a future where nothing stands in the way of individuals harnessing the power of better health</cite>
+values:
+  - "Patient-centricity"
+  - Innovation
+  - Accessibility
+  - Personalized care
+  - Integrity

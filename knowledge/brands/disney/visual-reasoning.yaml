@@ -1,0 +1,28 @@
+chunk_id: "disney-visual-reasoning"
+brand: disney
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "disney-visual-dna"
+  - "disney-soul"
+token_count: 235
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for The Walt Disney Company. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Walt Disney Script is the foundation—it's untouched because it's beyond criticism; it's iconic enough to appear at any size, any context. Avenir appears in supporting applications, providing contemporary sans-serif clarity that the flowing script can't offer alone. The combination (romantic script + modern sans) perfectly mirrors Disney's dual nature (timeless magic + contemporary relevance)
+colour_logic: >-
+  The palette (#003366 navy, #ED1C24 red, #FFD700 gold, #6B2C91 purple, #228B22 green) represents different emotional territories for different franchises. Deep blue suggests classic sophistication (older properties), gold signals luxury and magic, purple and green provide personality to newer properties. Warm undertones throughout (no cool greys, no pure blacks); everything feels alive and magical
+composition_philosophy: >-
+  Curved elements echo the flowing Disney script throughout all compositions. Cinderella Castle and Mickey Head appear as compositional anchors, drawing the eye toward magic. Photography focuses on moments of wonder (expressions, gestures) not product shots. Organic, asymmetrical layouts suggest movement and life. Warm gradients create depth without coldness
+what_would_break_it: >-
+  Redesigning the script wordmark, geometric/modernist design language, cool-color palettes, photorealistic imagery without Disney aesthetic coherence, static symmetrical compositions, or design that treats franchises as visually separate

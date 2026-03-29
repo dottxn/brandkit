@@ -1,0 +1,52 @@
+chunk_id: "royal-ballet-opera-voice"
+brand: "royal-ballet-opera"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "royal-ballet-opera-soul"
+token_count: 143
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Royal Ballet and Opera. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  The Royal Ballet and Opera is the home of world-class opera and ballet, bringing together two premier performing companies - The Royal Opera and The Royal Ballet - based at the historic Royal Opera Ho
+tone_traits:
+  - precise
+  - informed
+  - confident
+  - decisive
+  - emotionally stirring
+  - poetic
+  - atmospheric
+  - sensory
+  - surprising
+  - bold
+  - fresh perspectives
+  - "boundary-pushing"
+anti_traits:
+  - vague
+  - uncertain
+  - meandering
+  - clinical
+  - dry
+  - detached
+  - predictable
+  - stuffy
+  - conventional
+example_phrases:
+  - "Where love meets legend, carried on the wings of Tchaikovsky's timeless music"
+  - Nothing tastes better than forbidden love
+  - "Experience the magic of opera and ballet presented by the world-leading Royal Ballet and Opera"
+  - >-
+    We create art that makes you feel different about yourself and can change how you feel about the world
+guardrails:
+  never_say: []
+  always_sound: "precise, informed, confident, decisive, emotionally stirring"

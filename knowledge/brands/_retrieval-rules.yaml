@@ -1,0 +1,148 @@
+# ══════════════════════════════════════════════════
+# Retrieval Rules — Task-to-Chunk Mappings
+# ══════════════════════════════════════════════════
+#
+# Defines which chunks to load for each task type,
+# with per-brand token budgets. Used by load-context.py
+# to assemble exactly the right context for any agent task.
+#
+# Fields per task:
+#   always_load    — chunks loaded for every brand in the task
+#   load_if_exists — chunks loaded only if the brand has them (enriched)
+#   per_brand_budget — approximate token ceiling per brand
+#   description    — what this task profile is for
+#
+# Chunk domains: positioning, soul, voice, visual-dna, visual-language,
+#   competitive, strategy, insights, anti-patterns, visual-reasoning
+# ══════════════════════════════════════════════════
+
+version: "1.2"
+last_updated: "2026-03-12"
+
+tasks:
+
+  brand_comparison:
+    description: "Compare 2-5 brands on positioning, identity, and feel"
+    always_load:
+      - positioning
+      - soul
+    load_if_exists:
+      - voice
+      - visual-dna
+      - visual-language
+      - competitive
+    per_brand_budget: 800
+
+  visual_audit:
+    description: "Analyse visual identity, typography, colour, composition"
+    always_load:
+      - visual-dna
+      - visual-language
+    load_if_exists:
+      - visual-decisions
+      - visual-reasoning
+      - competitive
+    per_brand_budget: 600
+
+  brand_brief:
+    description: "Full brand overview for creative or strategic briefing"
+    always_load:
+      - positioning
+      - soul
+      - voice
+    load_if_exists:
+      - visual-dna
+      - visual-language
+      - visual-decisions
+      - channel-behaviour
+      - insights
+      - strategy
+    per_brand_budget: 1200
+
+  competitive_landscape:
+    description: "Map competitive relationships and market positioning"
+    always_load:
+      - competitive
+      - positioning
+    load_if_exists:
+      - soul
+      - visual-dna
+      - visual-language
+    per_brand_budget: 800
+
+  category_patterns:
+    description: "Identify patterns across brands in the same category"
+    always_load:
+      - positioning
+      - visual-dna
+    load_if_exists:
+      - visual-language
+      - competitive
+    per_brand_budget: 600
+
+  enrichment_prep:
+    description: "Load everything before enriching a brand to deeper level"
+    always_load:
+      - positioning
+      - soul
+      - voice
+      - visual-dna
+      - visual-language
+      - competitive
+      - strategy
+    load_if_exists:
+      - insights
+      - anti-patterns
+      - visual-reasoning
+    per_brand_budget: 2800
+
+  soul_deep_dive:
+    description: "Explore brand feeling, beliefs, tensions, and guardrails"
+    always_load:
+      - soul
+      - voice
+    load_if_exists:
+      - insights
+      - anti-patterns
+      - strategy
+    per_brand_budget: 1600
+
+  voice_guide:
+    description: "Assemble tone, personality, and guardrails for writing"
+    always_load:
+      - voice
+      - soul
+    load_if_exists:
+      - anti-patterns
+      - insights
+    per_brand_budget: 800
+
+  cluster_analysis:
+    description: "Analyse visual fingerprint (multi-cluster) or strategic cluster membership patterns"
+    always_load:
+      - competitive
+      - positioning
+      - visual-dna
+    load_if_exists:
+      - visual-language
+      - visual-reasoning
+    per_brand_budget: 800
+
+  quick_reference:
+    description: "Minimal context for a fast brand lookup"
+    always_load:
+      - positioning
+    load_if_exists: []
+    per_brand_budget: 200
+
+  visual_language_review:
+    description: "Deep review of photography, typography, layout, and visual modes"
+    always_load:
+      - visual-language
+      - visual-dna
+    load_if_exists:
+      - visual-decisions
+      - visual-reasoning
+      - soul
+      - competitive
+    per_brand_budget: 1000

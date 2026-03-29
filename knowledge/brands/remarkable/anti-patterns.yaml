@@ -1,0 +1,55 @@
+chunk_id: "remarkable-anti-patterns"
+brand: remarkable
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "remarkable-soul"
+  - "remarkable-visual-dna"
+token_count: 226
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for reMarkable. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Bright white minimalism suggesting lightness and air
+    reasoning: Deep charcoal minimalism suggesting focus and seriousness
+  - pattern: "Soft, rounded interface suggesting friendliness"
+    reasoning: Sharp geometric minimalism suggesting precision
+  - pattern: Multiple accent colors creating visual richness
+    reasoning: "Single orange accent (#ff6600) creating singular focal point"
+  - pattern: Motion and interaction animation in UI
+    reasoning: "Static, intentional interface suggesting permanence"
+strategic:
+  - pattern: Competing on tablet features and specs
+    reasoning: Competing on philosophy of focused thinking
+  - pattern: "Positioning as \"paper replacement\""
+    reasoning: "Positioning as \"distraction elimination\""
+  - pattern: Targeting all creators
+    reasoning: Targeting creators who are overwhelmed by digital complexity
+  - pattern: Building community through social features
+    reasoning: Building community through shared philosophy of focus
+tonal:
+  - pattern: Tech enthusiasm and capability celebration
+    reasoning: Quiet conviction about depth and focus
+  - pattern: Maximizing feature set
+    reasoning: Minimizing friction to core function
+  - pattern: Product specs and technology pride
+    reasoning: "Philosophy of thinking and distraction-freedom"
+  - pattern: Consumerist desire creation
+    reasoning: "Anti-consumerist focus enablement"
+cultural:
+  - pattern: Devices as consumption
+    reasoning: Devices as thinking tools
+  - pattern: "More features = better"
+    reasoning: "Fewer features = better"
+  - pattern: Digital as inevitable replacement
+    reasoning: "Digital as tool that should serve analog-like experience"
+  - pattern: "Always-on connectivity"
+    reasoning: Intentional disconnection

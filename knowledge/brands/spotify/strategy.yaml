@@ -1,0 +1,30 @@
+chunk_id: "spotify-strategy"
+brand: spotify
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "spotify-positioning"
+token_count: 78
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Spotify. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe music and audio have the power to unite people, spark conversations, and soundtrack life's moments
+mission: >-
+  To unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it
+vision: "To be the world's leading audio platform where creators and fans connect through the power of sound"
+values:
+  - Play
+  - Be Yourself
+  - Grow Together
+  - Do the Right Thing
+  - Innovation

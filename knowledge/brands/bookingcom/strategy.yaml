@@ -1,0 +1,29 @@
+chunk_id: "bookingcom-strategy"
+brand: bookingcom
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "bookingcom-positioning"
+token_count: 65
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Booking.com. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe travel has the power to transform lives and that everyone deserves the opportunity to experience the world
+mission: "<cite index=\"34-1,36-4,38-12\">To make it easier for everyone to experience the world</cite>"
+vision: >-
+  <cite index="33-14">To make the planning, booking, and travel experience easier, more personal, and more enjoyable</cite>
+values:
+  - "<cite index=\"31-3\">Do the right thing</cite>"
+  - "<cite index=\"31-6\">Think customer first</cite>"
+  - "<cite index=\"31-4\">Learn forever</cite>"
+  - "<cite index=\"33-10,38-1\">We are driven to be the best</cite>"

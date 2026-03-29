@@ -1,0 +1,28 @@
+chunk_id: "remarkable-soul"
+brand: remarkable
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "remarkable-positioning"
+token_count: 131
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of reMarkable. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: "The moment pen meets paper and the world dissolves—distraction-free clarity made tangible"
+core_belief: "The best thinking happens in focus, and focus requires tactile realness, not digital simulation"
+creative_tension:
+  - "Premium, desirable product that positions itself as antidote to consumerism and distraction"
+  - Digital device built on the philosophy that digital distracts—the contradiction that drives design
+decision_filter: "Does this eliminate distraction or introduce it? Every feature must reduce friction to pure writing"
+signature_move: >-
+  Extreme minimalism (deep charcoal #1a1a1a, warm white #fafafa) punctuated by orange accent (#ff6600) as singular call-to-action
+what_would_break_it: >-
+  Adding color gradients, bloom effects, or notification systems would destroy reMarkable's core positioning as the device for focused thinking

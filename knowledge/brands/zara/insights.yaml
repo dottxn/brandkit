@@ -1,0 +1,32 @@
+chunk_id: "zara-insights"
+brand: zara
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "zara-soul"
+  - "zara-positioning"
+token_count: 185
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Zara. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Zara's competitive advantage isn't design—it's speed of execution. The visual system must communicate authority and sophistication to justify the quality perception despite the price point.
+  - >-
+    Monochromatic photography (black/white/gray) creates editorial quality that suggests the clothing is more valuable than it costs. Color photography would undersell the positioning.
+  - >-
+    The typography system rejects both luxury serifs and trendy geometric fonts—instead using clean, modern sans-serif that feels contemporary without dating itself.
+  - >-
+    Architectural photography angles and gallery-like presentation elevate fast fashion to the perception of museum-quality curation.
+  - >-
+    The brand's silence about supply chains and production is a strategic choice—visibility of speed and scale would undermine the premium positioning.
+what_nobody_copies: >-
+  The ability to photograph fast fashion in ways that communicate luxury despite the price point. Competitors show lifestyle and aspiration; Zara shows editorial sophistication.

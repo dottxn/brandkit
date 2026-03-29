@@ -1,0 +1,40 @@
+chunk_id: "apple-voice"
+brand: apple
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "apple-soul"
+token_count: 85
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Apple. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Apple designs, manufactures, and markets consumer electronics, personal computers, and software, creating an integrated ecosystem of products and services that prioritize user experience.
+tone_traits:
+  - clear
+  - direct
+  - authoritative without arrogance
+  - empathetic
+  - inspiring
+  - focused on impact
+anti_traits:
+  - avoid jargon
+  - complexity
+  - or overselling
+  - "avoid tech-for-tech's-sake or cold corporate speak"
+example_phrases:
+  - "We believe that we're on the face of the earth to make great products"
+  - "Privacy. That's iPhone."
+  - Think Different
+  - It just works
+guardrails:
+  never_say: []
+  always_sound: "clear, direct, authoritative without arrogance, empathetic, inspiring"

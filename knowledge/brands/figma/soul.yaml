@@ -1,0 +1,33 @@
+chunk_id: "figma-soul"
+brand: figma
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "figma-positioning"
+token_count: 230
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Figma. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A shared studio where the constraints of geometry and the freedom of imagination happen simultaneously, in real-time, with people you've never met
+core_belief: >-
+  Great products live at the intersection of individual creative vision and collaborative decision-making; tools that bridge this gap unlock entirely new categories of work
+creative_tension:
+  - >-
+    We celebrate radical visual boldness and maximalist expression while insisting on systematic, repeatable, logical design principles (jumbo nodes aren't chaos, they're intentional gesture language)
+  - >-
+    We are simultaneously a tool for individual artists and a team coordination platform that levels everyone's voice to the same visual plane (no hierarchy of voice in the shared canvas)
+decision_filter: >-
+  Does this expand the creative possibility space while maintaining shared clarity? Does it honor both the individual maker and the collaborative moment?
+signature_move: >-
+  Jumbo nodes—oversized corner handles on every element that visualize selection and create a shared visual language of intention across the canvas
+what_would_break_it: >-
+  Designing toward maximalism without the discipline of the design system. The moment Figma's visual language becomes decorative rather than functional, it stops teaching by example. The brand's work itself must embody good design thinking.

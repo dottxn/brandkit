@@ -1,0 +1,36 @@
+chunk_id: "uber-voice"
+brand: uber
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "uber-soul"
+token_count: 40
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Uber. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Uber is a technology platform that connects riders with drivers through a mobile app, providing on-demand transportation services. The company has expanded beyond ride-sharing to include food delivery
+tone_traits:
+  - "direct"
+  - "efficient"
+  - "urban"
+  - "modern"
+  - "reliable"
+anti_traits:
+  - flashy
+  - overpromising
+  - slow
+  - complicated
+  - impersonal
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like a confident city native who knows the fastest route"

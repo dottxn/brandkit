@@ -1,0 +1,64 @@
+# ──────────────────────────────────────────────
+# Pfizer — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Team Design"
+    type: "branding"
+    url: "https://team.design/"
+    project_url: "https://team.design/work/pfizer/"
+    relationship: "Led 18-month rebrand project (24-person team) creating ribbon helix logo and visual system refresh; first major rebrand in 70 years"
+
+  - name: "Landor & Fitch"
+    type: "branding"
+    url: "https://www.landor.com/"
+    relationship: "Provided brand strategy framework for 2021 rebrand positioning"
+
+  - name: "AKQA"
+    type: "digital-design"
+    url: "https://www.akqa.com/"
+    relationship: "Designed digital experience bringing ribbon helix to life through 3D animation and scroll-triggered interactions"
+
+  - name: "MCKL"
+    type: "type-foundry"
+    url: "https://www.mckltype.com/"
+    relationship: "Created custom Pfizer wordmark based on precision custom work principles"
+
+people:
+  - name: "John Clark"
+    role: "Creative Director, Team Design"
+    url: "https://team.design/"
+    context: "Co-founder and creative director, led Pfizer rebrand creative direction"
+
+  - name: "Amy Globus"
+    role: "Creative Director, Team Design"
+    url: "https://team.design/"
+    context: "Co-founder and creative director, led Pfizer rebrand creative direction"
+
+  - name: "Sabri Akın"
+    role: "Designer"
+    url: "https://sabriakin.com/"
+    context: "Created ribbon helix logo under creative directors Clark and Globus"
+
+  - name: "Jeremy Mickel"
+    role: "Type Designer, MCKL"
+    url: "https://www.mckltype.com/"
+    context: "Created custom Pfizer wordmark, bridging 170+ years of brand history with contemporary pharmaceutical positioning"
+
+publications:
+  - title: "Health Communication Today"
+    author: "Various"
+    relevance: "Informs Pfizer's patient-centred visual approach in pharmaceutical communications"
+
+visuals:
+  - url: "https://www.pfizer.com/"
+    label: "Pfizer homepage with ribbon helix animation and patient-centred brand messaging"
+    section: "visual-language"
+
+  - url: "https://www.pfizer.com/science/breakthrough-science"
+    label: "Science communication showcasing 3D molecular visualisations and research leadership"
+    section: "visual-language"
+
+  - url: "https://www.pfizer.com/medicines/breast-cancer-a-story-half-told"
+    label: "Documentary photography campaign partnering with cancer advocacy groups"
+    section: "visual-language"

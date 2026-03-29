@@ -1,0 +1,36 @@
+chunk_id: "stripe-voice"
+brand: stripe
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "stripe-soul"
+token_count: 39
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Stripe. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Stripe is a financial technology company that provides payment processing software and APIs for e-commerce websites and mobile applications. They offer a comprehensive suite of financial infrastructur
+tone_traits:
+  - "precise"
+  - "clear"
+  - "developer-first"
+  - "understated"
+  - "confident"
+anti_traits:
+  - flashy
+  - buzzy
+  - oversimplified
+  - jargon-heavy
+  - patronizing
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like the smartest engineer who explains things simply"

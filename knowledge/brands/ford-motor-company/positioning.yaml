@@ -1,0 +1,31 @@
+chunk_id: "ford-motor-company-positioning"
+brand: "ford-motor-company"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 58
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Ford Motor Company. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Ford Motor Company
+website: "https://www.ford.com"
+founded: 1903
+category: automotive
+sub_category: vehicles and mobility
+price_tier: "mid-range"
+primary_archetype: The Explorer
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 4
+  access_exclusivity: 3
+  heritage_innovation: 4
+key_differentiators: []

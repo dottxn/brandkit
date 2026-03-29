@@ -1,0 +1,71 @@
+chunk_id: "impossible-foods-anti-patterns"
+brand: "impossible-foods"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "impossible-foods-soul"
+  - "impossible-foods-visual-dna"
+token_count: 473
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Impossible Foods. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Red gradient packaging (#CC0000 to #8B0000)"
+    reasoning: >-
+      belief that meat identity comes first; plant-source is implementation detail; color references cooking stages
+  - pattern: Sans Meat custom typeface
+    reasoning: "flared, hand-drawn strokes reference butcher signage authenticity; bold confidence without apology"
+  - pattern: Woodcut illustrations of meat cuts
+    reasoning: >-
+      historical reference to butcher practice legitimizes product; heritage visual language > contemporary design
+  - pattern: "Close-up product photography showing texture and \"bleed\""
+    reasoning: "revealing plant-based meat texture as feature, not bug; emphasis on sensory evidence"
+  - pattern: "Styrofoam-inspired sticker devices"
+    reasoning: >-
+      direct reference to meat packaging aesthetic; visual honesty about sourcing from butcher packaging tradition
+  - pattern: Uppercase typography for shelf impact
+    reasoning: "\"IMPOSSIBLE\" and product names in caps to command meat aisle attention; shouty confidence"
+strategic:
+  - pattern: "Meat-eater targeting, not vegans"
+    reasoning: "positioning as category evolution, not ethical conversion; competing in meat mindshare, not ethics"
+  - pattern: "Taste-first claim"
+    reasoning: "leading with flavor, not sustainability or ethics; \"tastes like meat\" is the core promise"
+  - pattern: Butcher positioning
+    reasoning: >-
+      competing in meat category, not foods category; shelf placement in meat section, not plant-based section
+  - pattern: Heme technology as hero
+    reasoning: proprietary innovation that enables actual meat behavior; science as product differentiator
+  - pattern: Barbecue and cookout association
+    reasoning: "positioning in high-pleasure food occasions, not ethical eating moments; celebrating indulgence"
+tonal:
+  - pattern: Boldly confident not apologetic
+    reasoning: "product doesn't need to justify existence; plant-source is strength, not liability"
+  - pattern: "Carnivore-friendly language"
+    reasoning: >-
+      'bleed,' 'sizzle,' 'char'—meat vocabulary not plant vocabulary; speaking the target audience's native language
+  - pattern: Provocatively smart
+    reasoning: challenging food industry assumptions while proving claims with actual product performance
+  - pattern: Direct and honest
+    reasoning: "no vegan evangelism; just \"this tastes like meat\"; refusing wellness or ethical marketing frame"
+  - pattern: Celebration of eating pleasure
+    reasoning: "positioning as indulgence, not compromise; meat eaters can feel good about their choice"
+cultural:
+  - pattern: Alternative protein market evolution
+    reasoning: "shifting from niche vegan category to mainstream meat substitution through meat-lovers"
+  - pattern: Environmental activism through commerce
+    reasoning: "solving climate problem through taste satisfaction, not dietary sacrifice; no guilt required"
+  - pattern: Food science revolution
+    reasoning: >-
+      proprietary heme technology enables actual meat experience; positioning innovation as feature not gimmick
+  - pattern: Meat category disruption
+    reasoning: "plant-based meat no longer niche category; becoming standard option in meat aisle"
+  - pattern: Culinary parity positioning
+    reasoning: "plant-based meat achieves sensory parity with animal meat; no longer a compromise, a choice"

@@ -1,0 +1,28 @@
+chunk_id: "erdem-visual-reasoning"
+brand: erdem
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "erdem-visual-dna"
+  - "erdem-soul"
+token_count: 236
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for ERDEM. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  The custom serif family is editorial and refined—not decorative, but intentionally historic-leaning, suggesting that every piece has a story. The refined sans-serif provides contrast for technical information. Serif characteristics signal that ERDEM operates in dialogue with fashion history; the serif is a nod to editorial tradition while custom proportions keep it contemporary
+colour_logic: >-
+  Deep atmospheric colors (#1B2951 inky blue, #8B8B8B ghostly grey, #D4A5A5 antique pink, #A5C9A5 muted apple green, #722F37 burgundy) create a palette of memory and history—colors that suggest age, refinement, and intellectual depth. No bright colors; no primary colors. The muted range suggests looking at historical textiles and paintings. Gradients are subtle, creating atmospheric depth without kitsch
+composition_philosophy: >-
+  Asymmetrical layouts mirror the experimental nature of fashion-as-art. White space is generous, allowing garments to breathe and be scrutinized like museum pieces. Imagery is painterly and artistic rather than commercial fashion photography. Hierarchy celebrates the garment as art object, with technical information supplementary. Color treatments are atmospheric, creating mood rather than clarity
+what_would_break_it: >-
+  Geometric minimalism, bright saturated colors, symmetrical centered layouts, straightforward literal imagery, sales-focused tone, or removing the forensic research narrative from visual communication

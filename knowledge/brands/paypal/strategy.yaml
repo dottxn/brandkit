@@ -1,0 +1,30 @@
+chunk_id: "paypal-strategy"
+brand: paypal
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "paypal-positioning"
+token_count: 80
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for PayPal. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that now is the time to democratize financial services so that managing and moving money is a right for all citizens, not just the affluent.
+mission: >-
+  To democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.
+vision: >-
+  To be the commerce platform powering the global economy, creating a world where everyone has access to simple, secure, and convenient financial services.
+values:
+  - Inclusion
+  - Innovation
+  - Collaboration
+  - Wellness

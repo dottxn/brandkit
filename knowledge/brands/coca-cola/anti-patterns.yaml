@@ -1,0 +1,56 @@
+chunk_id: "coca-cola-anti-patterns"
+brand: "coca-cola"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "coca-cola-soul"
+  - "coca-cola-visual-dna"
+token_count: 374
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Coca-Cola. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Modernizing the Spencerian script or creating alternative wordmarks
+    reasoning: "Severs the visual continuity that makes Coca-Cola timelessly recognizable"
+  - pattern: "Detailed, intricate illustrations or patterns"
+    reasoning: "Conflicts with \"do a lot with a little\" philosophy that drives global consistency"
+  - pattern: Cool blue or neutral color palettes in primary campaigns
+    reasoning: Undermines the red equity that took 138 years to accumulate
+  - pattern: "Symmetrical, static compositions"
+    reasoning: Kills the movement and life that the Dynamic Ribbon injects
+strategic:
+  - pattern: Treating heritage as restraint instead of strength
+    reasoning: "Misses the unique competitive moat that 138 years creates (Pepsi can't buy heritage)"
+  - pattern: Expanding into premium or luxury positioning
+    reasoning: "Abandons the democratic, universal core that makes Coca-Cola culturally powerful"
+  - pattern: Marketing that emphasizes product variety instead of shared moment
+    reasoning: Dilutes the focus on the ritual that drives habitual repurchase
+  - pattern: Sustainability messaging separated from brand narrative
+    reasoning: Signals PR rather than genuine commitment to business model evolution
+tonal:
+  - pattern: "Overly casual, Gen Z slang-heavy language"
+    reasoning: "Sounds inauthentic coming from a 138-year-old institution; authenticity is the differentiator"
+  - pattern: Apologies or defensive language about health concerns
+    reasoning: Admits weakness instead of owning the moment of happiness regardless of nutrition
+  - pattern: Technical language about ingredients or processes
+    reasoning: "Bores the customer who wants moments, not specifications"
+  - pattern: Marketing focused on individual benefit instead of shared gathering
+    reasoning: "Misses the core truth that Coca-Cola is social lubricant"
+cultural:
+  - pattern: Homogenizing global campaigns without local cultural nuance
+    reasoning: Wastes the opportunity to be globally consistent yet locally meaningful
+  - pattern: Treating diversity representation as compliance rather than genuine inclusion in storytelling
+    reasoning: Feels mandated rather than authentic
+  - pattern: "Ignoring alcohol-free markets or religious restrictions in some regions"
+    reasoning: Misses growth opportunities in underserved markets
+  - pattern: >-
+      Centering Western consumption patterns while global markets evolve toward different beverage preferences
+    reasoning: "Loses market share in fastest-growing regions"

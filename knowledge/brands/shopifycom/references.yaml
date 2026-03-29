@@ -1,0 +1,44 @@
+# ──────────────────────────────────────────────
+# Shopify — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Rasmus Andersson"
+    type: "type-foundry"
+    url: "https://rsms.me/"
+    project_url: "https://rsms.me/work/inter/"
+    relationship: "Created Inter open-source variable typeface serving as primary typeface across Polaris design system and marketing"
+
+publications:
+  - title: "Inter: A Free and Open-Source Typeface for Screen"
+    author: "Rasmus Andersson"
+    relevance: "Documents the design of Shopify's primary typeface, optimized for on-screen readability at small UI sizes"
+
+  - title: "Polaris Design System: Merchant-Empowerment Through Design"
+    author: "Shopify"
+    relevance: "Comprehensive design system documentation governing typography, spacing, color, and interaction patterns"
+
+  - title: "Shopify Editions: Biannual Product Launch Events"
+    author: "Shopify"
+    relevance: "Campaign-specific visual treatments for product launches and feature announcements"
+
+visuals:
+  - url: "https://github.com/rsms/inter"
+    label: "Inter typeface on GitHub — Open-source variable font with 18 styles and 2000+ glyphs"
+    section: "visual-language"
+
+  - url: "https://shopify.com/"
+    label: "Shopify.com marketing pages — Merchant empowerment positioning and green visual identity"
+    section: "visual-language"
+
+  - url: "https://www.shopify.com/admin"
+    label: "Shopify Admin dashboard — Polaris design system implementation with Inter typography"
+    section: "visual-world"
+
+  - url: "https://www.shopify.com/plus"
+    label: "Shopify Plus enterprise marketing — Premium register and enterprise merchant case studies"
+    section: "visual-language"
+
+  - url: "https://shop.rsms.me/"
+    label: "Rasmus Andersson's Shopify merchandise store — Supporting Inter development"
+    section: "visual-language"

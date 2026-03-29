@@ -1,0 +1,31 @@
+chunk_id: "discord-positioning"
+brand: discord
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Discord. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Discord
+website: "https://discord.com"
+founded: 2015
+category: "social-community"
+sub_category: "community-communication"
+price_tier: budget
+primary_archetype: The Jester
+secondary_archetype: The Everyman
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 3
+  heritage_innovation: 8
+key_differentiators: []

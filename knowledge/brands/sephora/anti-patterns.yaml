@@ -1,0 +1,55 @@
+chunk_id: "sephora-anti-patterns"
+brand: sephora
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "sephora-soul"
+  - "sephora-visual-dna"
+token_count: 209
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Sephora. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Luxury beauty minimalism suggesting exclusion
+    reasoning: Monochromatic luxury paired with vibrant pink suggesting inclusivity
+  - pattern: Aspirational imagery of beautiful people
+    reasoning: "Mirror metaphors (reflecting the person, not dictating beauty standard)"
+  - pattern: Professional beauty expert positioning
+    reasoning: "Community-of-equals positioning with expert support available"
+  - pattern: Single beauty aesthetic
+    reasoning: Celebration of infinite beauty expression
+strategic:
+  - pattern: Curating beauty standards
+    reasoning: Curation supporting diverse expression
+  - pattern: Competing on product quality
+    reasoning: Competing on discovery experience and community
+  - pattern: Marketing to established beauty consumers
+    reasoning: Targeting people intimidated by beauty categories
+  - pattern: Positioning beauty as skill requiring training
+    reasoning: Positioning beauty as personal expression requiring support
+tonal:
+  - pattern: Beauty authority and gatekeeping
+    reasoning: Inclusive expert friendship
+  - pattern: "Aspirational (\"be like this\")"
+    reasoning: "Empowering (\"be yourself fearlessly\")"
+  - pattern: Product selling
+    reasoning: Community building
+  - pattern: Beauty as external achievement
+    reasoning: Beauty as internal expression
+cultural:
+  - pattern: Beauty as single standard
+    reasoning: Beauty as infinite expression
+  - pattern: Beauty expertise as exclusive
+    reasoning: Beauty education as accessible
+  - pattern: Makeup as covering flaws
+    reasoning: Makeup as creative expression
+  - pattern: Shopping as transaction
+    reasoning: Beauty discovery as community experience

@@ -1,0 +1,31 @@
+chunk_id: "sephora-positioning"
+brand: sephora
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Sephora. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Sephora
+website: "https://www.sephora.com"
+founded: 1970
+category: beauty
+sub_category: "prestige-beauty-retail"
+price_tier: premium
+primary_archetype: The Magician
+secondary_archetype: The Caregiver
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 5
+  heritage_innovation: 7
+key_differentiators: []

@@ -1,0 +1,52 @@
+# Chunk Template: visual-dna.yaml
+# Domain: visual
+# Target: ~400 tokens
+# Present for: all brands (baseline + enriched)
+
+chunk_id: "{brand}-visual-dna"
+brand: "{brand}"
+domain: "visual"
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - "color"
+  - "typography"
+depends_on:
+  - "{brand}-positioning"
+token_count: 0
+format: "yaml"
+version: "1.0"
+last_updated: "2026-02-20"
+status: "active"
+enrichment_level: "baseline"
+summary: >-
+  Visual DNA for {brand_display}. Colors, type, visual tags,
+  signature devices, aesthetic era.
+
+# ── Data ─────────────────────────────────────────
+
+colors: []                  # Array of {name, hex, role}
+typography: []              # Array of {name, role, style}
+
+visual_tags:
+  palette_mood: ""
+  palette_range: ""
+  type_class: ""
+  type_character: ""
+  type_weight: ""
+  imagery_medium: ""
+  imagery_subject: ""
+  imagery_treatment: ""
+  layout_density: ""
+  whitespace: ""
+  aesthetic_era: ""
+  conceptual_approach: ""
+  framing_device: ""
+  symbolic_type: ""
+  texture_feel: ""
+  shape_language: ""
+  contrast_level: ""
+  identity_system: ""
+  signature_device: ""
+
+composition_logic: ""       # How elements relate on the page

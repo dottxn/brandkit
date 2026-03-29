@@ -1,0 +1,49 @@
+chunk_id: "netflix-voice"
+brand: netflix
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "netflix-soul"
+token_count: 98
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Netflix. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Global entertainment company delivering streaming services with original content, series, films and documentaries across 190+ countries.
+tone_traits:
+  - informal
+  - friendly
+  - approachable
+  - human
+  - clever humor
+  - pop culture savvy
+  - "meme-friendly"
+  - entertaining
+  - confident statements
+  - direct communication
+  - unafraid of risks
+anti_traits:
+  - corporate jargon
+  - overly formal language
+  - boring
+  - serious
+  - professional distance
+  - tentative
+  - "wishy-washy"
+  - overly cautious
+example_phrases:
+  - "You've been waiting. Here's what's new"
+  - "Know you've been waiting. The line-up is looking nice"
+  - "At Netflix, we aspire to entertain the world, thrilling audiences everywhere"
+  - "See What's Next"
+guardrails:
+  never_say: []
+  always_sound: "informal, friendly, approachable, human, clever humor"

@@ -1,0 +1,55 @@
+chunk_id: "cvs-pharmacy-visual-dna"
+brand: "cvs-pharmacy"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "cvs-pharmacy-positioning"
+token_count: 83
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for CVS Pharmacy. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#CC0000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: "CVS Custom (Bold Sans-serif)"
+    role: ""
+    style: ""
+  - name: Helvetica Neue
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: geometric
+  type_weight: bold
+  imagery_medium: photography
+  imagery_subject: product
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: none
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  Heart-centered layouts with generous white space, clear hierarchy, and the red heart as primary focal point

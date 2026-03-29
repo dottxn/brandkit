@@ -1,0 +1,28 @@
+chunk_id: "amazon-visual-reasoning"
+brand: amazon
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "amazon-visual-dna"
+  - "amazon-soul"
+token_count: 184
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Amazon. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Amazon Ember Modern and Logo Sans are custom typefaces because off-the-shelf fonts are compromise—these are designed to be identifiable at 12pt on phone screens and 1000pt on billboards, across every global market. Humanist characteristics (organic proportions) make corporate infrastructure feel approachable rather than institutional
+colour_logic: >-
+  Smile Orange (#FF9900) is distinctly warm—it feels like competence with pleasure, not coldness with efficiency. Black and white provide contrast that doesn't require hierarchy; information becomes democratic. Blue (#146EB4) appears as auxiliary support, not primary assertion
+composition_philosophy: >-
+  Logo-centric is radical honesty—the smile arrow is the entire brand promise. Generous whitespace isn't luxury; it's cognitive clarity. Everything revolves around the smile, which means every layout tells the story of customer benefit first
+what_would_break_it: >-
+  Hierarchical color systems (good/bad), serif fonts in primary applications, asymmetry that disrupts the smile logic, or any design language that makes Amazon's infrastructure visible instead of customer benefit

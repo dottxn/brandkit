@@ -1,0 +1,29 @@
+chunk_id: "etsy-strategy"
+brand: etsy
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "etsy-positioning"
+token_count: 29
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Etsy. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe creativity cannot be automated and human connection cannot be commoditized
+mission: To keep commerce human
+vision: To reimagine commerce in ways that build a more fulfilling and lasting world
+values:
+  - Creativity
+  - Community
+  - Authenticity
+  - Human Connection
+  - Sustainability
+  - Empowerment

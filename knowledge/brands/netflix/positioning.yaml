@@ -1,0 +1,31 @@
+chunk_id: "netflix-positioning"
+brand: netflix
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 52
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Netflix. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Netflix
+website: "https://www.netflix.com"
+founded: 1997
+category: entertainment
+sub_category: global streaming
+price_tier: "mid-range"
+primary_archetype: The Magician
+secondary_archetype: The Creator
+positioning_scales:
+  utility_theater: 8
+  access_exclusivity: 3
+  heritage_innovation: 9
+key_differentiators: []

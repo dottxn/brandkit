@@ -1,0 +1,38 @@
+chunk_id: "rivian-competitive"
+brand: rivian
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "rivian-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Rivian. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - tesla
+  - "ford-motor-company"
+  - bmw
+  - jaguar
+  - patagonia
+industry_norms_it_breaks: "The four-arrow compass logo where outer arrows push outward (innovation, exploration) while inner arrows point inward (purpose, responsibility)—movement without leaving scars | The willingness to show vehicles in *actually difficult* terrain covered in actual dirt, with *real* fatigue on the drivers' faces. Most automotive brands sterilize their imagery. Rivian leans into th | Does this move forward adventure while preserving the world that makes adventure possible? If both aren't true, it fails the filter."
+visual_cluster: "warm-humanist"
+visual_fingerprint:
+  - cluster: "warm-humanist"
+    role: "dominant"
+    where: "Adventure community, outdoor warmth, Compass logo"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Adventure content, dramatic landscape photography"
+  - cluster: "geometric-clean"
+    role: "accent"
+    where: "Vehicle UI, systematic product design"
+strategic_cluster: "experience-curator"
+category: automotive

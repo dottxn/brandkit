@@ -1,0 +1,33 @@
+chunk_id: "hulu-soul"
+brand: hulu
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "hulu-positioning"
+token_count: 474
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Hulu. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  The moment after a long workday when you collapse on the couch and the streaming interface loads—infinite possibility, no friction between want and watch, the promise that somewhere in this abundance is the exact story you need right now. Hulu doesn't feel like work (searching, deciding, optimizing). It feels like joy. It's the anti-cable—no schedules, no commercials (unless you choose them), no gatekeeping. The green glow of the interface is almost alive, pulsing with energy and possibility. Hulu feels like it's rooting for you to have fun, not trying to extract value or attention. It's television's ghost story come to haunt the present—cable TV that learned to be human.
+core_belief: >-
+  Television should feel less like work (endless searching, analysis paralysis) and more like discovery (serendipity, curation, joy); technology should celebrate content, not compete with it or get in the way of the experience.
+creative_tension:
+  - >-
+    Premium content curation vs. algorithmic abundance. Hulu uses AI to navigate infinite choice without losing the magic of discovery. Human curation and algorithmic recommendation must coexist: algorithms feel impersonal and corporate, but human curation alone can't scale. The tension is in maintaining the feeling of discovery while using transparent technology.
+  - >-
+    Standalone brand identity vs. Disney+ integration. Disney's 2026 strategy integrates Hulu into Disney+ while preserving the Hulu brand globally. The tension is real: how do you maintain personality within a larger corporate system? How do you remain the quirky, irreverent platform while becoming infrastructure? This tension will define Hulu's future viability.
+decision_filter: >-
+  Does this make watching TV feel easier or more complicated? Is Hulu the hero or just infrastructure? Would this decision enhance the viewing experience or optimize for business metrics? The brand must choose the viewer experience over conversion optimization.
+signature_move: >-
+  The Vessel system—a rounded-rectangle container derived from the 'u' in Hulu wordmark, used consistently as content frame throughout the platform. The Vessel is metaphor for containment and potential—content inside a vessel feels curated and intentional, not algorithmic. This device appears in layouts, photography, promotional materials, and product interface.
+what_would_break_it: >-
+  Abandoning green for trendy colors; flattening the Vessel system for algorithmic grid; adopting corporate design language from parent company; losing the playful personality in pursuit of premium positioning; becoming indistinguishable from Netflix through visual homogeneity.

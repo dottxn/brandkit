@@ -1,0 +1,31 @@
+chunk_id: "uber-strategy"
+brand: uber
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "uber-positioning"
+token_count: 66
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Uber. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in creating opportunity through movement - that transportation should be reliable, accessible, and seamless for everyone
+mission: To ignite opportunity by setting the world in motion
+vision: >-
+  To become the operating system for everyday life by reimagining the way the world moves for the better
+values:
+  - "We build globally, we live locally"
+  - We are customer obsessed
+  - We celebrate differences
+  - We do the right thing
+  - We act like owners
+  - We persevere

@@ -1,0 +1,36 @@
+chunk_id: "coca-cola-competitive"
+brand: "coca-cola"
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "coca-cola-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Coca-Cola. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - pepsi
+  - oatly
+  - starbucks
+industry_norms_it_breaks: "The Spencerian script wordmark—unchanged since 1887, allowing everything else to be modern without losing identity | The discipline to keep heritage sacred while building a living, contemporary visual system that feels alive without betraying what came before | Does this honor what made Coca-Cola iconic while making it feel contemporary and culturally alive right now?"
+visual_cluster: "warm-humanist"
+visual_fingerprint:
+  - cluster: "warm-humanist"
+    role: "dominant"
+    where: "Brand classic, community moments, candid photography"
+  - cluster: "heritage-craft"
+    role: "secondary"
+    where: "Spencerian script, glass bottle, red-and-white legacy"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Zero Sugar variant, sponsorship events, high energy"
+strategic_cluster: "trusted-guide"
+category: "food-beverage"

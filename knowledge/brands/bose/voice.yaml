@@ -1,0 +1,48 @@
+chunk_id: "bose-voice"
+brand: bose
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "bose-soul"
+token_count: 80
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Bose. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Bose Corporation is a leading global audio technology company known for premium sound systems, noise-cancelling headphones, and innovative audio solutions. Founded in 1964, the company has pioneered b
+tone_traits:
+  - Confident
+  - knowledgeable
+  - "research-backed"
+  - Experiential
+  - visceral
+  - transformative
+  - Innovative
+  - "forward-thinking"
+  - pioneering
+anti_traits:
+  - Arrogant
+  - technical jargon
+  - intimidating
+  - Generic
+  - superficial
+  - clinical
+  - Dated
+  - conservative
+  - followers
+example_phrases:
+  - Sound is power
+  - Immersive Audio
+  - "Remind your ears why they're here"
+  - Sound just got real
+guardrails:
+  never_say: []
+  always_sound: "Confident, knowledgeable, research-backed, Experiential, visceral"

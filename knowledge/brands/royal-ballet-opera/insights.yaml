@@ -1,0 +1,32 @@
+chunk_id: "royal-ballet-opera-insights"
+brand: "royal-ballet-opera"
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "royal-ballet-opera-soul"
+  - "royal-ballet-opera-positioning"
+token_count: 188
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Royal Ballet and Opera. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Cultural institutions succeed when they speak to heritage as living, not preserved—"Living Timeline" concept treats past, present, future as simultaneous rather than sequential
+  - >-
+    Performing arts brands need visual system that can express motion while supporting production design—Royal Ballet/Opera's layering system achieves both
+  - >-
+    Vibrant, expansive color palette (#DC143C crimson, #FF1493 deep pink, #FF4500 orange-red, #00FFFF cyan, #FFD700 gold) works for high art because it prioritizes emotion over restraint
+  - >-
+    Mixed typography (Victor Serif for drama, Grey for structure) mirrors the marriage of Ballet and Opera as distinct art forms unified in institution
+  - >-
+    Institutional rebrand success depends on whether heritage communities (dancers, artists, longtime patrons) feel honored or abandoned
+what_nobody_copies: >-
+  The architectural decision to center brand identity around the concept of temporal simultaneity (past-present-future visible at once) rather than narrative progression—this is conceptually ambitious

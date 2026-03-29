@@ -1,0 +1,28 @@
+chunk_id: "bmw-soul"
+brand: bmw
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "bmw-positioning"
+token_count: 131
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of BMW. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: The moment between precision and freedom when you understand what a machine can do
+core_belief: "Machines are not tools; they are partners in experiencing what's possible"
+creative_tension:
+  - "Heritage icon (kidney grille, angel eyes) vs. pure technological future (stripped roundel)"
+  - Exclusivity through price point vs. exclusivity through earned excellence
+decision_filter: >-
+  Does this make the driver feel the union between human control and machine capability, or does this celebrate the car as decoration?
+signature_move: "The kidney grille as identity and function—not applied branding, but integrated structure"
+what_would_break_it: >-
+  Softening the geometric precision, adding ornamental detail, substituting emotional photography for technical clarity, or treating heritage as constraint rather than foundation

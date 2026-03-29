@@ -1,0 +1,28 @@
+chunk_id: "aesop-visual-reasoning"
+brand: aesop
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "aesop-visual-dna"
+  - "aesop-soul"
+token_count: 205
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Aesop. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Hermann Zapf designed Optima in 1958 after studying inscriptions on Florentine gravestones. The letterforms carry that history — they're rooted in carved stone, not industrial printing. For a brand that references apothecaries, literature, and architecture, a typeface born from observing Renaissance craft is philosophically perfect.
+colour_logic: >-
+  The brown/cream/black palette isn't a palette choice — it's a material truth. These are the colours of amber glass, kraft paper, dark wood, and linen. They emerge from the objects, not from a mood board. In an industry where colour is used to excite, Aesop's palette says: we are the colour of our ingredients and our containers.
+composition_philosophy: >-
+  Asymmetrical arrangements that feel curated rather than designed. Generous whitespace not as a trend but as a philosophical position — emptiness is where the customer's attention can settle. The grid exists but never announces itself.
+what_would_break_it: >-
+  A rounded, friendly sans-serif like Circular or Cereal. The moment Aesop's typography feels approachable and tech-startup-warm, the entire intellectual positioning collapses.

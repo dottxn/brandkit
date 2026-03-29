@@ -1,0 +1,32 @@
+chunk_id: "youtube-insights"
+brand: youtube
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "youtube-soul"
+  - "youtube-positioning"
+token_count: 219
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for YouTube. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    YouTube's visual system is designed to be invisible—the red play button is so iconic it communicates instantly, allowing the system to step back and let creator content be the star.
+  - >-
+    The red (#FF0000) works because it's not sophisticated or trending; it's primary color pure and simple, which is exactly what a universal platform needs.
+  - >-
+    YouTube Sans was designed to be neutral and functional—the typeface serves information without personality. This allows the system to adapt to any creator's brand.
+  - >-
+    Diversity in video thumbnails and creator branding is celebrated, not minimized. YouTube's visual system provides the frame; creators fill it with their expression.
+  - >-
+    The brand avoids making the platform feel like a community (like Reddit or Discord). Instead, it positions itself as a discovery system—neutral, algorithmic, open to all.
+what_nobody_copies: >-
+  The commitment to creator brand prominence over platform brand. Every design decision prioritizes making creator content look better, even if it means YouTube's branding is less visible.

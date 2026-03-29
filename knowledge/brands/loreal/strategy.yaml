@@ -1,0 +1,23 @@
+chunk_id: "loreal-strategy"
+brand: loreal
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "loreal-positioning"
+token_count: 1
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for L'Oréal. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: ""
+mission: ""
+vision: ""
+values: []

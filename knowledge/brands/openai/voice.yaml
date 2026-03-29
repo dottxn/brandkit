@@ -1,0 +1,48 @@
+chunk_id: "openai-voice"
+brand: openai
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "openai-soul"
+token_count: 94
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for OpenAI. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  OpenAI is an artificial intelligence research and deployment company dedicated to ensuring that artificial general intelligence benefits all of humanity. The company is best known for developing ChatG
+tone_traits:
+  - approachable
+  - warm
+  - accessible
+  - thoughtful
+  - precise
+  - "evidence-based"
+  - optimistic
+  - innovative
+  - pioneering
+anti_traits:
+  - robotic
+  - clinical
+  - intimidating
+  - speculative
+  - superficial
+  - hasty
+  - dated
+  - conservative
+  - reactive
+example_phrases:
+  - Our brand language is built on the nuances of human experience
+  - We are a research and deployment company
+  - Creating AI for humanity
+  - Technology should amplify human creativity
+guardrails:
+  never_say: []
+  always_sound: "approachable, warm, accessible, thoughtful, precise"

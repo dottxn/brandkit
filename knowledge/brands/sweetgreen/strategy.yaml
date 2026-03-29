@@ -1,0 +1,28 @@
+chunk_id: "sweetgreen-strategy"
+brand: sweetgreen
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "sweetgreen-positioning"
+token_count: 41
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for sweetgreen. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe in the power of real food to create positive change in our communities and environment
+mission: To build healthier communities by connecting people to real food
+vision: "To create a world where healthy food is accessible, affordable, and celebrated"
+values:
+  - Transparency
+  - Sustainability
+  - Community
+  - Quality
+  - Innovation

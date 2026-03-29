@@ -1,0 +1,32 @@
+chunk_id: "ford-motor-company-strategy"
+brand: "ford-motor-company"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "ford-motor-company-positioning"
+token_count: 80
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Ford Motor Company. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="31-1,35-10,37-18">We believe in the power of creating a world with fewer obstacles and limits, where people have the freedom to build a better life and pursue their dreams</cite>
+mission: >-
+  <cite index="32-2,35-10,37-18">To help build a better world, where every person is free to move and pursue their dreams</cite>
+vision: >-
+  <cite index="34-3,36-16,37-10">To become the world's most trusted company, designing smart vehicles for a smart world</cite>
+values:
+  - "<cite index=\"35-2,35-18\">Quality</cite>"
+  - "<cite index=\"35-2,35-18,35-19\">Green</cite>"
+  - "<cite index=\"35-2,35-18,35-22\">Safe</cite>"
+  - "<cite index=\"35-2,35-18,35-24\">Smart</cite>"
+  - "<cite index=\"35-2,35-18\">Better World</cite>"
+  - "<cite index=\"38-21\">Put People First</cite>"

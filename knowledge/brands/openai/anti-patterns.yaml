@@ -1,0 +1,55 @@
+chunk_id: "openai-anti-patterns"
+brand: openai
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "openai-soul"
+  - "openai-visual-dna"
+token_count: 221
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for OpenAI. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Cold blue corporate technology aesthetic
+    reasoning: Warm geometric precision that suggests intelligence
+  - pattern: Futuristic chrome and glass imagery
+    reasoning: "Organic flow with mathematical underpinnings (Blossom's three triangles)"
+  - pattern: "Photorealistic human-AI interaction renders"
+    reasoning: "Documentary-style real people in actual contexts"
+  - pattern: Maximalist demonstration of capability
+    reasoning: Minimal examples showing clarity of application
+strategic:
+  - pattern: Competing on technical specifications
+    reasoning: Competing on application and user experience
+  - pattern: Explaining AI to engineers first
+    reasoning: Explaining AI to humans through conversational tone
+  - pattern: Centralizing power in a single organization
+    reasoning: Explicitly addressing AGI benefits distribution
+  - pattern: Hiding model limitations
+    reasoning: Transparent conversation about what the model can and cannot do
+tonal:
+  - pattern: Technical intimidation
+    reasoning: Accessible warmth grounded in research rigor
+  - pattern: AI as silver bullet
+    reasoning: AI as tool that amplifies human judgment
+  - pattern: "\"We're the future\" positioning"
+    reasoning: "\"We're making the future collaboratively\" positioning"
+  - pattern: Disruption narrative
+    reasoning: Stewardship narrative
+cultural:
+  - pattern: AI as job replacement
+    reasoning: AI as capability expansion
+  - pattern: "Proprietary black-box algorithm mystique"
+    reasoning: "Research-sharing, transparency-forward approach"
+  - pattern: Centralized control of AI access
+    reasoning: Democratizing access progressively
+  - pattern: Technological determinism
+    reasoning: Human values centered in technical decisions

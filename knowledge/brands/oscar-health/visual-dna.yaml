@@ -1,0 +1,58 @@
+chunk_id: "oscar-health-visual-dna"
+brand: "oscar-health"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "oscar-health-positioning"
+token_count: 85
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Oscar Health. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#0066FF"
+    name: ""
+    role: ""
+  - hex: "#FF6B35"
+    name: ""
+    role: ""
+  - hex: "#00C896"
+    name: ""
+    role: ""
+typography:
+  - name: Heldane
+    role: ""
+    style: ""
+  - name: Lettera
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: focused
+  type_class: mixed
+  type_character: humanist
+  type_weight: mixed
+  imagery_medium: "mixed-media"
+  imagery_subject: people
+  imagery_treatment: candid
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: medium
+  identity_system: flexible
+  signature_device: "illustration-led"
+composition_logic: >-
+  <cite index="21-20,21-21,21-22,21-23">All of this is built on the foundation of color, typography, voice & tone, illustration, and our brand attributes. This is to say that things further from our front door, like live-action commercials or varying illustration styles, can flex away from our core identity and change frequently. Things inside the house should be true to the foundation and remain recognizable over time. This approach helps orient our audience at all times—so that they know they're hanging out at Oscar's house.</cite>

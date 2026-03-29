@@ -1,0 +1,37 @@
+chunk_id: "hulu-voice"
+brand: hulu
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "hulu-soul"
+token_count: 109
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Hulu. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Premium streaming service offering live and on-demand TV and movies, with and without commercials. Owned by Disney Streaming with 64.1 million paid subscribers, Hulu features content from major networ
+tone_traits:
+  - punchy headlines that are optimistic
+  - charming and cheeky
+  - "dialed down in-app to avoid distraction"
+  - every word counts
+anti_traits:
+  - "overly serious corporate speak or generic messaging</cite>"
+  - "overwhelming or cluttered communication</cite>"
+example_phrases:
+  - "<cite index=\"19-3\">Welcome to a New Way to TV</cite>"
+  - "<cite index=\"19-4\">Come TV With Us</cite>"
+  - "<cite index=\"13-14\">One Hulu</cite>"
+  - "<cite index=\"34-3\">We don't take ourselves seriously and, in fact, embrace fun</cite>"
+guardrails:
+  never_say: []
+  always_sound: >-
+    punchy headlines that are optimistic, charming and cheeky, dialed down in-app to avoid distraction, every word counts

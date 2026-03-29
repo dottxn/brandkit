@@ -1,0 +1,49 @@
+chunk_id: "revolut-voice"
+brand: revolut
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "revolut-soul"
+token_count: 113
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Revolut. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A global fintech super app offering comprehensive digital banking services including money transfers, currency exchange, investments, and cryptocurrency trading across 48 countries with 65 million cus
+tone_traits:
+  - straightforward
+  - efficient
+  - "results-focused"
+  - confident
+  - ambitious
+  - disruptive
+  - clear
+  - simple
+  - relatable
+anti_traits:
+  - avoiding bureaucratic jargon
+  - corporate speak
+  - or overly formal language
+  - avoiding timidity
+  - traditional banking conservatism
+  - or hesitation
+  - avoiding complexity
+  - financial intimidation
+  - or exclusivity
+example_phrases:
+  - Change the way you money
+  - Get It Done
+  - Never Settle
+  - >-
+    We're building a platform so effortless, so seamless, so borderless that you'll never want to use another financial app again
+guardrails:
+  never_say: []
+  always_sound: "straightforward, efficient, results-focused, confident, ambitious"

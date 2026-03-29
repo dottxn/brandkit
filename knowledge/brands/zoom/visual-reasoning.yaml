@@ -1,0 +1,28 @@
+chunk_id: "zoom-visual-reasoning"
+brand: zoom
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "zoom-visual-dna"
+  - "zoom-soul"
+token_count: 312
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Zoom. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Lato is a humanist sans-serif chosen for its approachable character and excellent readability across devices and contexts. The typeface is friendly without being playful, modern without being trendy. It reflects Zoom's philosophical positioning: reliable enough for serious business, approachable enough for anyone to use. System fonts provide consistency and performance across platforms.
+colour_logic: >-
+  The primary blue (#2D8CFF) communicates reliability and trust. Supporting colors for different product lines (orange #FF6900 for energy, green #00D924 for connection, purple #9B59B6 for creativity) are vibrant enough to feel warm and human while maintaining distinction between features. The palette balances institutional trust (blue) with human warmth (accent colors), avoiding both the cold minimalism of enterprise software and the frivolity of consumer apps.
+composition_philosophy: >-
+  The video tile grid is the foundational composition principle—it's not decorative but structural. All other design elements support the core experience of seeing multiple faces. Rounded corners and soft shadows create a welcoming aesthetic without compromising clarity. Information density is high but organized to reduce cognitive load. The interface architecture prioritizes finding and joining meetings before exploring features.
+what_would_break_it: >-
+  Introducing complex feature trees, advanced technical controls visible by default, or playful design language would immediately undermine the reliability positioning. The moment Zoom's interface starts to feel like it requires technical knowledge or invites tinkering, users lose confidence. The system must communicate "reliable infrastructure where human connection happens" not "platform full of powerful features." The design's power is in what it removes, not what it adds.

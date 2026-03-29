@@ -1,0 +1,37 @@
+chunk_id: "sweetgreen-competitive"
+brand: sweetgreen
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "sweetgreen-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for sweetgreen. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - mcdonalds
+  - starbucks
+  - dominos
+  - "impossible-foods"
+industry_norms_it_breaks: "The bright green (#4CAF50) used as the visual representation of growing things—not tech green, but the actual color of living plants and fresh leaves. | The willingness to show the actual business model in the design. Other wellness brands hide supply chains; Sweetgreen makes farmer relationships visible in every communication. | Can we trace every ingredient to a name and a farm? If no, it doesn't go in a bowl. This discipline shows in every design choice."
+visual_cluster: "warm-humanist"
+visual_fingerprint:
+  - cluster: "warm-humanist"
+    role: "dominant"
+    where: "Food community, fresh ingredients, COLLINS identity"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "SweetSans systematic brand, digital ordering"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Chartreuse/kale green energy, health-forward"
+strategic_cluster: "trusted-guide"
+category: "food-beverage"

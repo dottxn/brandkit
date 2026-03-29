@@ -1,0 +1,31 @@
+chunk_id: "mcdonalds-positioning"
+brand: mcdonalds
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for McDonald's. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: "McDonald's"
+website: "https://www.mcdonalds.com"
+founded: 1940
+category: "food-beverage"
+sub_category: "fast-food"
+price_tier: budget
+primary_archetype: The Everyman
+secondary_archetype: The Caregiver
+positioning_scales:
+  utility_theater: 2
+  access_exclusivity: 1
+  heritage_innovation: 4
+key_differentiators: []

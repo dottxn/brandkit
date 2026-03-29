@@ -1,0 +1,31 @@
+chunk_id: "aesop-positioning"
+brand: aesop
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 48
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: full
+summary: "Core positioning for Aesop. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Aesop
+website: "https://www.aesop.com"
+founded: 1987
+category: beauty
+sub_category: "skincare-haircare-fragrance"
+price_tier: premium
+primary_archetype: Sage
+secondary_archetype: Creator
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 7
+  heritage_innovation: 4
+key_differentiators: []

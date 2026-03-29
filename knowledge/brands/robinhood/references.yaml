@@ -1,0 +1,37 @@
+# ──────────────────────────────────────────────
+# Robinhood — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Porto Rocha"
+    type: "branding"
+    url: "https://www.portorocha.com/"
+    project_url: "https://www.portorocha.com/robinhood/"
+    relationship: "Comprehensive 2024 rebrand including logo refinement, color palette, custom typefaces, and photography direction"
+
+people:
+  - name: "Elizabeth Goodspeed"
+    role: "Designer, Porto Rocha"
+    context: "Led design direction for Robinhood's 2024 rebrand and fashion-influenced photography language"
+
+publications:
+  - title: "Robinhood Rebranding: From Challenger to Category Leader"
+    author: "Porto Rocha"
+    relevance: "Documents the strategic positioning shift and visual system that elevated Robinhood to premium fintech status"
+
+  - title: "Brand of the Year 2024"
+    author: "The Brand Review"
+    relevance: "Recognition of the Robinhood rebrand as Brand of the Year; Porto Rocha recognized as Studio of the Year"
+
+visuals:
+  - url: "https://www.portorocha.com/robinhood/"
+    label: "Porto Rocha case study — Complete rebrand documentation"
+    section: "visual-language"
+
+  - url: "https://robinhood.com/"
+    label: "Robinhood.com marketing and product pages — Fashion-influenced photography and visual system"
+    section: "visual-language"
+
+  - url: "https://robinhood.com/hood-summit"
+    label: "HOOD Summit event branding and visual identity"
+    section: "visual-world"

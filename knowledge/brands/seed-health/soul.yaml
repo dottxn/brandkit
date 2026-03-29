@@ -1,0 +1,31 @@
+chunk_id: "seed-health-soul"
+brand: "seed-health"
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "seed-health-positioning"
+token_count: 128
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Seed Health. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: Invisible life force become visible—the moment you realize the microbiome is you
+core_belief: >-
+  Health is a conversation between human and microbial systems; ignoring microbes is ignoring half your own biology
+creative_tension:
+  - >-
+    Scientific rigor that would satisfy researchers paired with accessible design that educates consumers
+  - >-
+    Scaling from academic research into commercialized consumer products without losing scientific integrity
+decision_filter: "Would a researcher trust this? Would a consumer understand this? Both must be yes"
+signature_move: >-
+  Reimagined Seed dot functioning as lens, portal, and storytelling device rather than static logo mark
+what_would_break_it: >-
+  Adopting pseudo-scientific wellness aesthetic or cold academic presentation would destroy Seed's balance of rigor and accessibility

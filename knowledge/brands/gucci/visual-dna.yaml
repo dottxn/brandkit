@@ -1,0 +1,58 @@
+chunk_id: "gucci-visual-dna"
+brand: gucci
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "gucci-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Gucci. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#BD9302"
+    name: ""
+    role: ""
+  - hex: "#0A6A56"
+    name: ""
+    role: ""
+  - hex: "#A82B11"
+    name: ""
+    role: ""
+typography:
+  - name: Granjon Roman
+    role: ""
+    style: ""
+  - name: Custom Gucci Sans
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: focused
+  type_class: serif
+  type_character: editorial
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: staged
+  layout_density: dense
+  whitespace: moderate
+  aesthetic_era: heritage
+  conceptual_approach: maximalist
+  framing_device: housing
+  symbolic_type: monogram
+  texture_feel: dimensional
+  shape_language: organic
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  Layered, ornate layouts that embrace visual complexity while maintaining luxury sophistication through careful typography hierarchy and premium white space usage

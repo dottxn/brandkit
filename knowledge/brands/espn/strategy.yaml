@@ -1,0 +1,31 @@
+chunk_id: "espn-strategy"
+brand: espn
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "espn-positioning"
+token_count: 46
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for ESPN. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe sports fans deserve to be served wherever they are, whenever they want, with the highest quality sports content and experiences.
+mission: To serve sports fans. Anytime. Anywhere.
+vision: >-
+  To be the global leader in sports entertainment, connecting fans to the sports they love through innovative storytelling and technology.
+values:
+  - Integrity
+  - Innovation
+  - "Diversity & Inclusion"
+  - Teamwork
+  - Excellence
+  - "Fan-First"

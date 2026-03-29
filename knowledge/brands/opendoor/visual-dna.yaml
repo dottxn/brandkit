@@ -1,0 +1,60 @@
+chunk_id: "opendoor-visual-dna"
+brand: opendoor
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "opendoor-positioning"
+token_count: 94
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Opendoor. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#1C85E8"
+    name: ""
+    role: ""
+  - hex: "#9DC9F8"
+    name: ""
+    role: ""
+  - hex: "#1D2C4C"
+    name: ""
+    role: ""
+  - hex: "#F7AF98"
+    name: ""
+    role: ""
+typography:
+  - name: Graphik
+    role: ""
+    style: ""
+  - name: Open Sans
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: focused
+  type_class: "sans-serif"
+  type_character: grotesque
+  type_weight: regular
+  imagery_medium: illustration
+  imagery_subject: architectural
+  imagery_treatment: editorial
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: medium
+  identity_system: modular
+  signature_device: "color-led"
+composition_logic: Modular design system with generous whitespace and clear hierarchy prioritizing content clarity

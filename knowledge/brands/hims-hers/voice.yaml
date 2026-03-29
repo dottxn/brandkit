@@ -1,0 +1,53 @@
+chunk_id: "hims-hers-voice"
+brand: "hims-hers"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "hims-hers-soul"
+token_count: 192
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Voice and tone for Hims & Hers. How the brand sounds and what it avoids."
+
+# ── Data
+personality: >-
+  <cite index="31-3,31-4">Hims & Hers is a digital health platform that connects people to licensed healthcare providers and, if prescribed, personalized treatment plans. We're all about normalizing hea
+tone_traits:
+  - frank
+  - honest
+  - medically credible
+  - destigmatizing
+  - clear
+  - accessible
+  - "solution-focused"
+  - personalized
+  - supportive
+  - normalizing
+  - "future-focused"
+  - "body-positive"
+anti_traits:
+  - clinical coldness
+  - judgmental language
+  - traditional healthcare formality
+  - complex medical jargon
+  - "one-size-fits-all messaging"
+  - overwhelming information
+  - "shame-based messaging"
+  - exclusionary language
+  - "fear-mongering"
+example_phrases:
+  - "<cite index=\"7-8\">Join us in the fight for a healthy America</cite>"
+  - "<cite index=\"31-4\">We're all about normalizing health and wellness challenges</cite>"
+  - >-
+    <cite index="6-5,6-6">This isn't just about medication – it's about building and growing a platform that women can trust to access the care they need. Women have been navigating an outdated healthcare system that wasn't designed for them for too long</cite>
+  - >-
+    <cite index="12-28,12-29">We're a healthcare company that doesn't look like a healthcare company... We just treat it in a much more consumer related way where we show people in our ads</cite>
+guardrails:
+  never_say: []
+  always_sound: "frank, honest, medically credible, destigmatizing, clear"

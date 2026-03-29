@@ -1,0 +1,71 @@
+chunk_id: "zoom-anti-patterns"
+brand: zoom
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "zoom-soul"
+  - "zoom-visual-dna"
+token_count: 483
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Zoom. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Playful illustrations or personality-driven interface elements"
+    reasoning: >-
+      Zoom rejects decoration that draws attention. Playfulness would undermine the serious trust required for business video conferencing.
+  - pattern: Complex interface chrome or nested menus
+    reasoning: >-
+      Zoom's genius is starting with join code and video preview. Complicated onboarding would contradict the "frictionless" promise.
+  - pattern: "Cold, sterile minimalism"
+    reasoning: >-
+      While clean, Zoom avoids the austere aesthetic of fintech tools. Warmth through color and rounded edges communicates humanity.
+  - pattern: "Serif typefaces or design-forward typography"
+    reasoning: >-
+      Lato is consciously chosen for friendliness without trend-consciousness. Historical references would feel out of place.
+strategic:
+  - pattern: "Feature-heavy product as competitive moat"
+    reasoning: >-
+      Zoom's advantage comes from reliability, not feature count. Competitors add meeting room management, transcription, etc.; Zoom focuses on core meeting quality.
+  - pattern: Vertical market specialization
+    reasoning: >-
+      While Zoom serves education, healthcare, and enterprise differently, the core product remains consistent. Fragmenting into specialized apps would lose the unified experience.
+  - pattern: "Enterprise-only positioning"
+    reasoning: >-
+      Despite serving enterprise extensively, Zoom leads with consumer-friendly pricing and freemium model. Abandoning the prosumer would lose the network effects.
+  - pattern: "Lock-in through complexity"
+    reasoning: >-
+      Zoom's switching costs come from user familiarity and installed base, not architectural lock-in. Increasing complexity would undermine this advantage.
+tonal:
+  - pattern: Sales language or persuasive urgency
+    reasoning: >-
+      Copy is straightforward and helpful. No "transform your meetings," no pressure language. The product's reliability does the persuading.
+  - pattern: Feature celebration as primary messaging
+    reasoning: >-
+      Marketing emphasizes connection and ease, not feature lists. "It just works" communicates better than technical capability descriptions.
+  - pattern: "Enterprise-first voice"
+    reasoning: >-
+      Despite serving enterprise, Zoom's voice remains accessible and unpretentious. Corporate formality would alienate the educational and prosumer markets.
+  - pattern: Technical explanation of reliability
+    reasoning: >-
+      Zoom doesn't explain the engineering that makes reliability happen. Celebrating technical achievement would make the tool feel more complex.
+cultural:
+  - pattern: User technical expertise requirement
+    reasoning: >-
+      Zoom's brand promise is that non-technical users can host important meetings. Requiring technical knowledge would fragment the user base.
+  - pattern: Scheduled meeting ideology
+    reasoning: >-
+      While calendars exist, Zoom emphasizes spontaneous connection. Pushing formal scheduling would undermine the casual meeting culture.
+  - pattern: Recording and surveillance
+    reasoning: >-
+      While Zoom enables recording, the brand positioning avoids celebrating surveillance or monitoring. The platform serves human connection first.
+  - pattern: Participant hierarchy or control emphasis
+    reasoning: >-
+      Zoom emphasizes that all participants see each other equally. Highlighting host control would create psychological distance between participants.

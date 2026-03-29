@@ -1,0 +1,32 @@
+chunk_id: "hm-insights"
+brand: hm
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "hm-soul"
+  - "hm-positioning"
+token_count: 351
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Deep insights for H&M. Learned wisdom and what nobody copies."
+
+# ── Data
+learned_insights:
+  - >-
+    Elevated aesthetics (premium photography, refined typography, generous whitespace) can make affordable fashion feel intentional rather than desperate. Quality of representation often matters more than quality of product. If the photography suggests luxury, the customer extends that assumption to the garment until proven otherwise.
+  - >-
+    H&M's Swedish minimalism heritage is a competitive asset competitors can't fake. When Zara copies fast, H&M claims a design philosophy rooted in Swedish industrial design history. This cultural positioning—design with conscience, not just velocity—elevates the entire brand above other fast-fashion operators.
+  - >-
+    Custom typography (HM Sans + HM Amperserif) isn't luxury—it's self-determination. The moment H&M uses the same typefaces as competitors, the brand becomes interchangeable. Proprietary typography is how affordable fashion claims authorship instead of just access.
+  - >-
+    Diverse casting in advertising isn't just ethical; it's commercially essential for Gen Z customers who view homogeneous beauty standards as proof of corporate inauthenticity. Casting decisions are sales strategy, not just PR. H&M's commitment to diverse representation is structural, not optional.
+  - >-
+    "not rebranding, re-igniting" language is more credible than transformation narratives. H&M doesn't need to reinvent itself; it needs to clarify that what it's always claimed (democratic fashion, Swedish design thinking) is more true now than ever. This positioning avoids fashion brand volatility while maintaining momentum.
+what_nobody_copies: >-
+  The custom typography system designed for affordability. HM Sans and HM Amperserif were explicitly created to maintain aesthetic quality while optimizing production costs. Most competitors either spend on type (limiting budget elsewhere) or use cheap fonts (damaging brand perception). H&M found a third path: investment in the system that scales.

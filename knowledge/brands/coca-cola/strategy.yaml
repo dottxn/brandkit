@@ -1,0 +1,33 @@
+chunk_id: "coca-cola-strategy"
+brand: "coca-cola"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "coca-cola-positioning"
+token_count: 68
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Coca-Cola. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in refreshing the world and creating moments of happiness that make a difference in people's lives
+mission: >-
+  To refresh the world in mind, body and spirit. To inspire moments of optimism and happiness through our brands and actions. To create value and make a difference.
+vision: >-
+  <cite index="31-2,31-3">Craft the brands and choice of drinks that people love, to refresh them in body & spirit. And done in ways that create a more sustainable business and better shared future that makes a difference in people's lives, communities and our planet.</cite>
+values:
+  - Leadership
+  - Collaboration
+  - Integrity
+  - Accountability
+  - Passion
+  - Diversity
+  - Quality

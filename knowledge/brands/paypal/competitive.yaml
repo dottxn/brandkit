@@ -1,0 +1,38 @@
+chunk_id: "paypal-competitive"
+brand: paypal
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "paypal-positioning"
+token_count: 6
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for PayPal. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - stripe
+  - square
+  - "cash-app"
+  - wise
+  - revolut
+industry_norms_it_breaks: "Overlapping P monogram (#0070BA and #003087) creating dimensional depth suggesting layered financial services in simple form | The architectural decision to keep PayPal's identity simple (the monogram works everywhere) despite operating across 200 markets and 434 million accounts—most global brands compromise into complexity | Does it make financial friction invisible? Or does it acknowledge friction exists and we're here to remove it?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Systematic brand, structured, clean blue identity"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Checkout UI, payment platform, integration tools"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Venmo social payments, vibrant younger brand"
+strategic_cluster: "trusted-guide"
+category: fintech

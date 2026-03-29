@@ -1,0 +1,58 @@
+chunk_id: "louis-vuitton-visual-dna"
+brand: "louis-vuitton"
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "louis-vuitton-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Louis Vuitton. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#453630"
+    name: ""
+    role: ""
+  - hex: "#9B7E4B"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: Futura Medium
+    role: ""
+    style: ""
+  - name: Futura Bold
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: warm
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: geometric
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: editorial
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: timeless
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: monogram
+  texture_feel: dimensional
+  shape_language: geometric
+  contrast_level: medium
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  Generous whitespace with precise geometric alignment, emphasizing the monogram as the primary focal point with supporting elements arranged in classical proportions

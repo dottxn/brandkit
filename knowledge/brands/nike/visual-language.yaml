@@ -1,0 +1,381 @@
+chunk_id: "nike-visual-language"
+brand: "nike"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "nike-visual-dna"
+  - "nike-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Nike. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-campaign"
+      touchpoints:
+        - "nike.com homepage hero and campaign landing pages"
+        - "Global OOH — Times Square, Shibuya, Oxford Circus"
+        - "'Winning Isn't For Everyone' (Kim Gehrig / Somesuch, Willem Dafoe VO, Olympics July 2024)"
+        - "'So Win' (Super Bowl February 2025)"
+        - "'Why Do It?' (Tyler the Creator, September 2025)"
+      description: >-
+        High-production, emotionally charged athlete photography and film.
+        W+K Portland (lead creative: Caleb Jensen, Blair Warren, Felipe
+        Ribeiro, Azsa West) produces the global brand campaigns. The visual
+        register is cinematic — dramatic lighting, intense athlete expressions,
+        motion-frozen or motion-blurred. Futura Extra Bold Condensed (modified,
+        with 18-degree N angle) at enormous scale. Black-and-white or
+        desaturated colour with selective vivid accents. The Swoosh often
+        appears at billboard scale. Compared to Adidas (more fashion-forward,
+        more cultural) or Under Armour (more aggressive, darker), Nike's
+        brand campaigns balance athletic intensity with aspiration.
+      differs_from_default_by: >-
+        This is the baseline — the highest-intensity visual mode. All other
+        modes calibrate relative to this level of production and emotion.
+
+    - name: "category-sport"
+      touchpoints:
+        - "nike.com/running, nike.com/basketball, nike.com/football"
+        - "Nike Running Club app and RUNSWOOSH identity (Porto Rocha, Volt Orange)"
+        - "ACG relaunch campaign (Jeff Tremaine / Magna Studios, February 2026)"
+        - "Nike SB (Alexis Sablone, Olympics skateboarding content)"
+      description: >-
+        Each sport category has its own visual sub-language within Nike's
+        system. Nike Running uses Porto Rocha's RUNSWOOSH identity — Volt
+        Orange, dynamic typography, data visualisation. ACG (All Conditions
+        Gear) uses outdoor-adventure photography, earthy palette, Jeff
+        Tremaine's action-documentary style. Nike SB uses skate-culture
+        codes — lo-fi photography, zine aesthetics, community-sourced
+        content. Nike Basketball is high-gloss, arena-lit, player-portrait
+        dominant. Each category adapts Nike's typographic and Swoosh system
+        to its sport's visual culture.
+      differs_from_default_by: >-
+        The unified brand campaign voice fragments into sport-specific
+        dialects. Typography remains Nike (Futura-derived or Trade Gothic
+        For Nike 365) but colour palettes, photography styles, and
+        cultural references shift dramatically between categories.
+
+    - name: "product-commerce"
+      touchpoints:
+        - "nike.com product detail pages"
+        - "SNKRS app product launches"
+        - "Nike app product grid and filtering"
+      description: >-
+        White or light-grey background, product isolated, shot from multiple
+        angles. Studio photography with even, controlled lighting. Model shots
+        are full-length on white for apparel. SNKRS uses a darker, more
+        dramatic register for hyped releases — product on black, close-up
+        detail shots of materials and construction. The commerce visual
+        language is cleaner and more systematic than the campaign work.
+        S23NYC (Nike's 65+ person in-house creative studio) handles much
+        of the day-to-day product and content photography.
+      differs_from_default_by: >-
+        Controlled, systematic, commerce-functional. The cinematic intensity
+        of brand campaigns is replaced by studio precision. SNKRS is the
+        exception — hype releases get campaign-level treatment.
+
+    - name: "athlete-storytelling"
+      touchpoints:
+        - "Nike athlete documentary content"
+        - "Social media athlete features"
+        - "Nike Training Club instructional content"
+        - "Marcus Smith photographer — athlete portraits and action"
+      description: >-
+        Documentary-style, athlete-centred, training-environment authentic.
+        Marcus Smith's photography captures athletes mid-training — sweat,
+        effort, real gyms and tracks. The lighting is less controlled than
+        campaign work — environmental, sometimes harsh, always real. This
+        mode serves the 'real athlete' positioning that balances the
+        celebrity-campaign register. Colour is warm and desaturated. The
+        visual register is closer to sports journalism than advertising.
+      differs_from_default_by: >-
+        Raw where campaigns are polished. Environmental where campaigns are
+        controlled. The production value is still high but the aesthetic
+        codes shift toward documentary authenticity.
+
+  notes: >-
+    Nike's category sub-brands (Jordan, ACG, Nike SB, Converse) each have
+    distinct visual languages that may warrant separate visual-language
+    chunks. Jordan Brand in particular operates a semi-independent visual
+    system with its own photography, typography, and campaign strategy.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "Marcus Smith — Nike athlete photography"
+    - "'Winning Isn't For Everyone' (Kim Gehrig / Somesuch, Olympics July 2024)"
+    - "'So Win' (Super Bowl February 2025)"
+    - "'Why Do It?' (Tyler the Creator, September 2025)"
+    - "ACG relaunch (Jeff Tremaine / Magna Studios, February 2026)"
+    - "S23NYC — Nike's in-house creative studio (65+ people)"
+    - "Porto Rocha — Nike Running RUNSWOOSH identity"
+  subject_and_framing: >-
+    Athletes in motion — running, jumping, training, competing. The body
+    is the subject. Framing ranges from extreme close-up (sweat on skin,
+    muscles engaged, shoe detail in stride) to wide environmental shots
+    (runner on road, skater in bowl, footballer on pitch). Nike's
+    photography always shows the body doing something — static product-
+    on-body shots are rare in campaign work. Marcus Smith's athlete
+    portraits use tight crops and dramatic angles. The ACG work (Jeff
+    Tremaine) uses wider, landscape-integrated compositions. Compared to
+    Adidas (more fashion-posed, more urban) or New Balance (more lifestyle,
+    more relaxed), Nike's photography is more dynamic and more physically
+    intense.
+  casting_observed: >-
+    Elite athletes dominate campaign casting — the 'Winning Isn't For
+    Everyone' campaign (Olympics 2024) featured recognisable Olympic
+    athletes. The 'Why Do It?' campaign (September 2025) cast Tyler the
+    Creator, extending into cultural-creator territory. ACG campaigns
+    feature outdoor athletes and adventurers. Nike SB features real skaters
+    (Alexis Sablone, Olympics skateboarding). The brand spans from global
+    superstars to grassroots athletes, but campaign casting always centres
+    on people who actually do the sport — not models or celebrities
+    playing athletes.
+  lighting_and_colour: >-
+    Campaign: dramatic, directional, high-contrast. Kim Gehrig's 'Winning
+    Isn't For Everyone' uses desaturated colour with vivid product accent.
+    Marcus Smith's athlete work uses hard key light, deep shadows, sweat
+    catching the light. ACG (Tremaine) uses natural outdoor lighting —
+    golden hour, overcast conditions, mountain light. Product: even studio
+    lighting on white. The brand's signature colour moments are Volt
+    (#CDFF00), University Red, and black-and-white. Compared to Adidas
+    (cooler colour temperature, more editorial lighting) or Under Armour
+    (darker, more aggressive), Nike's lighting is warmer and more cinematic.
+  post_production: >-
+    Campaign work: controlled colour grading — desaturated with selective
+    colour pops (Swoosh, shoes, key product). Skin has texture and sweat —
+    not over-retouched. The aesthetic is athletic-documentary, not fashion-
+    beauty. Black-and-white is used for key hero images. Product: clean,
+    accurate, minimal artistic grading. SNKRS hype releases may have more
+    dramatic grading (moody, high-contrast).
+  visual_boundaries:
+    stated_exclusions: >-
+      Nike positions against sedentary, passive, or lifestyle-only visual
+      codes. The brand does not show its products in purely fashion contexts
+      in official campaign work — the athletic or performance context is
+      always present or implied.
+    observed_exceptions: >-
+      Nike SB and Jordan Brand both cross into fashion and streetwear visual
+      territory — lifestyle photography, cultural-event content, and fashion
+      editorial that would be atypical for Nike Running or Nike Training.
+      The Tyler the Creator 'Why Do It?' campaign blurred the athlete/
+      creator boundary.
+    genuine_absence: >-
+      Based on nike.com and campaign review: no discount or sale language
+      in hero campaign imagery, no family or domestic scenes in brand
+      campaigns (unlike Adidas), no competitive product comparisons,
+      no static product-on-body without athletic context in campaign work.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "The Swoosh (Carolyn Davidson, 1971)"
+    - "Futura Extra Bold Condensed — modified for Nike (18-degree N angle)"
+    - "Porto Rocha — Nike Running RUNSWOOSH visual identity"
+    - "S23NYC — in-house creative studio"
+  uses_illustration: true
+  illustration_style: >-
+    Nike uses illustration selectively — primarily in Nike SB (skate-
+    culture graphics, board art, zine-style illustration) and special
+    collections (artist collaborations on sneakers). The illustration
+    style varies dramatically by category and collaborator. There is no
+    unified Nike illustration language — illustration enters through
+    partnerships and subcultures rather than as a systematic brand element.
+  illustration_role: >-
+    Packaging graphics and special-edition product storytelling. Nike SB
+    collaborations with artists drive illustration (each Dunk collaboration
+    brings new graphic language). Nike ACG uses topographic and terrain-
+    inspired graphic elements. Illustration supplements photography in
+    categories where subculture credibility matters.
+  icon_style: >-
+    The Swoosh IS the icon system. It scales from 12px UI element to
+    building-sized installation. Category marks (Jordan Jumpman, ACG logo,
+    Nike SB logo) serve as secondary icons. The Nike app and nike.com use
+    a minimal, functional icon set — not a distinctive brand element.
+  graphic_devices: >-
+    The Swoosh as compositional device — used at all scales, cropped,
+    repeated, integrated into type. The Swoosh functions more like
+    punctuation than a logo — it ends compositions, anchors corners, and
+    provides visual full-stops. The modified Futura headline type IS a
+    graphic device — the condensed, high-impact letterforms create a
+    distinctive text texture. Porto Rocha's RUNSWOOSH identity introduced
+    a dynamic, data-inflected graphic system for Nike Running — Volt
+    Orange, kinetic typography, real-time data visualisation as brand
+    expression.
+  motion_language: >-
+    Observed in campaign films and nike.com: fast, kinetic, cut to the
+    rhythm of athletic effort. The 'Winning Isn't For Everyone' film
+    (Kim Gehrig) uses rapid intercutting, slow-motion peak-effort moments,
+    and hard cuts to black. The pacing mimics the rhythm of sport —
+    explosive bursts separated by recovery. Transitions are hard cuts,
+    not dissolves. Music is bass-heavy and intense. Compared to Adidas
+    (smoother, more musical, more fashion-editorial pacing) or Under
+    Armour (more aggressive, darker), Nike's motion language is more
+    varied and more emotionally nuanced.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Futura Extra Bold Condensed (modified) — primary display typeface"
+    - "Trade Gothic For Nike 365 (Jackson Burke / Linotype, adopted 2012)"
+    - "Nike Hallowed Ground (Tré Seals / Vocal Type, 2023)"
+    - "nike.com observed February 2026"
+    - "Porto Rocha — RUNSWOOSH typographic system"
+  signature_move: >-
+    Modified Futura Extra Bold Condensed at massive scale — the most
+    recognisable typographic signature in sportswear. The modification
+    includes the 18-degree angle on the capital N (matching the Swoosh
+    angle) and custom letterform adjustments. The type is set tight,
+    uppercase, and enormous. 'JUST DO IT' in this typeface is as
+    recognisable as the Swoosh itself. The condensed width allows long
+    headlines to maintain visual impact — the type shouts without
+    needing space.
+  what_would_look_wrong: >-
+    Lowercase in campaign headlines (Nike's campaign register is uppercase
+    and condensed — lowercase would read as Adidas or New Balance). A
+    geometric sans-serif like Helvetica or Gotham (too neutral, not enough
+    compression). Serif type in any context (contradicts the athletic,
+    modern positioning). Light or thin weights in campaign display (Nike's
+    type is heavy and compressed — lightweight type reads as passive, which
+    is antithetical to the brand).
+  case_convention: >-
+    Uppercase for campaign headlines and display ('JUST DO IT', 'WINNING
+    ISN'T FOR EVERYONE'). Mixed case for body, product descriptions, and
+    UI. The uppercase convention in campaigns is non-negotiable — it
+    creates the visual intensity that distinguishes Nike from the
+    sentence-case convention of most contemporary brands.
+  display_vs_body: >-
+    Display: Modified Futura Extra Bold Condensed — uppercase, tight-
+    tracked, high-impact. This is campaign and OOH typography. Body:
+    Trade Gothic For Nike 365 (Jackson Burke / Linotype, adopted 2012) —
+    a more neutral, readable sans-serif for product descriptions, digital
+    UI, and long-form content. Nike Hallowed Ground (Tré Seals / Vocal
+    Type, 2023) introduced as a display alternative for culturally
+    significant campaigns. The display-to-body contrast is dramatic:
+    Futura Condensed screams, Trade Gothic speaks normally.
+  type_and_image: >-
+    Type competes with imagery — Nike is one of the few brands where
+    headlines can be as visually dominant as the photography. In OOH,
+    the type often occupies 30-50% of the frame, overlaid on or adjacent
+    to the athlete. The Swoosh and the headline form a compositional
+    triangle with the athlete. In campaign films, type appears as full-
+    screen text cards between footage — the words have equal visual
+    status to the images. This type-dominant approach is distinctive:
+    most sportswear brands defer to imagery, Nike makes type a co-
+    protagonist.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "nike.com (observed February 2026)"
+    - "Global OOH campaigns"
+    - "SNKRS app interface"
+  signature_composition: >-
+    Athlete + headline + Swoosh as a three-element composition. The athlete
+    is typically off-centre (rule of thirds, not centred like Apple).
+    Headlines sit in the remaining space — large enough to read at speed
+    from a car or across a street. The Swoosh anchors the bottom right
+    or appears at scale as a background element. In digital, nike.com uses
+    a more conventional grid for commerce but campaign landing pages adopt
+    the asymmetric, image-dominant compositions of the OOH work. Compared
+    to Adidas (more grid-based, more editorial) or Under Armour (more
+    centred, more symmetrical), Nike's compositions are more dynamic and
+    more off-balance.
+  density_and_whitespace: >-
+    Campaign: moderate density — the image, headline, and Swoosh fill the
+    frame with purpose. There is less whitespace than Apple but more than
+    Under Armour. The negative space is active — it's where the eye rests
+    between the athlete and the type. Commerce (nike.com): moderate-to-high
+    density — product grid, filters, recommendations. SNKRS: high density
+    for launch content, lower density for hero product features.
+  format_preferences: >-
+    Tall portrait for athlete photography (the human body drives the
+    format). Wide landscape for OOH. Vertical story format for social.
+    Square for product and social grid. Nike uses more vertical/portrait
+    formats than most sportswear competitors — the standing or running
+    human figure is the default compositional driver.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Nike's core visual identity (Futura Condensed, Swoosh, athlete-hero
+    photography) has been stable for decades. Trends enter through category
+    sub-brands, collaborations, and campaign art direction — not through
+    identity-system changes. The brand is culturally current without being
+    visually trend-chasing.
+  examples:
+    - trend: "Data-driven brand identity systems"
+      stance: "early-adopter"
+      evidence: >-
+        Porto Rocha's RUNSWOOSH identity for Nike Running introduced
+        real-time running data (pace, distance, heart rate) as visual
+        brand elements — Volt Orange data streams and kinetic typography
+        that respond to performance metrics. This merges brand identity
+        with quantified-self visual culture.
+      reasoning: >-
+        Nike's running community (Nike Running Club, 100M+ downloads)
+        provides the data that feeds the visual system. The identity
+        becomes more personal and dynamic when it reflects individual
+        performance.
+    - trend: "Creator-led campaign casting"
+      stance: "selective-adopter"
+      evidence: >-
+        The 'Why Do It?' campaign (September 2025) cast Tyler the Creator
+        — a musician, designer, and cultural figure rather than a
+        traditional athlete. The Kai Cenat collaboration and cultural-
+        creator partnerships extend Nike's casting beyond sport into
+        broader cultural influence.
+      reasoning: >-
+        Nike's cultural relevance increasingly depends on figures who
+        bridge sport, music, fashion, and internet culture. The visual
+        language adapts to accommodate these hybrid casting choices.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    The Swoosh. Modified Futura Condensed for headlines. The athletic
+    context or implication. Production quality. No collaboration removes
+    the Swoosh or positions the product outside of physical culture.
+  what_bends: >-
+    Colour palette expands dramatically for collaborations. Photography
+    style can shift to match the collaborator's world (fashion, streetwear,
+    outdoor, skate). Layout conventions can loosen — collaborations often
+    break the standard Nike grid. Typography can incorporate collaborator-
+    specific fonts alongside Nike's system.
+  notable_examples: >-
+    Nike x Off-White / Virgil Abloh (2017-2023): quotation marks, zip-ties,
+    deconstructed typography, orange tags — Abloh's visual language applied
+    to Nike products. Created a distinct visual sub-system. Nike x Travis
+    Scott (Cactus Jack): brown, earth tones, reversed Swoosh — visual
+    identity built around a single design element (the backward Swoosh).
+    Nike ACG x Jeff Tremaine (February 2026): action-documentary visual
+    language for the outdoor category relaunch. Nike SB Dunk collaborations:
+    each artist/brand partnership brings entirely new graphics, colours,
+    and visual references to the shoe — the Dunk is a canvas for
+    collaboration. In every case, the Swoosh remains and the product stays
+    central, but the visual world around it transforms.

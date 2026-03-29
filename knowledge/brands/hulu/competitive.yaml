@@ -1,0 +1,37 @@
+chunk_id: "hulu-competitive"
+brand: hulu
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "hulu-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Hulu. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - netflix
+  - disney
+  - hbo
+  - youtube
+industry_norms_it_breaks: "The Vessel system—a rounded-rectangle container derived from the 'u' in Hulu wordmark, used consistently as content frame throughout the platform. The Vessel is metaphor for containment and potential— | The commitment to Hulu Green as the differentiating color in streaming space. While other platforms are black, dark blue, or neutral, Hulu owns green completely. This ownership is both aesthetic and s | Does this make watching TV feel easier or more complicated? Is Hulu the hero or just infrastructure? Would this decision enhance the viewing experience or optimize for business metrics? The brand must"
+visual_cluster: "dark-premium"
+visual_fingerprint:
+  - cluster: "dark-premium"
+    role: "dominant"
+    where: "Green-on-dark streaming UI, nocturnal viewing"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Hulu Originals, entertainment marketing"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Hulu Green vibrancy, brand energy"
+strategic_cluster: "experience-curator"
+category: entertainment

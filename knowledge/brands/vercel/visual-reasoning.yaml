@@ -1,0 +1,28 @@
+chunk_id: "vercel-visual-reasoning"
+brand: vercel
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "vercel-visual-dna"
+  - "vercel-soul"
+token_count: 235
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Vercel. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Vercel Sans was designed as a geometric sans-serif that mirrors the brand's philosophy—precision without ornamentation. System fonts serve as fallbacks, indicating that the visual hierarchy is more important than branded typography. The typeface feels contemporaneous without being trendy, technical without being cold.
+colour_logic: >-
+  The primary palette uses stark black (#000000) and white (#FFFFFF) for maximum contrast and information clarity. The signature gradient (#0070F3 blue to #7928CA purple) is reserved for brand expression moments and highlights interaction states. This restraint ensures that color has meaning—it never decorates, it always signals.
+composition_philosophy: >-
+  Layouts use generous whitespace and asymmetrical balance to create hierarchy and guide attention. Information is organized in scannable chunks for rapid comprehension. Documentation and marketing use the same grid-based, left-aligned approach. No decorative composition; hierarchy comes from scale, whitespace, and positioning.
+what_would_break_it: >-
+  Introducing playful illustrations, warm brand colors, or soften-the-sharp-edges design would immediately suggest that Vercel prioritizes brand expression over performance. The moment the interface looks designed for emotional appeal rather than technical clarity, developer trust collapses. The brand's strength is that it feels like an infrastructure product, not a consumer brand with personality.

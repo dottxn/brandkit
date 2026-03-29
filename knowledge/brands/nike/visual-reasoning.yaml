@@ -1,0 +1,28 @@
+chunk_id: "nike-visual-reasoning"
+brand: nike
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "nike-visual-dna"
+  - "nike-soul"
+token_count: 377
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Nike. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Nike uses geometric sans-serifs (Futura, Nike Custom Sans) because geometry mirrors biomechanics. The human body is an engineering problem. Clean lines, consistent stroke weights, and mathematical proportions in the typeface echo the precision required for athletic performance. Serif fonts suggest tradition and history; Nike is about what's possible next. The bold weight hierarchy creates a sense of decision and commitment — there's no hedging in the typography.
+colour_logic: >-
+  The monochromatic core (#000000, #FFFFFF) with sparse red accents (#FF0000) creates a visual emergency system. Black and white are pure contrast, no ambiguity. Red appears only to signal intensity, urgency, or victory — it's not decorative. This restraint is radical in an industry drowning in color. It also makes the swoosh icon even more powerful because the eye isn't competing with a complex palette; the logo becomes the only place of visual authority.
+composition_philosophy: >-
+  Grid-based layouts with generous white space and bold typography hierarchy create a sense of control and precision. There are no accidents in a Nike layout. Every element is positioned with purpose. The white space isn't emptiness; it's confidence. It says: this message is so strong it doesn't need decoration. This visual clarity mirrors the clarity required in athletic decision-making. When an athlete is in the zone, everything extraneous falls away — Nike's design system visually replicates that state of focused intensity.
+what_would_break_it: >-
+  A rounded, friendly sans-serif like Circular or Cereal would immediately destroy Nike's core tension between the brand and the athlete. These typefaces are designed to be warm, approachable, non-threatening. They would communicate that becoming an athlete is optional, easy, gentle. Nike's entire philosophy depends on the opposite: becoming an athlete is difficult, required, and the typeface must reflect that uncompromising standard. Soften the typography and you've softened the promise.

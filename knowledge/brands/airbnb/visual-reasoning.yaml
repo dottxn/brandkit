@@ -1,0 +1,28 @@
+chunk_id: "airbnb-visual-reasoning"
+brand: airbnb
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "airbnb-visual-dna"
+  - "airbnb-soul"
+token_count: 530
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Airbnb. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Airbnb Cereal was custom-designed to feel humanist (curved, warm) without being twee or trendy. The typeface has "analogue friendliness"—curves that feel hand-drawn while maintaining perfect legibility at mobile scale. This is critical because Airbnb's touchpoint is primarily mobile, and the typeface must feel equally warm at 12px as it does at 48px. The decision to pair Cereal with Circular shows deep thinking: Circular is the "host brand," Cereal is the "guest brand," creating subtle hierarchy while maintaining visual harmony. Most companies choose one typeface system; Airbnb trusts its brand enough to use two humanist faces in conversation.
+colour_logic: >-
+  Rausch (#FF5A5F) is warm coral, not hot pink, not peachy orange. It sits at the intersection of excitement and safety—energetic enough to feel approachable, muted enough to feel trustworthy. The color is deployed strategically: as the primary brand color, accenting photography, highlighting CTAs, and framing the emotional beats of the journey. Unlike Spotify (which deploys its color sparingly), Airbnb uses Rausch generously because warmth and welcome require constant reinforcement. The supporting palette (deep navy #222222, white) provides contrast and legibility, but the emotional work is 100% Rausch. When Airbnb introduced the 2025 refresh with 3D elements and expanded color palettes, the signal was: the brand is sophisticated enough to grow beyond a single color. But Rausch remains the emotional anchor.
+composition_philosophy: >-
+  Layouts prioritize human faces and spaces over corporate messaging. The composition philosophy treats photography as the primary design element—typography, color, and graphic elements serve the image, never compete with it. Image mosaics (used in discovery sections) create rhythm and momentum, simulating the browsing experience of discovering new homes. White space surrounds photography rather than frames it, creating a gallery effect. The brand layout philosophy asks: "How would a museum display these images?" not "How do we fit the most information on the screen?" This restraint signals that the spaces themselves are beautiful enough to merit attention.
+what_would_break_it: >-
+  Using a corporate geometric sans-serif like Helvetica or Gotham—it would immediately signal corporate homogeneity rather than human-centered design. Removing the warm Rausch color in favor of "sophisticated" blacks and whites, which would make the brand feel cold and corporate. Centering the CEO or company story rather than host and guest stories. Using stock photography of beautiful empty homes instead of photos that show human presence. Oversimplifying the Belo symbol by making it perfectly geometric and rigid instead of customizable and playful. Adopting a minimalist, Japanese-influenced aesthetic that signals wealth and exclusivity—this would contradict "Belong Anywhere."

@@ -1,0 +1,68 @@
+studios:
+- name: Order Design Agency
+  type: branding
+  url: https://order.design/
+  relationship: Led first rebrand in 25 years (2024) — developed Söhne identity system
+  project_url: https://order.design/project/herman-miller
+- name: Klim Type Foundry
+  type: type-foundry
+  url: https://klim.co.nz/
+  relationship: Designed Söhne typeface for Order rebrand (adopted 2024)
+- name: look.inc
+  type: creative-direction
+  url: https://www.lookinc.com/
+  relationship: Art direction for 'Sit Your Best' campaign and lifestyle photography
+people:
+- name: Jesse Reed
+  role: Designer / Founder
+  url: https://www.linkedin.com/in/jessereed/
+  context: Co-founder of Order Design Agency; led Herman Miller rebrand
+- name: Hamish Smyth
+  role: Designer / Founder
+  url: https://www.linkedin.com/in/hamishsmyth/
+  context: Co-founder of Order Design Agency; previously at Pentagram New York
+- name: Kris Sowersby
+  role: Type Designer
+  url: https://klim.co.nz/about/
+  context: Director and lead type designer at Klim Type Foundry; designed Söhne typeface
+- name: Irving Harper
+  role: Graphic Designer
+  url: https://en.wikipedia.org/wiki/Irving_Harper
+  context: Designed original Herman Miller M logo (1946)
+- name: John Massey
+  role: Graphic Designer
+  url: https://en.wikipedia.org/wiki/John_Massey_(designer)
+  context: Implemented Helvetica system for Herman Miller (1968)
+- name: Max Siedentopf
+  role: Photographer & Director
+  url: https://maxsiedentopf.com/
+  context: Photographer for 'Sit Your Best' campaign; brought warmth to lifestyle
+    photography
+- name: Alexander Girard
+  role: Designer / Textile Artist
+  url: https://en.wikipedia.org/wiki/Alexander_Girard
+  context: Historic textile and design collaborator; part of Herman Miller heritage
+publications:
+- title: The Order Design Studio Approach to Modernism
+  author: Design Press
+  relevance: Explores Order's philosophy of inheriting and updating design classics
+- title: 'Herman Miller: Designing the Future of Work'
+  author: Herman Miller Archive
+  relevance: Documents Herman Miller's evolution from Eames-era through contemporary
+    furniture systems
+visuals:
+- url: https://www.hermanmiller.com/stories/why-magazine/herman-miller-brand-identity-order-interview/
+  label: Herman Miller Rebrand Interview with Order — Herman Miller Magazine
+  section: visual-language
+- url: https://www.creativereview.co.uk/herman-miller-rebrand-order/
+  label: Herman Miller Rebrand Case Study — Creative Review
+  section: visual-language
+- url: https://www.dezeen.com/2024/01/23/herman-miller-rebrand-order-design/
+  label: Herman Miller Modernist Rebrand — Dezeen
+  section: visual-language
+- url: https://www.hermanmiller.com/
+  label: Herman Miller Live Brand System — Website
+  section: visual-language
+- url: https://brandstandards.hermanmiller.com/
+  label: Herman Miller Public Brand Standards Site — Design System
+  section: visual-world

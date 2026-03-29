@@ -1,0 +1,55 @@
+chunk_id: "pfizer-visual-dna"
+brand: pfizer
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "pfizer-positioning"
+token_count: 81
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Pfizer. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#0073E6"
+    name: ""
+    role: ""
+  - hex: "#00BFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Noto Sans
+    role: ""
+    style: ""
+  - name: Custom Pfizer Wordmark
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: "mixed-media"
+  imagery_subject: people
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: organic
+  contrast_level: medium
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="22-11,22-12">Our logo consists of two distinct graphic elements: an emblem and a logotype. These elements have been carefully designed, and the typography of the logotype has been carefully proportioned and spaced.</cite> Layout emphasizes scientific hierarchy and clear information architecture.

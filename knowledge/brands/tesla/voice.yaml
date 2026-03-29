@@ -1,0 +1,36 @@
+chunk_id: "tesla-voice"
+brand: tesla
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "tesla-soul"
+token_count: 39
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Tesla. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Tesla designs and manufactures electric vehicles, energy storage systems, and solar panels. The company aims to accelerate the world's transition to sustainable energy through innovative automotive te
+tone_traits:
+  - "bold"
+  - "visionary"
+  - "direct"
+  - "provocative"
+  - "engineering-proud"
+anti_traits:
+  - cautious
+  - corporate
+  - apologetic
+  - diplomatic
+  - conventional
+example_phrases: []
+guardrails:
+  never_say: []
+  always_sound: "Like the future arrived early and has no patience for the past"

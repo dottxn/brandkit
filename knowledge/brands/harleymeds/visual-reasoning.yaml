@@ -1,0 +1,28 @@
+chunk_id: "harleymeds-visual-reasoning"
+brand: harleymeds
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "harleymeds-visual-dna"
+  - "harleymeds-soul"
+token_count: 647
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for HarleyMeds. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  HarleyMeds uses humanist sans-serif typefaces (Source Sans Pro, Open Sans) because they feel contemporary and accessible—not medical journal formal (which signals intimidation) but modern professional (which signals competence). These typefaces were designed with healthcare digital products in mind; they prioritize legibility on screens and approachability in body text. The letter shapes are open (large counters), the strokes are consistent, and there's enough personality that the brand doesn't feel corporate or cold. Avoiding traditional serif fonts (which signal heritage and authority) and geometric sans-serifs (which signal corporate efficiency) keeps HarleyMeds in the "modern healthcare" category rather than "legacy institution" or "business software." The typography hierarchy is clean: primary font for headlines, same font for body copy (no secondary font family), keeping the visual system unified and purposeful. Weight variations (regular, bold) create emphasis without added complexity.
+colour_logic: >-
+  The core healthcare blue palette (#2C5AA0 for primary, #4A90E2 for accent, #FFFFFF for white) signals trustworthiness and professionalism while avoiding institutional coldness that traditional hospital blues carry. #2C5AA0 is darker and more saturated than typical corporate blues, lending gravitas; #4A90E2 is lighter and more approachable, used for interactive elements and secondary messaging. Paired with pure white, the contrast ensures that all medical information remains legible even at small scales or on mobile devices. No additional colors add noise—no "wellness greens" or "health reds" that would dilute focus. The color restraint itself is the message: this is serious, organized, and free from marketing gimmicks. The blue evokes both healthcare tradition and modern digital product design; it's universally recognized as "trustworthy" in healthcare contexts without feeling dated or corporatized.
+composition_philosophy: >-
+  Grid-based layouts with clear information hierarchy—composition is subordinate to content legibility. Medical information is structured in scannable sections with white space between concepts. Typography size creates hierarchy (largest for primary CTAs, progressively smaller for secondary information), not visual decoration. Layouts are vertical-scrolling optimized (most users access on mobile), with clear section breaks that allow breaking between attention segments. Whitespace is generous but not wasteful; it's breathing room that respects user cognitive load. Icon systems simplify medical concepts without oversimplifying them. Button placement follows usability convention (consistent, predictable, easy to target on mobile). The overall philosophy: every design choice either increases clarity or reduces noise. Nothing is decorative; everything serves information accessibility.
+what_would_break_it: >-
+  Lifestyle marketing featuring fitness influencers or shirtless models; adopting trendy design (gradients, 3D, animated illustrations); hiding pricing or provider information; using jargon-heavy language paired with clinical aesthetic; incorporating wellness language ("optimize," "peak performance") that undermines medical credibility; shifting to bright, cheerful colors that feel gimmicky; adopting playful tone (emoji, casual language) that contradicts medical authority; moving to serif fonts or script typography; eliminating provider credentials from prominent positions; adding secondary colors or visual complexity that distracts from information; designing primarily for aesthetic appeal rather than usability; incorporating testimonial-heavy design over data-driven messaging; adopting the aesthetic of legacy healthcare portals (clunky, corporate, intimidating); introducing marketing language that promises outcomes without evidence; removing transparent pricing information; making interface opaque or requiring multiple steps to see treatment options.

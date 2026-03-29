@@ -1,0 +1,60 @@
+studios:
+- name: Turner Duckworth
+  type: branding
+  url: https://turnerduckworth.com/
+  relationship: Developed the 'Archery' identity system that repositions the Golden
+    Arches as a compositional device. Global brand architecture and visual system
+    design.
+  project_url: https://turnerduckworth.com/work/mcdonalds
+- name: Pearlfisher
+  type: branding
+  url: https://pearlfisher.com/
+  relationship: Redesigned global packaging system (February 2021) with vector character
+    illustrations replacing photographic packaging. Created graphic system for product
+    differentiation.
+- name: Dalton Maag
+  type: type-foundry
+  url: https://www.daltonmaag.com/
+  relationship: Designed Speedee custom typeface (2018) specifically for McDonald's
+    headline and UI applications.
+- name: Wieden+Kennedy New York
+  type: creative-direction
+  url: https://www.wknewyork.com/
+  relationship: Lead creative agency for campaign work including cultural moment activations,
+    celebrity meal partnerships, and brand communications.
+people:
+- name: Noah Nathan
+  role: Brand Design Lead, Netflix
+  url: https://www.daltonmaag.com/
+  context: Co-designer of Netflix Sans typeface; worked on typeface design standards
+    for major brands.
+- name: Tanya Kumar
+  role: Type Designer, Dalton Maag
+  url: https://www.daltonmaag.com/
+  context: Contributed to Speedee typeface design for McDonald's.
+publications:
+- title: 'Behind the McDonald''s Redesign: From the Speedee Typeface to the Archery
+    Logo System'
+  author: It's Nice That
+  relevance: Comprehensive case study of Turner Duckworth's identity system and strategic
+    approach.
+- title: 'Redesigning an Icon: How Pearlfisher Gave McDonald''s Packaging a New Look'
+  author: PRINT Magazine
+  relevance: Detailed documentation of the global packaging redesign strategy and
+    execution.
+- title: McDonald's Identity
+  author: Communication Arts
+  relevance: In-depth analysis of the visual identity system and brand architecture.
+visuals:
+- url: https://turnerduckworth.com/work/mcdonalds
+  label: McDonald's Archery system case study — Turner Duckworth
+  section: visual-language
+- url: https://pearlfisher.com/work/mcdonalds/
+  label: McDonald's packaging redesign — Pearlfisher
+  section: visual-world
+- url: https://www.itsnicethat.com/articles/turner-duckworth-redesign-mcdonalds-branding-visual-identity-graphic-design-250719
+  label: Turner Duckworth interview and case study — It's Nice That
+  section: visual-language
+- url: https://www.printmag.com/branding-identity-design/redesigning-an-icon-how-pearlfisher-gave-mcdonalds-packaging-a-new-look/
+  label: Pearlfisher packaging feature — PRINT Magazine
+  section: visual-world

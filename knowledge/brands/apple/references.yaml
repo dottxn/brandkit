@@ -1,0 +1,59 @@
+channels:
+  website: "https://www.apple.com"
+  instagram: "https://www.instagram.com/apple/"
+  tiktok: ""
+  youtube: "https://www.youtube.com/@Apple"
+  x: "https://x.com/Apple"
+  app_store: ""
+
+studios:
+- name: TBWA\Media Arts Lab
+  type: creative-direction
+  url: https://www.mediaartslab.com/
+  relationship: Dedicated Apple agency (28-year partnership); creative direction for
+    campaigns and brand storytelling.
+- name: Foster + Partners
+  type: architecture
+  url: https://www.fosterandpartners.com/
+  relationship: Designed Apple Park headquarters and defined Apple's architectural
+    design language.
+  project_url: https://www.fosterandpartners.com/projects/apple-park
+- name: LoveFrom
+  type: digital-design
+  url: https://www.lovefrom.com/
+  relationship: Jony Ive's design studio; continues industrial design philosophy for
+    Apple products.
+people:
+- name: Peter Belanger
+  role: Product Photographer
+  url: https://www.albertwatson.net/
+  context: Apple's primary product photographer (15+ year relationship); defines studio
+    lighting and product reveal aesthetic.
+- name: Antonio Cavedoni
+  role: Type Designer
+  context: Designed San Francisco typeface family (introduced WWDC 2015) for Apple
+    platforms.
+- name: Jony Ive
+  role: Chief Design Officer (Emeritus)
+  url: https://www.lovefrom.com/
+  context: Established Apple's minimalist industrial design philosophy; founded LoveFrom.
+publications:
+- title: Designed by Apple in California
+  author: Apple Design Team
+  relevance: Official design monograph documenting product design process and philosophy.
+- title: Apple Human Interface Guidelines
+  author: Apple Design Team
+  relevance: Comprehensive software UI design system and principles documentation.
+visuals:
+- url: https://developer.apple.com/design/
+  label: Human Interface Guidelines — developer.apple.com
+  section: visual-world
+- url: https://www.apple.com/newsroom/
+  label: Product announcements and design stories — Apple Newsroom
+  section: visual-language
+- url: https://www.fosterandpartners.com/
+  label: Apple Park architecture case study — Foster + Partners
+  section: visual-world
+- url: https://www.lovefrom.com/
+  label: Product design philosophy — LoveFrom
+  section: visual-world

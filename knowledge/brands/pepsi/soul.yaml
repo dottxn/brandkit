@@ -1,0 +1,30 @@
+chunk_id: "pepsi-soul"
+brand: pepsi
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "pepsi-positioning"
+token_count: 119
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of PepsiCo. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: A refresh moment—the feeling right before joy crystallizes into action
+core_belief: >-
+  Smiles are the currency of business because they're the only metric that matters in real human experience
+creative_tension:
+  - "Global mega-corporation positioning itself as approachable and contemporary, not institutional"
+  - >-
+    Sustainability commitment paired with celebration of enjoyment (typically opposed in brand messaging)
+decision_filter: "Does this create a smile? Everything else is secondary"
+signature_move: >-
+  Custom lowercase typeface signaling approachability while maintaining global brand authority through circular composition
+what_would_break_it: >-
+  Adopting the clean minimalism of health-conscious competitors or the aggressive energy drink aesthetic—would destroy Pepsi's core positioning as celebratory and inclusive

@@ -1,0 +1,45 @@
+chunk_id: "figma-voice"
+brand: figma
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "figma-soul"
+token_count: 130
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Figma. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="40-6,40-7,40-8">Figma is a design platform for teams who build products together. Born on the Web, Figma helps teams create, share, test, and ship better designs from start to finish. Com
+tone_traits:
+  - bold
+  - expressive
+  - "\"unapologetically jumbo\""
+  - "craft-focused"
+  - inclusive
+  - "multiplayer-focused"
+  - "community-driven"
+anti_traits:
+  - corporate stiffness
+  - excessive formality
+  - generic tech speak
+  - elitist
+  - "designer-only language"
+  - gatekeeping
+example_phrases:
+  - "<cite index=\"11-8\">Nothing Great Is Made Alone</cite>"
+  - "<cite index=\"51-10\">build by design</cite>"
+  - >-
+    <cite index="45-13,45-14">unapologetically graphic and more 'jumbo' than their predecessors. Think: Big shapes, oversized nodes, and bold use of color</cite>
+  - >-
+    <cite index="34-16">We're multiplayer people who live by our values, celebrate our differences, and care deeply about each other and our users</cite>
+guardrails:
+  never_say: []
+  always_sound: "bold, expressive, \"unapologetically jumbo\", craft-focused, inclusive"

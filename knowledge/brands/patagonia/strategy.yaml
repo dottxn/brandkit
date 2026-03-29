@@ -1,0 +1,30 @@
+chunk_id: "patagonia-strategy"
+brand: patagonia
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "patagonia-positioning"
+token_count: 83
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Patagonia. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe business can be a force for good when companies use their resources to address the environmental crisis and fight for the planet.
+mission: >-
+  To build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
+vision: "We're in business to save our home planet"
+values:
+  - Build the Best Product
+  - Act with Integrity
+  - Protect Our Home Planet
+  - "Be Just, Equitable and Antiracist"
+  - Do It Our Way

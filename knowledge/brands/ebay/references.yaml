@@ -1,0 +1,58 @@
+studios:
+- name: Lippincott
+  type: branding
+  url: https://www.lippincott.com/
+  relationship: Created 2012 rebrand; designed overlapping-letter wordmark and visual
+    system
+  project_url: https://www.lippincott.com/work/ebay/
+- name: Form
+  type: design-agency
+  url: https://www.form.london/
+  relationship: Developed Market Sans custom typeface with Swiss Typefaces (NYC office)
+- name: eBay Design Team
+  type: in-house-design
+  url: https://www.ebay.com/
+  relationship: Created eBay Evo system (November 2024) — 280-page playbook, 2,700+
+    assets
+people:
+- name: Emma White
+  role: Head of Design Programs
+  url: ''
+  context: Oversees design governance and brand consistency across eBay
+publications:
+- title: eBay Evo Brand System (2024)
+  author: eBay Design Team
+  relevance: 280-page brand playbook; 136-colour accessible palette; 2,700+ brand
+    assets; custom illustration library
+- title: Lippincott 2012 eBay Rebrand
+  author: Lippincott
+  relevance: Redesigned overlapping-letter wordmark; established modern eBay visual
+    identity
+- title: Market Sans Open Source Initiative
+  author: eBay & Form
+  relevance: Custom typeface released as open-source on GitHub (ebay-font repository)
+visuals:
+- url: https://www.lippincott.com/work/ebay/
+  label: eBay 2012 Rebrand — Lippincott Case Study
+  section: visual-language
+- url: https://www.designweek.co.uk/issues/may-2012/lippincott-designs-new-ebay-identity/
+  label: eBay Rebrand — Design Week Coverage (2012)
+  section: visual-language
+- url: https://www.form.london/
+  label: Form Design Agency — Market Sans Typeface
+  section: visual-language
+- url: https://github.com/eBay/ebay-font
+  label: eBay Font Repository — Open Source GitHub
+  section: visual-language
+- url: https://www.ebay.com/
+  label: eBay.com — Current Brand Implementation & Visual Language
+  section: visual-world
+- url: https://playbook.ebay.com/
+  label: eBay Playbook — Brand Guidelines & Design System
+  section: visual-language
+- url: https://thedieline.com/pearlfisher-gives-cvs-healths-private-label-a-new-look/
+  label: eBay Evo Visual System Documentation — DIELINE Coverage
+  section: visual-language
+- url: https://www.logodesignlove.com/ebay-logo
+  label: eBay Logo Evolution — Logo Design Love
+  section: visual-language

@@ -1,0 +1,71 @@
+chunk_id: "tesla-anti-patterns"
+brand: tesla
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "tesla-soul"
+  - "tesla-visual-dna"
+token_count: 665
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Tesla. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Warm color palettes (golds, teals, sunset gradients)"
+    reasoning: Warmth implies comfort and stability; Tesla needs the cool precision of laboratory conditions.
+  - pattern: "Decorative elements or illustrative language (icons, playful graphical treatments)"
+    reasoning: >-
+      Decoration suggests the product isn't interesting enough alone. Tesla's ultra-minimalism says: "The innovation speaks."
+  - pattern: "Human faces in close-up or emotional celebration"
+    reasoning: >-
+      Emotional portraiture humanizes the brand. Tesla treats humans as small elements in vast futuristic landscapes—we're the audience for the technology, not the focus.
+  - pattern: Serif typefaces or anything with historical grounding
+    reasoning: "Serifs feel rooted in the past. Tesla must feel like it's inventing typography in real time."
+strategic:
+  - pattern: Emphasizing luxury or premium positioning in the traditional sense
+    reasoning: >-
+      Tesla avoids "luxury car" language. It's positioned as future technology that happens to cost money, not as a status symbol. (This is why the Cybertruck disrupted the luxury market—it broke the rule.)
+  - pattern: "Building community through lifestyle content (vacation imagery, aspirational living)"
+    reasoning: >-
+      Tesla's community is built around belief in acceleration, not lifestyle. Content is always functional—it demonstrates capability, not desirability.
+  - pattern: Collaborating with celebrities as endorsers
+    reasoning: >-
+      Celebrity endorsement creates a parasitic relationship where fame borrows from the brand. Tesla's meme culture means Elon IS the celebrity, and the audience relationship remains direct.
+  - pattern: Messaging that emphasizes individual customization or choice
+    reasoning: >-
+      Tesla's power comes from the illusion of constraint (three color options, limited configurations) that feels visionary, not limiting.
+tonal:
+  - pattern: "Inspirational platitudes (\"Join the movement,\" \"Be the change\")"
+    reasoning: >-
+      Tesla doesn't inspire; it diagnoses. The tone is "the apocalypse is real and here's the solution," which is darker and more compelling than hope.
+  - pattern: "Apologetic or defensive language about being a \"different kind of car company\""
+    reasoning: >-
+      Tesla never apologizes for being disruptive. The language is declarative: "This is what cars are now."
+  - pattern: Emotionally manipulative copywriting (tugging heartstrings about saving the planet)
+    reasoning: >-
+      Tesla's copy is clinical and specification-dense. The emotion comes from inference, not manipulation. "0-60 in 2.7 seconds" is more compelling than "save your children's future."
+  - pattern: "Casual, irreverent humor that makes light of the company's impact"
+    reasoning: >-
+      Elon's Twitter persona is chaotic, but brand communication maintains seriousness. The humor exists outside the brand itself—it's Elon's personal brand, not Tesla's.
+cultural:
+  - pattern: Positioning as a luxury brand competing with Mercedes or BMW
+    reasoning: >-
+      This is categorically wrong. Tesla competes with the concept of the future itself. Its real rival is the gasoline car, not the S-Class.
+  - pattern: >-
+      Adopting superficial "tech culture" aesthetics (neon gradients, cyberpunk visual language, synthwave)
+    reasoning: >-
+      Tesla doesn't appropriate tech culture; it IS the source culture. Cyberpunk aesthetic is what happens when you copy Tesla's minimalism. Adoption would feel like self-quotation.
+  - pattern: Framing sustainability as a moral cause that requires consumer sacrifice
+    reasoning: >-
+      Tesla never says "drive less" or "do without." The brand position is that sustainability is the highest performance. No compromise. No virtue signaling.
+  - pattern: >-
+      Building a brand around cult of personality in a way that makes the company dependent on one individual
+    reasoning: >-
+      Tesla walks this line dangerously. The brand survives only if the company can eventually become boring and technical (what it claims to be) while Elon stays chaotic (what he is).

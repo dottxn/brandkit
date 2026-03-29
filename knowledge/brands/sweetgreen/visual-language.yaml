@@ -1,0 +1,322 @@
+chunk_id: "sweetgreen-visual-language"
+brand: "sweetgreen"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "sweetgreen-visual-dna"
+  - "sweetgreen-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-27"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for sweetgreen. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+visual_modes:
+  modes:
+    - name: "brand-sweetgreen"
+      touchpoints:
+        - "sweetgreen.com homepage and marketing pages"
+        - "sweetgreen brand campaigns"
+        - "sweetgreen social media channels"
+        - "sweetgreen corporate communications"
+      description: >-
+        Chartreuse-on-Kale Green dominant — bright chartreuse type on
+        dark 'kale' green backgrounds creates sweetgreen's most
+        recognisable chromatic device. SweetSans (MCKL Type / Jeremy
+        Mickel, custom, based on Owners typeface, 2021) serves as the
+        primary brand typeface, paired with Grenette (Colophon Foundry,
+        secondary serif). COLLINS (San Francisco/New York, 2021 rebrand)
+        developed the comprehensive visual identity in partnership with
+        the in-house agency led by Thomas Wilder (Executive Creative
+        Director). Emily Morris (Director of Brand) and Brian Okarski
+        (Design Director) shaped the internal execution. The visual
+        language is food-craft-coded: vintage-cookbook-inspired, produce-
+        hero, handmade-quality. Four pillars guide the identity: Food,
+        Sustainability, People, and Culture. Compared to Chipotle (more
+        ingredient-sourcing-narrative-coded) or Chopt (no distinctive
+        visual identity), sweetgreen's visual language is the most design-
+        invested and the most culture-connected in fast-casual salad.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this chartreuse-
+        kale, SweetSans/Grenette-set, food-craft-coded register.
+
+    - name: "sweetgreen-restaurant-experience"
+      touchpoints:
+        - "sweetgreen restaurant interiors and exterior"
+        - "In-store signage and menu boards"
+        - "Team member uniforms and merchandise"
+        - "Packaging and service ware"
+      description: >-
+        Physical-environment-coded, community-local. COLLINS designed the
+        physical store identity — signage systems, interior design
+        direction, and packaging. Each restaurant location reflects the
+        local community while maintaining brand consistency. The visual
+        language must work at counter-service speed — menu boards,
+        ordering signage, and packaging all communicate quickly and
+        clearly. Team member uniforms extend the brand identity into
+        human expression.
+      differs_from_default_by: >-
+        Physical materials, environmental design, and packaging. The
+        visual register serves the in-restaurant experience. Local
+        community adaptation introduces environmental variation.
+
+    - name: "sweetgreen-digital-ordering"
+      touchpoints:
+        - "sweetgreen app ordering interface"
+        - "sweetgreen.com online ordering"
+        - "Delivery platform listings"
+        - "Sweetpass loyalty programme"
+      description: >-
+        More functional, more ordering-flow-coded. The digital ordering
+        mode uses the same SweetSans and green palette but with a more
+        functional register — menu browsing, customisation, checkout, and
+        loyalty management. Food photography is hero content — every bowl
+        and salad must look irresistible in a mobile-screen context.
+      differs_from_default_by: >-
+        Ordering-flow functional conventions dominate. Food photography
+        replaces brand graphics as primary visual content. The visual
+        register serves ordering efficiency.
+
+  notes: >-
+    The COLLINS 2021 rebrand continues rolling out across locations
+    through 2025. sweetgreen's culture partnerships (Naomi Osaka as
+    first athlete partner at rebrand launch) extend the visual identity
+    into sports and entertainment. The brand name is always lowercase
+    — a deliberate typographic decision reflecting accessibility and
+    humility.
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "sweetgreen.com (observed February 2026)"
+    - "COLLINS rebrand photography"
+    - "sweetgreen menu and food photography"
+  subject_and_framing: >-
+    Produce-hero, food-craft-forward. sweetgreen's photography makes
+    food the hero — close-up shots of fresh ingredients, assembled bowls
+    and salads with visible texture and colour, seasonal produce in
+    beautiful light. The photography draws from vintage-cookbook aesthetics
+    — produce styled as beautiful objects, ingredients presented with
+    craft-quality attention. People-behind-the-food photography shows
+    farmers, chefs, and team members. The photography celebrates
+    seasonality — ingredients change with the season, and the photography
+    reflects this. Compared to Chipotle (more behind-the-line, process-
+    coded) or Just Salad (standard QSR food photography), sweetgreen's
+    photography is the most produce-beautiful and the most cookbook-
+    editorial.
+  casting_observed: >-
+    Farmers, chefs, team members, and culture partners. Naomi Osaka
+    (first athlete partner, 2021 rebrand launch). The casting reflects
+    sweetgreen's four pillars — Food (farmers and chefs), Sustainability
+    (growers and producers), People (team members), and Culture (athletes,
+    musicians, chefs). No generic lifestyle models — the people connected
+    to the food ARE the cast.
+  lighting_and_colour: >-
+    Warm, natural, produce-enhancing. Food photography uses warm, natural
+    lighting that enhances ingredient colours — greens, reds, oranges,
+    and earth tones. The chartreuse and kale green palette harmonises
+    with produce photography. The lighting references vintage cookbook
+    and food-editorial standards — soft, directional, appetite-enhancing.
+  post_production: >-
+    Moderate, food-appetising. Food photography receives treatment that
+    enhances freshness, texture, and colour vibrancy. The processing
+    supports the 'real food' positioning — appetising without artificial
+    manipulation. The vintage-cookbook aesthetic introduces slight warmth.
+  visual_boundaries:
+    stated_exclusions: >-
+      sweetgreen avoids standard QSR food photography (overhead product-
+      on-tray, promotional-deal-coded). Avoids processed-food imagery.
+      Avoids aspirational-lifestyle photography disconnected from food.
+    observed_exceptions: >-
+      Delivery-platform listings use more conventional food-app
+      photography.
+    genuine_absence: >-
+      Based on sweetgreen.com review: no celebrity-endorsement-dominant
+      photography (Osaka partnership is culture-coded, not endorsement-
+      coded), no processed-food imagery, no standard QSR promotional
+      photography.
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "COLLINS 2021 rebrand"
+    - "SG monogram"
+    - "Vintage-cookbook illustration"
+  uses_illustration: true
+  illustration_style: >-
+    Vintage-cookbook-inspired — lifelike produce paired with line-drawn
+    characters. COLLINS built the illustration system to celebrate food
+    as hero and humans as stewards. The modular system blends warmth,
+    whimsy, and brand storytelling with clarity and charm. The illustration
+    style suggests real ingredients and handcrafted care — hand-drawn
+    quality of vintage cookbooks that highlight the people behind the
+    work. The system embraces imperfection — reflecting the natural
+    process of cooking and the organic quality of ingredients.
+  illustration_role: >-
+    Brand personality, packaging, and storytelling. Illustrations appear
+    on packaging, in-store signage, marketing materials, and digital
+    content. The produce-character illustration system flexes across
+    touchpoints — from paper bags to Instagram posts. The modular nature
+    allows illustrations to adapt to different contexts.
+  icon_style: >-
+    The SG monogram — an 'S' and open 'G' designed to echo each other,
+    creating a harmonious, memorable pairing (MCKL Type). Functions as
+    the app icon and compact brand mark. Menu-category and dietary-
+    information icons follow the organic, slightly imperfect character
+    of the brand.
+  graphic_devices: >-
+    Chartreuse-on-Kale Green — the bright-on-dark colour combination is
+    sweetgreen's most ownable chromatic device. The SG monogram — the
+    open G echoing the S shape creates a distinctive compact mark. The
+    all-lowercase 'sweetgreen' wordmark — the lowercase treatment is a
+    deliberate typographic decision reflecting accessibility and the
+    brand's relationship to natural, uncapitalised food. The produce-
+    illustration system — vintage-cookbook-styled illustrations that make
+    ingredients into visual characters.
+  motion_language: >-
+    Food-process-coded. Marketing videos show food preparation, seasonal
+    ingredient sourcing, and restaurant-experience moments. Animation
+    of the illustration system brings produce characters to life. The
+    motion language is warm, craft-coded, and food-centred — never
+    aggressive or fast-food-paced.
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "SweetSans (MCKL Type / Jeremy Mickel, 2021, based on Owners)"
+    - "Grenette (Colophon Foundry, secondary serif)"
+    - "sweetgreen.com (observed February 2026)"
+  signature_move: >-
+    SweetSans (MCKL Type / Jeremy Mickel, Los Angeles, 2021) — a custom
+    sans-serif inspired by signage found throughout Los Angeles,
+    specifically around the Silver Lake Reservoir. MCKL (the foundry
+    behind Pfizer's custom wordmark) began with their Owners typeface as
+    a foundation but made deliberate departures for sweetgreen — alternate
+    glyphs fine-tuned for personality, and a dedicated text version
+    optimised for smaller sizes. The breakthrough was the open 'G' that
+    echoes the 'S' shape — creating the SG monogram. SweetSans includes
+    a wide range of widths and weights for flexibility across touchpoints.
+    Grenette (Colophon Foundry, London) serves as the secondary serif —
+    a contemporary reimagination of an old-style serif 'reminiscent of
+    typography you could find in a chef's cookbook.' Together, these
+    typefaces create an 'extremely versatile typographic voice.' Compared
+    to Chipotle (no distinctive custom type) or Shake Shack (no custom
+    type), sweetgreen's typographic investment is the most significant
+    in fast-casual dining.
+  what_would_look_wrong: >-
+    A corporate sans-serif (contradicts the craft-food-coded register).
+    A heavy, QSR-aggressive display typeface (sweetgreen's tone is warm
+    and inviting, not promotional). The pre-2021 typography (signals the
+    previous identity). Any typeface that reads as fast-food rather than
+    fast-casual-craft.
+  case_convention: >-
+    'sweetgreen' ALWAYS lowercase — this is a non-negotiable brand
+    convention. Product and menu item names use lowercase. Body text
+    uses sentence case. The lowercase convention extends from the brand
+    name through all brand-level communications.
+  display_vs_body: >-
+    Display: SweetSans at heavier weights for marketing headlines and
+    campaign type — the LA-signage-inspired character is most visible at
+    display sizes. Grenette at display weights for editorial and cookbook-
+    coded contexts. Body: SweetSans Text (dedicated text optimisation)
+    at regular weight for website content, menu descriptions, and
+    interface text.
+  type_and_image: >-
+    Typography and food photography create compositions where SweetSans
+    headlines and produce imagery share space. The chartreuse-on-kale
+    colour treatment gives type visual impact alongside food photography.
+    Menu descriptions pair SweetSans with ingredient photography. The
+    cookbook-editorial aesthetic means type and food imagery are treated
+    with equal visual care.
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "sweetgreen.com (observed February 2026)"
+    - "sweetgreen restaurant design"
+    - "sweetgreen app interface"
+  signature_composition: >-
+    Menu-and-ordering-centred with editorial food-craft framing.
+    sweetgreen.com balances editorial brand content (food stories,
+    seasonal features, sustainability messaging) with ordering
+    functionality. The app uses a menu-browsing composition with food
+    photography as hero content. Restaurant interiors use menu-board-
+    centred compositions with SweetSans typography at scale. Compared to
+    Chipotle (more assembly-line-experience-coded) or Panera (more
+    bakery-cafe-coded), sweetgreen's layout is the most editorially
+    food-craft-coded.
+  density_and_whitespace: >-
+    Moderate density. Menu browsing shows enough items with photography
+    for appetising selection. Marketing pages use generous whitespace
+    with vintage-cookbook-quality compositions. In-restaurant signage
+    balances menu information with brand visual quality.
+  format_preferences: >-
+    Mobile-first for ordering app. In-store signage follows restaurant-
+    specific format sizes. Marketing uses square and vertical social
+    formats. Food photography uses overhead and eye-level compositions.
+
+trend_posture:
+  overall: "leader"
+  relationship_to_trends: >-
+    sweetgreen leads visual trends in fast-casual by importing food-
+    editorial, vintage-cookbook, and culture-partnership aesthetics into
+    a QSR-scale operation.
+  examples:
+    - trend: "Culture-connected fast-casual branding"
+      stance: "leader"
+      evidence: >-
+        sweetgreen's culture partnerships (Naomi Osaka as first athlete
+        partner, chef collaborations, musician partnerships) and the
+        COLLINS-designed visual identity import cultural credibility into
+        fast-casual dining. The brand behaves more like a food-culture
+        publication than a restaurant chain.
+      reasoning: >-
+        Fast-casual brands typically compete on ingredients or convenience.
+        sweetgreen competes on cultural relevance — the visual identity
+        makes salad culturally interesting.
+    - trend: "Custom typography in fast-casual dining"
+      stance: "leader"
+      evidence: >-
+        SweetSans (MCKL Type, 2021) — a custom typeface inspired by
+        LA signage with a dedicated text optimisation and custom SG
+        monogram — represents one of the most significant typographic
+        investments in fast-casual dining.
+      reasoning: >-
+        Custom typography signals brand seriousness and design investment.
+        In a category dominated by generic type, SweetSans gives
+        sweetgreen a distinctive voice.
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    Chartreuse and kale green palette. SweetSans + Grenette typeface
+    system. The SG monogram. The all-lowercase brand name. The produce-
+    hero, vintage-cookbook register.
+  what_bends: >-
+    Seasonal menus introduce ingredient-specific photography and colour
+    treatments. Culture partnerships (athletes, chefs, musicians)
+    introduce partner-specific visual elements. Restaurant locations
+    adapt to local community contexts. Delivery-platform listings adapt
+    to third-party interface requirements.
+  notable_examples: >-
+    sweetgreen x COLLINS (2021 rebrand): the strategy and design
+    consultancy created the comprehensive visual identity — SweetSans
+    adoption, Grenette pairing, illustration system, store design,
+    packaging, and photography direction. The rebrand accompanied the
+    four-pillar positioning (Food, Sustainability, People, Culture).
+    sweetgreen x MCKL Type / Jeremy Mickel (SweetSans): the LA-based
+    foundry created a custom typeface inspired by Silver Lake signage —
+    including the SG monogram breakthrough. sweetgreen x Colophon
+    Foundry (Grenette): the London foundry's contemporary serif provides
+    the cookbook-editorial typographic register. sweetgreen x Naomi Osaka
+    (2021 launch partner): the first athlete partnership extended the
+    visual identity into sports culture.

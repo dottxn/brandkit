@@ -1,0 +1,47 @@
+# ──────────────────────────────────────────────
+# Royal Ballet and Opera — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "DesignStudio (now Further)"
+    type: "branding"
+    url: "https://www.design.studio/"
+    project_url: "https://www.design.studio/work/royal-ballet-and-opera"
+    relationship: "Comprehensive rebrand developing the 'Living Timeline' concept and updated visual identity"
+
+  - name: "SomeOne"
+    type: "design"
+    url: "https://someoneinlondon.com/"
+    relationship: "Retained and refined the Christopher Wormell heraldic crest from previous identity"
+
+people:
+  - name: "Christopher Wormell"
+    role: "Engraver and illustrator"
+    url: "https://www.theartworksinc.com/artist/chris-wormell/"
+    context: "Created the iconic heraldic crest (2010, SomeOne) retained in the 2024 rebrand"
+
+publications:
+  - title: "Living Timeline: Celebrating 275+ Years of Royal Ballet and Opera"
+    author: "DesignStudio"
+    relevance: "Documents the strategic framework honoring heritage while remaining contemporary"
+
+  - title: "Royal Ballet and Opera: A New Brand Era for a Cultural Institution"
+    author: "DesignStudio"
+    relevance: "Comprehensive case study of the rebrand including visual system, tone of voice, and production-specific applications"
+
+visuals:
+  - url: "https://www.design.studio/work/royal-ballet-and-opera"
+    label: "DesignStudio case study — Complete rebrand with Living Timeline framework"
+    section: "visual-language"
+
+  - url: "https://www.rbo.org.uk/"
+    label: "Royal Ballet and Opera website — Updated visual identity and production marketing"
+    section: "visual-language"
+
+  - url: "https://www.rbo.org.uk/whats-on"
+    label: "Production-specific marketing and visual treatments — Extended color palette from archive"
+    section: "visual-world"
+
+  - url: "https://someoneinlondon.com/projects/re-thinking-the-royal-opera-house"
+    label: "SomeOne's previous identity work — Christopher Wormell crest heritage"
+    section: "visual-language"

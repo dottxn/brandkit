@@ -1,0 +1,31 @@
+chunk_id: "microsoft-strategy"
+brand: microsoft
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "microsoft-positioning"
+token_count: 58
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Microsoft. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in empowering every person and every organization on the planet through technology to create local surplus and unlock human potential
+mission: To empower every person and every organization on the planet to achieve more
+vision: >-
+  To be the productivity and platform company for the mobile-first, cloud-first world, democratizing AI and making it accessible to all
+values:
+  - Innovation
+  - Inclusiveness
+  - Accountability
+  - Trustworthy Computing
+  - Growth Mindset
+  - Corporate Social Responsibility

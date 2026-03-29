@@ -1,0 +1,71 @@
+chunk_id: "rivian-anti-patterns"
+brand: rivian
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "rivian-soul"
+  - "rivian-visual-dna"
+token_count: 682
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Rivian. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Minimalist typography without personality
+    reasoning: >-
+      Reasoning: Rivian's custom Pentagram type has warmth and proportion—generic sans-serifs would strip the human element and make it sound like Tesla's colder, tech-first voice
+  - pattern: Product photography in controlled studio environments
+    reasoning: >-
+      Reasoning: The brand lives through *use*, not isolation. A pristine R1T against a white backdrop betrays the core promise that this vehicle is built for actual exploration
+  - pattern: "Pastels or washed-out earth tones in supporting palette"
+    reasoning: >-
+      Reasoning: Rivian's minimal palette works because the Compass Yellow commands space without apology. Adding muddy secondary colors would dilute impact and read as "trying too hard to be organic"
+  - pattern: "Centered, formal composition layouts"
+    reasoning: >-
+      Reasoning: Rivian's layouts breathe—generous margins and left-aligned elements reflect exploration's freedom. Centered layouts feel corporate and contained, opposite of the brand's outward orientation
+strategic:
+  - pattern: Claiming sustainability as moral superiority
+    reasoning: >-
+      Reasoning: Rivian frames responsibility as a foundation for better adventures, not as penance. The moment you make customers feel virtuous, you've switched from liberation to righteousness
+  - pattern: Partnerships with luxury lifestyle brands
+    reasoning: >-
+      Reasoning: A collab with an ultra-premium fashion house would position Rivian as status symbol instead of capability tool. The brand must stay accessible-to-aspirational, never purely luxe
+  - pattern: "Advertising that downplays the \"adventure\" aspect"
+    reasoning: >-
+      Reasoning: Some automotive brands hide the active lifestyle component to appeal to commuters. Rivian's entire positioning depends on celebrating genuine exploration—muting that is slow suicide
+  - pattern: "Positioning against legacy automotive as \"the better car\""
+    reasoning: >-
+      Reasoning: Rivian's differentiation is categorical (new type of vehicle for a new way of living), not comparative (better than Ford). Comparison-driven messaging narrows possibility
+tonal:
+  - pattern: "Corporate earnestness or inspiration-speak"
+    reasoning: >-
+      Reasoning: Rivian's tone pairs adventurousness with genuine sustainability purpose, but can't afford to sound *preachy*. Self-righteousness kills the exploratory spirit instantly
+  - pattern: Gamification or artificial urgency in communications
+    reasoning: >-
+      Reasoning: Real explorers don't feel FOMO—they feel possibility. Limited-edition drops and countdown timers undermine the patient, deliberate quality positioning
+  - pattern: Insider references or gatekeeping language
+    reasoning: >-
+      Reasoning: Adventure should feel inclusive ("everyone can explore"), never exclusive. Even subtle gatekeeping ("true adventurers know...") contradicts the mission of making the world adventurous for more people
+  - pattern: "Apology-based framing of technology"
+    reasoning: >-
+      Reasoning: Rivian can't sound apologetic about capability or innovation. The tech isn't a necessary evil for sustainability—it *enables* better adventures. Own it without apology
+cultural:
+  - pattern: Oversaturation of extreme sports content
+    reasoning: >-
+      Reasoning: Rock climbing, BASE jumping, and extreme mountain biking represent maybe 2% of what Rivian enables. Families camping, scientists on research expeditions, and multi-generational road trips matter more
+  - pattern: "Separation of \"adventure\" from everyday functionality"
+    reasoning: >-
+      Reasoning: Rivian vehicles should feel equally at home in a parking lot serving as a remote office or parked at a trailhead. The brand errs when it implies adventure only happens in "special" places
+  - pattern: Geographically limiting the definition of exploration
+    reasoning: >-
+      Reasoning: Sand dunes and mountain peaks are iconic, but Rivian's audience includes urban explorers, desert researchers, and others doing important work in non-photogenic environments. Overindexing on iconic geography shrinks the mission
+  - pattern: Building community around status instead of shared purpose
+    reasoning: >-
+      Reasoning: Owner communities work best when they're united by what they *do* (exploration, adventure, discovery), not by what they *own* (premium vehicle as status marker). Product communities leak; purpose communities stick

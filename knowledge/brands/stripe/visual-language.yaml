@@ -1,0 +1,323 @@
+chunk_id: "stripe-visual-language"
+brand: "stripe"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "stripe-visual-dna"
+  - "stripe-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Stripe. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-gradient"
+      touchpoints:
+        - "stripe.com homepage and marketing pages"
+        - "Stripe Sessions conference"
+        - "Brand campaigns and social media"
+        - "Stripe blog and company communications"
+      description: >-
+        Animated mesh gradients on dark backgrounds — Stripe's most
+        recognisable visual element. The gradients use WebGL (minigl library,
+        Fractal Brownian Motion, Simplex noise) to create living, shifting
+        colour fields that respond to cursor movement. Primary purple
+        (#635BFF, 'Cornflower'), dark blue (#0A2540, 'Downriver'), and
+        off-white (#F6F9FC) form the core palette. The 2025 rebrand
+        introduced a new logo — a single white diagonal line on a blue
+        square, replacing the previous 'S' lettermark. Katie Dill (Head of
+        Design, ex-Airbnb/Lyft) oversees the visual system. Söhne (Klim
+        Type Foundry, Kris Sowersby, adopted 2020) replaced Camphor as the
+        primary typeface. The visual language positions Stripe as the most
+        design-literate company in financial infrastructure. Compared to
+        Square (cleaner, more geometric, black-and-white) or Adyen (corporate,
+        green-accented), Stripe's visual language is uniquely atmospheric.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this gradient-
+        driven, purple-dark-blue, Söhne-set, atmospheric register.
+
+    - name: "documentation-developer"
+      touchpoints:
+        - "stripe.com/docs — API documentation"
+        - "Stripe Dashboard"
+        - "Developer tools and SDKs"
+        - "Stripe CLI interface"
+      description: >-
+        Clean, structured, code-focused. The documentation strips away the
+        atmospheric gradients in favour of clear information architecture.
+        Dark code blocks with syntax highlighting. Left-sidebar navigation
+        with persistent section headers. The visual language here prioritises
+        developer experience — code examples are the hero content, not
+        gradients. Stripe's documentation is widely regarded as the gold
+        standard in API documentation design, cited by competitors and
+        developer experience advocates.
+      differs_from_default_by: >-
+        Gradients are absent. White/light backgrounds replace dark. Code
+        blocks and structured content replace atmospheric visuals. The
+        register shifts from emotional/atmospheric to functional/technical.
+
+    - name: "stripe-press-editorial"
+      touchpoints:
+        - "press.stripe.com — Stripe Press publishing venture"
+        - "Physical book design and packaging"
+        - "Stripe Press marketing and author events"
+      description: >-
+        Editorial, literary, book-design-focused. Stripe Press publishes
+        physical books on economics, technology, and culture — each with
+        bespoke cover design and interior typography. The visual language
+        is closer to an independent publisher than a payments company.
+        Covers use distinctive colour palettes, considered typography, and
+        conceptual design. This mode demonstrates Stripe's cultural
+        ambition beyond fintech.
+      differs_from_default_by: >-
+        Bespoke design per title replaces systematic brand application.
+        Book-design conventions (cover typography, interior layouts, paper
+        choice) replace digital-first patterns. The Stripe brand is a
+        subtle imprint rather than the visual lead.
+
+    - name: "product-ui"
+      touchpoints:
+        - "Stripe Dashboard (payments management interface)"
+        - "Stripe Checkout (embeddable payment form)"
+        - "Stripe Elements (pre-built UI components)"
+        - "Stripe Connect onboarding flows"
+      description: >-
+        The 'Sail' design system governs product UI. Clean, functional,
+        accessibility-first. The accessible colour system was designed in
+        Lab colour space to ensure contrast compliance across all contexts.
+        Purple (#635BFF) appears as the primary action colour. The product
+        interface uses generous whitespace, clear hierarchy, and restrained
+        animation. Stripe Checkout is designed to be embedded in other
+        companies' products — it adapts its visual language to the host
+        while maintaining trust signals.
+      differs_from_default_by: >-
+        Functional clarity replaces atmospheric beauty. The gradient is
+        absent. Whitespace and structure dominate. The visual language
+        serves conversion and trust rather than brand expression.
+
+  notes: >-
+    Stripe operates across radically different visual contexts — from
+    atmospheric marketing to utilitarian documentation to literary
+    publishing to embedded payment forms. The coherence comes from
+    typographic consistency (Söhne), colour consistency (purple and
+    dark blue), and a shared commitment to design quality rather than
+    a single visual system applied uniformly.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "low"
+  primary_sources:
+    - "stripe.com (observed February 2026)"
+    - "Stripe Sessions conference photography"
+    - "Stripe Press author portraits"
+  subject_and_framing: >-
+    Stripe uses almost no photography in its primary visual language.
+    The brand's identity is built on gradients, typography, and colour —
+    not photographic content. When photography appears (Stripe Sessions
+    event coverage, team content, Stripe Press author portraits), it is
+    secondary to the graphic and typographic system. Compared to fintech
+    competitors like Square (product photography, merchant portraits) or
+    PayPal (lifestyle photography, diverse casting), Stripe's visual
+    identity is the most photograph-free in the payments category.
+  casting_observed: >-
+    Limited. Stripe Sessions features developer and business audiences.
+    Stripe Atlas marketing includes entrepreneur portraits. No celebrity
+    casting. No major photography-driven campaigns.
+  lighting_and_colour: >-
+    When photography appears, it is neutral and documentary. The gradient
+    system provides all the colour atmosphere the brand needs — photography
+    doesn't need to carry this burden.
+  post_production: >-
+    Minimal. Photography is not a primary brand tool and receives standard
+    rather than distinctive post-production treatment.
+  visual_boundaries:
+    stated_exclusions: >-
+      Stripe avoids stock photography, generic fintech imagery (hands
+      holding phones, credit cards), and lifestyle photography conventions.
+      The brand's visual identity is deliberately non-photographic.
+    observed_exceptions: >-
+      Stripe Atlas (startup incorporation product) uses some entrepreneur
+      and business imagery that is more conventional than the core brand.
+    genuine_absence: >-
+      Based on stripe.com review: no hero photography, no lifestyle
+      campaigns, no product photography in the traditional sense. The
+      gradient system, typography, and code examples are the visual heroes.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "stripe.com WebGL animated gradients (minigl, Fractal Brownian Motion, Simplex noise)"
+    - "2025 rebrand — new diagonal-line logo"
+    - "Stripe Press cover designs"
+    - "'Sail' design system"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    Product icons within the Sail design system use a consistent stroke-
+    weight, rounded-corner style. Payment method icons (Visa, Mastercard,
+    etc.) follow standardised formats. Dashboard icons are functional and
+    minimal. No distinctive custom illustration system.
+  graphic_devices: >-
+    The WebGL animated mesh gradients — Stripe's signature visual device.
+    Built on minigl with Fractal Brownian Motion and Simplex noise algorithms,
+    these gradients create living, atmospheric colour fields that shift
+    across purple, blue, teal, and pink. They respond to cursor movement
+    on desktop. The 2025 logo (a single white diagonal line on a blue
+    square) is the newest graphic device — minimal, abstract, echoing the
+    original 'stripe' concept. The diagonal line at roughly 60° appears as
+    a design motif across the system. The accessible colour system (designed
+    in Lab colour space) ensures that the gradient palette maintains
+    contrast compliance.
+  motion_language: >-
+    The WebGL gradients ARE the motion language — continuously animated,
+    generative, never static. On stripe.com, the gradient homepage hero
+    shifts in real time. Page transitions use smooth, eased animations.
+    Stripe Sessions uses animated gradient backdrops for stage presentations.
+    The motion is ambient and organic — never sharp, mechanical, or
+    attention-grabbing. It creates atmosphere rather than directing focus.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Söhne (Klim Type Foundry, Kris Sowersby, 2019 release, adopted by Stripe 2020)"
+    - "stripe.com and Stripe documentation (observed February 2026)"
+    - "Ludwig Pettersson (historical Creative Director, original designer of Stripe's visual identity)"
+    - "Katie Dill (Head of Design)"
+  signature_move: >-
+    Söhne (Klim Type Foundry, Kris Sowersby, 2019) — a neo-grotesque
+    inspired by the pre-Helvetica era of Swiss typography. Stripe adopted
+    Söhne in 2020, replacing Camphor. The typeface is precise, contemporary,
+    and quietly confident — it reads as 'designed by someone who knows
+    type' without being showy. Söhne's distinction from Helvetica is
+    subtle: sharper terminals, more geometric 'o', slightly more humanist
+    'a'. Choosing a Klim typeface (a respected New Zealand independent
+    foundry) rather than a corporate type house signals design literacy.
+    Stripe is the highest-profile adopter of Söhne, and the typeface is
+    now closely associated with the brand.
+  what_would_look_wrong: >-
+    A geometric sans-serif (Futura, Proxima Nova) — too clean and cold for
+    Stripe's atmospheric warmth. A serif typeface in product or marketing
+    (Stripe is entirely sans-serif except for Stripe Press book interiors).
+    Helvetica or Inter — too generic for a brand that has invested in
+    typographic distinction. Large, heavy display type — Stripe's typographic
+    register is confident but not loud.
+  case_convention: >-
+    Sentence case for marketing and documentation. The Stripe wordmark uses
+    title case. Product names use title case ('Stripe Connect,' 'Stripe
+    Atlas,' 'Stripe Checkout'). Documentation uses sentence case throughout.
+  display_vs_body: >-
+    Display: Söhne at medium-to-bold weights, generous sizing, set against
+    dark backgrounds or gradient fields. Body: Söhne at regular weight —
+    clean, readable, with comfortable leading for long-form documentation.
+    Code: monospaced font (Source Code Pro or similar) for API documentation
+    and code examples. Stripe Press uses bespoke typographic choices per
+    title — each book has its own interior typography.
+  type_and_image: >-
+    Type sits on top of gradients — the mesh gradient serves as a dynamic
+    background for typographic content. The relationship is atmospheric:
+    type floats on colour rather than competing with imagery. In
+    documentation, type dominates — code examples are the visual content.
+    In Stripe Press, type and book-design conventions coexist with the
+    broader brand system.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "stripe.com (observed February 2026)"
+    - "stripe.com/docs"
+    - "Stripe Dashboard"
+  signature_composition: >-
+    Full-bleed gradient heroes with centred type. stripe.com opens with an
+    animated gradient that fills the viewport — type centred, clean, with
+    no competing elements. Below the hero, content is organised in card-
+    based modules with generous spacing. The overall feeling is spacious
+    and considered. Compared to PayPal (denser, more promotional) or
+    Adyen (more corporate, more structured), Stripe's layout is the most
+    atmospheric and design-forward in payments.
+  density_and_whitespace: >-
+    Generous whitespace in marketing — the gradient heroes use full viewport
+    width with centred, floating type. Content sections have wide margins
+    and comfortable spacing. Documentation is denser (information-first)
+    but still well-spaced compared to most API docs. The Dashboard balances
+    data density with clear visual hierarchy.
+  format_preferences: >-
+    Wide, viewport-filling heroes for marketing. Card-based content modules.
+    Left-sidebar navigation for documentation. Dashboard uses a structured
+    grid with clear information hierarchy. Marketing leans horizontal;
+    documentation leans vertical.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "leader"
+  relationship_to_trends: >-
+    Stripe sets design trends in the developer-tools and fintech categories.
+    The animated gradient hero, the Söhne adoption, and the documentation-
+    as-design-showcase approach have been widely imitated.
+  examples:
+    - trend: "WebGL/generative art in brand design"
+      stance: "leader"
+      evidence: >-
+        Stripe's animated mesh gradients (WebGL, Fractal Brownian Motion,
+        Simplex noise) predated and influenced the wave of generative-art
+        brand design that has appeared across tech companies since 2020.
+        The approach has been directly imitated by multiple fintech startups.
+      reasoning: >-
+        By using generative algorithms rather than static imagery, Stripe
+        created a visual identity that is infinitely variable yet always
+        recognisable. This approach has become a template for design-
+        forward tech companies.
+    - trend: "API documentation as design showcase"
+      stance: "leader"
+      evidence: >-
+        stripe.com/docs set the standard for developer documentation design.
+        Clear typography, interactive code examples, left-sidebar navigation,
+        and responsive layout. Cited as the gold standard by developer
+        experience advocates and imitated by Twilio, Plaid, and others.
+      reasoning: >-
+        Stripe proved that developer documentation could be a brand
+        differentiator and a design showcase rather than an afterthought.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    Söhne as the typeface. The purple-dark-blue palette (#635BFF, #0A2540).
+    The animated gradient aesthetic in marketing contexts. The diagonal-
+    line logo (2025). The commitment to design quality and accessibility.
+  what_bends: >-
+    Stripe Checkout adapts its visual language to the host merchant's brand
+    — it can be white-labelled while maintaining trust signals. Stripe Press
+    adopts bespoke visual identities per title. Partner integrations
+    (Stripe + Shopify, Stripe + Squarespace) blend Stripe's identity with
+    the host platform.
+  notable_examples: >-
+    Stripe Press (ongoing): each published title receives bespoke cover
+    design and interior typography — the most radical visual departure from
+    the core brand. Stripe Checkout (embedded payment form): designed to
+    adapt to any merchant's visual language while maintaining trust and
+    conversion signals. Stripe Sessions (annual conference): the gradient
+    aesthetic is amplified into environmental design — large-scale
+    projections and stage graphics.

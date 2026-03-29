@@ -1,0 +1,57 @@
+chunk_id: "hm-visual-dna"
+brand: hm
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "hm-positioning"
+token_count: 88
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for H&M. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#CC071E"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: HM Sans
+    role: ""
+    style: ""
+  - name: HM Amperserif
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: minimal
+  type_class: mixed
+  type_character: geometric
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: editorial
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: "Grid-based layouts with generous whitespace and hierarchical typography systems"

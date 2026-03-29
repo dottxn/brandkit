@@ -1,0 +1,363 @@
+chunk_id: "strava-visual-language"
+brand: "strava"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "strava-visual-dna"
+  - "strava-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-26"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Strava. How the brand looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "brand-strava-orange"
+      touchpoints:
+        - "strava.com homepage and marketing pages"
+        - "Strava brand campaigns"
+        - "Strava social media channels"
+        - "Strava corporate communications"
+      description: >-
+        Strava Orange (#FC5200 / #FC4C02, Pantone PMS 1655 C) dominant —
+        a high-visibility, energetic orange that commands attention in the
+        fitness-app category. Boathouse (Grilli Type, Zurich, 2023)
+        replaced Maison Neue as the brand typeface. Anita Patwardhan
+        Butler (first CDO, appointed February 2023, ex-Twitter/Facebook)
+        oversees the visual system. The Strava wordmark features a 78-
+        degree angle that symbolises momentum and forward motion. The
+        brand visual language is athletic, data-rich, and community-
+        coded — it celebrates the social and competitive aspects of
+        fitness rather than solitary exercise. Dark mode was introduced
+        June 2024. Compared to Nike Run Club (black, more brand-campaign-
+        coded, more aspirational) or Garmin Connect (blue, more data-
+        specification-coded, more hardware-integrated), Strava's visual
+        language is the most community-social and the most colour-ownable
+        in fitness.
+      differs_from_default_by: >-
+        This is the baseline. All other modes reference this orange,
+        Boathouse-typed, activity-data-driven register.
+
+    - name: "activity-data"
+      touchpoints:
+        - "Strava app activity feed"
+        - "Activity detail pages (maps, stats, segments)"
+        - "Strava segments and leaderboards"
+        - "Global Heatmap"
+      description: >-
+        Map-and-data-centred. The Strava activity view combines GPS route
+        maps with performance data (pace, distance, elevation, heart rate)
+        — the visual composition that defines fitness social media. The
+        Global Heatmap (1B+ activities visualised as heat trails on a
+        world map, Mapbox partnership) is Strava's most visually
+        distinctive data product. Segment leaderboards visualise
+        competitive performance. The visual language in this mode is
+        functional and information-dense — designed for athletes analysing
+        their performance. The route map itself has become a visual genre
+        — Strava Art (GPS drawings) represents community-driven visual
+        creativity within the platform.
+      differs_from_default_by: >-
+        Data visualisation dominates. Maps replace photography. The
+        register shifts from brand storytelling to athletic-performance
+        analysis. Strava Orange appears as accent in data interfaces
+        rather than dominant colour.
+
+    - name: "year-in-sport"
+      touchpoints:
+        - "Annual Year in Sport data visualisation campaign"
+        - "Year in Sport personal summary cards"
+        - "Year in Sport social sharing assets"
+      description: >-
+        Strava's annual Year in Sport campaign (Manual Creative) creates
+        a bespoke visual identity each year — data visualisations that
+        summarise the global Strava community's activity. Personal summary
+        cards (individual year-end statistics) are designed for social
+        sharing — they are among the most shared fitness-related visual
+        assets annually. The Year in Sport visual language is richer and
+        more expressive than the daily app experience — custom data
+        visualisations, infographic-style compositions, and campaign-
+        specific colour treatments that extend the orange palette.
+      differs_from_default_by: >-
+        Richer, more expressive, campaign-specific. Data visualisation
+        becomes the visual content. Social-sharing-optimised formats.
+        The visual register shifts from daily-tool to annual-celebration.
+
+  notes: >-
+    Strava's visual identity balances functional fitness data with
+    community social features. The Global Heatmap (1B+ activities) is
+    both a data product and a visual spectacle. Anita Patwardhan Butler's
+    appointment as first CDO (February 2023) and the Boathouse typeface
+    commission signal increased design investment. The Strava Art
+    community (GPS-drawing with activity routes) represents a unique
+    form of community visual expression.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "strava.com (observed February 2026)"
+    - "Strava marketing campaigns"
+    - "Strava social media content"
+  subject_and_framing: >-
+    Athletic activity in outdoor environments. Strava's photography shows
+    runners, cyclists, swimmers, and hikers in their natural settings —
+    roads, trails, mountains, pools. The photography emphasises the
+    athletic experience and community connection rather than product
+    features (Strava is software, not hardware). Athlete photography
+    captures movement and effort — dynamic framing, outdoor environments,
+    group activity. Compared to Nike (more aspirational, more campaign-
+    produced, more celebrity-athlete-coded) or Peloton (indoor, equipment-
+    coded, more controlled), Strava's photography is the most outdoor-
+    activity-authentic.
+  casting_observed: >-
+    Real athletes — diverse in age, body type, and ability level. Strava's
+    photography intentionally shows everyday athletes alongside elite
+    performers. The casting reflects Strava's community: serious
+    recreational athletes, weekend warriors, running clubs, cycling
+    groups. No celebrity endorsement — the community IS the casting.
+  lighting_and_colour: >-
+    Outdoor natural lighting — golden hour, trail shade, urban street
+    light, pool reflections. The photography embraces the varied lighting
+    conditions of real athletic environments. Strava Orange appears in
+    branded elements (apparel, graphics) rather than influencing the
+    photographic palette. The colour palette of the photography is
+    nature-driven — greens, browns, blues, sunset oranges.
+  post_production: >-
+    Natural, moderate processing. The photography aims for authenticity —
+    real athletes in real environments. Colour treatment is warm but
+    not heavily manipulated. The post-production supports the 'real
+    athletes, real activities' positioning.
+  visual_boundaries:
+    stated_exclusions: >-
+      Strava avoids gym/indoor-fitness photography (that is Peloton
+      territory). The brand avoids aspirational-body-image photography.
+      The photography celebrates activity and community rather than
+      aesthetic outcomes.
+    observed_exceptions: >-
+      Some subscriber-acquisition marketing uses more polished, more
+      conventional fitness photography.
+    genuine_absence: >-
+      Based on strava.com review: no celebrity-athlete photography, no
+      product photography (Strava is software), no studio or controlled-
+      environment fitness photography.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "high"
+  primary_sources:
+    - "ILLO Studio Turin (2023 challenge badge design)"
+    - "Global Heatmap (1B+ activities, Mapbox partnership)"
+    - "KOM/QOM crown system"
+    - "strava.com (observed February 2026)"
+  uses_illustration: true
+  illustration_style: >-
+    Badge and achievement illustration — ILLO Studio (Turin) designed the
+    2023 challenge badge system, bringing illustrated craft to Strava's
+    gamification elements. The badges use a distinctive, slightly
+    dimensional style with athletic motifs — mountains, routes, activity
+    symbols. The illustration style is more craft-oriented than typical
+    app badges — each badge feels designed rather than generated.
+    Compared to Apple Fitness (more minimal badges) or Garmin (more
+    technical, less designed), Strava's badge illustration is the most
+    artisanally crafted.
+  illustration_role: >-
+    Achievement celebration and challenge identification. Badges appear
+    when athletes complete challenges, reach milestones, or earn segment
+    distinctions. The illustration system makes digital achievements
+    feel tangible and collectible — a gamification strategy that
+    encourages continued activity and engagement.
+  icon_style: >-
+    Activity-type icons (run, ride, swim, hike, ski) use a consistent
+    style. The KOM (King of the Mountain) and QOM (Queen of the Mountain)
+    crown icons are Strava's most culturally significant icons — they
+    indicate segment leaders and have become symbols of athletic
+    achievement within the cycling and running communities. The Local
+    Legend laurel icon indicates the athlete with the most efforts on a
+    segment. These icons function as status symbols within the community.
+  graphic_devices: >-
+    The Global Heatmap — 1B+ activities visualised as glowing heat trails
+    on a dark world map (Mapbox partnership). The Heatmap is both a data
+    product and a visual spectacle — it reveals global patterns of human
+    athletic activity. The KOM/QOM crown — a simple icon that carries
+    significant competitive meaning within the community. Strava Orange
+    (#FC5200) — the colour itself is a graphic device, instantly
+    identifiable in the fitness-app category. The route-map aesthetic —
+    GPS activity routes rendered as coloured lines on maps have become
+    a visual genre (Strava Art — GPS drawings created through planned
+    routes). The 78-degree wordmark angle — symbolising momentum and
+    forward motion.
+  motion_language: >-
+    Activity-completion animations — celebratory effects when activities
+    are uploaded. Segment-achievement animations for KOM/QOM and PR
+    (personal record) moments. The Global Heatmap animates with
+    time-based activity patterns (showing when different regions are
+    active). Route-trace animations show GPS routes being drawn on maps.
+    The motion language is celebratory and achievement-coded — it
+    reinforces the positive feeling of completing athletic activities.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "high"
+  primary_sources:
+    - "Boathouse (Grilli Type, Zurich, 2023 — replaced Maison Neue)"
+    - "Inter (UI typeface)"
+    - "78-degree angle in wordmark"
+    - "strava.com (observed February 2026)"
+  signature_move: >-
+    Boathouse (Grilli Type, Zurich, 2023) — commissioned to replace
+    Maison Neue as Strava's brand typeface. Grilli Type (the Zurich
+    foundry behind GT America, GT Flexa, and Hulu's Graphik) created
+    Boathouse with athletic-brand character — slightly condensed, with
+    energetic proportions that communicate movement and competition. The
+    name 'Boathouse' references the rowing-club origins of Strava's
+    founders (Mark Gainey and Michael Horvath, Harvard rowing teammates).
+    Inter (Rasmus Andersson, open-source) serves as the UI typeface for
+    the activity data interface. The 78-degree angle in the Strava
+    wordmark symbolises momentum — this angle carries through brand
+    graphic elements. Compared to Nike (Futura, Helvetica tradition —
+    classic, authoritative) or Under Armour (custom condensed type —
+    aggressive, athletic), Strava's Boathouse is the most community-
+    sport-coded.
+  what_would_look_wrong: >-
+    A serif typeface (Strava is entirely sans-serif). A delicate,
+    lightweight typeface (contradicts the athletic, energetic register).
+    Maison Neue (now superseded, signals the pre-2023 identity). A
+    condensed, aggressive display typeface (Strava's tone is community-
+    positive, not aggressively competitive). A generic UI typeface
+    without brand character.
+  case_convention: >-
+    'Strava' uses title case. Feature names use title case ('Segment,'
+    'Global Heatmap,' 'Beacon'). Body text uses sentence case. Marketing
+    headlines use sentence case. The brand avoids ALL CAPS in most
+    contexts — the tone is encouraging and community-coded, not
+    aggressive.
+  display_vs_body: >-
+    Display: Boathouse at heavier weights for marketing headlines,
+    campaign type, and Year in Sport data visualisation labels. The
+    slightly condensed proportions work well at display sizes. Body:
+    Inter at regular weight for activity data, interface text, and
+    app content. The two-typeface system (Boathouse for brand, Inter
+    for UI) creates a clear separation between brand expression and
+    functional data display.
+  type_and_image: >-
+    Typography provides critical athletic data — pace, distance, time,
+    elevation, heart rate. In the app, numbers are the hero content —
+    athletes scan their performance data before anything else. In
+    marketing, Boathouse type and outdoor-activity photography share
+    space with Strava Orange providing visual unity. In Year in Sport
+    campaigns, typography and data visualisation become the visual
+    content — numbers tell the community's story.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "strava.com (observed February 2026)"
+    - "Strava app interface"
+    - "Strava activity feed"
+  signature_composition: >-
+    Activity-feed-centred social layout. The Strava app uses a social
+    feed of activity cards — each card shows a route map, performance
+    data, and social interactions (kudos, comments). The activity feed
+    combines the visual patterns of social media (scrolling feed,
+    engagement metrics) with fitness data (maps, stats, segments).
+    Activity detail pages use a map-hero composition with data sections
+    below. The segment leaderboard uses a ranked-list composition.
+    Compared to Nike Run Club (simpler, more run-focused) or Garmin
+    Connect (denser, more data-specification-coded), Strava's layout
+    is the most social-media-influenced.
+  density_and_whitespace: >-
+    Moderate density. Activity cards balance map imagery, performance
+    data, and social engagement. The June 2024 dark mode introduction
+    created visual depth. Marketing pages use more generous whitespace
+    with Strava Orange section backgrounds. Data-heavy contexts
+    (segments, leaderboards, training logs) are appropriately dense.
+  format_preferences: >-
+    Mobile-first — the Strava app is the primary product. Activity cards
+    use a vertical mobile format. Route maps adapt to the activity's
+    geography. Year in Sport personal cards are optimised for social-
+    sharing formats (Instagram Stories, X/Twitter, Facebook). The Global
+    Heatmap uses a full-screen map format.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Strava established the visual standard for fitness social media and
+    selectively adopts broader design trends when they serve the athletic
+    community.
+  examples:
+    - trend: "Fitness social media (activity sharing as social content)"
+      stance: "leader"
+      evidence: >-
+        Strava established the visual pattern of sharing GPS activity
+        routes and performance data as social content. The activity card
+        (route map + stats + social engagement) is now replicated by
+        Apple Fitness, Garmin Connect, and numerous fitness apps. The
+        phrase 'if it's not on Strava, it didn't happen' reflects the
+        platform's cultural influence on athletic activity sharing.
+      reasoning: >-
+        Strava proved that athletic activity data could function as social
+        media content — the route map and performance stats create
+        shareable, comparable, community-engaging visual content.
+    - trend: "Data visualisation as brand content"
+      stance: "leader"
+      evidence: >-
+        The Global Heatmap (1B+ activities) and annual Year in Sport
+        campaign (Manual Creative) demonstrate data visualisation as
+        primary brand content. The Heatmap is both a product feature and
+        a visual spectacle. Year in Sport personal summary cards are
+        among the most shared fitness-related visual assets annually.
+      reasoning: >-
+        Strava's community generates massive data that can be visualised
+        at global scale — the Heatmap and Year in Sport transform user
+        data into brand content and shareable visual experiences.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "adaptive"
+  what_stays: >-
+    Strava Orange (#FC5200). Boathouse typeface. The activity-feed social
+    pattern. The route-map visual language. The KOM/QOM crown system.
+    The 78-degree wordmark angle.
+  what_bends: >-
+    Year in Sport creates annual campaign-specific visual identities
+    (Manual Creative). Challenge badges introduce seasonal visual
+    variations (ILLO Studio). Hardware-partner integrations (Garmin,
+    Wahoo, Apple Watch) accommodate partner visual elements. The Strava
+    Metro data product (city transportation planning) uses a more
+    institutional visual register. Community-created content (Strava
+    Art, segment naming) extends the visual language in uncontrolled
+    directions.
+  notable_examples: >-
+    Strava x Grilli Type (Boathouse, 2023): the Zurich foundry created
+    a typeface whose name references the founders' rowing heritage —
+    demonstrating how typographic choice can encode brand origin story.
+    Strava x ILLO Studio (2023 challenge badges): the Turin illustration
+    studio brought artisanal craft to digital achievement badges —
+    making gamification elements feel designed rather than generic.
+    Strava x Manual Creative (Year in Sport): the annual data
+    visualisation campaign transforms community activity data into
+    shareable visual content — each year's campaign creates a new visual
+    identity within the Strava framework. Strava x Mapbox (Global
+    Heatmap): the mapping platform partnership enables Strava's most
+    visually distinctive feature — 1B+ activities visualised as glowing
+    heat trails on a world map.

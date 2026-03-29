@@ -1,0 +1,76 @@
+# ──────────────────────────────────────────────
+# Uniqlo — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "SAMURAI INC"
+    type: branding
+    url: "https://samurai.co.jp/"
+    relationship: "Designed Uniqlo identity redesign (2006) — dual-script logo, Japanese/Latin integration, brand foundation"
+
+  - name: "Wonderwall"
+    type: architecture
+    url: "https://www.wonderwall.jp/"
+    relationship: "Designed Uniqlo global flagship store interiors — gallery-like presentation, gallery-like retail spaces"
+
+people:
+  - name: "Kashiwa Sato"
+    role: "Creative Director, SAMURAI INC / Designer"
+    url: "https://kashiwasato.com/"
+    context: "Designed Uniqlo identity redesign (2006) — dual-script Katakana/Latin logo, Japanese ink seal aesthetics"
+
+  - name: "John C Jay"
+    role: "President Global Creative, Fast Retailing"
+    url: "https://www.linkedin.com/in/johnjay/"
+    context: "Oversees global creative vision and LifeWear philosophy (ex-Wieden+Kennedy 21 years)"
+
+  - name: "Christophe Lemaire"
+    role: "Co-Artistic Director, Uniqlo U"
+    url: "https://www.linkedin.com/in/christophe-lemaire-3b56a513/"
+    context: "Creative director of Uniqlo U sub-brand (2016-present) — elevated design-forward collections"
+
+  - name: "Sarah-Linh Tran"
+    role: "Co-Artistic Director, Uniqlo U"
+    url: "https://www.linkedin.com/in/sarah-linh-tran/"
+    context: "Co-leads Uniqlo U Paris R&D Centre — biannual design-forward collections"
+
+  - name: "Clare Waight Keller"
+    role: "Creative Director, UNIQLO:C"
+    url: "https://www.linkedin.com/in/clare-waight-keller-a4a7ab18/"
+    context: "Former Creative Director Givenchy/Chloé — leads UNIQLO:C luxury-heritage collections (September 2024-present)"
+
+  - name: "Masamichi Katayama"
+    role: "Architect, Wonderwall"
+    url: "https://www.wonderwall.jp/"
+    context: "Designed Uniqlo global flagship store interiors — minimal gallery-like retail spaces"
+
+  - name: "Sou Fujimoto"
+    role: "Architect"
+    url: "https://www.soufujimoto.jp/"
+    context: "Designed UNIQLO PARK Yokohama (2020) — architectural landmark integrating retail and public space"
+
+publications:
+  - title: "Japan Branding: Uniqlo's Logo Design"
+    author: "Golden Ninja"
+    relevance: "Analysis of Kashiwa Sato's dual-script identity and Japanese design philosophy"
+
+  - title: "Creative Director Satō Kashiwa: An Eye for the Iconic"
+    author: "Nippon.com"
+    relevance: "Profile of Kashiwa Sato and impact on Uniqlo brand identity"
+
+visuals:
+  - url: "https://www.uniqlo.com"
+    label: "Uniqlo website — product-first grid layout, minimal white backgrounds, Uniqlo Red logo"
+    section: visual-language
+
+  - url: "https://kashiwasato.com/project/6821"
+    label: "Kashiwa Sato SAMURAI INC portfolio — Uniqlo identity redesign"
+    section: visual-world
+
+  - url: "https://www.wonderwall.jp/"
+    label: "Wonderwall — Uniqlo flagship store interiors, gallery-like retail design"
+    section: visual-world
+
+  - url: "https://www.uniqlo.com/uniqlo-u"
+    label: "Uniqlo U collections — elevated design direction, editorial photography, Basel Grotesk typography"
+    section: visual-language

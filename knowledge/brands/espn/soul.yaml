@@ -1,0 +1,30 @@
+chunk_id: "espn-soul"
+brand: espn
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "espn-positioning"
+token_count: 158
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of ESPN. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  The roar of the crowd that hasn't happened yet but feels inevitable, the pause before the moment that decides everything
+core_belief: Sports is the most honest human activity—everything hidden is revealed in competition
+creative_tension:
+  - "Expert insider authority (we know sports) vs. accessible mainstream appeal (we're for everyone)"
+  - Individual athletic moment vs. epic narrative arc
+decision_filter: >-
+  Does this celebrate the sport, the athlete, or the human drama? All three? If we had to choose one, the human drama wins.
+signature_move: >-
+  The signature white line through the ESPN logo—a simple gesture that creates visual continuity across every application, representing the line between chaos and clarity
+what_would_break_it: >-
+  Removing the white line, using pastel or sophisticated aesthetics, centering information over emotion, or treating sports as logical game instead of human drama

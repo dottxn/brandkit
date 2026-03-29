@@ -1,0 +1,71 @@
+chunk_id: "shopifycom-anti-patterns"
+brand: shopifycom
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "shopifycom-soul"
+  - "shopifycom-visual-dna"
+token_count: 501
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Shopify.com. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Vibrant color blocking
+    reasoning: >-
+      Shopify rejects this; color is used as signal (green = go, white = clarity), never as decoration. Visual noise breaks merchant focus.
+  - pattern: Animated transitions and flourishes
+    reasoning: >-
+      The platform avoids motion that feels indulgent. Every animation either communicates state change or increases perceived performance.
+  - pattern: Photographic lifestyle imagery in the UI
+    reasoning: >-
+      The dashboard eschews beauty shots; photography only appears to showcase merchant products, making the tool intentionally humble.
+  - pattern: Serif typefaces anywhere in the system
+    reasoning: >-
+      Sharp, clean sans-serif (Myriad) signals precision and trustworthiness; serifs would introduce unnecessary formality and decorative weight.
+strategic:
+  - pattern: Vertical product silos
+    reasoning: >-
+      Shopify integrates payments, hosting, inventory, and marketing as one system. The worst strategy would be separating these into disconnected tools.
+  - pattern: Feature bloat without defaults
+    reasoning: >-
+      Every feature ships with sensible defaults that work before customization. Overwhelming merchants with options first would violate core promise.
+  - pattern: "Platform dependency lock-in through complexity"
+    reasoning: >-
+      The opposite of their strategy—easy exit creates trust that increases retention. They could lock merchants in; they don't.
+  - pattern: Chasing every market trend
+    reasoning: >-
+      Shopify's competitive edge comes from depth in core tools, not breadth in experimental features. Abandoning this would destroy focus.
+tonal:
+  - pattern: Corporate formality in communication
+    reasoning: >-
+      Voice is confident but never condescending. "You're our customer" becomes implied through actions, not stated through copy.
+  - pattern: Apology language or hedging
+    reasoning: >-
+      No "we hope," "we think," or "we believe"—only decisive statements about capability. Uncertainty would undermine the core message of empowerment.
+  - pattern: Technical jargon as a display of sophistication
+    reasoning: >-
+      Every technical concept is explained simply. Complexity hidden in the product, clarity visible in the voice.
+  - pattern: Sales pressure or urgency tactics
+    reasoning: >-
+      The tone remains neutral about business outcomes. Success is merchant-driven, not platform-driven; the voice reflects this asymmetry.
+cultural:
+  - pattern: "First-mover arrogance about payment processing"
+    reasoning: >-
+      Despite dominance, Shopify positions itself as challenger, learning from merchant feedback constantly. Resting on innovation would kill the brand.
+  - pattern: "Western-centric design and language"
+    reasoning: >-
+      Global scaling required visual neutrality. Avoiding regional assumptions in imagery and metaphor was essential to 175+ country presence.
+  - pattern: Treating small merchants differently than enterprise
+    reasoning: >-
+      The platform promises the same capabilities to everyone; visual system and voice treat a solo creator as seriously as a major brand.
+  - pattern: Celebrating the platform over the merchant
+    reasoning: >-
+      Every success story centers the merchant, not Shopify's infrastructure. The opposite would make the brand feel extractive.

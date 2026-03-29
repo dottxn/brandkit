@@ -1,0 +1,30 @@
+chunk_id: "glossier-strategy"
+brand: glossier
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "glossier-positioning"
+token_count: 48
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Glossier. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe in the power of the individual and see beauty as an incredible conduit for connection
+mission: "To give voice through beauty and democratize an industry that has forever been top-down"
+vision: >-
+  To redefine the beauty industry by creating a community-driven brand that celebrates individuality and empowers self-expression
+values:
+  - Inclusive
+  - "Customer-devoted"
+  - Curious
+  - Courageous
+  - Discerning
+  - Authentic

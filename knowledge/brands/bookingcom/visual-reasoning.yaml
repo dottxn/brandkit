@@ -1,0 +1,28 @@
+chunk_id: "bookingcom-visual-reasoning"
+brand: bookingcom
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "bookingcom-visual-dna"
+  - "bookingcom-soul"
+token_count: 183
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Booking.com. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Booking Sans is custom because it needs to work as small as 9pt on mobile listings and as large as headlines—it's built with specific character proportions for legibility across contexts. Sans-serif removes editorial character, placing all focus on property information and CTA clarity
+colour_logic: >-
+  Core blue (#003B95, #009FE3) dominates because blue signals trust and stability when making financial decisions. Yellow (#FEBA02) appears only in high-value moments (deals, CTAs) creating visual surprise. The palette rejects luxury warm tones; cool colors suggest global neutrality. Grey (#666666) and light backgrounds (#F2F6FA) create breathing room
+composition_philosophy: >-
+  The 23.5-degree angle appears subtly in typography, not as obvious rotation but as invisible structure—it suggests global thinking without literal representation. Grid-based layouts keep property listings scannable. The blue never competes with imagery; it frames and directs
+what_would_break_it: >-
+  Warm color temperatures, decorative patterns, serif typography, centered layouts, or multiple competing visual hierarchies

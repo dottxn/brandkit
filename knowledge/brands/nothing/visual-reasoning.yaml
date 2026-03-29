@@ -1,0 +1,28 @@
+chunk_id: "nothing-visual-reasoning"
+brand: nothing
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "nothing-visual-dna"
+  - "nothing-soul"
+token_count: 248
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Nothing. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  NDot and NType 82 typography directly evoke dot-matrix printers and early computational displays—not as nostalgia but as a statement that computation has visual traces. The monospace personality in both typefaces emphasizes precision and equality (every character gets the same width). These aren't humanist typefaces pretending computation is friendly; they're honest typefaces that say "this is made by systems."
+colour_logic: >-
+  Monochromatic white (#FFFFFF) and black (#000000) with surgical red (#FF0000) accents. The red isn't decoration—it's a warning color, a highlight color, a system color that commands attention. The palette says "we removed all decorative color so that when red appears, it means something." In an era of rainbow tech companies, Nothing's color restraint becomes a radical statement.
+composition_philosophy: >-
+  Asymmetrical layouts with extreme whitespace, grid-based but not rigid. The composition mirrors the product philosophy: maximum clarity, minimum decoration. Product images positioned to reveal internal structure, not to create lifestyle desire. Every image asks "what am I looking at?" rather than "do you want to be like this person?"
+what_would_break_it: >-
+  Adding a secondary color palette or gradient would immediately shift Nothing from "transparent technology" to "consumer lifestyle brand," destroying the philosophical coherence that makes the brand remarkable.

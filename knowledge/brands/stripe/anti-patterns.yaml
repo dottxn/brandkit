@@ -1,0 +1,71 @@
+chunk_id: "stripe-anti-patterns"
+brand: stripe
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "stripe-soul"
+  - "stripe-visual-dna"
+token_count: 477
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Stripe. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Colorful illustrations or pictorial elements
+    reasoning: >-
+      Stripe avoids any imagery that celebrates the product. All visual elements serve clarity; decoration is rejected entirely.
+  - pattern: "Playful or personality-driven typography"
+    reasoning: >-
+      System fonts and minimalist type treatment only. Personality in the interface would undermine the perception of technical seriousness.
+  - pattern: Gradient fills or dimensional effects
+    reasoning: >-
+      Flat color fields and clean separation of elements. Gradients would introduce noise in an interface where clarity is currency.
+  - pattern: Photography or lifestyle imagery in product communication
+    reasoning: >-
+      Product is documented through clean technical screenshots and code examples. Lifestyle imagery would cheapen the technical positioning.
+strategic:
+  - pattern: Feature complexity as a moat
+    reasoning: >-
+      Stripe's competitive advantage comes from beautiful integration and documentation, not proprietary features that competitors can't replicate.
+  - pattern: "Lock-in through switching costs"
+    reasoning: >-
+      The APIs are designed for easy integration and theoretically easy migration. The brand succeeds through loyalty, not dependency.
+  - pattern: "Enterprise-only positioning"
+    reasoning: >-
+      Despite managing enterprise payments, Stripe leads with startup-friendly pricing and documentation. Abandoning small developers would lose the competitive edge.
+  - pattern: Following payment processing conventions
+    reasoning: >-
+      Stripe consistently challenges industry norms about complexity, fees, and API design. Conforming to legacy standards would destroy differentiation.
+tonal:
+  - pattern: Sales language or persuasive copy
+    reasoning: >-
+      Documentation and examples do the persuading. Copy avoids selling language, focusing instead on clear technical explanation.
+  - pattern: Enthusiasm or emotional appeal
+    reasoning: >-
+      The voice remains steady and confident. No exclamation points, no celebration language; just precise explanation of capability.
+  - pattern: "Jargon explanation as hand-holding"
+    reasoning: >-
+      Stripe assumes developers understand fintech concepts. Oversimplifying would feel condescending to the target audience.
+  - pattern: Promise language about business outcomes
+    reasoning: >-
+      The brand explains what the tool does, not what it will achieve for your business. Avoiding outcome promises maintains credibility.
+cultural:
+  - pattern: Enterprise seriousness over startup accessibility
+    reasoning: >-
+      The brand deliberately maintains startup culture even as it grows. Becoming "enterprise-y" would lose the technical community.
+  - pattern: Closed developer ecosystem
+    reasoning: >-
+      Stripe's competitive advantage includes open documentation and third-party integrations. Restricting access would defeat the open-minded culture.
+  - pattern: Financial services austerity over builder optimism
+    reasoning: >-
+      Despite being fintech, Stripe maintains the builder's mindset of "moving fast and shipping." Enterprise regulatory thinking would kill the culture.
+  - pattern: Exclusive technical knowledge
+    reasoning: >-
+      The company publishes deeply technical information openly. Gatekeeping knowledge for premium customers would contradict the open developer philosophy.

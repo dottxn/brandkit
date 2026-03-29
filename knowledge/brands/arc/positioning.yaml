@@ -1,0 +1,31 @@
+chunk_id: "arc-positioning"
+brand: arc
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 50
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Arc. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Arc
+website: "https://arc.net"
+founded: 2019
+category: technology
+sub_category: "web-browsers"
+price_tier: budget
+primary_archetype: The Creator
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 7
+  heritage_innovation: 9
+key_differentiators: []

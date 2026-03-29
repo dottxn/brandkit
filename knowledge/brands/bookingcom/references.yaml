@@ -1,0 +1,45 @@
+studios:
+- name: Wieden+Kennedy Amsterdam
+  type: creative-direction
+  url: https://www.wkamsterdam.com/
+  relationship: Creative direction for rebrand campaigns and visual identity refresh.
+  project_url: https://www.wkamsterdam.com/
+- name: Colophon Foundry
+  type: type-foundry
+  url: https://colophon.studio/
+  relationship: Designed Booking Sans custom typeface with distinctive 23.5-degree
+    Earth-axial-tilt bevels (2015).
+- name: Pearlfisher
+  type: branding
+  url: https://www.pearlfisher.com/
+  relationship: Extended digital visual language into physical brand touchpoints (2024
+    packaging).
+- name: Siegel+Gale
+  type: branding
+  url: https://www.siegelgale.com/
+  relationship: Established strategic brand framework within which visual system operates.
+people:
+- name: German Kopytkov
+  role: Lead Visual Designer
+  context: Led logotype design and broader visual identity system development.
+- name: Elena Snezhinskaya
+  role: Illustration Director
+  context: Developed dual-register illustration system (energetic traveller-facing,
+    calm partner-facing).
+publications:
+- title: booking.design documentation
+  author: Booking.com Design Team
+  relevance: Official design system for 43 languages and 220+ markets.
+visuals:
+- url: https://booking.design/
+  label: Official design system — booking.design
+  section: visual-world
+- url: https://www.wkamsterdam.com/
+  label: Rebrand campaign case study — Wieden+Kennedy Amsterdam
+  section: visual-language
+- url: https://colophon.studio/
+  label: Booking Sans typeface documentation — Colophon Foundry
+  section: visual-language
+- url: https://www.itsnicethat.com/
+  label: Design journalism — It's Nice That
+  section: visual-language

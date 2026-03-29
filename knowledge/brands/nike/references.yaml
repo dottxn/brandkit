@@ -1,0 +1,80 @@
+# ──────────────────────────────────────────────
+# Nike — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Wieden+Kennedy Portland"
+    type: "creative-direction"
+    url: "https://www.wk.com/"
+    project_url: "https://www.wk.com/work/nike-breaking2/"
+    relationship: "Global lead creative agency for Nike brand campaigns. Produces the majority of Nike's cinematic advertising and brand communications."
+
+  - name: "S23NYC"
+    type: "digital-design"
+    url: "https://nike.com/"
+    relationship: "Nike's 65+ person in-house creative studio handling day-to-day product photography, content creation, and digital brand expression."
+
+  - name: "Somesuch"
+    type: "film-production"
+    url: "https://somesuch.com/"
+    relationship: "Produced 'Winning Isn't For Everyone' campaign film (Olympics 2024) directed by Kim Gehrig."
+
+people:
+  - name: "Caleb Jensen"
+    role: "Executive Creative Director, Nike"
+    url: "https://www.wk.com/"
+    context: "Global lead creative at W+K Portland overseeing Nike brand campaigns including Olympics and Super Bowl work."
+
+  - name: "Blair Warren"
+    role: "Executive Creative Director, Nike"
+    url: "https://www.wk.com/"
+    context: "Executive creative director at W+K Portland working alongside Caleb Jensen on Nike global campaigns."
+
+  - name: "Marcus Smith"
+    role: "Athlete Photographer"
+    url: "https://www.marcus-smith.com/"
+    context: "Nike's primary athlete photographer. Documented elite athletes including LeBron James, Stephen Curry, Serena Williams, Caitlin Clark. Known for dynamic action photography."
+
+  - name: "Kim Gehrig"
+    role: "Film Director"
+    url: "https://somesuch.com/"
+    context: "Directed 'Winning Isn't For Everyone' Nike Olympics campaign (July 2024) for W+K Portland."
+
+  - name: "Jeff Tremaine"
+    role: "Director, ACG Relaunch"
+    url: "https://magnastu.com/"
+    context: "Directed Nike ACG relaunch campaign (February 2026) with action-documentary visual language for outdoor category."
+
+publications:
+  - title: "Nike 'Winning Isn't For Everyone' — Olympics Campaign"
+    author: "Shoot Online / Campaign"
+    relevance: "Campaign breakdown of cinematic advertising approach and W+K Portland creative direction."
+
+  - title: "Marcus Smith: Photographing Athlete Excellence for Nike"
+    author: "Communication Arts / LBBOnline"
+    relevance: "Profile of Nike's primary athlete photographer and his documentary approach to sports photography."
+
+  - title: "Nike ACG Relaunch Campaign"
+    author: "Nike / Design Publications"
+    relevance: "Case study of adventure-gear category visual language and action-documentary production approach."
+
+visuals:
+  - url: "https://www.wk.com/news/nike"
+    label: "Wieden+Kennedy Nike campaign portfolio"
+    section: "visual-language"
+
+  - url: "https://www.marcus-smith.com/"
+    label: "Marcus Smith athlete photography portfolio"
+    section: "visual-language"
+
+  - url: "https://nike.com/launch"
+    label: "Nike campaign showcase and product launches"
+    section: "visual-world"
+
+  - url: "https://www.giantartists.com/photographers-marcus-smith-bio"
+    label: "Marcus Smith photographer representation — Giant Artists"
+    section: "visual-language"
+
+  - url: "https://lbbonline.com/news/picture-this-marcus-smith-on-photographing-lebron-james-for-nike"
+    label: "Marcus Smith LeBron James photography — LBBOnline"
+    section: "visual-language"

@@ -1,0 +1,71 @@
+chunk_id: "gucci-anti-patterns"
+brand: gucci
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "gucci-soul"
+  - "gucci-visual-dna"
+token_count: 542
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Gucci. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Symmetry
+    reasoning: >-
+      Gucci embraces asymmetry and layering that creates visual tension. Perfectly balanced layouts would strip away the eclectic energy that defines the brand. Chaos with intention, not grid-based harmony.
+  - pattern: Subtle color blocking
+    reasoning: >-
+      The stripe pattern isn't whispered; it's loud and insistent. Muted palettes would betray the brand's core belief in uninhibited self-expression. Gucci never whispers.
+  - pattern: "Sans-serif typography"
+    reasoning: >-
+      Using clean geometric typefaces would erase the editorial sophistication that Granjon Roman delivers. Gucci's serif choice says "this is literature," not "this is a product."
+  - pattern: Photography over illustration
+    reasoning: >-
+      Clean product photography would lose the theatrical storytelling that lifestyle imagery enables. Gucci doesn't photograph items; it stages identity moments.
+strategic:
+  - pattern: Direct competitor comparison
+    reasoning: >-
+      Gucci never speaks to other luxury houses—that would require admitting they're in the same category. The brand exists in its own historical and imaginative universe.
+  - pattern: Accessibility over exclusivity positioning
+    reasoning: >-
+      Gucci doesn't open the door wider; it makes you wonder if you're sophisticated enough to deserve entry. Mystique is the actual product.
+  - pattern: Consistency above all
+    reasoning: >-
+      Gucci occasionally contradicts itself aesthetically because intuition and creative desire trump brand guidelines. Rigidity would kill the creative spontaneity that attracts designers and artists.
+  - pattern: "Short-form engagement metrics"
+    reasoning: >-
+      Gucci measures success through craft mastery and cultural conversation, not click-through rates. The wrong KPIs would corrupt the entire value proposition.
+tonal:
+  - pattern: Humble confidence
+    reasoning: >-
+      Gucci is immodest about quality and vision but never defensive. False modesty would undermine the authoritative stance that luxury demands.
+  - pattern: Literal explanation
+    reasoning: >-
+      Gucci trusts its audience to decode layered references and symbolism. Over-explaining the heraldic crests or historical callbacks would insult the customer's intelligence.
+  - pattern: Urgency or scarcity language
+    reasoning: >-
+      "Limited edition" messaging would cheapen the exclusivity that already exists through price and craftsmanship. Scarcity shouldn't need announcement.
+  - pattern: "Trend-chasing vocabulary"
+    reasoning: >-
+      Using social media slang or meme language would date the brand instantly. Timeless language doesn't compete with what's currently viral.
+cultural:
+  - pattern: Apology for price point
+    reasoning: >-
+      Gucci never justifies cost—cost is simply what rare excellence requires. Defensive pricing statements would suggest doubt.
+  - pattern: Democratization of luxury
+    reasoning: >-
+      Gucci holds the tension of being accessible through digital channels while remaining emotionally exclusive. Affordable luxury or fast-fashion collab messaging would collapse this paradox.
+  - pattern: Creator over curator
+    reasoning: >-
+      Gucci doesn't present itself as filtering what's available elsewhere; it creates new aesthetic territory. Curation language would reduce the brand to tastemaker when it's truly innovator.
+  - pattern: Personal drama over design philosophy
+    reasoning: >-
+      While Gucci personalities matter, the focus remains on creative vision, not celebrity gossip. Personality-driven storytelling would overshadow the actual craft.

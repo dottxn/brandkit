@@ -1,0 +1,28 @@
+chunk_id: "openai-visual-reasoning"
+brand: openai
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "openai-visual-dna"
+  - "openai-soul"
+token_count: 227
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for OpenAI. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  OpenAI Sans (custom geometric typeface) balanced with Signifier typography creates a two-tier system where geometric precision (Sans) applies to product interface, while Signifier provides serif variation for editorial contexts. This split acknowledges that AI needs both technical precision and humanistic interpretation. The geometric base prevents "friendly" rounded corners from making the brand feel trivial.
+colour_logic: >-
+  Minimal palette of black (#080808), white (#FFFFFF), and blue (#5B9BD5). The near-black anchors seriousness; the blue (not corporate navy) suggests openness and collaborative possibility. The color palette deliberately avoids the electric neons of tech startups or the corporate blues of traditional enterprise, occupying a middle position that says "credible and human."
+composition_philosophy: >-
+  Motion-first design where layouts appear to flow rather than static. The Blossom logo's three interlocking triangles suggest continuous motion and connection. Composition uses organic curves within geometric grids—suggesting that structure and flow are not opposed but complementary. White space feels breathing, not empty.
+what_would_break_it: >-
+  Adopting the cold metallic aesthetic of tech's "AI era" or positioning the brand as threatening/powerful rather than collaborative would immediately undermine OpenAI's positioning as human-centered AI development.

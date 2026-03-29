@@ -1,0 +1,58 @@
+chunk_id: "jaguar-visual-dna"
+brand: jaguar
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "jaguar-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Jaguar. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#FFD700"
+    name: ""
+    role: ""
+  - hex: "#FF0000"
+    name: ""
+    role: ""
+  - hex: "#0000FF"
+    name: ""
+    role: ""
+typography:
+  - name: JaGUar Custom Wordmark
+    role: ""
+    style: ""
+  - name: Geometric Modernist
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: focused
+  type_class: custom
+  type_character: geometric
+  type_weight: mixed
+  imagery_medium: "mixed-media"
+  imagery_subject: people
+  imagery_treatment: editorial
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: maximalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: gradient
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "pattern-driven"
+composition_logic: >-
+  <cite index="46-4,46-5">Inspired by modernist principles emphasizing presence and impression, serving as physical representation of reimagined design philosophy</cite>

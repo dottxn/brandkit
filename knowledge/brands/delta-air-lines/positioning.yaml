@@ -1,0 +1,31 @@
+chunk_id: "delta-air-lines-positioning"
+brand: "delta-air-lines"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 57
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Delta Air Lines. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: Delta Air Lines
+website: "https://www.delta.com"
+founded: 1925
+category: "travel-transport"
+sub_category: premium airlines
+price_tier: premium
+primary_archetype: The Caregiver
+secondary_archetype: The Explorer
+positioning_scales:
+  utility_theater: 7
+  access_exclusivity: 6
+  heritage_innovation: 6
+key_differentiators: []

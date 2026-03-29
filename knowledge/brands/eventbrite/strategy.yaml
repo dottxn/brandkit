@@ -1,0 +1,28 @@
+chunk_id: "eventbrite-strategy"
+brand: eventbrite
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "eventbrite-positioning"
+token_count: 33
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Eventbrite. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: We believe live experiences are fundamental to fulfilling a human desire to connect
+mission: To bring the world together through live experiences
+vision: "To be the world's most comprehensive event marketplace"
+values:
+  - Empowerment
+  - Authenticity
+  - Community
+  - Innovation
+  - Inclusion

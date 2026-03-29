@@ -1,0 +1,32 @@
+chunk_id: "masterclass-strategy"
+brand: masterclass
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "masterclass-positioning"
+token_count: 66
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for MasterClass. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that everyone deserves access to the world's best teachers and that transformative learning experiences should not be limited by geography, status, or resources.
+mission: >-
+  To unlock human potential by inspiring a learning lifestyle in everyone through access to world-class experts and their knowledge.
+vision: >-
+  To create a global community where exceptional knowledge is accessible, inspiring creativity, innovation, and lifelong learning for all.
+values:
+  - Excellence
+  - Innovation
+  - Inclusivity
+  - Integrity
+  - Inspiration
+  - Quality Craftsmanship

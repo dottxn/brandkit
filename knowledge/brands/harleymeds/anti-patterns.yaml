@@ -1,0 +1,74 @@
+chunk_id: "harleymeds-anti-patterns"
+brand: harleymeds
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "harleymeds-soul"
+  - "harleymeds-visual-dna"
+token_count: 432
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for HarleyMeds. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Healthcare blue palette (#2C5AA0, #4A90E2)"
+    reasoning: >-
+      professional trust without institutional coldness; signals clinical competence paired with approachability
+  - pattern: "Sans-serif humanist typography (Source Sans Pro, Open Sans)"
+    reasoning: >-
+      clarity and modern accessibility; avoids medical jargon in visual form; reads as contemporary not legacy
+  - pattern: Minimal interface design
+    reasoning: generous whitespace respects user anxiety; clear hierarchy reduces overwhelm; simplicity as kindness
+  - pattern: Icon systems for medical concepts
+    reasoning: removing healthcare terminology barrier through visual simplification; humanizing medical processes
+  - pattern: Documentary photography (not retouched)
+    reasoning: >-
+      showing real human bodies, real skin, real variation; eliminating artificial perfection from healthcare aesthetic
+strategic:
+  - pattern: Transparency as differentiator
+    reasoning: >-
+      'no insurance, no hidden fees' positioned as feature not exception; operational honesty built into business model
+  - pattern: Accessibility focus
+    reasoning: >-
+      removing barriers to healthcare access (cost, embarrassment, time); making TRT as easy as ordering coffee
+  - pattern: "Privacy-first positioning"
+    reasoning: >-
+      patient data security as confidence builder, not compliance checkbox; HIPAA as feature not obligation
+  - pattern: "Medical expertise front-and-center"
+    reasoning: "provider credentials visible, not hidden; trust through transparency of qualifications"
+  - pattern: "Information-first marketing"
+    reasoning: >-
+      educating before selling; treating prospects as information-hungry professionals, not lifestyle consumers
+tonal:
+  - pattern: Direct and honest
+    reasoning: avoiding corporate healthcare speak; saying what things cost and what they do; no marketing fluff
+  - pattern: Supportive without condescension
+    reasoning: treating adults like adults who made informed healthcare decision; no patronizing language
+  - pattern: "Confidence-building"
+    reasoning: "positioning wellness as achievable with right support; accessible, not intimidating"
+  - pattern: Modern professionalism
+    reasoning: >-
+      sounding like actual healthcare provider, not marketing department; clinical credibility with consumer clarity
+  - pattern: "Non-judgmental clarity"
+    reasoning: >-
+      normalizing TRT as health optimization, not performance enhancement; removing shame from healthcare conversation
+cultural:
+  - pattern: Telehealth normalization
+    reasoning: >-
+      positioned as evolution of healthcare, not inferior workaround; post-pandemic adoption as permanent shift
+  - pattern: Male health destigmatization
+    reasoning: TRT no longer fringe; normalized health optimization; challenging testosterone shame narratives
+  - pattern: "Direct-to-consumer healthcare shift"
+    reasoning: "removing gatekeeper friction (insurance, primary care doctors, stigma); resonates with professionals"
+  - pattern: Transparency as rebellion
+    reasoning: >-
+      against opaque healthcare system, this feels revolutionary; built-in competitive advantage through honesty
+  - pattern: Performance optimization culture
+    reasoning: "men seeking health optimization as normal self-care; TRT positioned as maintenance, not exception"

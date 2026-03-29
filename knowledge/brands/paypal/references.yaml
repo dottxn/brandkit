@@ -1,0 +1,59 @@
+# ──────────────────────────────────────────────
+# PayPal — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Pentagram"
+    type: "branding"
+    url: "https://www.pentagram.com/"
+    project_url: "https://www.pentagram.com/work/paypal"
+    relationship: "Led September 2024 rebrand (most significant visual overhaul in 20+ years), created PayPal Pro typeface and refined PP monogram geometry"
+
+  - name: "Lineto"
+    type: "type-foundry"
+    url: "https://lineto.com/"
+    relationship: "Created LL Supreme typeface (base for PayPal Pro custom commission)"
+
+  - name: "Klim Type Foundry"
+    type: "type-foundry"
+    url: "https://klim.co.nz/"
+    relationship: "Created PayPal Sans (2014), the previous generation typeface that served the brand for a decade"
+
+people:
+  - name: "Andrea Trabucco-Campos"
+    role: "Partner, Pentagram"
+    url: "https://www.pentagram.com/about/andrea-trabucco-campos-2"
+    context: "Led September 2024 PayPal rebrand, directing shift from blue wordmark to black and from yellow buttons to black buttons"
+
+  - name: "Kris Sowersby"
+    role: "Type Designer"
+    url: "https://www.klim.co.nz/"
+    context: "Designer of PayPal Sans (2014), foundational typeface that served the brand successfully for a decade"
+
+  - name: "Rachel Kobetz"
+    role: "Chief Design Officer"
+    url: ""
+    context: "Oversees visual system since September 2023, former eBay design executive"
+
+  - name: "Matt Jakob"
+    role: "Principal Product Design Director"
+    url: ""
+    context: "Contributes to product design direction, former R/GA and Nike designer"
+
+publications:
+  - title: "Thinking with Type"
+    author: "Ellen Lupton"
+    relevance: "Informs PayPal's approach to typography as a trust signal in payment contexts"
+
+visuals:
+  - url: "https://www.paypal.com/"
+    label: "PayPal homepage showcasing 2024 rebrand with black wordmark and motion language"
+    section: "visual-language"
+
+  - url: "https://www.venmo.com/"
+    label: "Venmo sub-brand with distinct visual identity (lighter blue, social-coded register)"
+    section: "visual-language"
+
+  - url: "https://www.paypal.com/us/webapps/mpp/checkout"
+    label: "PayPal checkout experience and button design across merchant websites"
+    section: "visual-world"

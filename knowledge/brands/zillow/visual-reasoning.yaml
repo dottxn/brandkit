@@ -1,0 +1,28 @@
+chunk_id: "zillow-visual-reasoning"
+brand: zillow
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "zillow-visual-dna"
+  - "zillow-soul"
+token_count: 278
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Zillow. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Zillow Sans and Open Sans pair clarity with approachability—the typefaces are modern and highly legible without introducing unnecessary personality. Geometric precision in letterforms mirrors the algorithmic confidence of the Zestimate algorithm. The system maintains hierarchy through scale and weight variation, ensuring that critical information (property values, transaction status) are scannable.
+colour_logic: >-
+  The primary blue (#006AFF) is vibrant and confident—it communicates certainty and clarity without feeling cold or tech-only. Supporting functional colors (greens #00C389 for positive indicators, warning colors for alerts) follow usability conventions. The palette avoids luxury lifestyle colors (rose golds, navy) and maintains democratic accessibility across all price points.
+composition_philosophy: >-
+  Property listings use consistent, grid-based layouts with photography as the primary hero element. Information hierarchy prioritizes price, location, and key metrics before emotional description. Map interfaces balance data visualization with real property context. Marketing compositions balance aspirational lifestyle imagery with authentic property photography, maintaining credibility while building emotional connection.
+what_would_break_it: >-
+  Introducing luxury real estate aesthetic, agent-centric positioning, or visual hierarchy that suggests premium homes are more important than affordable homes would immediately undermine the brand's consumer advocate positioning. The system must communicate "this information empowers you regardless of budget" rather than "luxury is the aspirational end-state." The moment the visual design starts suggesting real estate as status symbol rather than shelter provider, the brand's mission corrupts.

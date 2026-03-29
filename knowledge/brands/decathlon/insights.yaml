@@ -1,0 +1,32 @@
+chunk_id: "decathlon-insights"
+brand: decathlon
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "decathlon-soul"
+  - "decathlon-positioning"
+token_count: 179
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Decathlon. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Democratizing sport doesn't mean diluting quality—Decathlon's secret is offering genuine performance products at volume pricing, making excellence accessible
+  - >-
+    Younger audiences respond to diversity in representation better than diversity statistics—Decathlon's narrative shows diverse bodies actually playing, not tokenized positioning
+  - >-
+    The tilted axis (23.5-degree angle like earth's tilt) creates visual motion and personality without being decorative—it's structural and meaningful
+  - >-
+    "your way, on your terms" is only credible when reinforced through store layout (sections by activity level, not by product type) and product sizing (inclusive ranges)
+  - >-
+    Fun is a legitimate performance metric—Decathlon's culture shift toward playfulness actually improves younger audience retention and loyalty
+what_nobody_copies: >-
+  The comprehensive brand system redesign (L'Orbit logo, Decathlon Sans typeface, composition logic) executed cohesively to reposition the brand toward younger, more diverse audiences

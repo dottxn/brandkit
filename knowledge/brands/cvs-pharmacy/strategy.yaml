@@ -1,0 +1,31 @@
+chunk_id: "cvs-pharmacy-strategy"
+brand: "cvs-pharmacy"
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "cvs-pharmacy-positioning"
+token_count: 79
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for CVS Pharmacy. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that everyone deserves access to quality, affordable healthcare and that we can bring our heart to every moment of health.
+mission: >-
+  To deliver superior and more connected experiences, lower the cost of care, and improve the health and well-being of those we serve.
+vision: "To help people live longer, healthier, happier lives."
+values:
+  - Put People First
+  - Rise to the Challenge
+  - Join Forces
+  - Create Simplicity
+  - Inspire Trust
+  - Champion Safety and Quality

@@ -1,0 +1,64 @@
+chunk_id: "duolingo-visual-dna"
+brand: duolingo
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "duolingo-positioning"
+token_count: 105
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Duolingo. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#58CC02"
+    name: ""
+    role: ""
+  - hex: "#89E219"
+    name: ""
+    role: ""
+  - hex: "#1CB0F6"
+    name: ""
+    role: ""
+  - hex: "#FAA918"
+    name: ""
+    role: ""
+  - hex: "#D33131"
+    name: ""
+    role: ""
+typography:
+  - name: Feather Bold
+    role: ""
+    style: ""
+  - name: DIN Next Rounded
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: vibrant
+  palette_range: expansive
+  type_class: custom
+  type_character: humanist
+  type_weight: bold
+  imagery_medium: illustration
+  imagery_subject: people
+  imagery_treatment: documentary
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: housing
+  symbolic_type: mascot
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: high
+  identity_system: flexible
+  signature_device: "logo-centric"
+composition_logic: >-
+  Elements arranged around clear hierarchy with Duo often as focal point, generous whitespace for readability, and strategic use of color to guide user actions

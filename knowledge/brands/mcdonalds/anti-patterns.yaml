@@ -1,0 +1,71 @@
+chunk_id: "mcdonalds-anti-patterns"
+brand: mcdonalds
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "mcdonalds-soul"
+  - "mcdonalds-visual-dna"
+token_count: 819
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for McDonald's. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Grayscale, minimalist, or cold aesthetic design replacing warm gold and Arches"
+    reasoning: >-
+      Moving toward trendy design (flat minimalism, monochromatic palette, geometric sans-serif) would destroy the warmth positioning. McDonald's strength is emotional accessibility; cold design contradicts this completely. Grayscale would make the brand indistinguishable from tech startups.
+  - pattern: "Hyper-stylized, airbrushed food photography replacing \"flawesome\" authenticity"
+    reasoning: >-
+      A Big Mac shot in studio lighting with perfect cheese placement and retouched patties would contradict the "flawesome" philosophy. The brand's strategy is to show food as it actually exists—melting, imperfect, real. Over-production would signal inauthenticity and create aspirational distance.
+  - pattern: "Contemporary, trendy typeface replacing Speedee"
+    reasoning: >-
+      Moving to Montserrat, Inter, or other digital-native sans-serif would make the brand feel contemporary in a dated way. Speedee's organic curves feel timeless. Trend-conscious typography would date the brand faster than maintaining the original.
+  - pattern: Logo proliferation with multiple supporting marks or brand mascots
+    reasoning: >-
+      The Arches are sufficient. Adding character mascots, decorative elements, or competing marks would complicate the system. McDonald's power comes from singular, instantly recognizable symbol. More marks means diluted identity.
+strategic:
+  - pattern: "Positioning as \"premium\" or \"quality ingredient\" focused rather than accessibility and joy"
+    reasoning: >-
+      This is in-N-Out's positioning. McDonald's competes on different axis: joy, accessibility, consistency. Attempting to become "better ingredients" brand would abandon the core positioning and market share. McDonald's wins by owning mass-market excellence.
+  - pattern: Reducing localization and enforcing global uniformity
+    reasoning: >-
+      While core menu stays consistent, local adaptation (breakfast items, regional flavors) proves cultural respect. Extreme standardization would feel colonial and disrespectful. Selective localization balances global consistency with cultural relevance.
+  - pattern: "Moving toward \"slow food\" or artisanal positioning"
+    reasoning: >-
+      Some fast-food competitors have tried to seem higher-end. McDonald's should never compete here. The brand owns speed, accessibility, and scale. Attempting to slow down or artisanalize would abandon the core value proposition.
+  - pattern: "Explaining the supply chain, ingredients, or manufacturing in marketing"
+    reasoning: >-
+      Defense-heavy marketing ("Our beef is sourced from...") would signal insecurity. McDonald's should state products confidently. "Billions Served" is sufficient marketing; explaining sourcing sounds like apology.
+tonal:
+  - pattern: "Apologetic tone about fast food, affordability, or scale"
+    reasoning: >-
+      "Real food for real people," "Made with care," "Quality ingredients"—defensive language signals shame. McDonald's tone should be confident: "I'm Lovin' It." Permission to enjoy without qualification. The brand doesn't need to justify itself.
+  - pattern: Aspirational lifestyle messaging positioning food as indulgence or treat
+    reasoning: >-
+      "Treat Yourself," "Indulge in...," "Escape to..."—these create guilt. McDonald's tone should be matter-of-fact: food is food, joy is joy. No need to make eating a hamburger feel like transgression.
+  - pattern: "Sophisticated, premium, or exclusionary tone"
+    reasoning: >-
+      "Curated selection," "discerning palate," "elevated flavors"—these contradict the democratic positioning. The tone should be warm, unpretentious, welcoming to everyone regardless of background or sophistication level.
+  - pattern: "Educational or explaining what makes McDonald's \"better\" than competitors"
+    reasoning: >-
+      Comparative advertising or explanation dilutes confidence. McDonald's should trust that 68 million daily customers know what they're getting. Marketing should celebrate joy, not defend quality.
+cultural:
+  - pattern: "Attempting to seem \"cool\" through memes or trend-chasing"
+    reasoning: >-
+      While McDonald's can engage culturally, chasing viral moments or TikTok trends would feel desperate. The brand is iconic enough to be referenced; it doesn't need to reference trends. Cool comes from confidence, not participation.
+  - pattern: Partnering with luxury brands or celebrities to seem elevated
+    reasoning: >-
+      McDonald's partnerships (Travis Scott, Cardi B) have worked only when they brought cultural relevance, not aspiration. The brand shouldn't try to become prestigious through association. Its positioning is democratic.
+  - pattern: "Over-explaining social causes or corporate responsibility"
+    reasoning: >-
+      "We care about..." language feels defensive. McDonald's should demonstrate values through action (sustainability investments, employment practices, community support) rather than marketing about them. Actions speak louder than slogans.
+  - pattern: "Abandoning mass-market positioning to serve niche audiences"
+    reasoning: >-
+      Some brands niche down. McDonald's should never do this. The brand's power comes from being the global meeting place, accessible to everyone. Serving niches would fracture the democratic positioning.

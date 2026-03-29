@@ -1,0 +1,31 @@
+chunk_id: "uniqlo-soul"
+brand: uniqlo
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "uniqlo-positioning"
+token_count: 156
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of UNIQLO. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  Perfect fabric against your skin on a perfect day—not noticed because nothing distracts from the clarity and ease of simply existing.
+core_belief: "Clothing should serve life, not demand attention; the best wardrobe is invisible because it works."
+creative_tension:
+  - Making basics aspirational and exciting despite their inherent simplicity and fundamental sameness.
+  - >-
+    Maintaining Japanese craftsmanship obsession while scaling global production and democratizing access.
+decision_filter: >-
+  Does this garment disappear when you put it on, or does it demand to be seen? Everything hinges on this single question.
+signature_move: >-
+  The signature red (#FF0000) square logo used as a mark of quality assurance, not brand expression—a certification stamp that this piece works.
+what_would_break_it: >-
+  Abandoning functional innovation (HEATTECH, AIRism) and competing on design expression and fashion-forward aesthetics instead of perfecting fundamentals.

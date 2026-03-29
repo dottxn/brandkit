@@ -1,0 +1,36 @@
+chunk_id: "reddit-competitive"
+brand: reddit
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "reddit-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Reddit. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - discord
+  - youtube
+  - slack
+industry_norms_it_breaks: "Dynamic conversation bubbles that adapt to subreddit shapes and comment threads—form follows function literally | The architectural decision to center identity around conversation structure (bubbles) rather than around content or users—this makes Reddit's identity infinitely scalable across subreddits | Does this enable genuine conversation or does it optimize for engagement metrics? Reddit chooses conversation"
+visual_cluster: "warm-humanist"
+visual_fingerprint:
+  - cluster: "warm-humanist"
+    role: "dominant"
+    where: "Community, belonging, Snoo mascot, accessible"
+  - cluster: "bold-challenger"
+    role: "secondary"
+    where: "Orangered energy, democratic, disruptive"
+  - cluster: "tech-system"
+    role: "accent"
+    where: "Platform tools, subreddit systems, advertising"
+strategic_cluster: "disruptive-democratizer"
+category: "social-community"

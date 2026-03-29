@@ -1,0 +1,71 @@
+chunk_id: "wayfair-anti-patterns"
+brand: wayfair
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "wayfair-soul"
+  - "wayfair-visual-dna"
+token_count: 496
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Wayfair. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Minimal or austere color scheme
+    reasoning: >-
+      Wayfair rejects cold, exclusive aesthetic. The palette includes warm purples and friendly colors that say "this is for you" not "you must have taste to shop here."
+  - pattern: "Luxury or high-end design aesthetic"
+    reasoning: >-
+      The brand serves middle-market homeowners and renters, not millionaires. Design language must feel accessible and aspirational, never exclusive.
+  - pattern: "Trend-chasing in style guidance"
+    reasoning: >-
+      While seasonal color updates happen, Wayfair avoids positioning specific styles as "in" or "out." The platform celebrates diverse design preferences.
+  - pattern: Serif typography or sophisticated positioning
+    reasoning: >-
+      Clean, modern sans-serif (Wayfair Sans) communicates approachability. Serifs would introduce unnecessary formality.
+strategic:
+  - pattern: Product curation limiting supplier access
+    reasoning: >-
+      Wayfair's competitive advantage is selection and price. Curating suppliers to match design sensibility would sacrifice selection for cohesion.
+  - pattern: Vertical integration reducing supplier ecosystem
+    reasoning: >-
+      The marketplace model requires healthy supplier relationships. Becoming a 100% first-party retailer would eliminate the product breadth that drives traffic.
+  - pattern: Premium customer segmentation
+    reasoning: >-
+      The platform serves all budgets equally. Creating a luxury tier would fragment the brand's positioning as the home destination for everyone.
+  - pattern: International market adaptation
+    reasoning: >-
+      Wayfair maintains consistent visual brand across all major markets. Localizing design language would reduce recognitions and increase complexity.
+tonal:
+  - pattern: Aspirational or lifestyle voice
+    reasoning: >-
+      Copy celebrates finding what you love, not finding status symbols. Avoiding "elevate your space" language keeps focus on personal joy rather than status.
+  - pattern: "Design authority or taste-making"
+    reasoning: >-
+      Wayfair provides tools and inspiration but never prescribes "good design." The voice respects diverse aesthetics and personal preference.
+  - pattern: Urgency or scarcity tactics
+    reasoning: >-
+      Pricing transparency and regular discounts are featured honestly. Artificial scarcity would undermine the value positioning.
+  - pattern: Emotional manipulation in product marketing
+    reasoning: >-
+      Descriptions focus on features and function. Avoiding "make your home the envy of" language keeps focus on personal satisfaction, not external validation.
+cultural:
+  - pattern: Designer gatekeeping
+    reasoning: >-
+      Wayfair positions design as democratic and accessible. Creating designer-only products would contradict this philosophy.
+  - pattern: Seasonal collection cycles
+    reasoning: >-
+      The brand maintains inventory consistency. Aggressive seasonal marketing would feel inconsistent with the everyday shopping positioning.
+  - pattern: Treating renters differently than owners
+    reasoning: >-
+      Platform language treats all home improvers equally. No distinction in tone or access based on rental status.
+  - pattern: Separating function from beauty
+    reasoning: >-
+      Wayfair celebrates that furniture and decor can be both beautiful and affordable, both practical and lovely. This integration is culturally central.

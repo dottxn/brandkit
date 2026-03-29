@@ -1,0 +1,55 @@
+chunk_id: "pfizer-anti-patterns"
+brand: pfizer
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "pfizer-soul"
+  - "pfizer-visual-dna"
+token_count: 269
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Pfizer. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Corporate pharmaceutical design (beige, gold, careful elegance)"
+    reasoning: "Vibrant, two-tone blue suggesting energy and advancement"
+  - pattern: Complex scientific imagery requiring medical knowledge
+    reasoning: "Motion-based visual language (ribbon helix) immediately understandable as \"life\" and \"advancement\""
+  - pattern: Patient testimonials as proof points
+    reasoning: Research credentials and breakthrough achievement as proof points
+  - pattern: "Disease-focused messaging (what you avoid)"
+    reasoning: "Outcome-focused messaging (what you gain)"
+strategic:
+  - pattern: Competing on feature parity with other pharmaceuticals
+    reasoning: Competing on breakthrough capacity and research commitment
+  - pattern: Separating consumer messaging from healthcare provider messaging
+    reasoning: Creating coherent message that serves all audiences
+  - pattern: Risk mitigation as primary brand purpose
+    reasoning: Patient benefit as primary purpose with safety as prerequisite
+  - pattern: Positioning breakthroughs as inevitable corporate function
+    reasoning: "Positioning breakthroughs as result of courage, excellence, equity, and joy"
+tonal:
+  - pattern: Clinical authority suggesting distance
+    reasoning: Expert warmth suggesting partnership in health
+  - pattern: "Risk-centric warnings and cautions"
+    reasoning: "Hope-centric possibility paired with honest risk discussion"
+  - pattern: "Scientific complexity presented as-is"
+    reasoning: Scientific complexity translated into human implications
+  - pattern: Global corporation speaking to market segments
+    reasoning: Global company speaking with local cultural nuance
+cultural:
+  - pattern: Medicine as treatment intervention
+    reasoning: Medicine as life enablement
+  - pattern: Pharmaceutical company as profit entity
+    reasoning: "Pharmaceutical company as purpose-driven breakthroughs"
+  - pattern: Healthcare access as commodity
+    reasoning: Healthcare access as equity issue central to strategy
+  - pattern: Patient compliance
+    reasoning: Patient partnership

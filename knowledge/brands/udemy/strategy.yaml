@@ -1,0 +1,30 @@
+chunk_id: "udemy-strategy"
+brand: udemy
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "udemy-positioning"
+token_count: 71
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Udemy. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe that learning is the source of human progress and that education should be accessible to everyone, everywhere
+mission: >-
+  To create new possibilities for people and organizations everywhere by connecting them to the knowledge and skills they need to succeed in a changing world
+vision: "To be the world's largest destination for online learning, empowering anyone to learn anything"
+values:
+  - Student First
+  - Move Fast
+  - Be Bold
+  - Deliver Results
+  - Make It Happen

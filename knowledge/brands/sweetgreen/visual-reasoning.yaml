@@ -1,0 +1,28 @@
+chunk_id: "sweetgreen-visual-reasoning"
+brand: sweetgreen
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "sweetgreen-visual-dna"
+  - "sweetgreen-soul"
+token_count: 274
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for sweetgreen. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Sweetgreen Sans and Proxima Nova pair humanist warmth with modern geometry—the fonts communicate "thoughtfully designed, not effortlessly fancy." Both typefaces have open apertures and friendly proportions that feel approachable. They reject the either/or of luxury (serifs) or austerity (rigid geometric). The selection mirrors the brand's central tension: professional operation with genuine care.
+colour_logic: >-
+  The green (#4CAF50) is selected to match actual living plants—it's the color of freshly harvested lettuce, not a brand color imposed onto ingredients. Supporting warm neutrals and earth tones reinforce the farmers market origin of the visual language. The palette is warm and inviting without being trendy or overly saturated. It reflects the actual color of beautiful food.
+composition_philosophy: >-
+  Overhead and angled product photography positions the bowl as the hero—the composition shows the ingredient mixture and variety. Grid-based layouts in marketing materials balance structure with organic imagery. White space serves digestibility, not minimalism. Information about farmers and sourcing is integrated visually with the food, not separated into footnotes.
+what_would_break_it: >-
+  Introducing luxury minimalism (white space, negative space, elegant emptiness) or processed-food photography would immediately corrupt the visual narrative of realness and abundance. The moment the brand starts looking like aspirational fine dining instead of farmers market captured, it loses its differentiation. The visual system must always communicate actual ingredients and actual relationships.

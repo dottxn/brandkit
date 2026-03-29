@@ -1,0 +1,54 @@
+studios:
+- name: BUCK
+  type: branding
+  url: https://buck.co/
+  relationship: 'Brand refresh design (2024-2025): logo, colour palette, typography,
+    custom illustrations, Energy Auras system'
+  project_url: https://buck.co/work/eventbrite
+- name: Instrument
+  type: digital-design
+  url: https://www.instrument.com/
+  relationship: 'Consumer app redesign (25-week project, 2024-2025): card-based discovery,
+    community hubs, trending topics'
+  project_url: https://www.instrument.com/work/eventbrite-app
+- name: Klim Type Foundry
+  type: type-foundry
+  url: https://klim.co.nz/
+  relationship: Designed Founders Grotesk typeface, adopted by Eventbrite in 2024-2025
+    rebrand
+people:
+- name: Lisa Prescott
+  role: SVP Design and Brand
+  url: https://www.linkedin.com/in/lisaprescott/
+  context: Leads brand direction; appointed 2023 from Airbnb/IDEO
+- name: Lauren Danis
+  role: Chief Brand and Communications Officer
+  url: https://eventbrite.com/
+  context: Strategic brand and communications leadership
+- name: Kris Sowersby
+  role: Type Designer / Klim Type Foundry Founder
+  url: https://klim.co.nz/
+  context: Designer of Founders Grotesk; Wellington-based independent type foundry
+    founder
+- name: Liron Eldar
+  role: Creative Director, BUCK
+  url: https://buck.co/
+  context: Led brand refresh; created The Path logo and Energy Auras system
+publications:
+- title: 'Eventbrite Brand Guidelines: The Path'
+  author: BUCK
+  relevance: Comprehensive brand system documenting The Path logo, Expressive Paths
+    variants, Energy Auras, and dual illustration systems
+visuals:
+- url: https://www.eventbrite.com/
+  label: Eventbrite.com homepage — Brand campaign materials and visual system
+  section: visual-language
+- url: https://buck.co/work/eventbrite
+  label: BUCK case study — Brand refresh project documentation
+  section: visual-language
+- url: https://www.instrument.com/work/eventbrite-app
+  label: Instrument case study — Consumer app redesign and discovery experience
+  section: visual-world
+- url: https://www.eventbrite.com/app/
+  label: Eventbrite mobile app — Card-based discovery interface and community hubs
+  section: visual-world

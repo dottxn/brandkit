@@ -1,0 +1,28 @@
+chunk_id: "zillow-strategy"
+brand: zillow
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "zillow-positioning"
+token_count: 44
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Zillow. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "We believe that getting home should be easier, not harder"
+mission: "To give people the power to unlock life's next chapter"
+vision: "To build the largest, most trusted and vibrant home-related marketplace"
+values:
+  - Turn the lights on
+  - Own it
+  - Be bold
+  - Build well
+  - Play for the team

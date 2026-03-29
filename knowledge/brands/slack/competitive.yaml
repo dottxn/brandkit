@@ -1,0 +1,37 @@
+chunk_id: "slack-competitive"
+brand: slack
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "slack-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Slack. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - discord
+  - notion
+  - microsoft
+  - zoom
+industry_norms_it_breaks: "The octothorpe (hashtag) built from speech bubbles and lozenges—a shape that represents conversation itself, not just a visual mark. | The audacity to use multiple saturated colors without creating visual chaos. Most brands fear this; Slack proved that color variety works when each color represents a distinct communication channel. | Does this make communication more joyful without making it less functional? Both dimensions matter equally."
+visual_cluster: "tech-system"
+visual_fingerprint:
+  - cluster: "tech-system"
+    role: "dominant"
+    where: "Product interface, design system, workspace platform"
+  - cluster: "warm-humanist"
+    role: "secondary"
+    where: "Vibrant palette, playful, community connection"
+  - cluster: "geometric-clean"
+    role: "accent"
+    where: "Enterprise Salesforce integration, systematic"
+strategic_cluster: "creative-authority"
+category: "social-community"

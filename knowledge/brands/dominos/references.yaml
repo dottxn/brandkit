@@ -1,0 +1,74 @@
+# ──────────────────────────────────────────────
+# Domino's — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Monotype"
+    type: "type-foundry"
+    url: "https://www.monotype.com/"
+    relationship: "Designed Domino's Sans (2025) and Pizza Press (2014); both custom Domino's typefaces"
+
+  - name: "JKR"
+    type: "design-studio"
+    url: "https://www.jkr.london/"
+    relationship: "Redesigned pizza box and packaging (2016); elevated packaging from container to brand canvas"
+
+  - name: "WorkInProgress"
+    type: "advertising-agency"
+    url: ""
+    relationship: "Agency of record (extended through 2027); leads marketing campaigns including 'Cravemark'"
+
+  - name: "Crispin Porter + Bogusky"
+    type: "advertising-agency"
+    url: "https://www.cpbbogusky.com/"
+    relationship: "Commissioned Pizza Press typeface (2014); led strategic rebrand"
+
+people:
+  - name: "Terrance Weinzierl"
+    role: "Type Designer"
+    url: "http://typeterrance.com/"
+    context: "Designed Pizza Press typeface (2014) — modular, stackable, multi-weight family"
+
+  - name: "Kate Trumbull"
+    role: "EVP & CMO"
+    url: ""
+    context: "Oversees Domino's marketing strategy and visual communications"
+
+  - name: "Shaboozey"
+    role: "Musical Artist"
+    url: ""
+    context: "Created 'Cravemark' audio-visual brand device with elongated 'Dommmino's' (2025)"
+
+publications:
+  - title: "Pizza Press Custom Typeface (2014)"
+    author: "Monotype & Terrance Weinzierl"
+    relevance: "First custom Domino's typeface; modular design for layering; TDC Certificate of Excellence"
+
+  - title: "Pizza Tracker Visual Innovation"
+    author: "Domino's Innovation Team"
+    relevance: "100M+ orders tracked; pioneered real-time order tracking as visual brand experience"
+
+  - title: "Domino's Sans Display/Text (2025)"
+    author: "Monotype"
+    relevance: "Custom typeface with 'doughier' letterforms referencing pizza dough texture"
+
+visuals:
+  - url: "https://www.monotype.com/resources/case-studies/stackable-typeface-domino%E2%80%99s-pizza"
+    label: "Pizza Press Typeface Case Study — Monotype"
+    section: "visual-language"
+
+  - url: "http://typeterrance.com/custom-fonts-for-dominos2"
+    label: "Pizza Press Custom Font — Terrance Weinzierl Portfolio"
+    section: "visual-language"
+
+  - url: "https://www.jkr.london/"
+    label: "JKR Design Studio — Pizza Box Redesign"
+    section: "visual-world"
+
+  - url: "https://www.dominos.com/"
+    label: "Dominos.com — Current Brand & Ordering Experience"
+    section: "visual-world"
+
+  - url: "https://fontsinuse.com/uses/6746/domino-s-pizza-1"
+    label: "Pizza Press in Use — Fonts In Use Documentation"
+    section: "visual-language"

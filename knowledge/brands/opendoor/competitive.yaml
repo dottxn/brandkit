@@ -1,0 +1,35 @@
+chunk_id: "opendoor-competitive"
+brand: opendoor
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "opendoor-positioning"
+token_count: 2
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Opendoor. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - redfin
+  - zillow
+industry_norms_it_breaks: "Primary blue (#1C85E8) as the trust color applied consistently, supported by terra cotta accent for warmth | The architectural choice to center the entire brand around one consumer insight (people hate the traditional process) rather than multiple product features | Does it remove friction or just add speed? Opendoor obsesses over removed friction"
+visual_cluster: "soft-minimal"
+visual_fingerprint:
+  - cluster: "soft-minimal"
+    role: "dominant"
+    where: "Cool palette, accessible, gentle home-buying experience"
+  - cluster: "geometric-clean"
+    role: "secondary"
+    where: "Systematic brand, structured property presentation"
+  - cluster: "data-native"
+    role: "accent"
+    where: "Property pricing data, market insights, Zestimate"
+strategic_cluster: "aspiration-engine"
+category: "real-estate"

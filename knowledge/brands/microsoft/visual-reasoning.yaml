@@ -1,0 +1,28 @@
+chunk_id: "microsoft-visual-reasoning"
+brand: microsoft
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "microsoft-visual-dna"
+  - "microsoft-soul"
+token_count: 230
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Microsoft. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Segoe UI's humanist san-serif family signals that computation is a human endeavor, not an alien force. The generous spacing and open terminals make even dense command interfaces feel approachable. Humanist characters (especially in 'a' and 'g') remind users they're working with a tool designed by people who care about legibility over trendy geometric austerity.
+colour_logic: >-
+  The four-color palette (#F25022 orange-red, #7FBA00 green, #00A4EF blue, #FFB900 yellow) functions as a visual operating system where colors mean something structural, not decorative. Each represents a product pillar, so the colors become a language of organization rather than decoration. The palette avoids the corporate blues that every tech company uses, making Microsoft instantly recognizable in dark mode or light, on screen or print.
+composition_philosophy: >-
+  Grid-based layouts with extreme whitespace generosity. The philosophy: let content breathe so attention can flow toward meaning, not toward design objects. The four-square logo itself is compositional—it demonstrates the principle before you read the mission.
+what_would_break_it: >-
+  Adopting Apple's consumer-first visual purity (rounded corners, minimal interface) would surrender Microsoft's enterprise identity and suggest they're abandoning the organizations that made them valuable.

@@ -1,0 +1,36 @@
+chunk_id: "ebay-competitive"
+brand: ebay
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "ebay-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for eBay. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - amazon
+  - etsy
+  - wayfair
+industry_norms_it_breaks: "The four-color wordmark (red, blue, yellow, green)—each color distinct and equally prominent, suggesting diversity without hierarchy | The commitment to visual democracy (no single color dominates the logo) as a brand philosophy that extends throughout the entire system | Does this celebrate authentic human commerce and opportunity, or does this create artificial scarcity and exclusivity?"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Systematic marketplace, neutral, clean commerce"
+  - cluster: "bold-challenger"
+    role: "secondary"
+    where: "Multicolour brand refresh, seller energy"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Community marketplace, collector culture"
+strategic_cluster: "disruptive-democratizer"
+category: "e-commerce"

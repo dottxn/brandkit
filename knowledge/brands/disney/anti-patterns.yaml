@@ -1,0 +1,57 @@
+chunk_id: "disney-anti-patterns"
+brand: disney
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "disney-soul"
+  - "disney-visual-dna"
+token_count: 330
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for The Walt Disney Company. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Geometric, modernist design language in Disney applications"
+    reasoning: "Strips away the organic magic that curved, hand-drawn influences create"
+  - pattern: "Dark, cool-color palettes"
+    reasoning: Contradicts the warmth and optimism positioning
+  - pattern: Photorealistic imagery without stylistic coherence
+    reasoning: Loses the distinctive Disney illustration/animation aesthetic
+  - pattern: "Centered, symmetrical compositions"
+    reasoning: Misses the movement and life that organic characters create
+strategic:
+  - pattern: "Creating separate, equal visual systems for each franchise"
+    reasoning: Dilutes the Disney master brand and makes properties feel unrelated
+  - pattern: Pricing strategies that position content as exclusive luxury
+    reasoning: "Contradicts the \"universal, for everyone\" core belief"
+  - pattern: IP expansion without storytelling coherence
+    reasoning: Creates cynicism about content as pure extraction versus genuine narrative
+  - pattern: "Ignoring cultural representation in casting and storytelling while claiming \"Belonging\" as value"
+    reasoning: Hollow diversity commitments
+tonal:
+  - pattern: "Ironic, detached tone in storytelling"
+    reasoning: Breaks the earnest sincerity that magic requires
+  - pattern: Marketing focused on box office or financial metrics
+    reasoning: "Places business outcomes above storytelling, which audiences sense"
+  - pattern: Overly didactic messaging about representation or themes
+    reasoning: "Tells instead of showing, reducing organic emotional resonance"
+  - pattern: "Corporate language about \"the Disney difference\""
+    reasoning: "Sounds self-congratulatory instead of letting stories speak"
+cultural:
+  - pattern: >-
+      Representation limited to Western fairy tales without centering diverse global storytelling traditions
+    reasoning: Misses opportunity for genuine cultural inclusion
+  - pattern: "Centering heterosexual, nuclear family narratives while claiming universality"
+    reasoning: "Excludes LGBTQ+ families and non-traditional structures"
+  - pattern: "Princess-centric franchising while sidelining other character archetypes"
+    reasoning: Misses revenue opportunities and narrows storytelling range
+  - pattern: >-
+      Ignoring that "Where dreams come true" is privileged narrative for families with time and money for theme parks
+    reasoning: Hollow universality claim without democratized access

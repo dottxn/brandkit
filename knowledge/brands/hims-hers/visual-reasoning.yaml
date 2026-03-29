@@ -1,0 +1,28 @@
+chunk_id: "hims-hers-visual-reasoning"
+brand: "hims-hers"
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "hims-hers-visual-dna"
+  - "hims-hers-soul"
+token_count: 707
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual reasoning for Hims & Hers. Why the design choices work."
+
+# ── Data
+type_logic: >-
+  Lowercase sans-serif humanist typefaces (likely custom sans-serif with characteristics of fonts like Inter, Axiforma, or Soho Gothic) feel contemporary and accessible—not medical journal formal (which signals old institution) but modern professional (which signals competence). These humanist sans-serifs have slightly curved terminals and open letterforms that feel warm without being playful. The lowercase default (rarely using all caps) maintains conversational tone even in headlines. The typeface hierarchy is minimal—primary font for everything, varying weight for emphasis rather than font family. This restraint keeps visual system simple and purposeful. No serif fonts (too heritage-coded), no geometric sans-serifs (too corporate efficiency), no script (too intimate/trendy). The simplicity itself is the message: this healthcare is stripped down to essentials; nothing unnecessary is here.
+colour_logic: >-
+  Mine Shaft gray (#333333) + White (#FFFFFF) with soft blue accents (#E8F4FF)—the gray is warm enough to feel human, dark enough to establish authority. This pairing signals trustworthiness and calm without the coldness of clinical blues or the institutional feeling of pure black. The accent blue is desaturated, appearing almost as a tint rather than a vibrant color, used for interactive elements and secondary messaging. The restraint in color palette is intentional: when users are anxious about health decisions, additional colors create visual noise that increases cognitive load. Monochromatic + one accent color = maximum clarity with minimal distraction. The specific hex values matter less than the tonal relationships: high contrast for readability (essential for medical information), warmth in grays (essential for approachability), restraint in accent color (essential for focus).
+composition_philosophy: >-
+  Minimal interface design with generous whitespace—information accessibility is clinical competence. Medical concepts are presented in scannable sections with visual breaks between ideas. Typography size creates hierarchy (primary CTAs largest and boldest, secondary information progressively smaller and lighter). Whitespace is purposeful, not decorative; it reduces cognitive burden on users in vulnerable states. Clear information architecture: users should understand what to do and what will happen without confusion or additional clicks. Layouts optimize for mobile-first (most telehealth users access on phones in private moments). Documentary photography appears in editorial contexts (blog posts, campaign imagery) using natural light, real locations, and unretouched subjects. The overall philosophy: every design element either increases clarity or reduces friction. Visual beauty is secondary to functional clarity; a beautiful but confusing interface is a hostile interface.
+what_would_break_it: >-
+  Adopting cheerful wellness colors (bright teals, optimistic greens, Instagram pastels); moving to highly stylized illustration or animation that feels trendy; hiding provider credentials or pricing information; using celebrity testimonials instead of real people; adopting lifestyle brand positioning instead of clinical healthcare positioning; incorporating shame-based before/after imagery; shifting to serif fonts or overly formal typography; using all caps or aggressive visual hierarchy; designing for aesthetic appeal over information clarity; adding brand characters or mascots that undermine medical credibility; incorporating lifestyle imagery (fitness, wellness culture) instead of documentary photography; adopting hero imagery or fantasy scenarios instead of realistic situations; moving to decorative or ornate design elements; incorporating wellness language ("optimize," "peak performance") that undermines clinical positioning; designing for desktop-first instead of mobile-first; removing Access For All motion system metaphors; adopting the aesthetic of legacy healthcare portals; using bright accent colors that distract from information; incorporating patient testimonials that emphasize emotional transformation over medical efficacy; shifting brand voice to be overly casual or trendy; designing interfaces with unnecessary visual complexity.

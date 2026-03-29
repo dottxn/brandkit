@@ -1,0 +1,31 @@
+chunk_id: "hims-hers-positioning"
+brand: "hims-hers"
+domain: positioning
+context_tags:
+  - "value-proposition"
+  - "market-category"
+  - "brand-identity"
+  - archetypes
+depends_on: []
+token_count: 55
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Core positioning for Hims & Hers. Category, archetypes, price tier, and positioning scales."
+
+# ── Data
+name: "Hims & Hers"
+website: "https://hims.com"
+founded: 2017
+category: "health-wellness"
+sub_category: "digital-healthcare"
+price_tier: "mid-range"
+primary_archetype: The Caregiver
+secondary_archetype: The Magician
+positioning_scales:
+  utility_theater: 6
+  access_exclusivity: 3
+  heritage_innovation: 9
+key_differentiators: []

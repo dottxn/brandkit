@@ -1,0 +1,28 @@
+chunk_id: "royal-ballet-opera-visual-reasoning"
+brand: "royal-ballet-opera"
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "royal-ballet-opera-visual-dna"
+  - "royal-ballet-opera-soul"
+token_count: 217
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Royal Ballet and Opera. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Victor Serif (modern high-contrast serif) provides drama and sophistication—critical for communicating artistic intensity. Grey (structured, modern sans-serif) provides rational counterweight. The contrast between typefaces mirrors the artistic contrast between opera and ballet. Victor's high contrast creates visual tension that feels alive; Grey's clarity ensures information remains navigable.
+colour_logic: >-
+  Vibrant, expansive palette—crimson (#DC143C) suggesting passion, deep pink (#FF1493) suggesting intensity, orange-red (#FF4500) suggesting energy, cyan (#00FFFF) suggesting contemporary modernity, gold (#FFD700) suggesting heritage value. This is opposite restraint; the palette is as theatrical as the art form. Multiple colors suggest multiple art forms, multiple stories, multiple emotional registers.
+composition_philosophy: >-
+  Directional layering system where elements overlap to suggest temporal depth and momentum. Archives-inspired marque placed within compositions to remind viewers of institutional history. Flexible system allowing production-specific adaptation (Nutcracker visuals different from contemporary ballet). Composition tends toward dynamic asymmetry reflecting art form's own movement.
+what_would_break_it: >-
+  Adopting neutral institutional aesthetic (greys, minimal palette) or abandoning heritage markers would destroy the core concept of Living Timeline where past, present, and future artistic expression coexist.

@@ -1,0 +1,51 @@
+# ──────────────────────────────────────────────
+# Coursera — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Coursera Design Team"
+    type: "in-house-design"
+    url: "https://www.coursera.org/"
+    relationship: "Developed visual identity in-house following agency-led strategy (2020 rebrand)"
+
+people:
+  - name: "Sarah Lynch"
+    role: "Lead Brand Designer"
+    url: "https://www.sarahlynch.design/"
+    context: "Co-design lead for 2020 rebrand; developed colour palettes, typography systems, imagery guidelines"
+
+  - name: "Matt MacQueen"
+    role: "Director of Design (2014)"
+    url: ""
+    context: "First Director of Design at Coursera; established design foundation and infrastructure that scaled platform from startup to global"
+
+  - name: "Paul D. Hunt"
+    role: "Type Designer"
+    url: ""
+    context: "Designed Source Sans Pro (Adobe, 2012) — Coursera's primary brand typeface"
+
+publications:
+  - title: "Coursera Brand Evolution Blog Post"
+    author: "Coursera Design Team"
+    relevance: "Official documentation of 2020-2021 rebrand process and visual identity"
+
+  - title: "Evolving Coursera's Brand Identity"
+    author: "Coursera"
+    relevance: "Coursera blog post detailing rebrand vision and execution"
+
+visuals:
+  - url: "https://blog.coursera.org/evolving-courseras-brand-identity/"
+    label: "Coursera Rebrand Documentation — 2020 Visual Identity Evolution"
+    section: "visual-language"
+
+  - url: "https://www.sarahlynch.design/project/coursera-rebrand"
+    label: "Coursera Rebrand Case Study — Sarah Lynch Design Work"
+    section: "visual-language"
+
+  - url: "https://www.coursera.org/"
+    label: "Coursera.org Homepage — Current Brand Implementation"
+    section: "visual-world"
+
+  - url: "https://www.designerfund.com/blog/coursera-design-an-inside-look/"
+    label: "Designer Fund Article — Coursera Design Culture (2014)"
+    section: "visual-language"

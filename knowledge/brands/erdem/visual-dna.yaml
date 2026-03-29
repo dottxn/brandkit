@@ -1,0 +1,64 @@
+chunk_id: "erdem-visual-dna"
+brand: erdem
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "erdem-positioning"
+token_count: 105
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Erdem. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#1B2951"
+    name: ""
+    role: ""
+  - hex: "#8B8B8B"
+    name: ""
+    role: ""
+  - hex: "#D4A5A5"
+    name: ""
+    role: ""
+  - hex: "#A5C9A5"
+    name: ""
+    role: ""
+  - hex: "#722F37"
+    name: ""
+    role: ""
+typography:
+  - name: Custom Serif Family
+    role: ""
+    style: ""
+  - name: "Refined Sans-Serif"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: muted
+  palette_range: expansive
+  type_class: serif
+  type_character: editorial
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: mixed
+  imagery_treatment: editorial
+  layout_density: balanced
+  whitespace: generous
+  aesthetic_era: timeless
+  conceptual_approach: maximalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: textured
+  shape_language: organic
+  contrast_level: medium
+  identity_system: flexible
+  signature_device: "photography-led"
+composition_logic: >-
+  Asymmetrical layouts that mirror the brand's approach to fashion proportion, generous white space balanced with rich imagery, hierarchical arrangements that guide the eye through storytelling elements

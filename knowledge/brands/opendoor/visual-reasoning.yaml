@@ -1,0 +1,28 @@
+chunk_id: "opendoor-visual-reasoning"
+brand: opendoor
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "opendoor-visual-dna"
+  - "opendoor-soul"
+token_count: 227
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Opendoor. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Graphik sans-serif provides geometric precision without coldness—open apertures and clean terminals make numbers and data feel comprehensible. Open Sans as secondary typeface ensures accessibility across digital platforms. The pair suggests "clear thinking" rather than "corporate authority." Typography hierarchy is severe because data visualization matters; the typography steps back gracefully.
+colour_logic: >-
+  Primary blue (#1C85E8) as the trust color—not too corporate, not too playful, sitting in the sweet spot of "modern financial services." Lighter blue (#9DC9F8) allows for differentiation and depth. Navy (#1D2C4C) grounds the system with authority. Terra cotta (#F7AF98) is the humanizing accent—warm, inviting, suggesting actual homes and actual people rather than abstract transactions. The palette says "modern fintech with a heart."
+composition_philosophy: >-
+  Modular grid system where each component (home card, data visualization, offer calculation) is self-contained but visually consistent. Generous whitespace prevents cognitive overload in a industry typically cluttered with information. Product-forward composition where interfaces dominate over lifestyle imagery.
+what_would_break_it: >-
+  Adopting luxury real estate aesthetic (high-gloss photography, aspirational lifestyle) would immediately reposition Opendoor as a premium service rather than a democratizing platform, destroying the core brand positioning.

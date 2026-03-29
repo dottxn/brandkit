@@ -1,0 +1,446 @@
+# Brand Database Index
+# Generated 2026-02-27
+total_brands: 88
+generated: "2026-02-27"
+
+brands:
+  adidas:
+    name: "adidas"
+    category: "sport-outdoor"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  aesop:
+    name: "Aesop"
+    category: "beauty"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  airbnb:
+    name: "Airbnb"
+    category: "travel-transport"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  amazon:
+    name: "Amazon"
+    category: "e-commerce"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  apple:
+    name: "Apple"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  arc:
+    name: "Arc"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  bmw:
+    name: "BMW"
+    category: "automotive"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  bookingcom:
+    name: "Booking.com"
+    category: "travel-transport"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  bose:
+    name: "Bose"
+    category: "consumer-hardware"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  cash-app:
+    name: "Cash App"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  chanel:
+    name: "Chanel"
+    category: "luxury"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  coca-cola:
+    name: "Coca-Cola"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  coursera:
+    name: "Coursera"
+    category: "education"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  cvs-pharmacy:
+    name: "CVS Pharmacy"
+    category: "health-wellness"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  decathlon:
+    name: "Decathlon"
+    category: "sport-outdoor"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  delta-air-lines:
+    name: "Delta Air Lines"
+    category: "travel-transport"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  discord:
+    name: "Discord"
+    category: "social-community"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  disney:
+    name: "The Walt Disney Company"
+    category: "entertainment"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  dominos:
+    name: "Domino's"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  duolingo:
+    name: "Duolingo"
+    category: "education"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  ebay:
+    name: "eBay"
+    category: "e-commerce"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  erdem:
+    name: "Erdem"
+    category: "luxury"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  espn:
+    name: "ESPN"
+    category: "entertainment"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  etsy:
+    name: "Etsy"
+    category: "e-commerce"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  eventbrite:
+    name: "Eventbrite"
+    category: "social-community"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  fender:
+    name: "Fender"
+    category: "consumer-hardware"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  figma:
+    name: "Figma"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  ford-motor-company:
+    name: "Ford Motor Company"
+    category: "automotive"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  glossier:
+    name: "Glossier"
+    category: "beauty"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  gucci:
+    name: "Gucci"
+    category: "luxury"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  harleymeds:
+    name: "HarleyMeds"
+    category: "health-wellness"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  hbo:
+    name: "HBO"
+    category: "entertainment"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  herman-miller:
+    name: "Herman Miller"
+    category: "consumer-hardware"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  hermès:
+    name: "Hermès"
+    category: "luxury"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  hims-hers:
+    name: "Hims & Hers"
+    category: "health-wellness"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  hm:
+    name: "H&M"
+    category: "fashion-retail"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  hulu:
+    name: "Hulu"
+    category: "entertainment"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  impossible-foods:
+    name: "Impossible Foods"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  jaguar:
+    name: "Jaguar"
+    category: "automotive"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  loreal:
+    name: "L'Oréal"
+    category: "beauty"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  louis-vuitton:
+    name: "Louis Vuitton"
+    category: "luxury"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  masterclass:
+    name: "MasterClass"
+    category: "education"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  mcdonalds:
+    name: "McDonald's"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  microsoft:
+    name: "Microsoft"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  monzo:
+    name: "Monzo"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  netflix:
+    name: "Netflix"
+    category: "entertainment"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  nike:
+    name: "Nike"
+    category: "sport-outdoor"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  nothing:
+    name: "Nothing"
+    category: "consumer-hardware"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  notion:
+    name: "Notion"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  oatly:
+    name: "Oatly"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  openai:
+    name: "OpenAI"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  opendoor:
+    name: "Opendoor"
+    category: "real-estate"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  oscar-health:
+    name: "Oscar Health"
+    category: "health-wellness"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  patagonia:
+    name: "Patagonia"
+    category: "sport-outdoor"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  paypal:
+    name: "PayPal"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  pepsi:
+    name: "PepsiCo"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  pfizer:
+    name: "Pfizer"
+    category: "health-wellness"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  prada:
+    name: "Prada"
+    category: "luxury"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  reddit:
+    name: "Reddit"
+    category: "social-community"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  redfin:
+    name: "Redfin"
+    category: "real-estate"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  remarkable:
+    name: "reMarkable"
+    category: "consumer-hardware"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  revolut:
+    name: "Revolut"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  rivian:
+    name: "Rivian"
+    category: "automotive"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  robinhood:
+    name: "Robinhood"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  roco:
+    name: "Ro"
+    category: "health-wellness"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  rolex:
+    name: "Rolex"
+    category: "luxury"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  royal-ballet-opera:
+    name: "Royal Ballet and Opera"
+    category: "performing-arts"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  seed-health:
+    name: "Seed Health"
+    category: "health-wellness"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  sephora:
+    name: "Sephora"
+    category: "beauty"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  shopifycom:
+    name: "Shopify"
+    category: "e-commerce"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  slack:
+    name: "Slack"
+    category: "social-community"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  spotify:
+    name: "Spotify"
+    category: "entertainment"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  square:
+    name: "Square"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  starbucks:
+    name: "Starbucks"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  strava:
+    name: "Strava"
+    category: "sport-outdoor"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  stripe:
+    name: "Stripe"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  sweetgreen:
+    name: "sweetgreen"
+    category: "food-beverage"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  tesla:
+    name: "Tesla"
+    category: "automotive"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  uber:
+    name: "Uber"
+    category: "travel-transport"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  udemy:
+    name: "Udemy"
+    category: "education"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  uniqlo:
+    name: "Uniqlo"
+    category: "fashion-retail"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  vercel:
+    name: "Vercel"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  wayfair:
+    name: "Wayfair"
+    category: "e-commerce"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  wise:
+    name: "Wise"
+    category: "fintech"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  youtube:
+    name: "YouTube"
+    category: "entertainment"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  zara:
+    name: "Zara"
+    category: "fashion-retail"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  zillow:
+    name: "Zillow"
+    category: "real-estate"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]
+  zoom:
+    name: "Zoom"
+    category: "technology"
+    enrichment: "enriched"
+    chunks: [positioning, soul, voice, visual-dna, visual-language, competitive, strategy, insights, anti-patterns, visual-reasoning]

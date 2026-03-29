@@ -1,0 +1,37 @@
+chunk_id: "robinhood-competitive"
+brand: robinhood
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "robinhood-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Robinhood. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - revolut
+  - monzo
+  - "cash-app"
+  - wise
+industry_norms_it_breaks: "Refined feather logo with subtle upward arrow—understated disruption metaphor | The architectural decision to position democratization not as charity but as righteousness—Robinhood speaks as though access was always the just default | Does this serve the financially excluded or just optimize margins? Robinhood measures success by access expansion"
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Clean brand, structured, Porto Rocha redesign"
+  - cluster: "data-native"
+    role: "secondary"
+    where: "Trading charts, financial data, portfolio views"
+  - cluster: "bold-challenger"
+    role: "accent"
+    where: "Democratisation message, challenger fintech energy"
+strategic_cluster: "rebel-provocateur"
+category: fintech

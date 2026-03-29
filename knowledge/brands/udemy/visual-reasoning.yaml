@@ -1,0 +1,28 @@
+chunk_id: "udemy-visual-reasoning"
+brand: udemy
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "udemy-visual-dna"
+  - "udemy-soul"
+token_count: 273
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Udemy. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Udemy Sans was custom-designed to feel approachable yet contemporary—avoiding both the formality of traditional education typefaces and the trendiness of fashion brands. The typeface has open letterforms and friendly proportions that say "this is for you," not "you must be smart to enter." Supporting typefaces (SF Pro on iOS, Roboto on Android) ensure consistency across platforms without requiring custom development.
+colour_logic: >-
+  The primary purple (#A435F0) is used for moments of learning and understanding—course cards that represent knowledge acquisition, progress indicators, completion states. Supporting colors (coral #EC5252 for energy, teal #1C4B82 for stability, warm grays for clarity) create an inviting, non-austere palette. No dark, serious tones; the entire system communicates possibility and warmth.
+composition_philosophy: >-
+  Course discovery interfaces use visual abundance—many options visible, filters accessible, ratings and reviews prominent. The composition says "there's something here for everyone." Information density is high but organized through clear hierarchy. No mysterious hidden features; everything learners need is visible to reduce decision anxiety.
+what_would_break_it: >-
+  Introducing dark academia aesthetics, minimalist design, or visual gatekeeping (price tiers expressed through visual hierarchy) would immediately undermine the accessibility positioning. The moment the interface starts to suggest "this is for people like Harvard students," it loses the brand's core value proposition. The design must continuously communicate "this is for me, regardless of my background."

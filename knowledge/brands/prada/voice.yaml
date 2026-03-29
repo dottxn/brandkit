@@ -1,0 +1,50 @@
+chunk_id: "prada-voice"
+brand: prada
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "prada-soul"
+token_count: 132
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Prada. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  <cite index="34-2,34-3">Pioneer of a dialogue with contemporary society across diverse cultural spheres and an influential leader in luxury fashion, Prada Group founds its identity on essential values
+tone_traits:
+  - conceptual
+  - "thought-provoking"
+  - culturally aware
+  - "<cite index=\"65-2\">there is a bit of weirdness lurking about</cite>"
+  - sophisticated irony
+  - confident
+  - pioneering
+  - editorial
+anti_traits:
+  - superficial
+  - "trend-chasing"
+  - "dumbed-down"
+  - overly playful
+  - casual
+  - irreverent
+  - uncertain
+  - following
+  - overly casual
+example_phrases:
+  - "<cite index=\"71-1\">Thinking fashion since 1913</cite>"
+  - >-
+    <cite index="21-8">Conceptuality is Prada's preferred form of expression in an intellectual commitment to good taste</cite>
+  - >-
+    <cite index="35-1">Careful observation of and curiosity about the world, society, and culture are at the core of Prada's creativity and modernity</cite>
+  - "<cite index=\"24-7\">Be seen, be heard</cite>"
+guardrails:
+  never_say: []
+  always_sound: >-
+    conceptual, thought-provoking, culturally aware, <cite index="65-2">there is a bit of weirdness lurking about</cite>, sophisticated irony

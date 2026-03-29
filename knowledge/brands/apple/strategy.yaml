@@ -1,0 +1,29 @@
+chunk_id: "apple-strategy"
+brand: apple
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "apple-positioning"
+token_count: 53
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Apple. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "We believe that we're on the face of the earth to make great products and that's not changing"
+mission: "To bring the best user experience to customers through innovative hardware, software, and services"
+vision: To make the best products on earth and to leave the world better than we found it
+values:
+  - Accessibility
+  - Environment
+  - Privacy
+  - Inclusion and Diversity
+  - Education
+  - Supplier Responsibility

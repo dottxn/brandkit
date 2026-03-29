@@ -1,0 +1,31 @@
+chunk_id: "nothing-strategy"
+brand: nothing
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "nothing-positioning"
+token_count: 58
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Nothing. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe technology should be fun, transparent, and remove barriers between people and the digital world
+mission: >-
+  To make technology more intuitive, efficient, and enjoyable by creating a seamless digital ecosystem that integrates naturally into daily life
+vision: >-
+  A future where nothing stands between people and technology - where devices fade into the background as effortless extensions of the user
+values:
+  - Transparency
+  - Distinctive Design
+  - "Community-Centric Innovation"
+  - Creative Excellence
+  - Authentic Simplicity

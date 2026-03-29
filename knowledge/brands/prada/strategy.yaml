@@ -1,0 +1,32 @@
+chunk_id: "prada-strategy"
+brand: prada
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "prada-positioning"
+token_count: 74
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Prada. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in challenging conventions through experimental fashion that transcends trends and becomes a benchmark for cultural emancipation
+mission: >-
+  <cite index="31-2">A perspective that places at the heart of its inspiring and operative principles basic values as uncompromised quality, valorisation of labour and freedom of creative expression</cite>
+vision: >-
+  <cite index="36-6,36-7">To seamlessly blend tradition with innovation, crafting timeless pieces that transcend fleeting trends. Rooted in its rich heritage, Prada aims to redefine luxury by creating products that are both elegant and forward-thinking.</cite>
+values:
+  - Creative Independence
+  - Transformation
+  - Sustainable Development
+  - Cultural Curiosity
+  - Uncompromised Quality
+  - Freedom of Expression

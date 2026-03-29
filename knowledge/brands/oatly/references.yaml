@@ -1,0 +1,74 @@
+# ──────────────────────────────────────────────
+# Oatly — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Forsman & Bodenfors"
+    type: "branding"
+    url: "https://www.fbagency.com/"
+    project_url: "https://www.forsman.com/work/oatly/"
+    relationship: "Swedish agency that executed the May 2015 'Wow! No Cow!' rebrand. Completely redesigned Oatly's visual identity from clinical health-food to hand-crafted, conversational brand."
+
+  - name: "Department of Mind Control"
+    type: "creative-direction"
+    url: "https://oatly.com/"
+    relationship: "Oatly's in-house creative team (51 people) producing campaign work, marketing, and brand communications. Named with deliberate irony by John Schoolcraft."
+
+people:
+  - name: "John Schoolcraft"
+    role: "Chief Creative Officer, Oatly"
+    url: "https://oatly.com/"
+    context: "Joined Oatly (2012) as creative director. Led the May 2015 rebrand with Forsman & Bodenfors. Established Oatly's conversational tone and hand-crafted visual identity. Named John Rounded typeface after himself."
+
+  - name: "Lars Elfman"
+    role: "Art Director and Hand-Lettering Artist, Forsman & Bodenfors"
+    url: "https://www.fbagency.com/"
+    context: "Created all hand-drawn typography and illustrations for the 2015 Oatly rebrand. Established Oatly's signature handmade aesthetic."
+
+  - name: "Caroline Laudon"
+    role: "Type Designer"
+    url: "https://www.fbagency.com/"
+    context: "Designed John Rounded (named after Schoolcraft) and Toni Grotesk (named after CEO Toni Petersson) custom typefaces for Oatly."
+
+  - name: "Toni Petersson"
+    role: "CEO and Co-founder, Oatly"
+    url: "https://oatly.com/"
+    context: "Toni Grotesk typeface named after CEO. Shaped Oatly's anti-corporate brand philosophy and positioning."
+
+publications:
+  - title: "Oatly: Wow! No Cow! Design & Branding by Forsman & Bodenfors"
+    author: "Design Publications"
+    relevance: "Case study of the comprehensive rebrand that shifted Oatly's positioning from health food to lifestyle brand."
+
+  - title: "How to Create a Great Brand for Your Small Business: Oatly"
+    author: "Fortune"
+    relevance: "Analysis of Oatly's branding success and marketing approach that challenged industry conventions."
+
+  - title: "Oatly Packaging (2015–) — Fonts in Use"
+    author: "Fonts in Use"
+    relevance: "Typography documentation of John Rounded, Toni Grotesk, and FF Magda typeface system."
+
+  - title: "John Schoolcraft: Why Creativity Beats Marketing"
+    author: "NEXT Conference / CreativeMornings"
+    relevance: "Interviews with Schoolcraft on Oatly's creative philosophy and brand positioning approach."
+
+visuals:
+  - url: "https://oatly.com/"
+    label: "Oatly website and packaging showcase"
+    section: "visual-world"
+
+  - url: "https://www.fbagency.com/"
+    label: "Forsman & Bodenfors portfolio and case studies"
+    section: "visual-language"
+
+  - url: "https://www.instagram.com/oatly/"
+    label: "Oatly Instagram — visual language and brand expression"
+    section: "visual-language"
+
+  - url: "https://www.itsnicethat.com/news/pearlfisher-mcdonalds-packaging-redesign-graphic-design-illustration-150221"
+    label: "Oatly packaging design case study — design publications"
+    section: "visual-world"
+
+  - url: "https://nextconf.eu/2022/02/john-schoolcraft-why-creativity-beats-marketing/"
+    label: "John Schoolcraft on Oatly's creative strategy — NEXT Conference"
+    section: "visual-language"

@@ -1,0 +1,74 @@
+# ──────────────────────────────────────────────
+# Nothing — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Teenage Engineering"
+    type: "product-design"
+    url: "https://www.teenageengineering.com/"
+    relationship: "Founding design collaboration with Nothing establishing the transparency and reduction design philosophy. Creative leadership by Jesper Kouthoofd and Tom Howard."
+
+  - name: "Seventy Agency"
+    type: "branding"
+    url: "https://www.seventy.studio/"
+    relationship: "London-based agency collaborating with Colophon Foundry on Nothing's custom typeface system (NDot and NType 82)."
+
+  - name: "Colophon Foundry"
+    type: "type-foundry"
+    url: "https://www.colophon-foundry.org/"
+    relationship: "Created NDot (dot-matrix) and NType 82 typefaces inspired by 1980s IBM mainframe aesthetics. Founded by Anthony Sheret and Edd Harrington."
+
+people:
+  - name: "Carl Pei"
+    role: "Founder and CEO, Nothing"
+    url: "https://nothing.tech/"
+    context: "Established Nothing's brand vision and design philosophy centered on transparency and reduction."
+
+  - name: "Adam Bates"
+    role: "Global Design Director"
+    url: "https://nothing.tech/"
+    context: "Joined Nothing (2022) from 14-year tenure at Dyson. Oversees industrial and visual design system. Expert in product design and material expression."
+
+  - name: "Jesper Kouthoofd"
+    role: "Creative Lead, Teenage Engineering"
+    url: "https://www.teenageengineering.com/"
+    context: "Shaped Nothing's original visual DNA and design philosophy with transparent, honest approach to technology."
+
+  - name: "Tom Howard"
+    role: "Head of Design, Teenage Engineering"
+    url: "https://www.teenageengineering.com/"
+    context: "Contributed to Nothing's founding design direction and raw, industrial aesthetic."
+
+publications:
+  - title: "Nothing Phone (1) Design Philosophy"
+    author: "Dezeen"
+    relevance: "In-depth interview with Adam Bates on transparency design and Nothing's approach to smartphone differentiation."
+
+  - title: "Teenage Engineering and Nothing: Founding Design Collaboration"
+    author: "Design Publications"
+    relevance: "Analysis of how Teenage Engineering's design ethos shaped Nothing's visual and product identity."
+
+  - title: "NDot and NType 82 Typeface System"
+    author: "Colophon Foundry / Type Publications"
+    relevance: "Documentation of dot-matrix inspired typeface design and 1980s computing aesthetics reference."
+
+visuals:
+  - url: "https://nothing.tech/"
+    label: "Nothing website and product showcase"
+    section: "visual-world"
+
+  - url: "https://www.teenageengineering.com/"
+    label: "Teenage Engineering design studio portfolio"
+    section: "visual-language"
+
+  - url: "https://www.colophon-foundry.org/"
+    label: "Colophon Foundry typeface portfolio"
+    section: "visual-language"
+
+  - url: "https://www.dezeen.com/2024/02/20/nothing-tech-smartphone-design-adam-bates-interview/"
+    label: "Adam Bates on Nothing's design approach — Dezeen"
+    section: "visual-language"
+
+  - url: "https://www.dezeen.com/2022/08/19/nothing-phone-1-design/"
+    label: "Nothing Phone (1) design case study — Dezeen"
+    section: "visual-world"

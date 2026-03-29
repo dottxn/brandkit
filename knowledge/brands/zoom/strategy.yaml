@@ -1,0 +1,29 @@
+chunk_id: "zoom-strategy"
+brand: zoom
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "zoom-positioning"
+token_count: 41
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Zoom. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe in making video communications frictionless and bringing people together in a simple, reliable way
+mission: To make video communications frictionless and secure
+vision: To deliver happiness through seamless video communications
+values:
+  - Care
+  - Own
+  - Deliver Happiness
+  - Make Each Other Successful
+  - Learn

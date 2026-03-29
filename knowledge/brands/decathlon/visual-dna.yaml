@@ -1,0 +1,58 @@
+chunk_id: "decathlon-visual-dna"
+brand: decathlon
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "decathlon-positioning"
+token_count: 91
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Decathlon. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "<cite index=\"42-1\">#0082C3</cite>"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+  - hex: "#000000"
+    name: ""
+    role: ""
+typography:
+  - name: "<cite index=\"1-14,12-2\">Decathlon Sans</cite>"
+    role: ""
+    style: ""
+  - name: GT Era
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: grotesque
+  type_weight: mixed
+  imagery_medium: photography
+  imagery_subject: lifestyle
+  imagery_treatment: candid
+  layout_density: balanced
+  whitespace: moderate
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: "abstract-mark"
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: >-
+  <cite index="26-3,26-16">L'Orbit has become a central unifying element across almost everything; from layouts that echo the tilted axis of L'Orbi, to motion behaviours that apply the orbital behaviour, to how we move from one thing to another. L'Orbit has become a central unifying element across almost everything; from layouts that echo the tilted axis of L'Orbi, to motion behaviours that apply the orbital behaviour, to how we move from one thing to another.</cite>

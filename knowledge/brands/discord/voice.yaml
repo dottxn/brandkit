@@ -1,0 +1,50 @@
+chunk_id: "discord-voice"
+brand: discord
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "discord-soul"
+token_count: 123
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Discord. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  A communication platform that started as a voice and text chat service for gamers and has evolved into a global community hub where people create servers to hang out, share interests, and build connec
+tone_traits:
+  - conversational
+  - "meme-savvy"
+  - gaming references
+  - lighthearted
+  - authentic
+  - "down-to-earth"
+  - understanding user frustrations
+  - approachable
+  - dependable
+  - consistent
+  - trustworthy
+  - straightforward
+anti_traits:
+  - corporate speak
+  - overly serious
+  - pretentious
+  - elitist
+  - "out-of-touch"
+  - overly polished
+  - unreliable promises
+  - inconsistent messaging
+example_phrases:
+  - "Group Chat That's All Fun and Games"
+  - Your Place to Talk and Hang Out
+  - Imagine a Place
+  - "Discord is what you bring to it. It's like a potluck, online, but not a meal"
+guardrails:
+  never_say: []
+  always_sound: "conversational, meme-savvy, gaming references, lighthearted, authentic"

@@ -1,0 +1,54 @@
+chunk_id: "notion-visual-dna"
+brand: notion
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "notion-positioning"
+token_count: 79
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Notion. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#000000"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Inter
+    role: ""
+    style: ""
+  - name: Serif (secondary)
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: neutral
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: illustration
+  imagery_subject: people
+  imagery_treatment: staged
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: pictorial
+  texture_feel: flat
+  shape_language: geometric
+  contrast_level: high
+  identity_system: modular
+  signature_device: "logo-centric"
+composition_logic: "Modular block-based system with consistent spacing and clear hierarchy"

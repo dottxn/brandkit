@@ -1,0 +1,71 @@
+chunk_id: "zillow-anti-patterns"
+brand: zillow
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "zillow-soul"
+  - "zillow-visual-dna"
+token_count: 497
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Zillow. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Luxury real estate positioning or high-end property imagery"
+    reasoning: >-
+      Zillow serves all price points equally. Featuring luxury homes would alienate the first-time homebuyer and the rental market.
+  - pattern: "Cold, sterile technology aesthetic"
+    reasoning: >-
+      Despite being data-driven, the interface avoids the cold minimalism of pure tech. Warmth and human connection are visually essential.
+  - pattern: "Agent-centric photography or professional real estate imagery"
+    reasoning: >-
+      Zillow emphasizes authentic home photography with natural lighting. Professional staging would undermine the "this is what real homes look like" positioning.
+  - pattern: Serif typefaces or traditional financial services aesthetic
+    reasoning: >-
+      Clean, modern sans-serif (Zillow Sans, Open Sans) communicates innovation. Traditional typography would position as legacy industry player.
+strategic:
+  - pattern: Abandoning algorithmic valuation for market consensus
+    reasoning: >-
+      Zestimate makes Zillow distinctive; competitors can't replicate proprietary algorithms. Removing this feature would eliminate competitive advantage.
+  - pattern: Full service integration forcing specialized platforms
+    reasoning: >-
+      Zillow integrates buying, selling, renting, and financing. Splitting these into specialized apps would lose the ecosystem advantage.
+  - pattern: "Agent-favorable platform design"
+    reasoning: >-
+      While agents need Zillow, the platform consistently favors consumer transparency. Becoming agent-centric would undermine consumer trust.
+  - pattern: Market volatility denial or smoothing
+    reasoning: >-
+      Zillow's honest acknowledgment of market cycles and regional variance maintains credibility. Suggesting stability that doesn't exist would destroy trust.
+tonal:
+  - pattern: "Sales-driven urgency or FOMO language"
+    reasoning: >-
+      Copy is educational and empowering. No "act now," no artificial scarcity. Pressure tactics would feel inappropriate for life-changing decisions.
+  - pattern: Financial advice or investment positioning
+    reasoning: >-
+      Zillow explicitly avoids investment language. Framing homes as assets rather than homes would undermine the consumer advocate positioning.
+  - pattern: Simplification of complex market dynamics
+    reasoning: >-
+      The brand communicates complexity honestly. Pretending real estate is simple would be dishonest and would undermine credibility.
+  - pattern: Agent credibility elevation
+    reasoning: >-
+      While recognizing agents' role, Zillow avoids positioning them as authorities. Consumer empowerment requires information parity.
+cultural:
+  - pattern: Treating renters as less important than owners
+    reasoning: >-
+      Zillow's design and voice serve renters with equal respect and functionality. No visual hierarchy suggesting ownership superiority.
+  - pattern: Perpetuating real estate agent gatekeeping
+    reasoning: >-
+      Zillow's entire mission is disrupting gatekeeping. Consolidating power with agents would contradict founding philosophy.
+  - pattern: Price appreciation as life goal
+    reasoning: >-
+      The brand acknowledges that homes are investments but never positions appreciation as the primary value. Shelter, community, and life circumstance come first.
+  - pattern: Market manipulation or artificial demand creation
+    reasoning: >-
+      Zillow avoids creating artificial scarcity or demand pressure. Honest information is the entire value proposition.

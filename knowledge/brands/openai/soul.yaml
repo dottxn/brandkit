@@ -1,0 +1,29 @@
+chunk_id: "openai-soul"
+brand: openai
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "openai-positioning"
+token_count: 113
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of OpenAI. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: Intelligence unfolding in conversation—the moment right before understanding crystallizes
+core_belief: >-
+  AI's value isn't in replacing human creativity; it's in creating conditions where human creativity accelerates
+creative_tension:
+  - "Academic rigor in research paired with consumer-friendly approachability in products"
+  - "Asserting AGI as existential purpose while maintaining optimistic human-centered tone"
+decision_filter: "Does it make AI feel like a collaborator or a tool? OpenAI defaults to collaborator"
+signature_move: >-
+  The Blossom logo (three intertwined triangles) suggesting connection and emergence rather than precision
+what_would_break_it: >-
+  Adopting clinical, sterile aesthetic of medical AI or cold computational efficiency symbolism—would destroy human-centered positioning

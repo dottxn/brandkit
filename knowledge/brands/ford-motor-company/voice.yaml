@@ -1,0 +1,55 @@
+chunk_id: "ford-motor-company-voice"
+brand: "ford-motor-company"
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "ford-motor-company-soul"
+token_count: 137
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Ford Motor Company. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan. Founded in 1903 by Henry Ford, the company designs, manufactures, markets, and services a r
+tone_traits:
+  - reliable
+  - dependable
+  - straightforward
+  - "freedom-focused"
+  - accessible
+  - "human-centered"
+  - proud legacy
+  - American manufacturing
+  - craftsmanship
+  - smart technology
+  - "future-focused"
+  - progressive
+anti_traits:
+  - flashy
+  - overpromising
+  - corporate coldness
+  - elitist
+  - restrictive
+  - complicated
+  - trendy
+  - rootless
+  - foreign
+  - outdated
+  - static
+  - behind the curve
+example_phrases:
+  - "<cite index=\"8-19,8-25\">America's Most Awarded Brand for New Vehicle Quality</cite>"
+  - "<cite index=\"59-2,59-3\">We don't just make history -- we make the future</cite>"
+  - "<cite index=\"8-27\">Experience the magic of hands-free highway driving</cite>"
+  - >-
+    <cite index="59-7,59-8">We have sought to make the world a better place – one that benefits lives, communities and the planet</cite>
+guardrails:
+  never_say: []
+  always_sound: "reliable, dependable, straightforward, freedom-focused, accessible"

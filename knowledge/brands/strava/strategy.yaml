@@ -1,0 +1,29 @@
+chunk_id: "strava-strategy"
+brand: strava
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "strava-positioning"
+token_count: 36
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Strava. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "<cite index='32-1'>We believe if you sweat, you're an athlete.</cite>"
+mission: >-
+  <cite index='34-4,36-2,37-2'>To connect athletes to what motivates them and help them find their personal best.</cite>
+vision: >-
+  <cite index='34-5,36-7,40-5'>To be the record of the world's athletic activities and the technology that makes every effort count.</cite>
+values:
+  - Authenticity
+  - Commitment
+  - Craftsmanship
+  - Camaraderie

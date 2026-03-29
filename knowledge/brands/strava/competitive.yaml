@@ -1,0 +1,37 @@
+chunk_id: "strava-competitive"
+brand: strava
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "strava-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Strava. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - nike
+  - duolingo
+  - apple
+  - espn
+industry_norms_it_breaks: "International Orange (#FC5200) used as the action color that represents the visible exertion on an athlete's face—the specific orange of race bibs and effort made visible. | The unwillingness to weaponize gamification despite having perfect infrastructure for it. Strava could have created addiction loops; instead they emphasize community and personal improvement. | Does this celebrate the person who ran their first 5K as much as the Olympic qualifier? If the answer is conditional, we redesigned wrong."
+visual_cluster: "data-native"
+visual_fingerprint:
+  - cluster: "data-native"
+    role: "dominant"
+    where: "Activity data, performance metrics, segment leaderboards"
+  - cluster: "bold-challenger"
+    role: "secondary"
+    where: "Strava Orange, energetic sport community"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Athlete social community, kudos, group activities"
+strategic_cluster: "experience-curator"
+category: "sport-outdoor"

@@ -1,0 +1,36 @@
+chunk_id: "zoom-competitive"
+brand: zoom
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "zoom-positioning"
+token_count: 3
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Zoom. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - slack
+  - discord
+  - microsoft
+industry_norms_it_breaks: "The rounded rectangular video tile grid that mirrors the actual experience of seeing multiple faces at once—the interface structure reflects the human experience. | The commitment to making video conferencing feel natural and unmediated. Competitors add features and complexity; Zoom's design philosophy is subtraction toward invisible infrastructure. | Does this increase the feeling of connection, or does it make people aware they're using technology? Technology should disappear."
+visual_cluster: "geometric-clean"
+visual_fingerprint:
+  - cluster: "geometric-clean"
+    role: "dominant"
+    where: "Blue systematic brand, clean, professional"
+  - cluster: "tech-system"
+    role: "secondary"
+    where: "Workplace product, platform tools, SDK"
+  - cluster: "warm-humanist"
+    role: "accent"
+    where: "Connection, community, virtual togetherness"
+strategic_cluster: "community-connector"
+category: technology

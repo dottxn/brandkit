@@ -1,0 +1,58 @@
+chunk_id: "roco-visual-dna"
+brand: roco
+domain: visual
+context_tags:
+  - "visual-identity"
+  - "design-language"
+  - color
+  - typography
+depends_on:
+  - "roco-positioning"
+token_count: 89
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Visual DNA for Ro. Colors, type, visual tags, signature devices."
+
+# ── Data
+colors:
+  - hex: "#003366"
+    name: ""
+    role: ""
+  - hex: "#0066CC"
+    name: ""
+    role: ""
+  - hex: "#FFFFFF"
+    name: ""
+    role: ""
+typography:
+  - name: Ro Sans
+    role: ""
+    style: ""
+  - name: "Clean Modern Sans-Serif"
+    role: ""
+    style: ""
+visual_tags:
+  palette_mood: cool
+  palette_range: minimal
+  type_class: "sans-serif"
+  type_character: humanist
+  type_weight: regular
+  imagery_medium: photography
+  imagery_subject: people
+  imagery_treatment: documentary
+  layout_density: minimal
+  whitespace: generous
+  aesthetic_era: contemporary
+  conceptual_approach: minimalist
+  framing_device: floating
+  symbolic_type: wordmark
+  texture_feel: flat
+  shape_language: rounded
+  contrast_level: high
+  identity_system: modular
+  signature_device: "typography-led"
+composition_logic: >-
+  <cite index="23-18,23-19">Like the skincare system, the identity is composed of various elements that are at their strongest when used in combination. Ro Derm is built around the idea that each patient's recommended routine should be individually customized, and the branding can be modulated across various applications.</cite>

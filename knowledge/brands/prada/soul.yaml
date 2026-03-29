@@ -1,0 +1,33 @@
+chunk_id: "prada-soul"
+brand: prada
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "prada-positioning"
+token_count: 258
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Prada. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A library where someone burned half the books and rearranged the rest—beauty that refuses to be comfortable, made by intellectuals who insist that fashion think before it decorates.
+core_belief: >-
+  The most radical act in luxury is to challenge your own customers' expectations rather than reinforce them.
+creative_tension:
+  - >-
+    "Prada must be exclusive luxury and intellectually challenging simultaneously. Accessibility (through concept) contradicts exclusivity (through price and craftsmanship). Yet this paradox is the entire point—ideas are free; execution costs everything."
+  - >-
+    "Prada breaks conventions while remaining timeless. Each season could date the collection through experimentation, yet each season also creates future classics. It navigates between permanent disruption and permanent relevance."
+decision_filter: >-
+  "Does this decision make someone think differently about fashion, or does it just make them look different? If it's purely visual, it's not Prada."
+signature_move: >-
+  The triangular logo mark rendered in negative space—a gesture so minimal it forces the eye to complete the shape. It's incomplete, inviting interpretation, refusing simplicity. This single move communicates the brand's entire intellectual philosophy.
+what_would_break_it: >-
+  Softening the edges of the aesthetic (rounded corners, warm tones, friendly photography). The moment Prada feels approachable, it stops being conceptual and becomes commercial. The visual austerity is the gatekeeper that separates fashion thinking from fashion consumption.

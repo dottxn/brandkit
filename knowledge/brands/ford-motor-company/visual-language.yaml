@@ -1,0 +1,313 @@
+chunk_id: "ford-motor-company-visual-language"
+brand: "ford-motor-company"
+domain: "visual-language"
+context_tags:
+  - "art-direction"
+  - "photography"
+  - "visual-system"
+  - "design-practice"
+depends_on:
+  - "ford-motor-company-visual-dna"
+  - "ford-motor-company-soul"
+token_count: 0
+format: "yaml"
+version: "2.0"
+last_updated: "2026-02-25"
+status: "active"
+enrichment_level: "enriched"
+summary: >-
+  Visual language for Ford Motor Company. How Ford looks structurally —
+  photography art direction, type treatment, layout, graphic language,
+  visual modes, and collaboration rules.
+
+# ── Visual Modes ─────────────────────────────────
+
+visual_modes:
+  modes:
+    - name: "heritage-trust"
+      touchpoints:
+        - "ford.com homepage and model pages"
+        - "Ford dealership Signature 2.0 interiors (K5 design)"
+        - "Ford Blue brand marketing for ICE lineup"
+        - "F-Series campaign materials"
+      description: >-
+        Ford Blue oval on navy or white. Photography of trucks and SUVs in
+        American landscapes — farmland, construction sites, suburban driveways.
+        Ford Antenna for body, Ford custom display type for headlines. The
+        visual register says dependable, familiar, earned. Less cinematic than
+        Ram, less polished than Chevrolet — the roughness is intentional.
+      differs_from_default_by: >-
+        This is the baseline. All other modes depart from this middle-American
+        trust register.
+
+    - name: "electric-future"
+      touchpoints:
+        - "ford.com/electric pages"
+        - "Ford Model e division marketing (launched March 2022)"
+        - "F-150 Lightning launch campaign"
+        - "Mustang Mach-E campaign work"
+      description: >-
+        Bluer, cooler, more minimal. White and light grey backgrounds replace
+        the warm earth tones. The Blue Oval recedes in favour of the vehicle
+        as hero. Typography is lighter-weight and more spaced. Photography
+        shifts to studio-lit product shots and urban environments rather than
+        rural landscapes. The intent is to signal technology without losing
+        Ford's mass-market accessibility.
+      differs_from_default_by: >-
+        Cooler palette, more whitespace, less texture. The truck-in-a-field
+        register disappears. Feels closer to Tesla or Rivian's visual
+        territory than traditional Ford.
+
+    - name: "performance-heritage"
+      touchpoints:
+        - "Mustang marketing and ford.com/mustang"
+        - "Ford Performance division"
+        - "Bronco launch campaign"
+        - "GT supercar content"
+      description: >-
+        High-contrast, dramatic, aggressive. Dark backgrounds, saturated
+        colour on the vehicle, motion blur, low angles. Typography is bolder
+        and tighter-tracked. The photography is cinematic — the car is shot
+        like a protagonist. This mode borrows more from sports/performance
+        culture than the everyday-truck baseline.
+      differs_from_default_by: >-
+        Maximum visual intensity. Dark backgrounds replace white. The vehicle
+        is heroic rather than contextual. Closer to BMW M or Porsche's visual
+        register than Ford Blue.
+
+    - name: "corporate-institutional"
+      touchpoints:
+        - "Ford Motor Company investor relations"
+        - "Annual reports and ESG reporting"
+        - "media.ford.com press materials"
+        - "LinkedIn corporate content"
+      description: >-
+        Navy-dominant, restrained, data-rich. The Blue Oval is smaller and
+        more formal. Photography is corporate — facilities, leadership,
+        manufacturing lines. Charts and infographics replace lifestyle
+        imagery. Ford Antenna at conservative sizes.
+      differs_from_default_by: >-
+        The warmth and personality recede. This is Ford as a $170B
+        corporation, not Ford as your neighbour's truck.
+
+  notes: >-
+    Ford Pro (commercial/fleet) is developing a distinct visual register
+    that may warrant its own visual-language chunk. Currently it shares
+    the heritage-trust mode but with more utilitarian photography and
+    data-forward layouts.
+
+# ── Photography ──────────────────────────────────
+
+photography:
+  confidence: "medium"
+  primary_sources:
+    - "'Ready Set Ford' campaign (January 2025, W+K New York)"
+    - "Photographers: Alex Kramer, Jay Kolsch (Ready Set Ford stills)"
+    - "Director: Seb Edwards (Ready Set Ford film, Bryan Cranston narration)"
+    - "ford.com product photography observed February 2026"
+    - "F-150 Lightning launch campaign (2022)"
+  subject_and_framing: >-
+    Two registers. Product: vehicle as hero, 3/4 front angle dominant,
+    shot in environment (not studio white) for ICE models — a truck on a
+    construction site, a Bronco on a trail. The vehicle occupies 50-60% of
+    frame with environment providing context. Studio product shots (white
+    or light grey background, multiple angles) are reserved for the
+    electric lineup and configurator imagery. Campaign: people and vehicles
+    together. The 'Ready Set Ford' campaign (W+K NY, January 2025) places
+    everyday Americans alongside their Fords — the vehicle is a tool in
+    their life, not a status symbol. Alex Kramer and Jay Kolsch's stills
+    for that campaign use medium-wide environmental framing.
+  casting_observed: >-
+    'Ready Set Ford' features a broad American demographic — blue-collar
+    workers, families, small business owners. Bryan Cranston narrates
+    (authority voice, not celebrity endorsement). Earlier F-150 campaigns
+    feature tradespeople and ranchers. Mustang and Bronco content skews
+    younger and more lifestyle-oriented. Ford does not cast models —
+    the people look like they actually drive Fords.
+  lighting_and_colour: >-
+    Product photography for electric vehicles: clean, high-key studio
+    lighting similar to Tesla but warmer. ICE vehicle photography: natural
+    light, golden hour strongly preferred for truck and SUV work —
+    the landscape lighting does heavy emotional lifting. Campaign work
+    (Ready Set Ford): warm natural light, practical lighting in interior
+    scenes, nothing dramatic. Differs from Ram's more cinematic, high-contrast
+    approach — Ford's lighting is warmer and more documentary. Differs from
+    Chevrolet's cleaner, more studio-controlled look.
+  post_production: >-
+    Moderate. Colour grading warms the earth tones — amber, gold, dusty
+    blue. The Ford Blue (#003478) must remain true across all materials.
+    Skin tones are natural. No heavy retouching visible on people. Vehicle
+    photography has more post-production — paint reflections enhanced,
+    backgrounds sometimes composited for dramatic skies. The electric
+    lineup gets cleaner, less graded treatment.
+  visual_boundaries:
+    stated_exclusions: >-
+      Ford positions itself as accessible and American-made. The brand
+      avoids luxury signifiers (marble, champagne, fashion contexts) and
+      overtly urban/cosmopolitan settings for its core truck lineup.
+    observed_exceptions: >-
+      The Mustang Mach-E and electric lineup use urban settings, modern
+      architecture, and lifestyle contexts that contradict the rural/blue-collar
+      baseline. Lincoln (separate brand, same parent) occupies the luxury
+      space Ford avoids.
+    genuine_absence: >-
+      Based on ford.com and recent campaign review: no competitive vehicles
+      in frame, no explicitly political imagery, no ironic or self-deprecating
+      visual treatments. Ford takes itself seriously across all touchpoints.
+
+# ── Illustration & Graphic Language ──────────────
+
+graphic_language:
+  confidence: "medium"
+  primary_sources:
+    - "ford.com interface elements and configurator"
+    - "Ford app UI"
+    - "Signature 2.0 dealership environmental design (K5 design)"
+  uses_illustration: false
+  illustration_style: ""
+  illustration_role: ""
+  icon_style: >-
+    Functional system icons — line-weight consistent, geometric, not
+    distinctive. The Ford configurator uses standard automotive interface
+    icons. Nothing custom or brand-defining in the icon set.
+  graphic_devices: >-
+    The Blue Oval is the dominant graphic device — used at various scales
+    from grille badge to hero placement. Horizontal rules and blue colour
+    bars structure layouts. The oval shape language echoes through UI
+    elements (rounded buttons, pill shapes). No strong secondary graphic
+    device comparable to the Blue Oval's recognition.
+  motion_language: >-
+    Observed in 'Ready Set Ford' film (directed by Seb Edwards): confident
+    pacing, not frenetic. Wide establishing shots, slow pans across
+    landscapes, medium-speed cuts. Vehicle motion is purposeful — trucks
+    working, not racing. The Mustang and performance content is faster-cut
+    with more dynamic camera movement. The overall motion tempo is slower
+    than competitors like Chevrolet ('Find New Roads' energy) — Ford's
+    motion says steady, not exciting.
+
+# ── Typography in Practice ───────────────────────
+
+type_treatment:
+  confidence: "medium"
+  primary_sources:
+    - "Ford custom typeface by Typotheque (Peter Biľak, commissioned 2019)"
+    - "Ford Antenna (Cyrus Highsmith / Font Bureau) — body and UI type"
+    - "ford.com observed February 2026"
+    - "Campaign typography from 'Ready Set Ford' OOH"
+  signature_move: >-
+    The Typotheque custom display face (Peter Biľak, 2019) at headline
+    scale — a geometric sans with subtle humanist curves that reads as
+    modern but approachable. It replaced the previous condensed Gothic
+    treatment and is the single biggest visual change in Ford's recent
+    identity. When paired with Ford Antenna (Cyrus Highsmith / Font Bureau)
+    for body text, the combination is cleaner and more contemporary than
+    any previous Ford typographic system.
+  what_would_look_wrong: >-
+    Serif type anywhere in the system. All-caps body text. Light or thin
+    weights at display sizes — Ford type has mass and presence. Script or
+    decorative typefaces. The previous condensed Gothic headlines that
+    characterised Ford marketing pre-2019 would now look dated.
+  case_convention: >-
+    Title case for headlines and model names. Sentence case for body text.
+    Model names always capitalised (F-150, Mustang, Bronco). 'Built Ford
+    Tough' is title case — the tagline convention.
+  display_vs_body: >-
+    Display: Ford custom by Typotheque (Peter Biľak, 2019) — geometric
+    sans-serif, medium to bold weights, generous x-height. Body: Ford
+    Antenna (Cyrus Highsmith / Font Bureau) — a versatile sans-serif
+    designed for readability across print and screen. The display type
+    carries personality; the body type is workmanlike and clear. The
+    weight contrast between display and body is moderate — not as extreme
+    as Nike's Futura-to-Helvetica jump.
+  type_and_image: >-
+    Type defers to vehicle photography in most contexts. Headlines sit
+    above or below the vehicle image, rarely overlaid. In campaign OOH,
+    type sits on solid colour bars (navy or white) adjacent to photography
+    — not competing with it. The Blue Oval and the headline share headline
+    position; the type never overshadows the logo.
+
+# ── Layout & Composition ─────────────────────────
+
+layout:
+  confidence: "medium"
+  primary_sources:
+    - "ford.com product pages and homepage (February 2026)"
+    - "Signature 2.0 dealership layouts (K5 design)"
+    - "'Ready Set Ford' campaign OOH placements"
+  signature_composition: >-
+    Vehicle-dominant hero image with text below or alongside. The vehicle
+    is never cropped aggressively — you see the whole truck/car in its
+    environment. This is the opposite of luxury automotive (which crops
+    to details). Ford shows you the whole thing because the whole thing
+    is the point. Compared to Ram (more cinematic, dramatic cropping)
+    or Toyota (more minimal, product-forward), Ford compositions are
+    wider, more environmental, more contextual.
+  density_and_whitespace: >-
+    ford.com is moderately dense — vehicle listings, configurator options,
+    financing information share space. Not as spacious as Tesla's site,
+    not as cluttered as a traditional dealer site. The Signature 2.0
+    dealership interiors (K5 design) are notably more spacious than the
+    website — white walls, open floor plans, the physical space reflecting
+    the premium ambitions of the electric lineup.
+  format_preferences: >-
+    Wide landscape for vehicle hero shots — the truck needs horizontal space.
+    16:9 dominant for film content. Vertical for mobile and social. Ford
+    does not favour square formats. The wide frame is structurally important
+    because it gives the vehicle its environmental context.
+
+# ── Trend Posture ────────────────────────────────
+
+trend_posture:
+  overall: "selective-adopter"
+  relationship_to_trends: >-
+    Ford adopts visual trends slowly and only when they serve the
+    mass-market positioning. The brand is never first to a design trend
+    but will adopt proven approaches when competitors have validated them.
+    The electric vehicle lineup accelerated trend adoption (minimal design,
+    tech-forward UI) more than any organic brand evolution.
+  examples:
+    - trend: "Minimal, tech-forward automotive design language"
+      stance: "selective-adopter"
+      evidence: >-
+        The Mustang Mach-E and F-150 Lightning marketing (2022-present)
+        adopted the white-space, studio-lit, minimal-text approach
+        pioneered by Tesla. ford.com/electric pages are visually closer
+        to tesla.com than to traditional ford.com.
+      reasoning: >-
+        The electric division needed to signal modernity to a new buyer
+        demographic. Ford adopted the convention because refusing it
+        would have positioned the EVs as old-fashioned.
+    - trend: "Emotionally-driven brand storytelling"
+      stance: "selective-adopter"
+      evidence: >-
+        'Ready Set Ford' (W+K NY, January 2025) moved from product-feature
+        advertising to emotional narrative — Bryan Cranston narrating stories
+        of American aspiration. This follows a trend Toyota, Ram, and
+        Chevrolet adopted years earlier.
+      reasoning: >-
+        Ford was late to emotional storytelling relative to competitors.
+        The brand's heritage of product-focused advertising ('Built Ford
+        Tough') made the shift slower but the execution was distinctly Ford.
+
+# ── Collaboration Rules ──────────────────────────
+
+collaboration:
+  flexibility: "selective"
+  what_stays: >-
+    The Blue Oval. Ford Blue (#003478). The vehicle as hero. The
+    American-accessible positioning — no partnership makes Ford look
+    elite, exclusive, or fashion-forward.
+  what_bends: >-
+    Photography style shifts for performance collaborations (darker,
+    more dramatic). Supporting palette can expand. Digital and social
+    content can adopt partner aesthetics more freely than broadcast
+    or OOH.
+  notable_examples: >-
+    Ford x Shelby (ongoing): the Shelby collaboration adds racing stripes,
+    more aggressive photography, darker palette — but the Blue Oval and
+    Ford typography remain. Ford x Harley-Davidson (F-150 Harley-Davidson
+    edition, discontinued 2012): adopted Harley's black-and-orange palette
+    on a Ford product — one of the few collaborations that significantly
+    altered the vehicle's visual identity. Ford x Google (2023 partnership
+    for connected vehicle services): technology partnership that affected
+    UI but not external visual identity.

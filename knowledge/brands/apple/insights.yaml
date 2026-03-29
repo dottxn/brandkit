@@ -1,0 +1,32 @@
+chunk_id: "apple-insights"
+brand: apple
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "apple-soul"
+  - "apple-positioning"
+token_count: 322
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Apple. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Apple's minimalism is not a style; it's an operational philosophy. Every design decision must justify its existence through function. The number of visual elements in an Apple advertisement is lower than competitors by an order of magnitude.
+  - >-
+    SF Pro (Apple's custom typeface) is the most underrated brand asset in the world. It's not beautiful in the traditional sense; it's perfectly legible, accessible, and self-effacing. It disappears into communication. This is the opposite of fashion-forward typography and is precisely the point.
+  - >-
+    Apple's photography strategy is radically different from Nike's. Where Nike celebrates the athlete, Apple celebrates the object's relationship to light. The product is lit like a sculpture in a gallery, not like a documentary subject. This elevates the product to art-object status.
+  - >-
+    "It just works" is more powerful than any feature list. Apple would rather imply capability through seamless design than explain capability through specifications. This flips the usual marketing hierarchy upside down.
+  - >-
+    Apple's ecosystem is the brand strategy. No competitor has successfully copied it because it requires vertical integration at a scale most companies can't achieve. The brand's power isn't in individual products; it's in how all products dissolve into each other.
+what_nobody_copies: >-
+  Apple's willingness to sacrifice short-term sales for long-term brand coherence. Other tech companies would add features to compete; Apple subtracts to clarify. This creates the paradox that Apple often seems behind until you realize it was ahead the entire time.

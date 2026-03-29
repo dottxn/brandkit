@@ -1,0 +1,71 @@
+chunk_id: "vercel-anti-patterns"
+brand: vercel
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "vercel-soul"
+  - "vercel-visual-dna"
+token_count: 481
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Vercel. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: Colorful illustrations or decorative graphics
+    reasoning: >-
+      Vercel rejects any imagery that slows down information processing. Every visual element must communicate or get out of the way.
+  - pattern: Photographic lifestyle imagery or human faces
+    reasoning: >-
+      Product documentation uses technical screenshots and code examples. Lifestyle imagery would undermine the technical positioning.
+  - pattern: "Soft shadows, gradients, or dimensional design effects"
+    reasoning: >-
+      The system uses flat color fields and harsh contrast. Softness would suggest imprecision or lack of confidence.
+  - pattern: Serif typefaces or decorative typography
+    reasoning: >-
+      Technical positioning requires sans-serif. Historical typography references would feel out of place in a cutting-edge platform.
+strategic:
+  - pattern: Feature complexity as competitive moat
+    reasoning: >-
+      Vercel's advantage comes from integration depth and performance, not proprietary features. Competitors replicate features; you can't replicate platform optimization.
+  - pattern: "Enterprise-focused sales strategy"
+    reasoning: >-
+      Despite serving enterprises, Vercel leads with developer-friendly pricing and frictionless onboarding. Abandoning the startup developer would fragment the community.
+  - pattern: "Closed ecosystem without third-party integrations"
+    reasoning: >-
+      Git integration, framework support, and third-party tooling are essential. Proprietary lock-in would contradict the open developer philosophy.
+  - pattern: Following cloud infrastructure conventions
+    reasoning: >-
+      Vercel consistently challenges how cloud deployment should work. Conforming to AWS or Google Cloud models would lose the differentiation.
+tonal:
+  - pattern: Enthusiasm or celebration language
+    reasoning: >-
+      Copy is confident and direct. No exclamation points, no "awesome," just clear statements of capability and metrics. Enthusiasm would undermine technical credibility.
+  - pattern: Sales language or persuasive copywriting
+    reasoning: >-
+      Documentation and examples do the persuading. No "unlock," "discover," or conversion-focused language. Selling would feel inappropriate.
+  - pattern: Performance claims without specific metrics
+    reasoning: >-
+      Every claim comes with supporting evidence. Vague promises about speed would be immediately questioned by the developer audience.
+  - pattern: "Trend language or future-focused positioning"
+    reasoning: >-
+      The voice is grounded in present capability, not speculative vision. Developers trust current reality, not promises about tomorrow.
+cultural:
+  - pattern: "Enterprise-only culture"
+    reasoning: >-
+      The brand maintains startup energy despite institutional investors. Becoming "enterprise-y" would lose the technical community's confidence.
+  - pattern: Gatekeeping technical knowledge
+    reasoning: >-
+      Vercel publishes deeply technical documentation openly. Restricting information for premium customers would contradict the open community philosophy.
+  - pattern: Performance optimization as the only metric
+    reasoning: >-
+      While speed is essential, Vercel recognizes developer experience matters too. Pure optimization culture would lose human developers.
+  - pattern: Closed development process
+    reasoning: >-
+      The brand solicits developer feedback and publishes roadmaps transparently. Black-box decision-making would undermine community trust.

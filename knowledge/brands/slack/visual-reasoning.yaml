@@ -1,0 +1,28 @@
+chunk_id: "slack-visual-reasoning"
+brand: slack
+domain: "visual-reasoning"
+context_tags:
+  - "design-rationale"
+  - "typography-logic"
+  - "colour-logic"
+  - composition
+depends_on:
+  - "slack-visual-dna"
+  - "slack-soul"
+token_count: 234
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Visual reasoning for Slack. Why the design choices work.
+
+# ── Data
+type_logic: >-
+  Larsseit and Slack Circular work together to balance formality with approachability—Larsseit brings geometric precision for headlines while Slack Circular adds warmth and personality to body text. This pairing says "structured but human." Both typefaces are modern enough to feel fresh but not so trendy they'll look dated within 18 months.
+colour_logic: >-
+  The five-color system (#4A154B aubergine, #36C5F0 cyan, #2EB67D green, #E01E5A magenta, #ECB22E gold) represents conversation channels and emotional states without feeling chaotic because each color is highly saturated but used sparingly and strategically. The aubergine anchor provides sophistication while the other four feel vibrant without being acidic. Together they communicate liveliness without screaming.
+composition_philosophy: >-
+  Information-dense layouts with clear typographic hierarchy allow the visual system to serve content discovery. The philosophy rejects minimalism because Slack's value is in finding what matters among massive conversation history. Visual design should facilitate digging, not encourage emptiness.
+what_would_break_it: >-
+  Switching to a minimalist aesthetic with significant whitespace and muted colors would destroy the sense that Slack is a living, buzzing workspace. The brand depends on visual density and color vibrancy to communicate the feeling of an active community.

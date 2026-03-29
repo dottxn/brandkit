@@ -1,0 +1,52 @@
+# ──────────────────────────────────────────────
+# Stripe — Creative References
+# ──────────────────────────────────────────────
+
+studios:
+  - name: "Klim Type Foundry"
+    type: type-foundry
+    url: "https://www.klim.co.nz/"
+    project_url: "https://klim.co.nz/collections/soehne/"
+    relationship: "Designed Söhne typeface (2019), adopted by Stripe 2020 — neo-grotesque inspired by pre-Helvetica Swiss typography"
+
+people:
+  - name: "Kris Sowersby"
+    role: "Founder, Klim Type Foundry / Typeface Designer"
+    url: "https://www.klim.co.nz/"
+    context: "Designed Söhne — a refined neo-grotesque typeface now synonymous with Stripe brand"
+
+  - name: "Katie Dill"
+    role: "Head of Design"
+    url: "https://www.linkedin.com/in/katie-dill-79168b3/"
+    context: "Former Head of Design at Airbnb/Lyft, oversees Stripe visual system and design quality standards"
+
+  - name: "Ludwig Pettersson"
+    role: "Creative Director"
+    url: "https://www.linkedin.com/in/ludwigpettersson/"
+    context: "Historical creative director — original designer of Stripe's visual identity foundations"
+
+publications:
+  - title: "Building Beautiful Products with Stripe's Head of Design"
+    author: "Katie Dill / Lenny's Newsletter"
+    relevance: "Design philosophy, quality standards, and visual system approach"
+
+  - title: "Stripe Press"
+    author: "Stripe"
+    relevance: "Publishing venture demonstrating visual identity flexibility across editorial and design contexts"
+
+visuals:
+  - url: "https://stripe.com"
+    label: "Stripe homepage — animated WebGL mesh gradients, Söhne typography, atmospheric visual language"
+    section: visual-language
+
+  - url: "https://stripe.com/docs"
+    label: "Stripe API documentation — gold standard for developer documentation design"
+    section: visual-world
+
+  - url: "https://press.stripe.com"
+    label: "Stripe Press — literary publishing with bespoke cover design per title"
+    section: visual-world
+
+  - url: "https://www.klim.co.nz/typefaces/sohne/"
+    label: "Söhne typeface documentation — neo-grotesque design specifications"
+    section: visual-language

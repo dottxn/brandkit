@@ -1,0 +1,71 @@
+chunk_id: "hims-hers-anti-patterns"
+brand: "hims-hers"
+domain: "anti-patterns"
+context_tags:
+  - "what-to-avoid"
+  - "brand-guardrails"
+  - "design-constraints"
+depends_on:
+  - "hims-hers-soul"
+  - "hims-hers-visual-dna"
+token_count: 429
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Anti-patterns for Hims & Hers. What this brand would never do."
+
+# ── Data
+visual:
+  - pattern: "Clean gray and white palette (#333333, #FFFFFF, soft #E8F4FF accents)"
+    reasoning: clinical without being cold; trust without institutional sterility
+  - pattern: "Sans-serif lowercase typography"
+    reasoning: "modern, approachable, less formal than caps; conversational rather than authoritarian"
+  - pattern: Film photography on real people
+    reasoning: >-
+      authenticity in an industry known for artifice and over-polishing; documentary treatment over lifestyle staging
+  - pattern: Friendly icon system
+    reasoning: >-
+      humanizing medical terminology through visual simplification; removing stigma through visual language
+  - pattern: Access For All motion system
+    reasoning: >-
+      expanding shapes that open pathways; visual metaphor for barrier removal and healthcare transformation
+  - pattern: Minimal interface design
+    reasoning: generous whitespace respects user anxiety; clear information hierarchy reduces overwhelm
+strategic:
+  - pattern: Destigmatization through normalization
+    reasoning: "treating health issues (sexual wellness, mental health, weight loss) as normal, not shameful"
+  - pattern: "Direct-to-consumer model removing friction"
+    reasoning: "no insurance bureaucracy, no office visit anxiety, no gatekeeper friction"
+  - pattern: Transparency in pricing and process
+    reasoning: "what costs what, what happens when; building confidence through visibility"
+  - pattern: Inclusivity positioning
+    reasoning: >-
+      all bodies, all genders, all health challenges welcomed; diversity not as afterthought but core value
+  - pattern: "Anti-establishment positioning (2025+)"
+    reasoning: "positioning against traditional healthcare system, Big Pharma, and medical gatekeeping"
+tonal:
+  - pattern: Approachable authority
+    reasoning: medical expertise without clinical distance; credible and warm simultaneously
+  - pattern: Frank and honest
+    reasoning: "using actual words for health issues, not euphemisms; treating adults like adults"
+  - pattern: Empowering not patronizing
+    reasoning: treating users as intelligent adults making healthcare decisions; never condescending
+  - pattern: Inclusive optimism
+    reasoning: "everyone deserves healthcare; it's achievable through this platform; no shame, only solutions"
+  - pattern: Confrontational (2025+)
+    reasoning: "challenging establishment healthcare; fighting gatekeeping and bureaucracy; anti-system positioning"
+cultural:
+  - pattern: Telehealth normalization
+    reasoning: >-
+      digital-native generation doesn't trust traditional healthcare models; digital is default, not alternative
+  - pattern: Health issue destigmatization
+    reasoning: "sexual wellness, mental health, weight loss no longer taboo; treated as normal self-care"
+  - pattern: Digital native healthcare
+    reasoning: "consumers expect app-based experiences, not office waits; technology as clinical tool"
+  - pattern: "Anti-establishment healthcare"
+    reasoning: "positioned against 'the system' in recent positioning; challenging Big Pharma and gatekeeping"
+  - pattern: Generational healthcare shift
+    reasoning: >-
+      Millennials and Gen Z prefer telehealth to traditional medicine; structural shift in healthcare delivery

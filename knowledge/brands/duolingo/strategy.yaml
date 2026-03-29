@@ -1,0 +1,30 @@
+chunk_id: "duolingo-strategy"
+brand: duolingo
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "duolingo-positioning"
+token_count: 62
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Duolingo. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: "We believe that everyone deserves access to a high-quality education that can transform their life"
+mission: To develop the best education in the world and make it universally available
+vision: >-
+  A world where everyone has access to high-quality education - a 100-year company that redefines how the world learns
+values:
+  - Take the Long View
+  - Bet on Technology
+  - Prioritize Building an Excellent Product
+  - Make It Fun
+  - Learners First
+  - Everyone Can Duolingo

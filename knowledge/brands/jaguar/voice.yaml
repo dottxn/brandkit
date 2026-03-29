@@ -1,0 +1,54 @@
+chunk_id: "jaguar-voice"
+brand: jaguar
+domain: voice
+context_tags:
+  - "tone-of-voice"
+  - "brand-personality"
+  - "communication-style"
+depends_on:
+  - "jaguar-soul"
+token_count: 71
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Voice and tone for Jaguar. How the brand sounds and what it avoids.
+
+# ── Data
+personality: >-
+  British luxury automotive brand undergoing radical transformation from heritage combustion vehicles to ultra-luxury all-electric vehicles. <cite index="9-22,9-23,9-24">Jaguar is shifting to offer full
+tone_traits:
+  - bold
+  - unapologetic
+  - provocative
+  - challenging convention
+  - vibrant
+  - energetic
+  - artistic
+  - expressive
+  - authentic
+  - unprecedented
+  - creative
+  - artistic
+anti_traits:
+  - safe
+  - predictable
+  - conventional
+  - apologetic
+  - subdued
+  - restrained
+  - monochrome
+  - conservative
+  - imitative
+  - ordinary
+  - derivative
+  - expected
+example_phrases:
+  - Copy Nothing
+  - Delete Ordinary
+  - Live Vivid
+  - Create Exuberant
+guardrails:
+  never_say: []
+  always_sound: "bold, unapologetic, provocative, challenging convention, vibrant"

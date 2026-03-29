@@ -1,0 +1,31 @@
+chunk_id: "reddit-soul"
+brand: reddit
+domain: soul
+context_tags:
+  - "brand-feeling"
+  - "creative-tension"
+  - "identity-core"
+depends_on:
+  - "reddit-positioning"
+token_count: 126
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Soul of Reddit. How it feels, what drives it, what would destroy it."
+
+# ── Data
+feels_like: >-
+  A collective conversation discovering itself in real time—thousands of perspectives creating knowledge through disagreement
+core_belief: >-
+  Real conversation is messier and more valuable than curated content because authenticity creates trust
+creative_tension:
+  - "Community-driven platform that somehow maintains coherent identity across infinite subcultures"
+  - "Chaotic, absurd brand values paired with serious investment in user empowerment infrastructure"
+decision_filter: >-
+  Does this enable genuine conversation or does it optimize for engagement metrics? Reddit chooses conversation
+signature_move: >-
+  Dynamic conversation bubbles that adapt to subreddit shapes and comment threads—form follows function literally
+what_would_break_it: >-
+  Adopting algorithmic content ranking like Instagram or introducing advertising-first incentive structure would destroy Reddit's competitive advantage (real conversation)

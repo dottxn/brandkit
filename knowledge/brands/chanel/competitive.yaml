@@ -1,0 +1,37 @@
+chunk_id: "chanel-competitive"
+brand: chanel
+domain: competitive
+context_tags:
+  - competition
+  - "market-position"
+  - "cluster-membership"
+depends_on:
+  - "chanel-positioning"
+token_count: 5
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Competitive landscape for Chanel. Competitors, norms broken, cluster memberships."
+
+# ── Data
+actually_competes_with:
+  - gucci
+  - prada
+  - "louis-vuitton"
+  - hermès
+industry_norms_it_breaks: "The interlocking CC monogram—two letters that have become so loaded with meaning they function as permission structures. You don't wear the monogram; the monogram permits you to wear the object. | The willingness to make products that are visually identical for decades (the quilted bag, the camellia, the two-tone shoe) and then create entire campaigns celebrating stasis rather than innovation.  | When faced with a fork, Chanel chooses what Coco would have rejected in her era, not what she would create in ours."
+visual_cluster: "editorial-luxury"
+visual_fingerprint:
+  - cluster: "editorial-luxury"
+    role: "dominant"
+    where: "Campaign photography, beauty-fragrance, monochromatic authority"
+  - cluster: "cinematic-narrative"
+    role: "secondary"
+    where: "Haute couture films, fashion show production"
+  - cluster: "heritage-craft"
+    role: "accent"
+    where: "Metiers d'art, handcraft, watches and fine jewellery"
+strategic_cluster: "heritage-guardian"
+category: luxury

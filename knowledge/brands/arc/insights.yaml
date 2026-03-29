@@ -1,0 +1,32 @@
+chunk_id: "arc-insights"
+brand: arc
+domain: insights
+context_tags:
+  - "learned-knowledge"
+  - "brand-wisdom"
+  - "what-nobody-copies"
+depends_on:
+  - "arc-soul"
+  - "arc-positioning"
+token_count: 170
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: Deep insights for Arc. Learned wisdom and what nobody copies.
+
+# ── Data
+learned_insights:
+  - >-
+    Privacy as a brand value only works if it's structural, not marketing—Arc customers can verify they're not tracked, not just trust the claim
+  - >-
+    Small teams move faster toward intimacy than large teams move toward scale, and intimacy creates loyalty at premium price points
+  - >-
+    Gradient design, while trendy, actually creates visual repose when executed in analogous color families—softness doesn't mean weakness
+  - >-
+    Customization without overwhelming defaults is the highest-friction design problem—Arc solves it through intelligent presets
+  - >-
+    "the successor to the personal computer" becomes real through intimate features (boosts, spaces) that feel like magic without feeling like tricks
+what_nobody_copies: >-
+  The willingness to position a browser as lifestyle choice rather than utility swap, creating a moat through delight rather than function

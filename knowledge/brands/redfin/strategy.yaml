@@ -1,0 +1,29 @@
+chunk_id: "redfin-strategy"
+brand: redfin
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "redfin-positioning"
+token_count: 37
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Redfin. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  We believe everyone deserves transparent, technology-enabled real estate services that put customers first, not commission-driven profit
+mission: "To redefine real estate in consumers' favor"
+vision: To be the most trusted brand in real estate by making buying and selling homes better for customers
+values:
+  - Customer Advocacy
+  - Innovation
+  - Transparency
+  - Excellence
+  - Integrity

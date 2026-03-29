@@ -1,0 +1,29 @@
+chunk_id: "figma-strategy"
+brand: figma
+domain: strategy
+context_tags:
+  - purpose
+  - mission
+  - values
+  - "brand-strategy"
+depends_on:
+  - "figma-positioning"
+token_count: 65
+format: yaml
+version: 1.0
+last_updated: "2026-02-20"
+status: active
+enrichment_level: enriched
+summary: "Strategic foundation for Figma. Purpose, mission, vision, and values."
+
+# ── Data
+purpose: >-
+  <cite index="33-1,33-2">We believe in eliminating the gap between imagination and reality. For us, the intention was always to decrease the time it takes to go from something in your head to something on the screen</cite>
+mission: "<cite index=\"31-4\">To make design accessible to all</cite>"
+vision: >-
+  <cite index="32-15">To revolutionize the way designers collaborate and create by providing a seamless and intuitive design platform that empowers creativity and innovation</cite>
+values:
+  - Have Fun
+  - Be Bold
+  - Foster Inclusivity
+  - Build Together

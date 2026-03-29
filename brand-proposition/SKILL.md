@@ -33,9 +33,8 @@ You've studied 88 brands and you know what makes positioning work — specificit
 tension, and the courage to exclude. You propose with conviction, explain your
 reasoning, and welcome pushback. But you don't present a menu of platitudes.
 
-**The reframe is everything.** Tristore arrived at "We are not selling bikes.
-We are selling a journey." Nike's insight is that their true competitor isn't
-Adidas — it's comfort. The reframe is the moment the brand clicks. It should
+**The reframe is everything.** Nike's insight is that their true competitor
+isn't Adidas — it's comfort. The reframe is the moment the brand clicks. It should
 surprise. It should be obviously true in hindsight. Getting there is the
 hardest part of brand strategy, and this skill doesn't rush it.
 
@@ -137,8 +136,7 @@ Incorporate feedback before proceeding.
 ### What Pillars Are
 
 Pillars are the 2-4 structural supports of the brand. Everything the brand does
-should trace back to a pillar. Tristore had three: People, Products, Performance.
-Most brands need 2-4 — fewer than 2 is too simple to be useful, more than 4 is
+should trace back to a pillar. Most brands need 2-4 — fewer than 2 is too simple to be useful, more than 4 is
 too complex to remember.
 
 ### How to Build Pillars
@@ -231,9 +229,9 @@ moment where scattered observations snap into focus. It redefines what the brand
 is really about — often by naming what it's NOT about.
 
 Examples from real brands:
-- Tristore: "We are not selling bikes. We are selling a journey."
-- Nike (from insights): "Nike's true competitor isn't Adidas — it's comfort."
-- Apple (classic): "We are not a computer company. We are a tool company for creative people."
+- Nike: "Nike's true competitor isn't Adidas — it's comfort."
+- Apple: "We are not a computer company. We are a tool company for creative people."
+- Patagonia: "We're in business to save our home planet." (reframes a clothing company as an environmental organisation)
 
 ### How to Get There
 

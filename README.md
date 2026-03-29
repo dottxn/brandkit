@@ -58,7 +58,7 @@ brandkit/
 │   └── brandkit-load-context     # Context assembly utility
 └── knowledge/
     ├── brands/                   # 88 brands, 11 YAML chunks each
-    └── schema/                   # Chunk templates
+    └── patterns.md               # Methodology patterns extracted from analysis
 ```
 
 ### Knowledge

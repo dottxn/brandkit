@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Sephora — Creative References
+# Sephora. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -30,17 +30,17 @@ publications:
 
 visuals:
   - url: "https://www.sephora.com/"
-    label: "Sephora.com and app — Black and white stripe pattern, Flame mark logo, custom type system"
+    label: "Sephora.com and app. Black and white stripe pattern, Flame mark logo, custom type system"
     section: "visual-language"
 
   - url: "https://www.mucca.com/"
-    label: "Mucca Design portfolio — Sephora type system case study"
+    label: "Mucca Design portfolio. Sephora type system case study"
     section: "visual-language"
 
   - url: "https://www.sephora.com/beauty-advice"
-    label: "Sephora editorial and content — Custom typeface system in action"
+    label: "Sephora editorial and content. Custom typeface system in action"
     section: "visual-language"
 
   - url: "https://www.sephora.com/products-stores"
-    label: "Sephora retail store experience — Physical implementation of brand identity (2024 redesign)"
+    label: "Sephora retail store experience. Physical implementation of brand identity (2024 redesign)"
     section: "visual-world"

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-brandkit-load-context — Assemble brand chunks for agent tasks.
+brandkit-load-context: Assemble brand chunks for agent tasks.
 
 Reads _retrieval-rules.yaml and assembles exactly the right chunks
 for a given task and set of brands, respecting token budgets.
@@ -309,7 +309,7 @@ def main():
             if score > 0:
                 hits.append((score, k, v))
         hits.sort(key=lambda x: -x[0])
-        print(f'Search: "{args.search}" — {len(hits)} matches\n')
+        print(f'Search: "{args.search}" - {len(hits)} matches\n')
         for _, k, v in hits[:20]:
             print(f'  {k:<25} {v["category"]:<20} {v["primary_archetype"]}')
         return

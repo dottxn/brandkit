@@ -19,7 +19,7 @@ summary: Visual reasoning for Zara. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Zara's custom sans-serif typeface and Helvetica (for secondary applications) are chosen for their geometric precision and neutrality. The typefaces don't distract or add personality—they serve the clothing. Clean letterforms and regular weights ensure that typography becomes invisible and the clothing becomes visible. This is a deliberate rejection of the design-forward typography trends that would introduce distraction.
+  Zara's custom sans-serif typeface and Helvetica (for secondary applications) are chosen for their geometric precision and neutrality. The typefaces don't distract or add personality. they serve the clothing. Clean letterforms and regular weights ensure that typography becomes invisible and the clothing becomes visible. This is a deliberate rejection of the design-forward typography trends that would introduce distraction.
 colour_logic: >-
   The palette is aggressively monochromatic: black (#000000) and white (#FFFFFF) with subtle grays for separation and nuance. This creates the editorial aesthetic of fashion magazines and gallery environments. No seasonal color shifts or trend-driven palette updates; the monochromatic approach is permanent and timeless. Supporting colors exist only for functional UI (prices, badges, seasonal indicators).
 composition_philosophy: >-

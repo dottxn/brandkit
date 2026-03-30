@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Airbnb — Creative References
+# Airbnb. Creative References
 # ──────────────────────────────────────────────
 
 channels:
@@ -50,21 +50,21 @@ publications:
 
 visuals:
   - url: "https://airbnb.design/"
-    label: "Official design system — airbnb.design"
+    label: "Official design system. airbnb.design"
     section: visual-world
 
   - url: "https://www.dezeen.com/"
-    label: "Rebrand coverage — Dezeen"
+    label: "Rebrand coverage. Dezeen"
     section: visual-world
 
   - url: "https://www.creativereview.co.uk/"
-    label: "Identity case study — Creative Review"
+    label: "Identity case study. Creative Review"
     section: visual-world
 
   - url: "https://www.daltonmaag.com/"
-    label: "Airbnb Cereal typeface — Dalton Maag"
+    label: "Airbnb Cereal typeface. Dalton Maag"
     section: visual-language
 
   - url: "https://www.itsnicethat.com/"
-    label: "Design and brand journalism — It's Nice That"
+    label: "Design and brand journalism. It's Nice That"
     section: visual-language

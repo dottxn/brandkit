@@ -19,9 +19,9 @@ summary: Visual reasoning for Revolut. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Aeonik Pro custom sans-serif provides geometric precision without coldness—open proportions and clean terminals prevent calculator-like sterility. The typeface was designed specifically for modern financial services, understanding that legibility at micro-sizes (mobile app) matters as much as brand presence at large scale. Bold capitalization in brand applications suggests confidence without arrogance.
+  Aeonik Pro custom sans-serif provides geometric precision without coldness. open proportions and clean terminals prevent calculator-like sterility. The typeface was designed specifically for modern financial services, understanding that legibility at micro-sizes (mobile app) matters as much as brand presence at large scale. Bold capitalization in brand applications suggests confidence without arrogance.
 colour_logic: >-
-  Shark (#191C1F) anchors seriousness and reliability. Cornflower Blue (#7F84F6) as primary color—not corporate navy (too traditional) nor tech cyan (too trendy), occupying distinct fintech space suggesting innovation within reliability. Teal (#00D4AA) and purple (#8B5CF6) accents provide visual richness without chaos. The multi-color gradient R logo demonstrates color sophistication—gradients done poorly look cheap; Revolut's execution shows mastery.
+  Shark (#191C1F) anchors seriousness and reliability. Cornflower Blue (#7F84F6) as primary color. not corporate navy (too traditional) nor tech cyan (too trendy), occupying distinct fintech space suggesting innovation within reliability. Teal (#00D4AA) and purple (#8B5CF6) accents provide visual richness without chaos. The multi-color gradient R logo demonstrates color sophistication. gradients done poorly look cheap; Revolut's execution shows mastery.
 composition_philosophy: >-
   Typography-led hierarchy where bold text dominates composition. 3D coin graphics appear throughout, providing product context and visual interest without decoration. The composition tends toward dynamic asymmetry in marketing (movement and energy) but organized clarity in product interface. Big, bold capitalized text as primary compositional element forces hierarchy clarity.
 what_would_break_it: >-

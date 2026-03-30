@@ -21,7 +21,7 @@ actually_competes_with:
   - paypal
   - shopifycom
   - wise
-industry_norms_it_breaks: "The signature purple (#635BFF) used sparingly, almost reluctantly—color reserved for interactive moments, never for decoration or branding theater. | The radical restraint in visual design. Competitors try to project sophistication through detailed design systems; Stripe projects sophistication through elimination of non-essential elements. | Would a developer feel respect for this system? Would building with it feel like collaborating with experts, not fighting a tool?"
+industry_norms_it_breaks: "The signature purple (#635BFF) used sparingly, almost reluctantly. color reserved for interactive moments, never for decoration or branding theater. | The radical restraint in visual design. Competitors try to project sophistication through detailed design systems; Stripe projects sophistication through elimination of non-essential elements. | Would a developer feel respect for this system? Would building with it feel like collaborating with experts, not fighting a tool?"
 visual_cluster: "dark-premium"
 visual_fingerprint:
   - cluster: "dark-premium"

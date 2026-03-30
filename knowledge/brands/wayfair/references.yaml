@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Wayfair — Creative References
+# Wayfair. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -16,7 +16,7 @@ people:
     context: "Designed Wayfair's 2024 brand evolution update, addressing scalability and legibility issues while preserving brand equities; led comprehensive visual identity and digital guidelines development"
 
 publications:
-  - title: "Wayfair Brand Evolution — Andrew Beardsall"
+  - title: "Wayfair Brand Evolution. Andrew Beardsall"
     author: "Andrew Beardsall"
     relevance: "Detailed case study of the 2024 brand evolution process, including design rationale for the pinwheel refinement and typographic modernisation"
 
@@ -30,25 +30,25 @@ publications:
 
 visuals:
   - url: "https://www.andrewbeardsall.com/work/wayfair-brand-evolution-2024"
-    label: "Wayfair Brand Evolution 2024 — Complete Case Study"
+    label: "Wayfair Brand Evolution 2024. Complete Case Study"
     section: visual-language
 
   - url: "https://investor.wayfair.com/news/news-details/2024/Welcome-to-The-Wayborhood---New-Brand-Campaign-from-Wayfair-Empowers-Everyone-to-Create-their-Own-Unique-Expression-of-Home/default.aspx"
-    label: "'Welcome to the Wayborhood' Campaign Launch — Brand Refresh"
+    label: "'Welcome to the Wayborhood' Campaign Launch. Brand Refresh"
     section: visual-language
 
   - url: "https://www.iamkarlee.com/wayfair-a-semantic-color-system"
-    label: "Wayfair Semantic Color System — Design Documentation"
+    label: "Wayfair Semantic Color System. Design Documentation"
     section: visual-world
 
   - url: "https://medium.com/wayfair-design/ui-at-scale-how-wayfair-supports-multiple-brands-and-geos-with-a-shared-code-base-4e2bfb1e7067"
-    label: "Homebase Design System — Multi-brand Architecture"
+    label: "Homebase Design System. Multi-brand Architecture"
     section: visual-world
 
   - url: "https://www.knapsack.cloud/blog/dsp-42-the-long-evolution-of-a-web-design-system"
-    label: "Homebase Design System Evolution — Knapsack Case Study"
+    label: "Homebase Design System Evolution. Knapsack Case Study"
     section: visual-world
 
   - url: "https://www.wayfair.com/sca/professional/ideas-and-advice/interior-design/a-brand-for-every-project-joss-main-allmodern-birch-lane-T23876"
-    label: "Sub-brand Portfolio Strategy — AllModern, Joss & Main, Birch Lane"
+    label: "Sub-brand Portfolio Strategy. AllModern, Joss & Main, Birch Lane"
     section: visual-world

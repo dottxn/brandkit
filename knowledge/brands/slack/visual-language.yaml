@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Slack. How the brand looks structurally —
+  Visual language for Slack. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,7 +31,7 @@ visual_modes:
         - "Slack blog and company communications"
         - "OOH advertising and conference booths"
       description: >-
-        Aubergine (#4A154B) dominant — a deep, distinctive purple that is
+        Aubergine (#4A154B) dominant. a deep, distinctive purple that is
         Slack's most recognisable colour. The 2019 Pentagram rebrand by
         Michael Bierut replaced the hashtag logo with the pinwheel/octothorpe
         (8 geometric shapes: 4 speech bubbles + 4 capsule connectors in
@@ -57,14 +57,14 @@ visual_modes:
         The 2024 app UI redesign introduced a refreshed interface with
         updated navigation, cleaner sidebar, and refined visual hierarchy.
         Aubergine remains as the sidebar and header colour. Lato serves
-        as the UI typeface — optimised for screen rendering at small sizes.
+        as the UI typeface. optimised for screen rendering at small sizes.
         The product interface balances personality (aubergine, custom emoji,
         playful microcopy) with functional clarity. The 2023 website redesign
-        achieved 53% faster load times — visual performance as design value.
+        achieved 53% faster load times. visual performance as design value.
       differs_from_default_by: >-
         Aubergine is confined to the sidebar and header. White/light grey
         dominates the content area. Lato replaces Larsseit and Circular Pro.
-        The illustration system is absent — product UI is functional and
+        The illustration system is absent. product UI is functional and
         content-centric.
 
     - name: "enterprise-salesforce"
@@ -90,7 +90,7 @@ visual_modes:
 
   notes: >-
     The Salesforce acquisition (July 2021) has not merged the visual
-    identities — Slack maintains its own brand system. However, enterprise
+    identities. Slack maintains its own brand system. However, enterprise
     contexts increasingly bridge the two brands. Slack's workflow
     automation features (Workflow Builder) may develop distinct visual
     sub-languages as they expand.
@@ -105,9 +105,9 @@ photography:
     - "Enterprise case study materials"
   subject_and_framing: >-
     Workplace collaboration in real environments. Slack's photography shows
-    people working together — not in generic stock-photo offices but in
+    people working together. not in generic stock-photo offices but in
     diverse, authentic workspace settings. The framing is candid and
-    warm — natural interactions rather than posed corporate shots. Recent
+    warm. natural interactions rather than posed corporate shots. Recent
     enterprise materials include more structured customer case-study
     photography. Compared to Microsoft Teams (more corporate, more
     polished) or Zoom (video-call screenshots, remote-work focus), Slack's
@@ -119,7 +119,7 @@ photography:
     reflects Slack's 'every team' positioning.
   lighting_and_colour: >-
     Warm, natural lighting. Office and workspace environments with natural
-    light. The aubergine brand palette doesn't dominate photography — it
+    light. The aubergine brand palette doesn't dominate photography. it
     frames it. Photography is colour-neutral compared to the brand palette,
     allowing the four accent colours (blue, yellow, green, red) to add
     vibrancy in graphic elements around the photography.
@@ -135,7 +135,7 @@ photography:
       against the visual language of corporate drudgery.
     observed_exceptions: >-
       Enterprise case-study materials occasionally adopt more conventional
-      B2B photography conventions — structured portraits, office environments,
+      B2B photography conventions. structured portraits, office environments,
       and customer-hero compositions.
     genuine_absence: >-
       Based on slack.com review: no stock photography, no competitive
@@ -155,12 +155,12 @@ graphic_language:
   uses_illustration: true
   illustration_style: >-
     Bold, dimensional, character-driven. Alice Lee (2017-2019) established
-    Slack's illustration language — 40+ assets featuring diverse,
+    Slack's illustration language. 40+ assets featuring diverse,
     stylised characters in workplace scenarios with warm colours, soft
     shadows, and rounded forms. Giulia Giovannini (2023-2024) evolved
-    the system — maintaining the warmth and dimensionality while updating
+    the system. maintaining the warmth and dimensionality while updating
     the style for contemporary contexts. The illustrations are 'elevated'
-    — more design-considered than typical SaaS illustration but more
+   more design-considered than typical SaaS illustration but more
     accessible than art-world illustration (contrasting with Notion's
     Muradov). Compared to Asana (flat, geometric, abstract) or Microsoft
     Teams (Fluent illustration, system-generated), Slack's illustration
@@ -172,15 +172,15 @@ graphic_language:
     channels, onboarding). The illustration system carries Slack's
     personality where photography alone would feel generic.
   icon_style: >-
-    Product icons follow a consistent style — filled, rounded, colourful,
+    Product icons follow a consistent style. filled, rounded, colourful,
     at small sizes within the app chrome. The four-colour palette (blue,
     yellow, green, red) appears in status indicators, notification badges,
-    and feature icons. Emoji are central to Slack's icon language — custom
+    and feature icons. Emoji are central to Slack's icon language. custom
     emoji are a core product feature and a form of user expression.
   graphic_devices: >-
-    The pinwheel/octothorpe logo (Pentagram, Michael Bierut, 2019) — 8
+    The pinwheel/octothorpe logo (Pentagram, Michael Bierut, 2019). 8
     geometric shapes in four colours, replacing the hashtag. Aubergine
-    (#4A154B) as a distinctive colour — no other major workplace tool uses
+    (#4A154B) as a distinctive colour. no other major workplace tool uses
     this deep purple. The four-colour accent system (Blue #36C5F0, Yellow
     #ECB22E, Green #2EB67D, Red #E01E5A) appearing in logo, illustrations,
     and UI elements. The channel hashtag (#) remains as a functional
@@ -188,27 +188,27 @@ graphic_language:
   motion_language: >-
     Observed in slack.com and product: subtle, playful animations. The
     pinwheel logo animates with a spin on hover. Product interactions use
-    smooth, gentle transitions — messages slide in, notifications pulse.
+    smooth, gentle transitions. messages slide in, notifications pulse.
     Illustration-based animations in marketing use the character system
     with simple, looping movements. The motion language is playful without
-    being distracting — it reinforces the 'work can be enjoyable' positioning.
+    being distracting. it reinforces the 'work can be enjoyable' positioning.
 
 # ── Typography in Practice ───────────────────────
 
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "Larsseit (Nico Inosanto / Type Dynamic) — headline typeface"
-    - "Circular Pro (Laurenz Brunner / Lineto) — body typeface"
-    - "Lato (Łukasz Dziedzic) — UI typeface"
+    - "Larsseit (Nico Inosanto / Type Dynamic). headline typeface"
+    - "Circular Pro (Laurenz Brunner / Lineto). body typeface"
+    - "Lato (Łukasz Dziedzic). UI typeface"
     - "slack.com (observed February 2026)"
   signature_move: >-
     Three-typeface system with clear labour division. Larsseit (Nico
-    Inosanto/Type Dynamic) for headlines — a geometric sans-serif with
+    Inosanto/Type Dynamic) for headlines. a geometric sans-serif with
     soft, rounded terminals that reads as confident but approachable.
-    Circular Pro (Laurenz Brunner/Lineto) for body — a geometric sans-
+    Circular Pro (Laurenz Brunner/Lineto) for body. a geometric sans-
     serif with perfect circles in its construction, elegant and readable.
-    Lato (Łukasz Dziedzic) for product UI — an open-source humanist sans-
+    Lato (Łukasz Dziedzic) for product UI. an open-source humanist sans-
     serif optimised for screen rendering. The three-typeface approach is
     more complex than most tech brands (which use one or two) and creates
     a layered typographic personality: friendly (Larsseit), refined
@@ -225,17 +225,17 @@ type_treatment:
     ('Slack Connect,' 'Huddles,' 'Canvas'). The brand avoids ALL CAPS
     except for emphasis in specific marketing contexts.
   display_vs_body: >-
-    Display: Larsseit at bold weights — generous sizing, confident presence.
+    Display: Larsseit at bold weights. generous sizing, confident presence.
     The soft, rounded terminals give headlines warmth that geometric sans-
-    serifs typically lack. Body: Circular Pro at regular weight — elegant,
+    serifs typically lack. Body: Circular Pro at regular weight. elegant,
     geometric, with excellent readability at smaller sizes. Product UI:
-    Lato — the workhorse, optimised for screen rendering at 12-16px. The
+    Lato. the workhorse, optimised for screen rendering at 12-16px. The
     hierarchy is personality (Larsseit) → polish (Circular Pro) → function
     (Lato).
   type_and_image: >-
-    Type coexists with illustration — headlines in Larsseit often sit above
+    Type coexists with illustration. headlines in Larsseit often sit above
     or beside illustrative compositions. In marketing heroes, type and
-    illustration share visual weight. In product, type dominates — Slack
+    illustration share visual weight. In product, type dominates. Slack
     is fundamentally a text-based communication tool. The typography serves
     the message content rather than competing with visual elements.
 
@@ -244,7 +244,7 @@ type_treatment:
 layout:
   confidence: "medium"
   primary_sources:
-    - "slack.com (observed February 2026 — 2023 redesign, 53% faster)"
+    - "slack.com (observed February 2026. 2023 redesign, 53% faster)"
     - "Slack desktop and mobile app interface"
     - "Slack marketing materials"
   signature_composition: >-
@@ -252,17 +252,17 @@ layout:
     padding, aubergine background sections alternating with white. The
     2023 website redesign prioritised speed (53% faster) alongside visual
     refresh. Product: the three-column layout (workspace sidebar + channel
-    list + message view) is Slack's most iconic composition — it defined
+    list + message view) is Slack's most iconic composition. it defined
     the visual standard for team messaging tools and has been replicated
     by Teams, Discord (server/channel pattern), and others. Compared to
     Teams (denser, more corporate) or Discord (darker, gaming-coded),
     Slack's layout is the most balanced between personality and utility.
   density_and_whitespace: >-
     Marketing uses generous whitespace with clear section breaks. Product
-    is moderately dense — message threads create natural content density,
+    is moderately dense. message threads create natural content density,
     but the UI chrome provides breathing room. The aubergine sidebar
     creates a visual anchor that organises the horizontal space. The
-    2024 UI redesign refined the density balance — cleaner sidebar,
+    2024 UI redesign refined the density balance. cleaner sidebar,
     better hierarchy.
   format_preferences: >-
     Marketing: full-width sections with centred content blocks. Product:

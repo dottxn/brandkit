@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Starbucks — Creative References
+# Starbucks. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -18,12 +18,12 @@ people:
   - name: "Riley Cran"
     role: "Typeface Designer"
     url: "http://www.portfolio.rileycran.com/"
-    context: "Designed Sodo Sans — 92 fonts across 4 families (2017-2019), custom system for Starbucks global scale"
+    context: "Designed Sodo Sans. 92 fonts across 4 families (2017-2019), custom system for Starbucks global scale"
 
   - name: "Geoff McFetridge"
     role: "Illustrator"
     url: "https://www.geoffmcfetridge.com/"
-    context: "Illustrated 'Drawn Together' Holiday 2025 campaign — hand-drawn line illustrations, warmth and community focus"
+    context: "Illustrated 'Drawn Together' Holiday 2025 campaign. hand-drawn line illustrations, warmth and community focus"
 
   - name: "Kristy Cameron"
     role: "Creative Director"
@@ -42,13 +42,13 @@ publications:
 
 visuals:
   - url: "https://www.starbucks.com"
-    label: "Starbucks website — Sodo Sans typography, warm photography, drink-forward visual language"
+    label: "Starbucks website. Sodo Sans typography, warm photography, drink-forward visual language"
     section: visual-language
 
   - url: "https://www.starbucks.com/menu"
-    label: "Menu pages — product photography, warm atmospheric lighting, Siren Green palette"
+    label: "Menu pages. product photography, warm atmospheric lighting, Siren Green palette"
     section: visual-language
 
   - url: "https://www.pentagram.com/"
-    label: "Pentagram portfolio — brand system work and visual identity guidance"
+    label: "Pentagram portfolio. brand system work and visual identity guidance"
     section: visual-world

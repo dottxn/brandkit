@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# BMW — Creative References
+# BMW. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -48,17 +48,17 @@ publications:
 
 visuals:
   - url: "https://www.bmw.com/"
-    label: "Official BMW brand website and campaign materials — bmw.com"
+    label: "Official BMW brand website and campaign materials. bmw.com"
     section: visual-world
 
   - url: "https://www.kms-team.com/"
-    label: "Brand case study and strategy — KMS TEAM"
+    label: "Brand case study and strategy. KMS TEAM"
     section: visual-language
 
   - url: "https://nickknight.com/"
-    label: "Campaign photography — Nick Knight"
+    label: "Campaign photography. Nick Knight"
     section: visual-language
 
   - url: "https://www.daltonmaag.com/"
-    label: "BMW Type Next Pro typeface — Dalton Maag"
+    label: "BMW Type Next Pro typeface. Dalton Maag"
     section: visual-language

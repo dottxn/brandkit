@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Nothing. How the brand looks structurally —
+  Visual language for Nothing. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,17 +31,17 @@ visual_modes:
         - "Nothing social media channels"
         - "Nothing product launches and events"
       description: >-
-        Black, white, and strategic red — a strict monochromatic palette
+        Black, white, and strategic red. a strict monochromatic palette
         with calculated red accents for emphasis. Carl Pei (founder)
         established the brand direction with Teenage Engineering: Jesper
         Kouthoofd (Creative Lead) and Tom Howard (Head of Design) shaped
         the original visual language. Adam Bates (Global Design Director,
         ex-Dyson for 14 years, hired 2022) oversees the industrial and
         visual design system. NDot (variants NDot-57, NDot-55), NType 82,
-        and NType 82 Mono (Seventy Agency + Colophon Foundry, London —
+        and NType 82 Mono (Seventy Agency + Colophon Foundry, London
         inspired by 1980s IBM mainframe dot-matrix displays) define the
         typographic identity. The visual language is deliberately
-        anti-glossy — it positions against the polished, premium
+        anti-glossy. it positions against the polished, premium
         conventions of Apple and Samsung. Compared to Apple (polished,
         premium, controlled) or Samsung (colourful, feature-forward,
         category-diverse), Nothing's visual language is the most
@@ -58,19 +58,19 @@ visual_modes:
         - "Retail displays and in-store experiences"
       description: >-
         Transparency-as-identity. Nothing's products reveal their internal
-        components through transparent casings — a design philosophy that
+        components through transparent casings. a design philosophy that
         extends from industrial design to visual communication. The Glyph
         Interface (LED light strips on Phone backs) has evolved across
         generations: strips (Phone 1), segmented patterns (Phone 2),
         Matrix display (Phone 3), Bar interface (Phone 4a). Product
         photography emphasises the transparent backs and Glyph patterns
-        — showing both the designed exterior and the visible internals.
+       showing both the designed exterior and the visible internals.
         Packaging uses recyclable materials with the dot-matrix typography.
       differs_from_default_by: >-
         Product hardware IS the visual language. The transparent design
         philosophy makes the product itself the primary graphic device.
         Photography centres on revealing internals rather than hiding
-        them — the opposite of Apple's sealed-perfection aesthetic.
+        them. the opposite of Apple's sealed-perfection aesthetic.
 
     - name: "nothing-os-interface"
       touchpoints:
@@ -80,10 +80,10 @@ visual_modes:
       description: >-
         Monochrome interface with dot-matrix typography. Nothing OS is a
         custom Android skin that extends the brand's visual language to
-        the software experience — monochromatic icons, NDot typeface in
+        the software experience. monochromatic icons, NDot typeface in
         widgets, and distinctive clock and weather widgets that use the
         dot-matrix aesthetic. The interface is deliberately stripped back
-        compared to Samsung OneUI or stock Android — fewer colours, more
+        compared to Samsung OneUI or stock Android. fewer colours, more
         typographic, more intentionally minimal. Nothing widgets have
         become a distinctive visual element in the Android customisation
         community.
@@ -95,7 +95,7 @@ visual_modes:
 
   notes: >-
     Nothing's visual identity is unusually coherent across hardware,
-    software, and brand communications — the same design philosophy
+    software, and brand communications. the same design philosophy
     (transparency, reduction, dot-matrix typography) appears in every
     context. The Teenage Engineering collaboration established the
     original visual DNA; Adam Bates (ex-Dyson) brings industrial-design
@@ -113,9 +113,9 @@ photography:
     - "Nothing product launch campaigns"
   subject_and_framing: >-
     Product-hero with transparency emphasis. Nothing's product photography
-    is the primary visual content — close-up shots revealing transparent
+    is the primary visual content. close-up shots revealing transparent
     backs, Glyph Interface LED patterns, and internal component details.
-    The photography style is clean, high-contrast, and detail-oriented —
+    The photography style is clean, high-contrast, and detail-oriented
     the camera treats Nothing products as design objects worthy of
     close examination. Environmental photography shows products in
     minimal, dark settings that emphasise the Glyph Interface light
@@ -126,22 +126,22 @@ photography:
   casting_observed: >-
     Minimal people photography. The brand communicates through product
     imagery rather than lifestyle casting. When people appear, they
-    skew young, design-aware, and counter-cultural — the audience that
+    skew young, design-aware, and counter-cultural. the audience that
     self-identifies as choosing against mainstream tech aesthetics.
     Campaign photography occasionally features musicians, artists, and
     cultural figures aligned with Nothing's counter-mainstream positioning.
   lighting_and_colour: >-
     High-contrast, often dark-background with the Glyph Interface LEDs
     providing illumination from the product itself. Studio lighting is
-    precise and controlled — designed to reveal material textures
+    precise and controlled. designed to reveal material textures
     (transparent polycarbonate, recycled aluminium). The monochrome
     palette means product photography is the primary source of visual
-    interest — the LEDs provide warm white light against dark environments.
+    interest. the LEDs provide warm white light against dark environments.
   post_production: >-
     Clean, precise, detail-oriented. The post-production emphasises
     material texture and component visibility through the transparent
-    casing. Contrast is typically high — black backgrounds with bright
-    product details. No warm, lifestyle-coded post-production — the
+    casing. Contrast is typically high. black backgrounds with bright
+    product details. No warm, lifestyle-coded post-production. the
     aesthetic is closer to industrial design documentation than
     consumer-electronics advertising.
   visual_boundaries:
@@ -152,7 +152,7 @@ photography:
       reads as conventional consumer-electronics marketing.
     observed_exceptions: >-
       CMF by Nothing (the more accessible sub-brand) uses more colourful,
-      more playful photography than the main Nothing brand — brighter
+      more playful photography than the main Nothing brand. brighter
       backgrounds, more colour variation, a slightly warmer register.
     genuine_absence: >-
       Based on nothing.tech review: no lifestyle photography, no celebrity
@@ -179,26 +179,26 @@ graphic_language:
     construction. The Nothing logo (a stylised parenthetical mark)
     serves as app icon and brand mark.
   graphic_devices: >-
-    The Glyph Interface — LED light strips on the back of Nothing Phones
+    The Glyph Interface. LED light strips on the back of Nothing Phones
     that have evolved from simple strips (Phone 1) to segmented patterns
     (Phone 2) to Matrix display (Phone 3) to Bar interface (Phone 4a).
     The Glyph is simultaneously a hardware feature, a notification
-    system, and a graphic device — the light patterns are the most
+    system, and a graphic device. the light patterns are the most
     distinctive visual element in the smartphone market. The dot-matrix
-    typography — NDot and NType 82's IBM-mainframe-inspired letterforms
+    typography. NDot and NType 82's IBM-mainframe-inspired letterforms
     function as graphic devices, not just typefaces. The transparency
-    design — visible internal components through clear casings serve as
+    design. visible internal components through clear casings serve as
     graphic elements. The monochrome palette itself is a graphic device
-    — in a market of colourful smartphone brands, Nothing's black-and-
+   in a market of colourful smartphone brands, Nothing's black-and-
     white commitment is instantly identifiable.
   motion_language: >-
-    Glyph Interface animations — LED patterns that pulse, sweep, and
+    Glyph Interface animations. LED patterns that pulse, sweep, and
     sequence for notifications, ringtones, and alerts. These hardware
     animations extend into software through Nothing OS's matching
     notification animations. Product launch videos use precise, industrial-
-    design-coded motion — slow reveals, component close-ups, and
+    design-coded motion. slow reveals, component close-ups, and
     mechanical movements. The motion language is calculated and controlled
-    — nothing frivolous. Compared to Apple (theatrical product reveals,
+   nothing frivolous. Compared to Apple (theatrical product reveals,
     cinematic motion) or Samsung (feature-demonstration motion, more
     dynamic), Nothing's motion is the most hardware-integrated.
 
@@ -213,50 +213,50 @@ type_treatment:
     - "nothing.tech (observed February 2026)"
   signature_move: >-
     NDot and NType 82 (Seventy Agency, London + Colophon Foundry, London)
-    — a typeface system inspired by 1980s IBM mainframe dot-matrix
+   a typeface system inspired by 1980s IBM mainframe dot-matrix
     displays. NDot uses a dot-matrix construction where letterforms are
-    built from dots rather than continuous strokes — a direct reference
+    built from dots rather than continuous strokes. a direct reference
     to early computing aesthetics. NDot-57 and NDot-55 are variants with
     different dot densities. NType 82 is a more conventional sans-serif
     for body text contexts, with NType 82 Mono for code and technical
     content. Colophon Foundry (Anthony Sheret and Edd Harrington, London)
     is a highly respected independent type foundry known for conceptual
-    type design. The dot-matrix typography is not merely retro — it
+    type design. The dot-matrix typography is not merely retro. it
     communicates Nothing's positioning as a technology brand that values
     raw, honest computation over polished surfaces. Compared to Apple
-    (San Francisco — invisible, perfect system type) or Samsung (One
-    UI — functional, unremarkable), Nothing's typography is the most
+    (San Francisco. invisible, perfect system type) or Samsung (One
+    UI. functional, unremarkable), Nothing's typography is the most
     ideologically committed and the most visually distinctive.
   what_would_look_wrong: >-
     A polished, neutral sans-serif like Helvetica or San Francisco
     (contradicts the raw, dot-matrix aesthetic). A serif typeface
     (incompatible with the tech-reductive register). A rounded, friendly
     typeface (contradicts the industrial, honest tone). Any typeface
-    that looks 'finished' in a conventional sense — Nothing's typography
+    that looks 'finished' in a conventional sense. Nothing's typography
     deliberately looks constructed from discrete units.
   case_convention: >-
     'Nothing' uses title case. Product names use title case ('Nothing
     Phone (2a),' 'Nothing Ear (2)'). Body text uses sentence case. The
     dot-matrix type is used in display contexts and widgets. Marketing
     headlines use sentence case. The brand avoids excessive capitalisation
-    — the tone is understated, not declarative.
+   the tone is understated, not declarative.
   display_vs_body: >-
     Display: NDot at larger sizes where the dot-matrix construction is
-    visible and distinctive — marketing headlines, product names, Nothing
+    visible and distinctive. marketing headlines, product names, Nothing
     OS widgets, and event graphics. The dot construction is the visual
     signature. Body: NType 82 at regular weight for readable body text,
     product descriptions, and interface content. NType 82 Mono for code
     and technical contexts. The display-to-body shift from dot-matrix to
-    conventional sans-serif is dramatic — it creates a clear typographic
+    conventional sans-serif is dramatic. it creates a clear typographic
     hierarchy.
   type_and_image: >-
-    Typography and product photography work in tight partnership — the
+    Typography and product photography work in tight partnership. the
     dot-matrix type and the transparent-hardware aesthetic share the same
     design philosophy of revealing construction rather than hiding it.
     NDot type often overlays or sits adjacent to product photography,
     creating compositions where the typography's dot construction echoes
     the product's visible components. In Nothing OS, type IS the
-    interface — the distinctive widgets are primarily typographic.
+    interface. the distinctive widgets are primarily typographic.
 
 # ── Layout & Composition ─────────────────────────
 
@@ -270,8 +270,8 @@ layout:
     Product-centred, generous whitespace. nothing.tech uses a clean,
     vertical-scroll layout with large product images, generous margins,
     and minimal text. Product pages follow a cinematic reveal structure
-    — scrolling through the page progressively reveals product features
-    and design details. The composition is deliberately restrained —
+   scrolling through the page progressively reveals product features
+    and design details. The composition is deliberately restrained
     fewer elements, more impact. Nothing OS uses a grid-based home screen
     with monochrome widgets that function as compositional elements.
     Compared to Apple (similar restraint but warmer) or Samsung (denser,
@@ -281,7 +281,7 @@ layout:
     space even in image-rich contexts. Product pages use generous
     vertical spacing between sections. Marketing compositions use
     negative space as a deliberate design element. The restraint extends
-    to information — Nothing communicates fewer features with more
+    to information. Nothing communicates fewer features with more
     design conviction.
   format_preferences: >-
     Vertical scroll for the website and product pages. Product photography
@@ -309,7 +309,7 @@ trend_posture:
         experimented with transparency and LED notification systems.
       reasoning: >-
         Nothing proved that smartphone design could be visually
-        differentiated beyond colour and camera-bump shape — the
+        differentiated beyond colour and camera-bump shape. the
         transparent back and Glyph Interface created an entirely new
         category of smartphone visual identity.
     - trend: "Retro-computing typography in tech branding"
@@ -322,7 +322,7 @@ trend_posture:
         Things to synthwave to pixel art).
       reasoning: >-
         Nothing's commitment to dot-matrix typography goes beyond retro
-        pastiche — it's a philosophical statement about honest, visible
+        pastiche. it's a philosophical statement about honest, visible
         construction that aligns with the transparency hardware design.
 
 # ── Collaboration Rules ──────────────────────────
@@ -335,14 +335,14 @@ collaboration:
     as a distinctive visual element.
   what_bends: >-
     CMF by Nothing (Color, Material, Finish sub-brand) introduces more
-    colour and playfulness than the main brand — it targets a younger,
+    colour and playfulness than the main brand. it targets a younger,
     more fashion-conscious audience at a more accessible price point.
     Limited-edition products (Phone collaborations, special colours)
     introduce variations within the visual system. Nothing OS themes
     allow some user customisation within the monochrome framework.
   notable_examples: >-
     Nothing x Teenage Engineering (founding collaboration): Jesper
-    Kouthoofd and Tom Howard shaped Nothing's original visual DNA —
+    Kouthoofd and Tom Howard shaped Nothing's original visual DNA
     the raw, industrial aesthetic draws directly from Teenage Engineering's
     design philosophy (visible construction, honest materials, functional
     beauty). Nothing x Seventy Agency + Colophon Foundry (typography):
@@ -350,5 +350,5 @@ collaboration:
     Nothing's visual identity at the typographic level. Nothing x CMF:
     the sub-brand collaboration demonstrates how the Nothing visual
     system can flex toward accessibility and colour while maintaining
-    its design-philosophical core — Color, Material, Finish as a
+    its design-philosophical core. Color, Material, Finish as a
     brand name is itself a design statement.

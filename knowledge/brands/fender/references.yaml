@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Fender — Creative References
+# Fender. Creative References
 # ──────────────────────────────────────────────
 
 people:
@@ -24,21 +24,21 @@ publications:
 
 visuals:
   - url: "https://fender.com/"
-    label: "Fender.com product pages and collections — Product photography and heritage marketing"
+    label: "Fender.com product pages and collections. Product photography and heritage marketing"
     section: "visual-world"
 
   - url: "https://fender.com/custom-shop/"
-    label: "Fender Custom Shop — Luxury craft and bespoke guitar specification"
+    label: "Fender Custom Shop. Luxury craft and bespoke guitar specification"
     section: "visual-world"
 
   - url: "https://www.instagram.com/fender/"
-    label: "Fender Instagram — Artist content, product beauty shots, heritage storytelling"
+    label: "Fender Instagram. Artist content, product beauty shots, heritage storytelling"
     section: "visual-language"
 
   - url: "https://www.fenderplay.com/"
-    label: "Fender Play platform — Educational content and beginner tutorials"
+    label: "Fender Play platform. Educational content and beginner tutorials"
     section: "visual-language"
 
   - url: "https://fender.com/en-US/articles/"
-    label: "Fender editorial content — Artist interviews, product stories, tone guides"
+    label: "Fender editorial content. Artist interviews, product stories, tone guides"
     section: "visual-language"

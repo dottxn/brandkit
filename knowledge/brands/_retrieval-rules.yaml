@@ -1,5 +1,5 @@
 # ══════════════════════════════════════════════════
-# Retrieval Rules — Task-to-Chunk Mappings
+# Retrieval Rules. Task-to-Chunk Mappings
 # ══════════════════════════════════════════════════
 #
 # Defines which chunks to load for each task type,
@@ -7,10 +7,10 @@
 # to assemble exactly the right context for any agent task.
 #
 # Fields per task:
-#   always_load    — chunks loaded for every brand in the task
-#   load_if_exists — chunks loaded only if the brand has them (enriched)
-#   per_brand_budget — approximate token ceiling per brand
-#   description    — what this task profile is for
+#   always_load   . chunks loaded for every brand in the task
+#   load_if_exists. chunks loaded only if the brand has them (enriched)
+#   per_brand_budget. approximate token ceiling per brand
+#   description   . what this task profile is for
 #
 # Chunk domains: positioning, soul, voice, visual-dna, visual-language,
 #   competitive, strategy, insights, anti-patterns, visual-reasoning

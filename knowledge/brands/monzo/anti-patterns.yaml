@@ -20,10 +20,10 @@ summary: "Anti-patterns for Monzo. What this brand would never do."
 visual:
   - pattern: Using a traditional bank blue as the primary color
     reasoning: >-
-      Blue signals institutional authority and historical trustworthiness—exactly what Monzo is rejecting. Coral signals warmth, approachability, and modernity. Moving to blue would position Monzo as "bank-like" rather than "bank-different."
+      Blue signals institutional authority and historical trustworthiness. exactly what Monzo is rejecting. Coral signals warmth, approachability, and modernity. Moving to blue would position Monzo as "bank-like" rather than "bank-different."
   - pattern: "Adopting a cold geometric sans-serif instead of Oldschool Grotesk"
     reasoning: >-
-      Oldschool Grotesk has "analogue friendliness"—rounded corners, warm proportions—that makes financial communication feel human. A geometric sans would signal efficiency and distance, undermining the "kindness" positioning.
+      Oldschool Grotesk has "analogue friendliness". rounded corners, warm proportions. that makes financial communication feel human. A geometric sans would signal efficiency and distance, undermining the "kindness" positioning.
   - pattern: "Using aspirational lifestyle imagery (beautiful people, wealth signaling)"
     reasoning: >-
       This contradicts the "Everyman" archetype. Monzo's strength is that the photography shows ordinary people managing ordinary financial anxieties. Luxury imagery would position the product for the already-wealthy.
@@ -39,7 +39,7 @@ strategic:
       This would turn Monzo into a commodity. The brand's differentiation is tone and experience, not financial terms. Competing on rate signals that the brand has accepted commodification.
   - pattern: Pursuing enterprise or B2B customers
     reasoning: >-
-      Monzo's brand soul is B2C—helping individuals understand their relationship with money. Pivoting to businesses would muddy the core identity and require different visual and tonal systems.
+      Monzo's brand soul is B2C. helping individuals understand their relationship with money. Pivoting to businesses would muddy the core identity and require different visual and tonal systems.
   - pattern: Pursuing growth through obfuscation instead of transparency
     reasoning: >-
       The moment Monzo adds hidden fees, complex terms, or unclear pricing, the brand collapses. The entire positioning depends on transparency being genuine, not performative.

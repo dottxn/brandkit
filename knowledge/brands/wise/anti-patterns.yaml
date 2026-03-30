@@ -24,7 +24,7 @@ visual:
       Wise would position itself as participating in banking legacy rather than rejecting it.
       Navy and gray signal "we are part of the system, just updated." This contradicts Wise's
       core positioning: "The system itself is the problem, not just outdated." The bright green
-      works because it's a visual rebellion—it says "we read the rules of banking and chose
+      works because it's a visual rebellion. it says "we read the rules of banking and chose
       different rules." Conservative colors would read as compromise, as if Wise is slowly being
       absorbed into legacy finance. Customers would interpret: "This company started radical
       but is becoming establishment." The signal would be degradation, not growth.
@@ -40,7 +40,7 @@ visual:
       Decoration would communicate: "We're charging premium prices and hiding complexity with
       beauty." This directly contradicts Wise's promise that transparency IS the experience,
       not something hidden beneath an elegant interface. Ornamentation always functions as a
-      distraction from mechanism—it's the opposite of Wise's mission. Luxury fintech (wealth
+      distraction from mechanism. it's the opposite of Wise's mission. Luxury fintech (wealth
       management, private banking aesthetics) requires customers to trust the institution
       because the design is beautiful. Wise requires customers to trust the institution because
       the mechanics are visible. Ornament would signal: "We're moving toward wealth management
@@ -95,13 +95,13 @@ strategic:
       confusingly." Adding features (crypto, stocks, investment accounts, insurance) in response
       to Revolut's growth would signal: "We're abandoning our core belief that simplicity enables
       understanding." Each added feature requires hiding complexity. Wise has built its identity
-      on NOT hiding complexity. Competing on feature count would require competing on opacity—
+      on NOT hiding complexity. Competing on feature count would require competing on opacity. 
       basically abandoning the brand. It would be Wise becoming Revolut and losing the positioning
       that makes Wise valuable.
 
     where_the_line_is: >-
       The line is whether the feature *requires* hidden complexity to function. Wise added Business
-      accounts and Platform API—but these don't require opacity, they just require more sophistication
+      accounts and Platform API. but these don't require opacity, they just require more sophistication
       in the existing transparency model. The line is: does this feature increase understanding or
       decrease it? Money transfer → understanding. Multi-currency accounts → understanding. Business
       accounting integration → understanding. Crypto trading → requires accepting complexity
@@ -111,7 +111,7 @@ strategic:
   - pattern: Regional market pricing adaptation (different rates in different countries)
     cultural_signal_if_adopted: >-
       The entire Wise promise is: "The same real rate, everywhere, for everyone." Localizing
-      pricing—charging different rates in different markets like PayPal does—would signal:
+      pricing. charging different rates in different markets like PayPal does. would signal:
       "Geography determines what you pay" (the old banking assumption). It would contradict the
       core cultural belief: "Borders should be irrelevant to pricing." Adapting pricing by market
       would actually be profit-optimizing. Wise has sacrificed this optimization to maintain the
@@ -187,7 +187,7 @@ tonal:
       No soft-sell. No emotional manipulation. No aspirational language. The line is whether copy
       is trying to convince you or is trying to inform you. Wise chooses inform. The moment Wise
       uses emotional appeals or persuasion tactics, it's admitting that the proposition isn't
-      objectively better—it needs manipulation to be chosen.
+      objectively better. it needs manipulation to be chosen.
 
   - pattern: Future promises or aspirational "imagine if" language
     cultural_signal_if_adopted: >-
@@ -226,7 +226,7 @@ cultural:
       customers can't see," the brand would collapse. The entire positioning is: "we make money
       the way we tell you we make money." Maintaining ANY mystery (algorithmic optimization,
       hidden routing, undisclosed partnerships) would signal that Wise is actually just like
-      every other fintech—optimizing opacity for margin while claiming transparency.
+      every other fintech. optimizing opacity for margin while claiming transparency.
 
     where_the_line_is: >-
       Zero mystery. None. Every decision about how money moves must be explainable to any
@@ -238,7 +238,7 @@ cultural:
   - pattern: Deferring to financial experts or using credentials as trust signal
     cultural_signal_if_adopted: >-
       "Our team includes former Goldman Sachs and JP Morgan professionals." This is how
-      traditional finance builds trust—through credential stacking. Wise's actual trust signal is
+      traditional finance builds trust. through credential stacking. Wise's actual trust signal is
       the opposite: "Regular humans figured out how to move money better." Using credential-stacking
       would signal: "we're performing legitimacy within the system, not disrupting it." It would
       undermine the entire positioning that customers don't need experts to understand their money.

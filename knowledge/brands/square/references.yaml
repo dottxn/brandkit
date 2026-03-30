@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Square — Creative References
+# Square. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -12,7 +12,7 @@ studios:
   - name: "ARS Type"
     type: type-foundry
     url: "https://www.arstype.com/"
-    relationship: "Toronto foundry — provided ARS Maquette as foundation, customized for SQ Market typeface"
+    relationship: "Toronto foundry. provided ARS Maquette as foundation, customized for SQ Market typeface"
 
 people:
   - name: "Angus R. Shamal"
@@ -28,7 +28,7 @@ people:
   - name: "Robert Andersen"
     role: "Hardware Designer"
     url: "https://www.linkedin.com/in/randersen/"
-    context: "Led subsequent Square hardware design evolution — rounded, minimal, white aesthetic"
+    context: "Led subsequent Square hardware design evolution. rounded, minimal, white aesthetic"
 
 publications:
   - title: "Square's Design Language"
@@ -37,13 +37,13 @@ publications:
 
 visuals:
   - url: "https://squareup.com"
-    label: "Square marketing site — hardware product photography, merchant-focused visual language"
+    label: "Square marketing site. hardware product photography, merchant-focused visual language"
     section: visual-language
 
   - url: "https://www.brandnewschool.com/"
-    label: "Brand New School portfolio — illustration system work for Square"
+    label: "Brand New School portfolio. illustration system work for Square"
     section: visual-world
 
   - url: "https://block.xyz"
-    label: "Block corporate website — animated cube identity, parent company visual system"
+    label: "Block corporate website. animated cube identity, parent company visual system"
     section: visual-world

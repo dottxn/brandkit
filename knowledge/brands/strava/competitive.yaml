@@ -21,7 +21,7 @@ actually_competes_with:
   - duolingo
   - apple
   - espn
-industry_norms_it_breaks: "International Orange (#FC5200) used as the action color that represents the visible exertion on an athlete's face—the specific orange of race bibs and effort made visible. | The unwillingness to weaponize gamification despite having perfect infrastructure for it. Strava could have created addiction loops; instead they emphasize community and personal improvement. | Does this celebrate the person who ran their first 5K as much as the Olympic qualifier? If the answer is conditional, we redesigned wrong."
+industry_norms_it_breaks: "International Orange (#FC5200) used as the action color that represents the visible exertion on an athlete's face. the specific orange of race bibs and effort made visible. | The unwillingness to weaponize gamification despite having perfect infrastructure for it. Strava could have created addiction loops; instead they emphasize community and personal improvement. | Does this celebrate the person who ran their first 5K as much as the Olympic qualifier? If the answer is conditional, we redesigned wrong."
 visual_cluster: "data-native"
 visual_fingerprint:
   - cluster: "data-native"

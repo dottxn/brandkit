@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# H&M — Creative References
+# H&M. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -55,21 +55,21 @@ publications:
 
 visuals:
   - url: "https://www.hm.com/"
-    label: "H&M Brand Website — Live Visual System"
+    label: "H&M Brand Website. Live Visual System"
     section: visual-language
 
   - url: "https://www.cosstores.com/"
-    label: "COS Sub-Brand — Premium Minimalist Visual Identity"
+    label: "COS Sub-Brand. Premium Minimalist Visual Identity"
     section: visual-language
 
   - url: "https://www.arket.com/"
-    label: "ARKET Sub-Brand — Scandinavian Visual Identity"
+    label: "ARKET Sub-Brand. Scandinavian Visual Identity"
     section: visual-language
 
   - url: "https://www.stories.com/"
-    label: "& Other Stories Sub-Brand — Eclectic Visual Identity"
+    label: "& Other Stories Sub-Brand. Eclectic Visual Identity"
     section: visual-language
 
   - url: "https://www.weekday.com/"
-    label: "Weekday Sub-Brand — Youth-Oriented Visual Identity"
+    label: "Weekday Sub-Brand. Youth-Oriented Visual Identity"
     section: visual-language

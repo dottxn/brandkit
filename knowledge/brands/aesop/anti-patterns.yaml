@@ -30,7 +30,7 @@ strategic:
   - pattern: Discount codes or seasonal sales
     reasoning: "price discipline is non-negotiable"
   - pattern: Celebrity endorsements or influencer partnerships
-    reasoning: "collaborates with architects, writers, and designers — not fame"
+    reasoning: "collaborates with architects, writers, and designers. not fame"
   - pattern: Department store counter displays
     reasoning: loses control of the experience
   - pattern: Rapid new product launches to drive seasonal replenishment
@@ -38,7 +38,7 @@ strategic:
 tonal:
   - pattern: "Before-and-after claims or \"visible results in X days\" language"
     reasoning: refuses to promise transformation
-  - pattern: "Superlatives or urgency — \"best-selling,\" \"limited edition,\" \"don't miss out\""
+  - pattern: "Superlatives or urgency. \"best-selling,\" \"limited edition,\" \"don't miss out\""
     reasoning: "incompatible with the brand's register"
   - pattern: "Emojis or casual digital-native tone"
     reasoning: "the register is literary, not conversational"

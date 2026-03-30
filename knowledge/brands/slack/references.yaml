@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Slack — Creative References
+# Slack. Creative References
 # ──────────────────────────────────────────────
 
 channels:
@@ -60,21 +60,21 @@ publications:
 
 visuals:
   - url: "https://www.pentagram.com/work/slack"
-    label: "Pentagram case study — 2019 rebrand and visual identity system"
+    label: "Pentagram case study. 2019 rebrand and visual identity system"
     section: "visual-language"
 
   - url: "https://slack.com/"
-    label: "Slack.com marketing pages — Aubergine dominant, pinwheel logo, illustration system"
+    label: "Slack.com marketing pages. Aubergine dominant, pinwheel logo, illustration system"
     section: "visual-language"
 
   - url: "https://app.slack.com/"
-    label: "Slack product interface — UI implementation with Lato typeface and product-functional design"
+    label: "Slack product interface. UI implementation with Lato typeface and product-functional design"
     section: "visual-world"
 
   - url: "https://www.fontspring.com/fonts/type-dynamic/larsseit"
-    label: "Larsseit typeface by Type Dynamic — Slack headline typeface"
+    label: "Larsseit typeface by Type Dynamic. Slack headline typeface"
     section: "visual-language"
 
   - url: "https://www.lineto.com/"
-    label: "Circular Pro typeface by Lineto — Slack body text typeface"
+    label: "Circular Pro typeface by Lineto. Slack body text typeface"
     section: "visual-language"

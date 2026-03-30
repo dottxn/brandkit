@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Delta Air Lines. How the brand looks structurally —
+  Visual language for Delta Air Lines. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,16 +31,16 @@ visual_modes:
         - "Delta social media channels"
         - "Delta corporate communications"
       description: >-
-        Delta Red (#E3132C) and Delta Blue (#003268) dominant — a red-
+        Delta Red (#E3132C) and Delta Blue (#003268) dominant. a red-
         white-blue palette that communicates American heritage, premium
         quality, and operational confidence. The 2025 centennial refresh
         (DixonBaxi, London) introduced Delta Serif and Delta Sans
         (Pangram Pangram Foundry) as the new typographic system. Mauricio
         Parise (VP Brand Experience Design) oversees the visual system.
-        The Widget — Delta's triangle/delta symbol, in continuous use
-        since 1959 — is one of aviation's most enduring brand marks.
+        The Widget (Delta's triangle/delta symbol, in continuous use
+        since 1959) is one of aviation's most enduring brand marks.
         The 'Keep Climbing' motion system provides the brand's kinetic
-        language. Delta Aura — a fluid colour treatment — adds atmospheric
+        language. Delta Aura (a fluid colour treatment) adds atmospheric
         depth to brand applications. Lippincott (2007 post-bankruptcy
         rebrand) established the modern Delta identity; DixonBaxi (2025)
         evolved it for the centennial. FUGO Studios created the 'Midnight
@@ -60,11 +60,11 @@ visual_modes:
         - "SkyMiles premium tier communications"
       description: >-
         Darker, more atmospheric. Delta's premium products (Delta One,
-        Sky Club lounges) use a more luxurious visual register — darker
+        Sky Club lounges) use a more luxurious visual register. darker
         backgrounds, Delta Blue dominant over Delta Red, atmospheric
         photography of premium cabin interiors, lounge spaces, and
         elevated dining. The Delta Aura colour treatment is more
-        prominent in premium contexts — fluid, gradient-rich compositions
+        prominent in premium contexts. fluid, gradient-rich compositions
         that suggest exclusivity and sophistication.
       differs_from_default_by: >-
         Darker, more atmospheric. Delta Blue dominates over Delta Red.
@@ -81,7 +81,7 @@ visual_modes:
       description: >-
         Functional, travel-utility-coded. The digital experience mode
         serves booking, trip management, and SkyMiles loyalty. The visual
-        language adapts for utility — clear typography, functional icons,
+        language adapts for utility. clear typography, functional icons,
         status indicators, and travel-data presentation. The Delta app
         uses the brand palette in a restrained, information-hierarchy-
         coded application. Compared to the brand marketing mode (more
@@ -94,7 +94,7 @@ visual_modes:
 
   notes: >-
     Delta's 2025 centennial represents a significant visual-identity
-    moment — the DixonBaxi refresh honours 100 years of brand heritage
+    moment. the DixonBaxi refresh honours 100 years of brand heritage
     while modernising the visual system. The Widget's 66+ years of
     continuous use make it one of the longest-running brand marks in
     commercial aviation. The 'Distinctly Delta' uniform programme (2025-
@@ -114,7 +114,7 @@ photography:
     photography shows aircraft interiors (particularly premium cabins),
     destination landscapes, airport moments (boarding, arrival, reunion),
     and in-flight service details. The photography emphasises the travel
-    experience as aspirational — not just transportation but a quality
+    experience as aspirational. not just transportation but a quality
     journey. FUGO Studios' 'Midnight Oil' in-flight welcome video (180M+
     views/year) demonstrates cinematic-quality travel imagery at scale.
     Compared to United (more corporate-functional) or Southwest (more
@@ -123,7 +123,7 @@ photography:
   casting_observed: >-
     Diverse, premium-traveller-coded. Delta's photography shows business
     travellers, families, and leisure travellers in contexts that suggest
-    premium experience — Sky Club lounges, Delta One cabins, destination
+    premium experience. Sky Club lounges, Delta One cabins, destination
     experiences. The 'Distinctly Delta' uniform programme (Lands' End +
     Missoni) casts Delta crew as fashion elements.
   lighting_and_colour: >-
@@ -131,7 +131,7 @@ photography:
     of in-flight lighting. Destination photography uses golden-hour and
     blue-hour treatments. The Delta Aura colour treatment introduces
     fluid, gradient-rich colour overlays. Delta Red and Delta Blue
-    influence the overall colour temperature — warm but authoritative.
+    influence the overall colour temperature. warm but authoritative.
   post_production: >-
     Polished, premium processing. Photography receives careful colour
     grading that maintains the warm, aspirational quality. The Delta
@@ -163,34 +163,34 @@ graphic_language:
   illustration_style: ""
   illustration_role: ""
   icon_style: >-
-    The Widget functions as the primary icon — Delta's triangle/delta
+    The Widget functions as the primary icon. Delta's triangle/delta
     symbol, in continuous use since 1959, appears on aircraft tails,
     digital interfaces, and all brand touchpoints. Travel-service icons
     (booking, check-in, baggage, seat selection) follow aviation-UI
     conventions. SkyMiles tier icons provide loyalty-status visual
     hierarchy.
   graphic_devices: >-
-    The Widget — Delta's equilateral-triangle delta symbol, in use since
+    The Widget. Delta's equilateral-triangle delta symbol, in use since
     1959. One of aviation's most enduring brand marks, the Widget appears
     on aircraft tails, at airport gates, and across all brand applications.
     Its geometric simplicity scales from aircraft livery to app favicon.
-    Delta Aura — a fluid, gradient-rich colour treatment introduced in
+    Delta Aura. a fluid, gradient-rich colour treatment introduced in
     the 2025 DixonBaxi refresh. The Aura creates atmospheric, shifting
-    colour fields using Delta Red and Delta Blue — adding depth and
+    colour fields using Delta Red and Delta Blue. adding depth and
     sophistication to brand applications. Delta Red (#E3132C) and Delta
-    Blue (#003268) — the dual-colour system carries emotional weight:
+    Blue (#003268). the dual-colour system carries emotional weight:
     red for energy and passion, blue for trust and reliability. The
-    'Keep Climbing' positioning — while textual, it drives visual
+    'Keep Climbing' positioning. while textual, it drives visual
     compositions upward and forward, influencing the directional energy
     of layouts and motion.
   motion_language: >-
-    'Keep Climbing' motion system — upward, forward, ascending. The
+    'Keep Climbing' motion system. upward, forward, ascending. The
     Widget animates with ascending, climbing movements. Delta Aura
     colours shift and flow in video and digital contexts. FUGO Studios'
     'Midnight Oil' welcome video (180M+ views/year) sets the standard
-    for in-flight motion content — cinematic, atmospheric, premium.
+    for in-flight motion content. cinematic, atmospheric, premium.
     Aircraft-in-motion footage uses dramatic angles and smooth tracking.
-    The motion language is confident and premium — never rushed, never
+    The motion language is confident and premium. never rushed, never
     chaotic.
 
 # ── Typography in Practice ───────────────────────
@@ -203,10 +203,10 @@ type_treatment:
     - "delta.com (observed February 2026)"
   signature_move: >-
     Delta Serif and Delta Sans (Pangram Pangram Foundry + DixonBaxi,
-    2025 centennial) — a dual-typeface system created for Delta's 100th
+    2025 centennial). a dual-typeface system created for Delta's 100th
     anniversary. Pangram Pangram (the foundry behind typefaces for
     Spotify, Discord, and others) developed the faces under DixonBaxi's
-    creative direction. Delta Serif brings heritage authority — its serif
+    creative direction. Delta Serif brings heritage authority. its serif
     character references the gravitas of Delta's century of operation.
     Delta Sans provides the modern, functional companion for digital
     interfaces and body text. The dual system allows Delta to shift
@@ -228,7 +228,7 @@ type_treatment:
     CAPS for the Widget-accompanied wordmark in certain contexts.
   display_vs_body: >-
     Display: Delta Serif at heavier weights for premium, editorial, and
-    centennial campaign type — the serif character is most impactful at
+    centennial campaign type. the serif character is most impactful at
     display sizes, communicating heritage and authority. Delta Sans at
     bold for functional headlines and digital marketing. Body: Delta Sans
     at regular weight for all digital interfaces, body text, and
@@ -236,8 +236,8 @@ type_treatment:
     tonal variation.
   type_and_image: >-
     Delta Serif and atmospheric photography create premium compositions
-    — the heritage typeface and travel imagery share a quality register.
-    Delta Sans serves functional travel information — flight times,
+   the heritage typeface and travel imagery share a quality register.
+    Delta Sans serves functional travel information. flight times,
     gate numbers, booking details. In premium contexts (Delta One, Sky
     Club), serif type and atmospheric photography work together. In
     functional contexts (booking, check-in), sans type provides clarity.
@@ -252,7 +252,7 @@ layout:
   signature_composition: >-
     Booking-funnel-centred with aspirational framing. delta.com leads
     with the booking search (origin, destination, dates) framed by
-    destination imagery — combining functional utility with travel
+    destination imagery. combining functional utility with travel
     aspiration. The composition balances operational information (flight
     schedules, booking forms) with brand atmosphere (Delta Aura colour
     treatments, destination photography). The Fly Delta app uses a
@@ -263,7 +263,7 @@ layout:
     Moderate density. Marketing pages use generous whitespace with Delta
     Aura colour treatments providing atmospheric depth. Booking and trip-
     management interfaces are appropriately dense with travel data. The
-    overall impression is of designed restraint — premium rather than
+    overall impression is of designed restraint. premium rather than
     cluttered.
   format_preferences: >-
     Desktop for complex booking. Mobile-first for the Fly Delta app
@@ -282,8 +282,8 @@ trend_posture:
     - trend: "Heritage typography revival in corporate branding"
       stance: "early-adopter"
       evidence: >-
-        Delta Serif (Pangram Pangram + DixonBaxi, 2025) — a custom
-        serif typeface for a centennial refresh — brings heritage
+        Delta Serif (Pangram Pangram + DixonBaxi, 2025). a custom
+        serif typeface for a centennial refresh. brings heritage
         authority to digital-first brand applications. The serif/sans
         dual system allows Delta to honour its 100-year history while
         maintaining contemporary digital functionality.
@@ -294,12 +294,12 @@ trend_posture:
     - trend: "Fluid colour treatments in brand systems"
       stance: "early-adopter"
       evidence: >-
-        Delta Aura — a fluid, gradient-rich colour treatment using Delta
-        Red and Delta Blue — represents the trend of dynamic, shifting
+        Delta Aura. a fluid, gradient-rich colour treatment using Delta
+        Red and Delta Blue. represents the trend of dynamic, shifting
         colour fields replacing static brand-colour applications.
       reasoning: >-
         Static colour blocks read as corporate. Fluid colour treatments
-        add atmosphere and sophistication — appropriate for a premium
+        add atmosphere and sophistication. appropriate for a premium
         travel brand competing with luxury hospitality.
 
 # ── Collaboration Rules ──────────────────────────
@@ -320,10 +320,10 @@ collaboration:
   notable_examples: >-
     Delta x DixonBaxi (2025 centennial refresh): the London agency
     created Delta Serif, Delta Sans, and Delta Aura for Delta's 100th
-    anniversary — the most significant visual update since the 2007
+    anniversary. the most significant visual update since the 2007
     Lippincott post-bankruptcy rebrand. Delta x Pangram Pangram (Delta
     Serif + Delta Sans, 2025): the foundry created a dual-typeface system
-    that bridges heritage (serif) and contemporary (sans) registers —
+    that bridges heritage (serif) and contemporary (sans) registers
     one of the most significant typographic investments in US aviation.
     Delta x Lippincott (2007 post-bankruptcy rebrand): the consultancy
     established the modern Delta visual identity that carried the airline
@@ -331,5 +331,5 @@ collaboration:
     ('Midnight Oil'): the welcome video viewed 180M+ times per year sets
     the standard for in-flight brand content. Delta x Lands' End + Missoni
     ('Distinctly Delta' uniforms, 2025-2027): extending the visual
-    identity into fashion — Missoni's zigzag pattern meets Delta's brand
+    identity into fashion. Missoni's zigzag pattern meets Delta's brand
     colours in crew uniforms.

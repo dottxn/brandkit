@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# L'Oréal Paris — Creative References
+# L'Oréal Paris. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -55,7 +55,7 @@ people:
     context: "Award-winning actress; represents inclusive beauty standard"
 
 publications:
-  - title: "L'Oréal Paris: 'Because We're Worth It' — The Evolution of Inclusivity in Luxury Beauty"
+  - title: "L'Oréal Paris: 'Because We're Worth It'. The Evolution of Inclusivity in Luxury Beauty"
     author: "Brand and Marketing Analysis"
     relevance: "Documents shift from 'You're Worth It' (1973) to 'We're Worth It' (2023)"
 
@@ -65,21 +65,21 @@ publications:
 
 visuals:
   - url: "https://www.lorealparisusa.com/"
-    label: "L'Oréal Paris USA Website — Live Brand System"
+    label: "L'Oréal Paris USA Website. Live Brand System"
     section: visual-language
 
   - url: "https://www.creativereview.co.uk/loreal-paris-brand-ambassador/"
-    label: "L'Oréal Paris Ambassador Campaigns — Creative Review"
+    label: "L'Oréal Paris Ambassador Campaigns. Creative Review"
     section: visual-language
 
   - url: "https://www.cannesfilmfestival.com/"
-    label: "Cannes Film Festival — L'Oréal Paris Official Beauty Partner"
+    label: "Cannes Film Festival. L'Oréal Paris Official Beauty Partner"
     section: visual-world
 
   - url: "https://www.parisfashionweek.com/"
-    label: "Paris Fashion Week — L'Oréal Paris Partnership and Events"
+    label: "Paris Fashion Week. L'Oréal Paris Partnership and Events"
     section: visual-world
 
   - url: "https://www.mccannworldgroup.com/"
-    label: "McCann Worldgroup Portfolio — Agency Website"
+    label: "McCann Worldgroup Portfolio. Agency Website"
     section: visual-language

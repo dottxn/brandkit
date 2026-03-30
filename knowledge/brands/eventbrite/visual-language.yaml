@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Eventbrite. How the brand looks structurally —
+  Visual language for Eventbrite. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -42,7 +42,7 @@ visual_modes:
         palette, typography, custom illustrations, and 'Energy Auras'
         (neon gradient overlays). Instrument redesigned the consumer app
         (25-week project). The visual language is energetic, expressive,
-        and event-culture-coded — designed to capture the excitement of
+        and event-culture-coded. designed to capture the excitement of
         live experiences and community gathering. Compared to Meetup
         (more community-group-coded, simpler visual identity) or
         Ticketmaster (more ticket-transaction-coded, LiveNation corporate),
@@ -61,7 +61,7 @@ visual_modes:
       description: >-
         More functional, more efficiency-coded. The organiser experience
         uses the same Flamingo Orange and Founders Grotesk but with a
-        distinctly different register — larger fonts for clarity, sped-up
+        distinctly different register. larger fonts for clarity, sped-up
         animations for efficiency, technical interaction patterns for
         on-site event management. The Reserved Seating system (Core77
         Design Award) uses specialised UI for venue configuration. The
@@ -83,10 +83,10 @@ visual_modes:
         Card-based, energy-rich. The consumer discovery mode (redesigned
         by Instrument, 2024-2025) uses dynamic card-based layouts showing
         events with photography, trending topics, and community hubs.
-        'Energy Auras' — neon gradient overlays — add vibrancy to event
+        'Energy Auras'. neon gradient overlays. add vibrancy to event
         imagery. The 'Header Highlighter' animated type system layers
         bold typography over event photography. The visual language must
-        inspire event attendance and create a sense of FOMO — making
+        inspire event attendance and create a sense of FOMO. making
         every event look unmissable.
       differs_from_default_by: >-
         Card-based discovery dominates. Photography and Energy Auras
@@ -95,10 +95,10 @@ visual_modes:
 
   notes: >-
     The 2024-2025 rebrand (BUCK for brand, Instrument for app) represents
-    a comprehensive visual overhaul — 'The Path' logo, Founders Grotesk
+    a comprehensive visual overhaul. 'The Path' logo, Founders Grotesk
     typography, Energy Auras, and dual illustration styles replace the
     previous lowercase-e-in-circle identity. The centralised design team
-    integrates brand, product, and UX designers — unusual in tech
+    integrates brand, product, and UX designers. unusual in tech
     companies where these functions are typically separate.
 
 # ── Photography ──────────────────────────────────
@@ -111,36 +111,36 @@ photography:
     - "Eventbrite event photography guidelines"
   subject_and_framing: >-
     Candid, authentic, event-experience-coded. Eventbrite's photography
-    captures the energy and atmosphere of live events — concert crowds,
+    captures the energy and atmosphere of live events. concert crowds,
     food festival moments, workshop participation, community gatherings.
     The photography aims to give prospective attendees the feeling of
     being at an event. Intentional composition with simple framing
-    removes distractions. The approach is documentary-influenced —
+    removes distractions. The approach is documentary-influenced
     capturing real moments rather than staged scenes. Compared to
     Ticketmaster (more performer-hero-coded) or Meetup (more community-
     portrait-coded), Eventbrite's photography is the most event-
     atmosphere-immersive.
   casting_observed: >-
     Real event attendees and communities. Eventbrite's photography shows
-    diverse groups enjoying events — music fans, food enthusiasts,
+    diverse groups enjoying events. music fans, food enthusiasts,
     creative workshop participants, fitness class members. The casting
     reflects the breadth of event types on the platform. No celebrity
-    or performer-hero casting — the community experience IS the subject.
+    or performer-hero casting. the community experience IS the subject.
   lighting_and_colour: >-
     Event-environment-driven. Photography uses the natural lighting of
-    event spaces — concert lighting, outdoor festival sun, workshop
+    event spaces. concert lighting, outdoor festival sun, workshop
     studio light. 'Energy Auras' (neon gradient overlays) add brand
     colour treatment to event photography. The Flamingo Orange
     (#F05537) influences warm colour tones in marketing applications.
   post_production: >-
     Natural, minimal-filter. Eventbrite guidelines emphasise avoiding
-    filters or effects — the photography should feel authentic and
+    filters or effects. the photography should feel authentic and
     genuine. Energy Auras add neon gradient treatments as overlays
     rather than altering the photographic content itself.
   visual_boundaries:
     stated_exclusions: >-
       Eventbrite avoids heavily filtered or effects-processed photography.
-      The brand avoids empty-venue or preparation photography —
+      The brand avoids empty-venue or preparation photography
       events should look populated and energetic.
     observed_exceptions: >-
       Marketing materials use more stylised compositions with Energy
@@ -163,8 +163,8 @@ graphic_language:
   illustration_style: >-
     Dual-register system developed by BUCK. Social Stickers: emotive,
     whimsical, flat-and-gradient illustrations with recurring stylised
-    elements — used for surprise-and-delight moments in communications.
-    Abstract Suite: flat black shapes evoking 'portals' — more conceptual,
+    elements. used for surprise-and-delight moments in communications.
+    Abstract Suite: flat black shapes evoking 'portals'. more conceptual,
     used across the app. The two styles serve different emotional registers
     while sharing the brand's energetic character. Compared to Meetup
     (simpler, community-icon-coded illustration) or StubHub (minimal
@@ -182,23 +182,23 @@ graphic_language:
     the brand's approachable, contemporary aesthetic. Icon design aligns
     with Founders Grotesk's clean geometric quality.
   graphic_devices: >-
-    'The Path' — a dynamic monogram of three interconnected parts creating
+    'The Path'. a dynamic monogram of three interconnected parts creating
     rhythmic movement. The mark thickens as it flows, evoking 'free-
     flowing electricity.' The Path represents the event journey from
-    discovery to memory-making. 'Expressive Paths' — community-specific
+    discovery to memory-making. 'Expressive Paths'. community-specific
     adaptations of The Path filled with visual elements (food imagery
     for food lovers, musical instruments for live music fans, leafy
-    patterns for plant enthusiasts). Energy Auras — neon gradient overlays
+    patterns for plant enthusiasts). Energy Auras. neon gradient overlays
     that add vibrancy to photographs and solid colours. Highlighter hues
-    complement Flamingo Orange. Flamingo Orange (#F05537) — the warm,
-    energetic primary colour. Header Highlighter — an animated typographic
+    complement Flamingo Orange. Flamingo Orange (#F05537). the warm,
+    energetic primary colour. Header Highlighter. an animated typographic
     treatment designed for layering over complex imagery.
   motion_language: >-
     Energetic, rhythmic, event-energy-coded. The Path animates with
-    rhythmic, flowing movement — its three interconnected parts shift
+    rhythmic, flowing movement. its three interconnected parts shift
     and transform. Header Highlighter type animates over photography.
     Energy Auras pulse and shift. The motion language reflects the
-    energy of live events — never static, always dynamic. Organiser-
+    energy of live events. never static, always dynamic. Organiser-
     facing motion is faster and more efficiency-coded. BUCK specifically
     highlighted motion as integral to the rebrand execution.
 
@@ -212,10 +212,10 @@ type_treatment:
     - "eventbrite.com (observed February 2026)"
   signature_move: >-
     Founders Grotesk (Kris Sowersby, Klim Type Foundry, Wellington, NZ,
-    2010) — a contemporary grotesque drawing from Millar & Richard's
+    2010). a contemporary grotesque drawing from Millar & Richard's
     early 20th-century Grotesque series and H.W. Caslon's Doric series.
     The typeface won the Creative Review Type Annual award for Text Faces
-    (2011). BUCK selected Founders Grotesk to replace Benton Sans —
+    (2011). BUCK selected Founders Grotesk to replace Benton Sans
     the typeface feels 'both approachable and contemporary,' contributing
     a friendly character to the wordmark. The choice reflects Eventbrite's
     positioning: grounded in type-design tradition (the grotesque heritage)
@@ -243,7 +243,7 @@ type_treatment:
     Highlighter technique adds display-level visual distinction.
   type_and_image: >-
     Typography and event photography are deeply integrated through the
-    Header Highlighter technique — bold type layers over complex imagery
+    Header Highlighter technique. bold type layers over complex imagery
     with dynamic animation. In the discovery experience, type provides
     event information alongside photography and Energy Aura treatments.
     In organiser tools, type serves functional communication with larger
@@ -260,7 +260,7 @@ layout:
   signature_composition: >-
     Card-based discovery with layered visual energy. The consumer app
     (Instrument redesign) uses dynamic card layouts for event discovery
-    — cards combine event photography, Energy Aura treatments, trending
+   cards combine event photography, Energy Aura treatments, trending
     indicators, and community hub navigation. The composition creates a
     sense of event energy and FOMO. Event detail pages balance practical
     information (date, location, price, description) with atmospheric
@@ -268,7 +268,7 @@ layout:
     linear) or Meetup (more community-group-list-coded), Eventbrite's
     layout is the most visually dynamic for event discovery.
   density_and_whitespace: >-
-    Moderate density in discovery — enough events visible for browsing
+    Moderate density in discovery. enough events visible for browsing
     while maintaining visual energy. Event detail pages use more generous
     spacing. Organiser tools use functional density appropriate for
     management interfaces. Marketing pages use dramatic visual
@@ -290,25 +290,25 @@ trend_posture:
     - trend: "Dynamic, context-adaptive logos"
       stance: "early-adopter"
       evidence: >-
-        'The Path' logo and its 'Expressive Paths' variants — community-
+        'The Path' logo and its 'Expressive Paths' variants. community-
         specific adaptations filled with relevant visual elements (food,
-        music, plants, art) — demonstrate the trend of logos that adapt
+        music, plants, art). demonstrate the trend of logos that adapt
         to context rather than remaining static. Each community gets a
         version of The Path that reflects their passion.
       reasoning: >-
         A platform serving diverse event communities benefits from a logo
-        that can express different interests — a food festival's Path
+        that can express different interests. a food festival's Path
         looks different from a music event's Path, creating visual
         relevance for each community.
     - trend: "Neon gradient systems in digital branding"
       stance: "early-adopter"
       evidence: >-
-        Energy Auras — neon gradient overlays that add vibrancy to
-        photography and solid colours — represent the trend of gradient-
+        Energy Auras. neon gradient overlays that add vibrancy to
+        photography and solid colours. represent the trend of gradient-
         rich colour systems replacing flat colour applications in digital
         brand systems.
       reasoning: >-
-        Event energy is difficult to communicate through flat colour —
+        Event energy is difficult to communicate through flat colour
         gradients and neon effects create the visual vibration and
         excitement that static colours cannot.
 
@@ -329,15 +329,15 @@ collaboration:
     event categories.
   notable_examples: >-
     Eventbrite x BUCK (2024-2025 rebrand): the design agency created
-    the comprehensive visual overhaul — The Path logo, Energy Auras,
+    the comprehensive visual overhaul. The Path logo, Energy Auras,
     dual illustration system, Founders Grotesk adoption, and Header
     Highlighter technique. The rebrand replaced the previous lowercase-
     e-in-circle identity with a more expressive, energetic system.
     Eventbrite x Instrument (consumer app redesign, 25 weeks): the
-    agency translated the new brand system into the consumer app —
+    agency translated the new brand system into the consumer app
     card-based discovery, community hubs, and trending topics. The
     redesign delivered measurable growth in engagement and ticket
     purchases. Eventbrite x Klim Type Foundry (Founders Grotesk):
-    Kris Sowersby's typeface provides the typographic foundation — its
+    Kris Sowersby's typeface provides the typographic foundation. its
     grotesque heritage and contemporary character bridge tradition with
     event-tech modernity.

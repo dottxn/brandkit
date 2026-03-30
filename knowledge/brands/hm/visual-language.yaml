@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for H&M. How the brand looks structurally —
+  Visual language for H&M. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -32,13 +32,13 @@ visual_modes:
         - "Store exterior signage and shopping bags"
         - "H&M app"
       description: >-
-        H&M Red (#CC071E, Pantone PMS 1795 C) dominant — the most
+        H&M Red (#CC071E, Pantone PMS 1795 C) dominant. the most
         recognisable colour in fast-fashion retail. HM Ampersand (Monotype,
         bespoke sans-serif developed 2007-2015) and HM Amperserif (Toshi
         Omagari/Monotype + The Studio, 2013) form the typographic system.
         Jörgen Andersson (CCO since December 2022) oversees the visual
         direction. The visual language balances accessibility and fashion
-        aspiration — warmer and more democratic than Zara's editorial
+        aspiration. warmer and more democratic than Zara's editorial
         coolness, more fashion-aware than Primark or Shein. Photography
         ranges from editorial fashion to everyday lifestyle, reflecting
         H&M's 'fashion and quality at the best price' positioning.
@@ -63,7 +63,7 @@ visual_modes:
         design aesthetics. Each collaboration adapts the photography style,
         colour palette, and creative talent to the designer's world while
         maintaining H&M's red as a framing element. These campaigns are
-        H&M's most visually ambitious moments — approaching luxury-brand
+        H&M's most visually ambitious moments. approaching luxury-brand
         creative standards.
       differs_from_default_by: >-
         The collaborating designer's aesthetic leads the visual direction.
@@ -77,12 +77,12 @@ visual_modes:
         - "Fashion week presentations"
         - "H&M Studio product pages on hm.com"
       description: >-
-        H&M Studio is the directional sub-line — more fashion-forward
+        H&M Studio is the directional sub-line. more fashion-forward
         photography, more editorial styling, more conceptual art direction.
         AW25 used a brutalism-inspired visual theme. The photography
         approaches Zara's editorial standard but with H&M's warmer,
         more inclusive casting. Studio campaigns are H&M's answer to
-        the 'cheap fast fashion' perception — visual proof that the
+        the 'cheap fast fashion' perception. visual proof that the
         brand can compete creatively.
       differs_from_default_by: >-
         More editorial, more conceptual, more fashion-forward than the
@@ -99,13 +99,13 @@ visual_modes:
         - "Monki (playful, colourful, Gen-Z)"
       description: >-
         H&M Group operates multiple brands with entirely distinct visual
-        identities. COS is the furthest from H&M — minimal, architectural,
+        identities. COS is the furthest from H&M. minimal, architectural,
         gallery-like photography by Oliver Hadlee Pearch, using muted
         palettes. ARKET uses warm Scandinavian tones and lifestyle
         photography. & Other Stories blends Parisian bohemian with textured,
         layered compositions. Weekday is darker, street-coded, and youth-
         oriented. Monki is the most colourful and playful. These brands
-        share no visual DNA with H&M Red — they exist as independent
+        share no visual DNA with H&M Red. they exist as independent
         visual propositions.
       differs_from_default_by: >-
         Entirely separate visual identities. No H&M Red. Different
@@ -129,7 +129,7 @@ photography:
     - "H&M social media channels"
     - "Ann-Sofie Johansson (Creative Advisor since 2015, career from 1987)"
   subject_and_framing: >-
-    Fashion lifestyle — models in clothing, photographed in real or styled
+    Fashion lifestyle. models in clothing, photographed in real or styled
     environments. H&M's photography is warmer and more accessible than
     Zara's editorial register. Sam Rock (SS25 'Notes On Being' campaign)
     brings a documentary-inflected, warm-toned approach. The framing ranges
@@ -139,11 +139,11 @@ photography:
     or Primark (more promotional, less art-directed), H&M balances fashion
     aspiration with everyday relatability.
   casting_observed: >-
-    Broadly diverse — multi-ethnic, multi-age, varied body types. H&M has
+    Broadly diverse. multi-ethnic, multi-age, varied body types. H&M has
     been progressive in inclusive casting relative to its category. Celebrity
     collaborations (Mugler, Glenn Martens) bring high-fashion models and
     celebrity casting. Core brand campaigns use a wider range of casting
-    than Zara — more everyday, more representative of the customer base.
+    than Zara. more everyday, more representative of the customer base.
   lighting_and_colour: >-
     Warm-to-neutral, natural lighting. Less dramatic than Zara (which uses
     more directional, editorial lighting). Campaign photography uses warm
@@ -152,7 +152,7 @@ photography:
     dominate the photographic palette itself.
   post_production: >-
     Moderate retouching. H&M uses a natural-looking post-production style
-    — skin texture visible, natural colour grading, less idealised than
+   skin texture visible, natural colour grading, less idealised than
     Zara but more polished than H&M's sub-brands like Weekday or Monki.
   visual_boundaries:
     stated_exclusions: >-
@@ -162,7 +162,7 @@ photography:
     observed_exceptions: >-
       Designer collaborations (Mugler x H&M 2023) pushed into more
       provocative, body-conscious territory than the core brand typically
-      occupies — closer to the collaborating designer's aesthetic.
+      occupies. closer to the collaborating designer's aesthetic.
     genuine_absence: >-
       Based on hm.com review: no overtly luxury-coded photography (that's
       Zara's territory), no street-style or user-generated content in
@@ -183,21 +183,21 @@ graphic_language:
   illustration_role: ""
   icon_style: >-
     Clean, thin-stroke navigation icons on hm.com. The icon system is
-    functional and minimal — consistent with fast-fashion e-commerce
+    functional and minimal. consistent with fast-fashion e-commerce
     conventions. No distinctive custom illustration or icon system.
   graphic_devices: >-
-    The H&M logotype — the ampersand is the distinctive element. HM
+    The H&M logotype. the ampersand is the distinctive element. HM
     Ampersand (Monotype, bespoke, 2007-2015) was specifically designed
     so that the '&' carries equal visual weight to the 'H' and 'M.' HM
     Amperserif (Toshi Omagari, 2013) provides a serif companion for
     editorial contexts. H&M Red (#CC071E, Pantone PMS 1795 C) is a
-    graphic device in itself — the red shopping bag is a globally
+    graphic device in itself. the red shopping bag is a globally
     recognised symbol of accessible fashion.
   motion_language: >-
     Observed in hm.com and campaign films: energetic, music-driven,
     fashion-film pacing. Campaign films use quick cuts, diverse model
     compositions, and contemporary music. The motion language is more
-    energetic and accessible than Zara's slow, editorial pace — reflecting
+    energetic and accessible than Zara's slow, editorial pace. reflecting
     H&M's broader, more democratic positioning.
 
 # ── Typography in Practice ───────────────────────
@@ -209,10 +209,10 @@ type_treatment:
     - "HM Amperserif (Toshi Omagari / Monotype + The Studio, 2013)"
     - "hm.com (observed February 2026)"
   signature_move: >-
-    The bespoke H&M type system — HM Ampersand (sans-serif, 2007-2015,
+    The bespoke H&M type system. HM Ampersand (sans-serif, 2007-2015,
     developed with Monotype) and HM Amperserif (serif companion, Toshi
     Omagari/Monotype, 2013). The system was designed to make the '&'
-    central — not an afterthought between 'H' and 'M' but an equal
+    central. not an afterthought between 'H' and 'M' but an equal
     typographic partner. The sans-serif/serif pairing gives H&M
     flexibility: Ampersand for everyday, accessible contexts; Amperserif
     for elevated, editorial moments (H&M Studio, designer collaborations).
@@ -228,7 +228,7 @@ type_treatment:
     more open and accessible).
   case_convention: >-
     Mixed. Product categories and navigation on hm.com use uppercase.
-    Product descriptions use sentence case. Campaign headlines vary —
+    Product descriptions use sentence case. Campaign headlines vary
     some uppercase for emphasis, some sentence case for warmth. The
     brand name is always 'H&M' (uppercase with ampersand).
   display_vs_body: >-
@@ -241,7 +241,7 @@ type_treatment:
   type_and_image: >-
     Type provides context and framing; photography dominates. Campaign
     headlines are typically overlaid on or adjacent to photography. On
-    hm.com, type is functional — product names, prices, categories —
+    hm.com, type is functional. product names, prices, categories
     while photography sells the clothing. In designer collaborations,
     the collaborator's name in type shares visual weight with the
     campaign photography.
@@ -266,7 +266,7 @@ layout:
     Moderate density. Product grids are standard e-commerce density.
     Campaign hero sections use generous whitespace and large imagery.
     Compared to Zara (lower density, more magazine-like) or ASOS (denser,
-    more product-forward), H&M sits in the middle — fashion-aware but
+    more product-forward), H&M sits in the middle. fashion-aware but
     commerce-practical.
   format_preferences: >-
     Campaign imagery uses portrait and square formats. Product photography
@@ -279,7 +279,7 @@ layout:
 trend_posture:
   overall: "early-adopter"
   relationship_to_trends: >-
-    H&M adopts visual trends quickly — its speed-to-market in both
+    H&M adopts visual trends quickly. its speed-to-market in both
     product and marketing means it reflects current design directions
     within weeks. Designer collaborations bring trend leadership;
     core brand marketing follows trends rather than setting them.
@@ -324,7 +324,7 @@ collaboration:
     change with each collaboration.
   notable_examples: >-
     Mugler x H&M (2023): high-contrast, body-positive, provocative fashion
-    photography — the most visually radical H&M collaboration. Glenn Martens
+    photography. the most visually radical H&M collaboration. Glenn Martens
     x H&M (Autumn 2025): Belgian deconstructionist aesthetic applied to
     fast fashion. H&M Studio AW25: brutalism-inspired visual direction
     that pushed the internal creative team beyond the accessible baseline.

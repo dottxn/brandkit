@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for ESPN. How the brand looks structurally —
+  Visual language for ESPN. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -32,19 +32,19 @@ visual_modes:
         - "ESPN social media channels"
         - "ESPN SportsCenter and studio shows"
       description: >-
-        ESPN Red (#E52534) dominant — the colour that has identified
+        ESPN Red (#E52534) dominant. the colour that has identified
         sports broadcasting for four decades. The ESPN wordmark uses a
         custom typeface inspired by ITC Machine Bold and 'Stop' (Aldo
-        Novarese, 1971) — heavy, italic, unmistakable. Chin Wang (VP
+        Novarese, 1971). heavy, italic, unmistakable. Chin Wang (VP
         Design, Creative Systems & Strategy) oversees the visual system
         with a team of 50+ designers, animators, and artists. The
         signature 12-degree italic slant runs through the entire brand
-        system — creating a forward-leaning, action-coded visual
+        system. creating a forward-leaning, action-coded visual
         language. Emmy-winning broadcast graphics (multiple wins across
         sports packages) set the production standard for sports media.
         Compared to Fox Sports (blue, more aggressive, more graphics-
         heavy) or CBS Sports (blue, more traditional, more conservative),
-        ESPN's visual language carries the most cultural weight — the
+        ESPN's visual language carries the most cultural weight. the
         red wordmark IS sports television.
       differs_from_default_by: >-
         This is the baseline. All other modes reference this red-dominant,
@@ -57,14 +57,14 @@ visual_modes:
         - "ESPN College Football and Basketball"
         - "ESPN MLB, MLS, and other sport-specific packages"
       description: >-
-        Each sport receives its own visual package — custom graphics,
+        Each sport receives its own visual package. custom graphics,
         colour palettes, and motion treatments. The NBA rebrand (October
         2022) introduced an iridescent chrome aesthetic. The College
         Football rebrand (2025) uses a shield logo. These sport-specific
         packages allow ESPN to honour each sport's visual culture while
         maintaining the ESPN identity through the red wordmark and italic
         angle. Sport-specific graphics teams produce hundreds of on-screen
-        elements per season — score bugs, lower thirds, transitions,
+        elements per season. score bugs, lower thirds, transitions,
         statistical graphics, and promotional animations.
       differs_from_default_by: >-
         Sport-specific colour palettes and graphic treatments layer on
@@ -83,7 +83,7 @@ visual_modes:
         prioritise scores, statistics, and editorial content. ESPN+
         (Trollbäck+Company, 2021 visual identity) uses a darker register
         with the ESPN Red as accent. The Fantasy Sports visual language
-        introduces gamification elements — leaderboards, player cards,
+        introduces gamification elements. leaderboards, player cards,
         achievement badges. ESPN's digital visual language must balance
         real-time data (scores updating during games) with editorial
         content (analysis, opinion, features) and streaming video.
@@ -99,12 +99,12 @@ visual_modes:
         - "ESPN BET marketing and advertising"
         - "ESPN BET in-app experience"
       description: >-
-        Mint green and navy blue — a deliberate visual departure from
+        Mint green and navy blue. a deliberate visual departure from
         ESPN Red to distinguish the betting product from the editorial
         and broadcast brand. ESPN BET (launched November 2023 in
         partnership with Penn Entertainment) uses a distinct colour
         palette that signals 'wagering' without contaminating the core
-        ESPN sports-journalism identity. The separation is strategic —
+        ESPN sports-journalism identity. The separation is strategic
         betting and editorial must be visually distinct for regulatory
         and credibility reasons.
       differs_from_default_by: >-
@@ -113,7 +113,7 @@ visual_modes:
         separation protects the editorial brand's credibility.
 
   notes: >-
-    ESPN's visual system is one of the most complex in media — operating
+    ESPN's visual system is one of the most complex in media. operating
     across live broadcast, digital editorial, streaming, betting, and
     sport-specific packages simultaneously. The 50+ person creative team
     produces thousands of visual assets per week during peak sports
@@ -129,38 +129,38 @@ photography:
     - "ESPN broadcast and editorial photography"
     - "ESPN The Magazine (discontinued 2019, set the standard)"
   subject_and_framing: >-
-    Action sports photography — the definitive visual language of American
+    Action sports photography. the definitive visual language of American
     sports media. ESPN's photography captures athletic moments with
     cinematic quality: dramatic angles, peak-action freezes, emotional
     intensity. The ESPN Body Issue (2009-2019, ESPN The Magazine) set a
-    benchmark for athlete portraiture — artistic, body-positive, celebrated.
+    benchmark for athlete portraiture. artistic, body-positive, celebrated.
     Editorial photography for features and profiles uses dramatic lighting
     and compositional sophistication above typical sports-media standards.
     Compared to Sports Illustrated (similar quality, more classic/archival
     register) or Bleacher Report (more digital-native, more meme-coded),
     ESPN's photography carries the most broadcast-production-value.
   casting_observed: >-
-    Athletes across all major sports — the casting is determined by sports
+    Athletes across all major sports. the casting is determined by sports
     coverage. ESPN editorial features photograph athletes with the care
     and art direction typically reserved for fashion or entertainment
     publications. The photography celebrates athletic bodies and
     competitive emotion across genders, sports, and competition levels.
   lighting_and_colour: >-
-    Action photography uses arena and stadium lighting — often dramatic,
+    Action photography uses arena and stadium lighting. often dramatic,
     high-contrast environments. Editorial and portrait photography uses
     controlled studio lighting with ESPN's signature dramatic quality.
     ESPN Red appears in environmental elements (studio sets, graphic
     overlays) rather than influencing the photographic palette.
   post_production: >-
-    Action photography: standard sports-media processing — sharpness,
+    Action photography: standard sports-media processing. sharpness,
     contrast, colour accuracy for broadcast and digital. Editorial
     photography: more artistic post-production, especially for features
-    and profiles — the ESPN Body Issue set a particularly high bar for
+    and profiles. the ESPN Body Issue set a particularly high bar for
     post-production craft.
   visual_boundaries:
     stated_exclusions: >-
       ESPN editorial photography maintains separation from betting and
-      gambling imagery. The brand avoids non-sports contexts — the
+      gambling imagery. The brand avoids non-sports contexts. the
       photography is exclusively sports-coded.
     observed_exceptions: >-
       ESPN's entertainment-adjacent content (30 for 30 documentaries,
@@ -183,7 +183,7 @@ graphic_language:
   uses_illustration: true
   illustration_style: >-
     Broadcast-graphics-coded. ESPN's illustration is primarily motion
-    graphics — animated statistical displays, player comparisons,
+    graphics. animated statistical displays, player comparisons,
     tactical breakdowns, and promotional sequences. These are produced
     at broadcast-production quality by the 50+ person creative team.
     Sport-specific packages (NBA iridescent chrome, College Football
@@ -198,30 +198,30 @@ graphic_language:
     infographics rather than simple data displays. Promotional graphics
     build excitement for upcoming broadcasts.
   icon_style: >-
-    The BottomLine ticker — ESPN's scrolling scores bar along the bottom
+    The BottomLine ticker. ESPN's scrolling scores bar along the bottom
     of the screen is both an icon and a graphic device. Score bugs (the
     on-screen scoreboard during live events) follow sport-specific
     conventions while maintaining the ESPN italic angle. Sport-specific
     logos and icons create distinct visual vocabularies for each league
     and competition covered.
   graphic_devices: >-
-    The ESPN wordmark — the heavy, italic, custom letterforms are
-    instantly recognisable. The 12-degree italic slant — this angle runs
+    The ESPN wordmark. the heavy, italic, custom letterforms are
+    instantly recognisable. The 12-degree italic slant. this angle runs
     through the entire brand system, from the wordmark to graphic
     elements, creating a forward-leaning, action-coded visual language.
-    The BottomLine — the scrolling scores ticker that ESPN pioneered
-    and that has become standard in sports broadcasting. Score bugs —
+    The BottomLine. the scrolling scores ticker that ESPN pioneered
+    and that has become standard in sports broadcasting. Score bugs
     the on-screen scoreboards that ESPN designs with sport-specific
-    treatments. The ESPN Red (#E52534) — the colour that identifies
+    treatments. The ESPN Red (#E52534). the colour that identifies
     sports broadcasting globally.
   motion_language: >-
-    Broadcast-production-quality motion graphics — transitions, reveals,
+    Broadcast-production-quality motion graphics. transitions, reveals,
     statistical animations, and promotional sequences. Each sport package
     has its own motion language: the NBA package uses fluid, iridescent
     transitions; college football uses bolder, more impact-coded motion.
     SportsCenter uses signature transition effects between segments. The
     motion language is high-energy, precision-timed, and production-
-    valued — it sets the standard for sports-broadcast graphics globally.
+    valued. it sets the standard for sports-broadcast graphics globally.
     Emmy-winning quality across multiple sports packages.
 
 # ── Typography in Practice ───────────────────────
@@ -235,8 +235,8 @@ type_treatment:
     - "espn.com (observed February 2026)"
   signature_move: >-
     The ESPN wordmark uses a custom typeface inspired by ITC Machine Bold
-    and 'Stop' (Aldo Novarese, 1971) — heavy, italic, mechanically
-    precise. The 12-degree italic slant is the typographic signature —
+    and 'Stop' (Aldo Novarese, 1971). heavy, italic, mechanically
+    precise. The 12-degree italic slant is the typographic signature
     it suggests forward motion, urgency, and athletic dynamism. This
     angle has been consistent since the early ESPN identity and creates
     a kinetic quality that no other sports brand matches. A2 Beckett
@@ -258,11 +258,11 @@ type_treatment:
     Body text uses sentence case. The uppercase convention reinforces
     authority and urgency.
   display_vs_body: >-
-    Display: The custom ESPN wordmark and A2 Beckett for headlines —
+    Display: The custom ESPN wordmark and A2 Beckett for headlines
     heavy, italic, high-impact. Broadcast graphics use bespoke display
     type treatments for each sport package. Body: Klavika for digital
     editorial text, scores, and interface content. The display-to-body
-    contrast is dramatic — headlines are bold and kinetic, body text
+    contrast is dramatic. headlines are bold and kinetic, body text
     is functional and readable.
   type_and_image: >-
     Type and sports photography work in constant dialogue on espn.com and
@@ -270,7 +270,7 @@ type_treatment:
     graphics float above live game footage. The BottomLine ticker
     occupies a permanent typographic layer across the broadcast image.
     Typography in sports broadcasting must be instantly readable at
-    television viewing distance — legibility under time pressure is the
+    television viewing distance. legibility under time pressure is the
     primary design constraint.
 
 # ── Layout & Composition ─────────────────────────
@@ -283,9 +283,9 @@ layout:
     - "ESPN app"
   signature_composition: >-
     Information-dense, multi-panel. espn.com uses a dense editorial
-    layout — top stories, scores, multiple content modules, editorial
+    layout. top stories, scores, multiple content modules, editorial
     features, and advertising coexisting on a single page. The broadcast
-    layout layers multiple information streams simultaneously — live game
+    layout layers multiple information streams simultaneously. live game
     footage, score bug, BottomLine ticker, promotional graphics, and
     occasional split-screen analysis. The ESPN app prioritises scores
     and personalised content. Compared to The Athletic (cleaner, more
@@ -297,7 +297,7 @@ layout:
     streams. The ESPN app balances scores, editorial, and streaming
     content. Marketing materials use slightly more whitespace but remain
     energetic and content-rich. The high density reflects the always-on
-    nature of sports — there is always a score, a headline, a game to
+    nature of sports. there is always a score, a headline, a game to
     highlight.
   format_preferences: >-
     16:9 landscape for broadcast. The broadcast frame accommodates the
@@ -330,7 +330,7 @@ trend_posture:
       stance: "early-adopter"
       evidence: >-
         ESPN BET (November 2023) required solving a novel visual design
-        challenge — how to create a betting brand identity that is
+        challenge. how to create a betting brand identity that is
         clearly ESPN while being visually distinct from the editorial
         brand. The mint green and navy palette solution provides clear
         visual separation.
@@ -357,12 +357,12 @@ collaboration:
   notable_examples: >-
     ESPN x NBA (October 2022): the iridescent chrome graphics package
     introduced a premium, contemporary aesthetic to basketball broadcasting
-    — demonstrating ESPN's ability to evolve sport-specific graphics
+   demonstrating ESPN's ability to evolve sport-specific graphics
     while maintaining brand coherence. ESPN x College Football (2025
     rebrand): the shield logo and updated graphics system modernised
     college football's visual identity within the ESPN ecosystem. ESPN x
     Trollbäck+Company (ESPN+, 2021): the design studio created the
-    streaming platform's visual identity — bridging the broadcast brand
+    streaming platform's visual identity. bridging the broadcast brand
     with digital-streaming conventions. ESPN x Penn Entertainment (ESPN
     BET, 2023): the partnership required creating a visually distinct
     betting brand within the ESPN identity ecosystem.

@@ -16,7 +16,7 @@ last_updated: "2026-02-25"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Louis Vuitton. How the brand looks structurally —
+  Visual language for Louis Vuitton. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -39,7 +39,7 @@ visual_modes:
         not product-catalogue. Every seasonal campaign redefines the visual
         mood while the Futura type and monogram provide continuity.
       differs_from_default_by: >-
-        This is the baseline — the highest-intensity visual mode. All
+        This is the baseline. the highest-intensity visual mode. All
         other modes are calibrated relative to this level of production.
 
     - name: "product-commerce"
@@ -51,7 +51,7 @@ visual_modes:
         White or neutral background, product isolated, studio-lit with
         precision. Multiple angles per product. The monogram is always
         visible when present on the product. Model shots for ready-to-wear
-        are full-length on white. The visual register is luxury retail —
+        are full-length on white. The visual register is luxury retail
         clean, controlled, designed for purchase consideration. Compared
         to Hermès (warmer product photography with more character) or
         Chanel (more dramatic product lighting), LV's product photography
@@ -59,7 +59,7 @@ visual_modes:
       differs_from_default_by: >-
         Controlled and systematic where campaigns are editorial and
         expressive. The photography serves commerce rather than storytelling.
-        The precision is the luxury signal — every stitch, every hardware
+        The precision is the luxury signal. every stitch, every hardware
         detail, every material texture is perfectly captured.
 
     - name: "men's-pharrell"
@@ -89,7 +89,7 @@ visual_modes:
         - "Trunk heritage and craft experiences"
       description: >-
         The brand in three dimensions. The OMA 57th Street flagship
-        (Shohei Shigematsu) is an architectural statement — 80,000 sq ft
+        (Shohei Shigematsu) is an architectural statement. 80,000 sq ft
         of branded environment. The visual language in physical space
         translates the monogram, the brown-and-gold palette, and the
         travel heritage into architectural materials and spatial experience.
@@ -112,20 +112,20 @@ visual_modes:
 photography:
   confidence: "medium"
   primary_sources:
-    - "Steven Meisel — SS25 campaign photography"
+    - "Steven Meisel. SS25 campaign photography"
     - "louisvuitton.com campaign and product imagery (observed February 2026)"
-    - "Pharrell Williams — men's Creative Director (since February 2023)"
-    - "Nicolas Ghesquière — women's Creative Director (since 2013)"
+    - "Pharrell Williams. men's Creative Director (since February 2023)"
+    - "Nicolas Ghesquière. women's Creative Director (since 2013)"
   subject_and_framing: >-
     Campaign: celebrity and model as protagonist, full-length or 3/4
     in styled environments. The product (bag, garment, shoe) is visible
-    but integrated into the narrative — never isolated in campaign
+    but integrated into the narrative. never isolated in campaign
     photography. Steven Meisel's SS25 work uses controlled studio
     environments with precise set design. Product: isolated on white,
     multiple angles, extreme detail shots of hardware, stitching, and
     monogram pattern. The framing is close enough to see craft quality.
     The two registers (campaign and product) are more visually distinct
-    than at most luxury houses — campaign photography has artistic freedom;
+    than at most luxury houses. campaign photography has artistic freedom;
     product photography follows strict systematics.
   casting_observed: >-
     Campaigns feature A-list celebrities and top-tier models. Recent
@@ -134,10 +134,10 @@ photography:
     cultural figures alongside professional models. The women's collections
     maintain a more traditional fashion-model casting with select celebrity
     placements. The casting breadth is wider than Hermès (more restrained)
-    or Chanel (more focused on a specific type) — LV casts broadly because
+    or Chanel (more focused on a specific type). LV casts broadly because
     the brand's scale requires broad appeal.
   lighting_and_colour: >-
-    Campaign: varies by photographer and season — Meisel's SS25 work uses
+    Campaign: varies by photographer and season. Meisel's SS25 work uses
     controlled studio lighting with precise colour. The lighting always
     serves the clothes and accessories. Product: high-key, even studio
     lighting designed for accurate colour reproduction of leather, canvas,
@@ -151,7 +151,7 @@ photography:
     mood. Product: colour-accurate, minimal artistic grading. The
     monogram canvas colours (brown, tan, damier patterns) must be true
     to physical product. Hardware (gold, silver) must show accurate
-    reflections. The retouching standard is luxury-editorial — visible
+    reflections. The retouching standard is luxury-editorial. visible
     effort in production, invisible effort in post-production.
   visual_boundaries:
     stated_exclusions: >-
@@ -186,34 +186,34 @@ graphic_language:
     pattern (LV interlocking letters, flowers, quatrefoils) is the most
     recognisable graphic pattern in luxury. It functions as illustration,
     pattern, texture, and brand identifier simultaneously. Beyond the
-    monogram, illustration appears through artist collaborations — Takashi
+    monogram, illustration appears through artist collaborations. Takashi
     Murakami's multicolour monogram (2003), Yayoi Kusama's dots (2012,
-    2023) — where artists reinterpret the monogram vocabulary.
+    2023). where artists reinterpret the monogram vocabulary.
   illustration_role: >-
     The monogram pattern appears on products, packaging, store interiors,
-    and digital backgrounds. It is both decorative and functional — it
+    and digital backgrounds. It is both decorative and functional. it
     signals authenticity and prevents counterfeiting. Artist collaborations
     use illustration to refresh the monogram language for new audiences.
     The monogram is never merely decorative; it carries the brand's
     entire heritage in its pattern.
   icon_style: >-
     Minimal and functional on the website and app. Not a distinctive
-    element of the identity — the monogram serves where other brands
+    element of the identity. the monogram serves where other brands
     might use custom icons.
   graphic_devices: >-
     The monogram pattern as background, border, and texture. The LV
-    lockup in Futura. The brown-and-gold palette as a graphic device —
+    lockup in Futura. The brown-and-gold palette as a graphic device
     the colour combination is as recognisable as the monogram. Damier
     check pattern (the other signature canvas pattern, predating the
     monogram). Packaging design (redesigned August 2016): silk ribbon,
-    blue and imperial saffron palette on boxes — the unboxing experience
+    blue and imperial saffron palette on boxes. the unboxing experience
     is itself a graphic statement.
   motion_language: >-
     Observed in campaign films and fashion show content: cinematic pacing,
     long holds, fashion-show cadence. The motion language has the tempo
-    of luxury — slow, deliberate, allowing the viewer to absorb detail.
+    of luxury. slow, deliberate, allowing the viewer to absorb detail.
     Campaign films use high production value (feature-film-quality
-    cinematography). Fashion show footage is the primary motion content —
+    cinematography). Fashion show footage is the primary motion content
     models walking, the garment in motion, the set design revealed. The
     motion is never rushed.
 
@@ -222,12 +222,12 @@ graphic_language:
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "Futura (Paul Renner, 1927) — brand's primary typeface"
+    - "Futura (Paul Renner, 1927). brand's primary typeface"
     - "louisvuitton.com observed February 2026"
     - "Campaign and packaging typography"
   signature_move: >-
     Futura (Paul Renner, 1927) at clean, moderate scale. LV uses Futura
-    as-is — not a custom version, not modified, not replaced. This is
+    as-is. not a custom version, not modified, not replaced. This is
     notable because most luxury houses of LV's scale have commissioned
     custom typefaces. The decision to use an off-the-shelf modernist
     classic says the brand's identity is carried by the monogram and the
@@ -237,7 +237,7 @@ type_treatment:
   what_would_look_wrong: >-
     Serif type (too traditional-luxury, too Hermès/Cartier territory).
     Custom display type with personality (would compete with the monogram).
-    All-caps bold condensed (too aggressive — LV's type is quiet). Script
+    All-caps bold condensed (too aggressive. LV's type is quiet). Script
     or decorative type. Futura is so embedded that any replacement would
     be immediately noticed and likely controversial.
   case_convention: >-
@@ -246,19 +246,19 @@ type_treatment:
     Product names capitalised. The uppercase lockup is the formal register;
     everything else is more relaxed.
   display_vs_body: >-
-    Futura serves both display and body at different weights — similar to
+    Futura serves both display and body at different weights. similar to
     Herman Miller's single-family approach but with a warmer, more
     geometric typeface. Display: Futura Bold or Medium, moderate scale,
     never oversized or aggressive. Body: Futura Book or Light, readable,
-    functional. The type system is deliberately quiet — it never competes
+    functional. The type system is deliberately quiet. it never competes
     with the visual richness of the products and monogram.
   type_and_image: >-
     Type defers to photography and product imagery in almost all contexts.
     Campaign photography dominates the frame; type labels and identifies
-    but does not compete. On product pages, type is minimal and functional —
+    but does not compete. On product pages, type is minimal and functional
     product name, price, material, sizing. The monogram carries more
     visual weight than any headline. Type's role is navigation and
-    information, not expression — the expression comes from the product,
+    information, not expression. the expression comes from the product,
     the photography, and the monogram.
 
 # ── Layout & Composition ─────────────────────────
@@ -270,18 +270,18 @@ layout:
     - "Campaign materials and press imagery"
   signature_composition: >-
     Campaign: full-bleed photography, single figure or product group,
-    cinematic framing. The compositions are generous — luxury is
+    cinematic framing. The compositions are generous. luxury is
     communicated through space and production value, not density. Product
     pages: clean grid, product centred, white background, detail views on
     scroll. The website alternates between immersive campaign sections
     (full-bleed, minimal UI) and commerce sections (structured grid,
-    functional navigation). This duality — editorial immersion and
-    commercial function — is the compositional signature.
+    functional navigation). This duality. editorial immersion and
+    commercial function. is the compositional signature.
   density_and_whitespace: >-
     Campaign and editorial sections: very low density, immersive,
     photographic. Commerce sections: moderate density, product grid
     with filters and navigation. The brand manages the transition between
-    these densities smoothly — scrolling from a campaign hero into a
+    these densities smoothly. scrolling from a campaign hero into a
     product grid without jarring visual breaks. Compared to Hermès
     (consistently moderate density) or Gucci (more varied, sometimes
     maximalist), LV maintains a clear split between editorial and
@@ -291,7 +291,7 @@ layout:
     Portrait for campaign photography (the human figure drives the
     format). Square for social and product-focused content. The brand
     uses full-bleed immersive layouts more aggressively than most
-    luxury competitors — the campaign experience is designed to feel
+    luxury competitors. the campaign experience is designed to feel
     like entering a world, not browsing a catalogue.
 
 # ── Trend Posture ────────────────────────────────
@@ -312,7 +312,7 @@ trend_posture:
         2023) redefined how luxury brands use artist partnerships to
         refresh visual language without abandoning core identity. The
         Kusama 2023 activation included AR experiences, building wraps,
-        and product design — the most extensive artist collaboration in
+        and product design. the most extensive artist collaboration in
         luxury history at that scale.
       reasoning: >-
         LV pioneered the luxury-x-artist collaboration model that is now
@@ -322,10 +322,10 @@ trend_posture:
       stance: "selective-adopter"
       evidence: >-
         Virgil Abloh's appointment as men's Creative Director (2018-2021)
-        brought streetwear aesthetics into LV's visual language — sneakers,
+        brought streetwear aesthetics into LV's visual language. sneakers,
         graphic tees, bold colours, youthful casting. Pharrell Williams
         (men's CD since February 2023) has continued the cultural breadth
-        but with more discipline — shifting from Abloh's spectacle-driven
+        but with more discipline. shifting from Abloh's spectacle-driven
         approach to a more curated cultural programme.
       reasoning: >-
         LV absorbed streetwear influence through creative-director
@@ -339,7 +339,7 @@ collaboration:
   flexibility: "selective"
   what_stays: >-
     The monogram (always present, always recognisable). Futura typography.
-    The production quality — no collaboration reduces the craft or
+    The production quality. no collaboration reduces the craft or
     photographic standard. The LV lockup always appears.
   what_bends: >-
     Colour palette can expand dramatically (Murakami's multicolour,
@@ -348,13 +348,13 @@ collaboration:
     style adapts to the collaborator's world. Product design can be
     radically altered while maintaining the monogram as anchor.
   notable_examples: >-
-    LV x Takashi Murakami (2003): multicolour monogram on white canvas —
+    LV x Takashi Murakami (2003): multicolour monogram on white canvas
     fundamentally altered the brand's visual signature while keeping the
     pattern structure. One of the most commercially successful art
     collaborations in fashion history. LV x Yayoi Kusama (2012, 2023):
     polka dots applied to monogram, products, stores, and AR experiences.
     The 2023 reissue included building wraps on flagships globally. LV x
-    Supreme (2017): red box logo on monogram canvas — merged LV's luxury
+    Supreme (2017): red box logo on monogram canvas. merged LV's luxury
     identity with Supreme's streetwear identity. Each collaboration allows
     the monogram to absorb and transform the collaborator's visual
     language.

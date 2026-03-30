@@ -16,7 +16,7 @@ last_updated: "2026-02-25"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for HarleyMeds. How the brand looks structurally —
+  Visual language for HarleyMeds. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -26,7 +26,7 @@ visual_modes:
   modes:
     - name: "clinical-elegance"
       touchpoints:
-        - "harleymeds.co.uk (website — returned 403 at time of research)"
+        - "harleymeds.co.uk (website. returned 403 at time of research)"
         - "Instagram @harley.meds (31 posts, ~1,952 followers as of February 2026)"
         - "Booking and consultation flow"
       description: >-
@@ -35,7 +35,7 @@ visual_modes:
         product visualisations (by Daniela Noriega) give the brand a tech-
         forward, premium quality uncommon in UK telehealth. Typography is
         clean sans-serif. The visual register positions HarleyMeds between
-        clinical trustworthiness and luxury — 'Harley Street credentials,
+        clinical trustworthiness and luxury. 'Harley Street credentials,
         digital delivery.'
       differs_from_default_by: >-
         This is the baseline. All visual output observed to date operates
@@ -47,7 +47,7 @@ visual_modes:
         - "Brand introduction motion pieces by Lukas Martins"
       description: >-
         More dynamic, more colour, more personality. Lukas Martins' motion
-        work introduces kinetic energy — type animates, colours shift,
+        work introduces kinetic energy. type animates, colours shift,
         3D elements rotate. The palette opens up from the restrained
         baseline. This mode is where HarleyMeds shows youth and ambition
         rather than clinical authority.
@@ -59,7 +59,7 @@ visual_modes:
     HarleyMeds is an early-stage brand (bookings tripled in first week of
     launch). The visual system is still developing. The creative team
     (LOTIPA agency, Brasília) has established a strong foundation but the
-    system has limited real-world application so far — primarily website
+    system has limited real-world application so far. primarily website
     and Instagram. As the brand scales, additional modes will likely
     emerge for specific treatment categories (weight loss, skincare,
     sexual health).
@@ -70,11 +70,11 @@ photography:
   confidence: "low"
   primary_sources:
     - "Instagram @harley.meds (31 posts observed February 2026)"
-    - "LOTIPA agency (Brasília) — brand identity creators"
+    - "LOTIPA agency (Brasília). brand identity creators"
   subject_and_framing: >-
     Limited photography observed. The brand relies more heavily on 3D
     renders and graphic treatments than photography. Where photography
-    appears (Instagram), it shows product packaging in styled settings —
+    appears (Instagram), it shows product packaging in styled settings
     minimal surfaces, controlled lighting, the product as object. No
     lifestyle photography or people observed in the brand's photography
     to date.
@@ -84,14 +84,14 @@ photography:
     rather than casting. This may change as the brand scales beyond
     its launch phase.
   lighting_and_colour: >-
-    Product photography uses controlled studio lighting — soft, even,
+    Product photography uses controlled studio lighting. soft, even,
     designed to show packaging detail. Colour temperature is neutral to
-    cool — cooler than Hims (warm) but warmer than traditional NHS-style
+    cool. cooler than Hims (warm) but warmer than traditional NHS-style
     clinical blue. The dark palette of the brand identity carries through
     into photography backgrounds.
   post_production: >-
     Clean and precise. The 3D renders (Daniela Noriega) are heavily
-    post-produced by nature — smooth surfaces, perfect lighting, exact
+    post-produced by nature. smooth surfaces, perfect lighting, exact
     colour matching. Product photography follows the same level of
     precision. No visible grain, texture, or analogue treatment.
   visual_boundaries:
@@ -108,30 +108,30 @@ photography:
 graphic_language:
   confidence: "medium"
   primary_sources:
-    - "LOTIPA agency (Brasília) — brand identity system"
-    - "Daniela Noriega — 3D art and product visualisation"
-    - "Alex Monteiro — AI-assisted identity and visual development"
-    - "Antoniel Felainne — graphic design"
+    - "LOTIPA agency (Brasília). brand identity system"
+    - "Daniela Noriega. 3D art and product visualisation"
+    - "Alex Monteiro. AI-assisted identity and visual development"
+    - "Antoniel Felainne. graphic design"
   uses_illustration: false
   illustration_style: ""
   illustration_role: ""
   icon_style: >-
     Not enough observed to characterise. Website was returning 403 at time
-    of research. Instagram posts show minimal icon usage — the visual
+    of research. Instagram posts show minimal icon usage. the visual
     system relies on 3D renders and typography rather than icons.
   graphic_devices: >-
-    3D product renders are the brand's primary graphic device — Daniela
+    3D product renders are the brand's primary graphic device. Daniela
     Noriega's work gives packaging a tactile, premium quality that
     distinguishes HarleyMeds from flat, 2D telehealth competitors. Alex
     Monteiro's AI-assisted visual development adds a layer of generative
-    texture to the identity — patterns and visual elements that feel
+    texture to the identity. patterns and visual elements that feel
     contemporary and tech-forward. Colour blocking in the brand's dark
     palette creates structure across layouts.
   motion_language: >-
     Observed in Lukas Martins' motion work on Instagram: smooth 3D
     transitions, type that slides and scales with confidence, colour
     shifts that suggest premium and modernity. The motion work is the
-    brand's most visually ambitious output — more polished and dynamic
+    brand's most visually ambitious output. more polished and dynamic
     than the static Instagram posts. Easing is smooth and deliberate,
     not bouncy or playful.
 
@@ -144,16 +144,16 @@ type_treatment:
     - "LOTIPA agency identity system"
   signature_move: >-
     Clean sans-serif at confident scale on dark backgrounds. The type
-    treatment is minimal and modern — the brand lets the 3D renders and
+    treatment is minimal and modern. the brand lets the 3D renders and
     colour system do the visual work. Exact typeface specifications were
     not publicly available at time of research (website returning 403).
     The observed type is a geometric or neo-grotesque sans-serif with
-    medium weight — similar in feel to the category but executed with
+    medium weight. similar in feel to the category but executed with
     more restraint than competitors.
   what_would_look_wrong: >-
     Serif type (too traditional for a digital-first health brand). Bright,
     warm palettes (contradicts the dark, clinical-premium positioning).
-    Rounded, friendly typefaces like Sofia Pro (that's Hims territory —
+    Rounded, friendly typefaces like Sofia Pro (that's Hims territory
     HarleyMeds positions as more authoritative and premium). NHS blue
     (too institutional, not premium enough).
   case_convention: >-
@@ -161,11 +161,11 @@ type_treatment:
     a compound proper noun. No all-caps headlines observed.
   display_vs_body: >-
     Insufficient data for detailed analysis. The observed type system uses
-    weight variation within a single family — bolder for headlines, lighter
-    for body — rather than contrasting typeface families.
+    weight variation within a single family. bolder for headlines, lighter
+    for body. rather than contrasting typeface families.
   type_and_image: >-
     Type sits cleanly on or beside 3D renders. The relationship is
-    complementary — the 3D work provides visual richness while the type
+    complementary. the 3D work provides visual richness while the type
     provides information. No observed instances of type overlaying
     photography (limited photography in the system).
 
@@ -185,7 +185,7 @@ layout:
     or Manual (more clinical), HarleyMeds' compositions feel more like
     a luxury product brand than a healthcare brand.
   density_and_whitespace: >-
-    Low density. Compositions are spare — one element, one message. The
+    Low density. Compositions are spare. one element, one message. The
     dark backgrounds create a sense of space that reads as premium. The
     brand is not trying to communicate a lot of information visually;
     it is trying to communicate quality and credibility.
@@ -200,7 +200,7 @@ trend_posture:
   overall: "early-adopter"
   relationship_to_trends: >-
     HarleyMeds launched with a visual system that is contemporary and
-    trend-aware — 3D product visualisation, AI-assisted design, kinetic
+    trend-aware. 3D product visualisation, AI-assisted design, kinetic
     typography. As an early-stage brand, it has the advantage of building
     from current visual trends rather than retrofitting legacy identity.
   examples:
@@ -224,7 +224,7 @@ trend_posture:
         afterthought.
       reasoning: >-
         Using AI tools in the identity development process is still
-        uncommon for health brands — most established competitors avoid
+        uncommon for health brands. most established competitors avoid
         it for credibility reasons. HarleyMeds, as a new entrant, has
         less legacy resistance to the approach.
 

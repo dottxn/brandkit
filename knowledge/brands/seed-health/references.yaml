@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Seed Health — Creative References
+# Seed Health. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -48,17 +48,17 @@ publications:
 
 visuals:
   - url: "https://mouthwash.studio/project/seed/"
-    label: "MOUTHWASH Studio case study — Brand identity and motion design"
+    label: "MOUTHWASH Studio case study. Brand identity and motion design"
     section: "visual-language"
 
   - url: "https://thisislandscape.com/projects/seed/"
-    label: "Landscape Studio project — Visual system connecting human and planetary health"
+    label: "Landscape Studio project. Visual system connecting human and planetary health"
     section: "visual-language"
 
   - url: "https://seed.com/"
-    label: "Seed.com marketing pages — Science-beautiful visual language and Seed Sans typography"
+    label: "Seed.com marketing pages. Science-beautiful visual language and Seed Sans typography"
     section: "visual-language"
 
   - url: "https://seedhealth.org/"
-    label: "Seed Health company site — Research and scientific credibility communication"
+    label: "Seed Health company site. Research and scientific credibility communication"
     section: "visual-world"

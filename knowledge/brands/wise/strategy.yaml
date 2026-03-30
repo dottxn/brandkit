@@ -26,7 +26,7 @@ purpose: >-
   is "make the cost visible." This unlocks customer agency. WHY: Because the entire
   justification for banking fees rests on opacity. Exchange rates are sets of numbers;
   fees are percentages. Neither requires mystification. By making these visible, Wise
-  doesn't disrupt banking—it reveals that disruption was always necessary. The trade-off:
+  doesn't disrupt banking. it reveals that disruption was always necessary. The trade-off:
   Wise sacrificed the ability to optimize opaquely. They cannot A/B test different fees
   for different customer segments (Revolut does this). They cannot hide costs in
   opaque exchange-rate spreads (PayPal does this). This is a permanent structural choice,
@@ -38,7 +38,7 @@ mission: >-
   feel ordinary, not aspirational. WHY: Because every framing of "international" money
   as special justifies premium pricing. If moving money across a border feels like the
   same action as moving money domestically, the pricing pressure that allows banks to
-  charge 3-5% premiums collapses. The mechanism is primarily cultural—changing how people
+  charge 3-5% premiums collapses. The mechanism is primarily cultural. changing how people
   think of borders, not changing the underlying rails. Wise's mission is to make
   international money transfer so routine that premium pricing becomes indefensible. This
   is why Wise focuses on expats, freelancers, and remote workers (the people for whom
@@ -52,11 +52,11 @@ mission: >-
 vision: >-
   A world where moving money internationally is as easy as sending an email. This is the
   psychological and technical aspiration. Ease here means: (1) Frictionless interface
-  (true—Wise's UX is very smooth), but more importantly (2) Complete understanding
+  (true. Wise's UX is very smooth), but more importantly (2) Complete understanding
   without expertise, and (3) No hidden surprise costs. The vision is not "one-click
   transfers" (many services do this); the vision is "you understand the complete flow
   without a financial background." This vision statement reveals that Wise's core
-  competition is not other money-transfer services—it's the default assumption that
+  competition is not other money-transfer services. it's the default assumption that
   international finance requires expertise and carries hidden costs. WHY email? Because
   email represents the democratization of technology. You don't need IT certification to
   send email. Wise aspires to that level of democratization for international finance.
@@ -72,12 +72,12 @@ values:
     becomes the anti-incumbent. The trade-off: transparency prevents profit optimization.
     You cannot charge different rates in different markets if you're publishing all rates.
     You cannot create artificial scarcity of certain currency pairs. Transparency is a
-    permanent margin constraint. BUT it also becomes a permanent trust advantage—once
+    permanent margin constraint. BUT it also becomes a permanent trust advantage. once
     customers see you're transparent, they believe the transparency across all dimensions.
   - >-
-    Obsess over customers: Mechanism: every design choice—from 342-language typography
+    Obsess over customers: Mechanism: every design choice. from 342-language typography
     support to Tapestries patterns reflecting real global textiles to fee calculators
-    showing the math—directly serves making customers understand their own transactions.
+    showing the math. directly serves making customers understand their own transactions.
     WHY: Because the default is to serve shareholders (minimize cost) or regulators
     (minimize compliance risk). Wise serves customer clarity first. This means spending
     millions on typography to support languages that represent tiny customer segments
@@ -87,7 +87,7 @@ values:
   - >-
     Think global: Mechanism: operate in 80+ countries, support 342 languages, source
     design patterns from actual global textile traditions (not generic "world" aesthetics).
-    WHY: Because finance is genuinely borderless—money moves globally, but banking
+    WHY: Because finance is genuinely borderless. money moves globally, but banking
     infrastructure is still nation-based. Wise's global thinking means treating every
     market with the same commitment, not as a "local expansion." The trade-off: you
     cannot have consolidated marketing or one-size-fits-all design. You must invest in
@@ -97,11 +97,11 @@ values:
     Never settle: Mechanism: constantly question whether current processes hide complexity,
     whether current rates are truly real, whether current messaging accurately explains
     what happens. WHY: Because the core belief is that much of finance is "settled"
-    inefficiency—people accept high fees because they've always been high; they accept
+    inefficiency. people accept high fees because they've always been high; they accept
     slow transfers because they've always been slow. "Never settle" means treating every
     inherited assumption as worth challenging. The trade-off: this creates organizational
     restlessness. You cannot have stable processes if you're always questioning them. But
-    this restlessness is also where competitive advantage lives—Wise will always find
+    this restlessness is also where competitive advantage lives. Wise will always find
     inefficiencies that incumbent banks accept as unavoidable.
   - >-
     Own it: Mechanism: accountability for every choice, no hiding behind regulatory

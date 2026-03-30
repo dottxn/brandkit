@@ -19,7 +19,7 @@ summary: Visual reasoning for Pfizer. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Noto Sans provides humanist sans-serif foundation with open, approachable character design—critical in pharmaceutical context where coldness destroys trust. The custom Pfizer Wordmark provides ownership and distinctiveness while Noto Sans handles all supporting communications. The typeface pair says "we're modern and human, grounded in science but speaking to people."
+  Noto Sans provides humanist sans-serif foundation with open, approachable character design. critical in pharmaceutical context where coldness destroys trust. The custom Pfizer Wordmark provides ownership and distinctiveness while Noto Sans handles all supporting communications. The typeface pair says "we're modern and human, grounded in science but speaking to people."
 colour_logic: >-
   Vibrant two-tone palette of bright blue (#0073E6) and cyan (#00BFFF) creates depth and movement suggesting advancement. The blue tones avoid corporate navy (too institutional) and tech cyan (too trendy), occupying distinct pharmaceutical space. The two-tone approach is genius because it shows the ribbon helix even in solid color applications, embedding the logo concept into color itself.
 composition_philosophy: >-

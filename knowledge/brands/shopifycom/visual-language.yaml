@@ -16,7 +16,7 @@ last_updated: "2026-02-27"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Shopify. How the brand looks structurally —
+  Visual language for Shopify. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -30,11 +30,11 @@ visual_modes:
         - "Shopify social media channels"
       description: >-
         Shopify Green (#95BF47) dominant with supporting Flat Green
-        (#64943E) — a bright yellow-green that communicates growth,
+        (#64943E). a bright yellow-green that communicates growth,
         entrepreneurship, and possibility. Inter (open-source variable
         font, Rasmus Andersson) serves as the primary typeface across
-        the Polaris design system and marketing. The Shopping Bag — a
-        stylised bag with white 'S' — is the primary brand mark, one of
+        the Polaris design system and marketing. The Shopping Bag. a
+        stylised bag with white 'S'. is the primary brand mark, one of
         the most recognisable icons in e-commerce. Polaris (Shopify's
         comprehensive design system) governs the product interface with
         tokens for typography, spacing, colour, and interaction. Shopify
@@ -59,11 +59,11 @@ visual_modes:
       description: >-
         Functional, merchant-tool-coded. The Polaris design system
         provides systematic visual consistency for the merchant admin
-        experience — store management, inventory, orders, analytics,
+        experience. store management, inventory, orders, analytics,
         and marketing tools. Inter at reduced text sizes for space
         efficiency (merchants need to see more data at once). Design
         tokens manage typography, spacing, colour, and components at
-        scale. Icons in harmony with typography — noticeable without
+        scale. Icons in harmony with typography. noticeable without
         overpowering. The 4px grid aligns type and UI elements. Polaris
         is one of the most comprehensive public design systems in tech.
       differs_from_default_by: >-
@@ -79,7 +79,7 @@ visual_modes:
       description: >-
         More premium, more enterprise-coded. Shopify Plus uses the same
         green and typographic system but with a more sophisticated,
-        enterprise-grade register — darker backgrounds, more restrained
+        enterprise-grade register. darker backgrounds, more restrained
         compositions, case-study-driven content featuring large-scale
         merchants (Allbirds, Gymshark, Heinz). The visual language must
         communicate both Shopify's merchant-empowerment mission and
@@ -92,7 +92,7 @@ visual_modes:
 
   notes: >-
     Shopify's Polaris design system is one of the most comprehensive
-    public design systems in tech — governing typography, colour, spacing,
+    public design systems in tech. governing typography, colour, spacing,
     icons, and interaction patterns for all merchant-facing interfaces.
     The system evolved from Sketch to Figma with hundreds of components.
     Shopify Editions (biannual) introduces campaign-specific visual
@@ -107,10 +107,10 @@ photography:
     - "Shopify Editions campaigns"
   subject_and_framing: >-
     Merchant-story-forward. Shopify's photography shows entrepreneurs
-    building and running their businesses — makers in workshops,
+    building and running their businesses. makers in workshops,
     founders at their computers, products being packed and shipped,
     retail stores operating with Shopify POS. The photography celebrates
-    the merchant — their product, their process, their success. Product
+    the merchant. their product, their process, their success. Product
     photography shows diverse merchant goods (fashion, food, crafts,
     technology, beauty) representing the breadth of Shopify's merchant
     base. Compared to BigCommerce (more abstract-technology-coded) or
@@ -118,19 +118,19 @@ photography:
     the most merchant-human-story-coded.
   casting_observed: >-
     Diverse, entrepreneurial, global. Merchants across demographics,
-    business types, and geographies — reflecting Shopify's position as
+    business types, and geographies. reflecting Shopify's position as
     a global commerce platform. Casting emphasises founders and makers
     rather than consumers. Enterprise case studies feature recognisable
     brand founders.
   lighting_and_colour: >-
     Warm, natural, workspace-and-retail-coded. Photography uses the
-    natural lighting of merchant environments — workshops, retail stores,
+    natural lighting of merchant environments. workshops, retail stores,
     warehouses, home offices. Product photography varies with merchant
     category. The green palette influences graphic overlays rather than
     photographic colour grade.
   post_production: >-
     Clean, authentic, merchant-respectful. Photography maintains the
-    genuine quality of merchant stories. Processing is moderate — warm,
+    genuine quality of merchant stories. Processing is moderate. warm,
     clear, and professional without heavy stylisation.
   visual_boundaries:
     stated_exclusions: >-
@@ -154,7 +154,7 @@ graphic_language:
     - "shopify.com (observed February 2026)"
   uses_illustration: true
   illustration_style: >-
-    Polaris-system illustration — clean, functional, merchant-context-
+    Polaris-system illustration. clean, functional, merchant-context-
     coded. Illustrations appear in onboarding, feature explanation, and
     educational content within the admin. The style is contemporary,
     geometric, and aligned with Inter typography. Shopify Editions
@@ -165,24 +165,24 @@ graphic_language:
     empowerment messaging. The illustration system helps simplify
     complex e-commerce concepts for merchant understanding.
   icon_style: >-
-    Polaris icon system — designed in harmony with Inter typography,
+    Polaris icon system. designed in harmony with Inter typography,
     noticeable without overpowering. Icons follow the 4px grid and
     maintain consistent weight and style. The icon system covers
     merchant-admin functions: products, orders, customers, analytics,
     marketing, shipping, and store management. The Shopping Bag functions
     as the primary brand icon at all scales.
   graphic_devices: >-
-    The Shopping Bag — a stylised bag with white 'S,' one of the most
+    The Shopping Bag. a stylised bag with white 'S,' one of the most
     recognisable marks in e-commerce. The bag can represent the brand
-    independently without the wordmark. Shopify Green (#95BF47) — the
+    independently without the wordmark. Shopify Green (#95BF47). the
     bright yellow-green is Shopify's most ownable chromatic device. The
-    italicised wordmark — 'shopify' in a distinctive italic that
+    italicised wordmark. 'shopify' in a distinctive italic that
     suggests forward movement and entrepreneurial energy. Polaris design
-    tokens — the systematic colour, spacing, and component tokens
+    tokens. the systematic colour, spacing, and component tokens
     function as graphic devices at the system level.
   motion_language: >-
     Functional, merchant-experience-coded. Admin interface animations
-    provide feedback for merchant actions — order confirmation, inventory
+    provide feedback for merchant actions. order confirmation, inventory
     updates, analytics data loading. Shopify Editions uses more cinematic,
     product-launch-coded motion. Marketing videos use merchant-story
     compositions. The motion language is more functional than expressive
@@ -195,13 +195,13 @@ type_treatment:
     - "Polaris design system typography"
     - "shopify.com (observed February 2026)"
   signature_move: >-
-    Inter (Rasmus Andersson, open-source variable font) — crafted
+    Inter (Rasmus Andersson, open-source variable font). crafted
     specifically for computer screens with enhanced legibility at small
     text sizes. Shopify selected Inter for the Polaris design system
     after previous typographic iterations, prioritising screen legibility
     and variable-font capability. The open-source nature aligns with
     Shopify's developer-ecosystem values. Text sizes were reduced across
-    the admin to help merchants see more data at once — Inter's small-
+    the admin to help merchants see more data at once. Inter's small-
     size legibility makes this possible. The italicised 'shopify'
     wordmark uses a distinct treatment separate from Inter. Compared to
     BigCommerce (no distinctive type) or Squarespace (more design-
@@ -221,13 +221,13 @@ type_treatment:
   display_vs_body: >-
     Display: Inter at bold weights for marketing headlines. The
     italicised wordmark provides display-level brand distinction. Body:
-    Inter at regular weight at reduced sizes for the admin — optimised
+    Inter at regular weight at reduced sizes for the admin. optimised
     for data density. Variable weight adjustment provides nuanced
     hierarchy across the design system.
   type_and_image: >-
-    Typography provides critical merchant information — revenue, orders,
+    Typography provides critical merchant information. revenue, orders,
     product names, customer data, analytics. In the admin, type IS the
-    primary content — data and numbers dominate. In marketing, type and
+    primary content. data and numbers dominate. In marketing, type and
     merchant-story photography share space. The italicised wordmark
     provides brand signature in marketing contexts.
 
@@ -240,16 +240,16 @@ layout:
   signature_composition: >-
     Admin-dashboard-centred for merchants, merchant-story-centred for
     marketing. The Shopify Admin uses a left-navigation, content-area
-    composition standard in SaaS — but Polaris's systematic approach
+    composition standard in SaaS. but Polaris's systematic approach
     creates a more consistent and polished experience than most. Marketing
-    (shopify.com) uses hero-merchant-story compositions — large imagery
+    (shopify.com) uses hero-merchant-story compositions. large imagery
     and testimonials that inspire entrepreneurship. Shopify Editions
-    uses product-launch-coded compositions — feature announcements with
+    uses product-launch-coded compositions. feature announcements with
     cinematic visual treatment. Compared to BigCommerce (more enterprise-
     demo-coded) or Wix (more template-showcase-coded), Shopify's layout
     is the most merchant-narrative-forward.
   density_and_whitespace: >-
-    High density in the admin — merchants need comprehensive data access.
+    High density in the admin. merchants need comprehensive data access.
     Polaris manages this density through systematic spacing tokens and
     consistent component sizing. Marketing pages use generous whitespace
     with merchant stories. Shopify Plus uses more premium spacing.
@@ -261,15 +261,15 @@ layout:
 trend_posture:
   overall: "leader"
   relationship_to_trends: >-
-    Shopify leads in design-system implementation for SaaS platforms —
+    Shopify leads in design-system implementation for SaaS platforms
     Polaris is a benchmark for public design systems in the technology
     industry.
   examples:
     - trend: "Public design systems in SaaS"
       stance: "leader"
       evidence: >-
-        Polaris — Shopify's comprehensive design system with tokens for
-        typography, spacing, colour, and interaction — is one of the
+        Polaris. Shopify's comprehensive design system with tokens for
+        typography, spacing, colour, and interaction. is one of the
         most referenced public design systems in tech. The system governs
         the experience for millions of merchants.
       reasoning: >-
@@ -281,7 +281,7 @@ trend_posture:
       stance: "leader"
       evidence: >-
         Shopify's marketing consistently centres merchant success stories
-        rather than platform features — the visual language treats
+        rather than platform features. the visual language treats
         entrepreneurs as heroes rather than users. This merchant-first
         visual approach has influenced how other SaaS platforms present
         themselves.
@@ -305,11 +305,11 @@ collaboration:
     Partner ecosystem (agencies, developers) extends the visual system.
   notable_examples: >-
     Shopify x Polaris design system (ongoing): the most significant
-    visual collaboration is the Polaris system itself — governing visual
+    visual collaboration is the Polaris system itself. governing visual
     consistency across millions of merchant interfaces and thousands of
     third-party apps. Shopify x Rasmus Andersson / Inter (typography):
     the adoption of Inter as the system typeface reflects Shopify's
-    values — open-source, screen-optimised, variable-capable. Shopify
+    values. open-source, screen-optimised, variable-capable. Shopify
     Editions (biannual): each Editions event creates a campaign-specific
-    visual world — demonstrating the brand system's ability to flex for
+    visual world. demonstrating the brand system's ability to flex for
     product-launch moments while maintaining Shopify identity.

@@ -16,7 +16,7 @@ last_updated: "2026-02-25"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Jaguar. How the brand looks structurally —
+  Visual language for Jaguar. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules. Note: as of February 2026,
   the new identity (launched November 2024) is a paper identity with no
@@ -39,7 +39,7 @@ visual_modes:
         New custom typeface by Monotype in all-caps at extreme scale.
         Four brand marks (Device Mark, Artist Mark, Makers Mark,
         Strikethrough) used interchangeably. No vehicle in the initial
-        launch film — only people, colour, movement, and the new identity.
+        launch film. only people, colour, movement, and the new identity.
         The visual register is closer to Bottega Veneta or Acne Studios
         than to any automotive brand.
       differs_from_default_by: >-
@@ -57,7 +57,7 @@ visual_modes:
         British luxury positioning) still exists in the real world
         through the existing vehicle fleet and dealer network. The
         visual transition between old and new has not been resolved
-        publicly — there is a gap between the new identity and the
+        publicly. there is a gap between the new identity and the
         physical reality of current Jaguar ownership.
       differs_from_default_by: >-
         This is the ghost of the previous identity that still operates
@@ -80,33 +80,33 @@ photography:
     - "Type 00 concept car photography (Miami Art Week, December 2024)"
     - "'Copy Nothing' rebrand launch film (November 2024)"
     - "jaguar.com post-rebrand imagery"
-    - "Richard Stevens — Brand Design Director, Jaguar"
+    - "Richard Stevens. Brand Design Director, Jaguar"
   subject_and_framing: >-
-    The rebrand launch film featured no vehicles — only people in
+    The rebrand launch film featured no vehicles. only people in
     colourful, fashion-editorial styling, moving through abstract spaces.
     This generated 160M+ YouTube views and intense public reaction. The
-    Type 00 concept car photography is architectural — the car as
+    Type 00 concept car photography is architectural. the car as
     sculpture in gallery-like settings, Satin Rhodon Rose paint dominating
     the frame. People are styled, not cast as drivers or owners. The
     framing is fashion-editorial: full-length poses, geometric
     compositions, colour-coordinated wardrobe.
   casting_observed: >-
     The launch film cast androgynous models in bold, non-automotive
-    styling — bright colours, architectural garments, movement-based
+    styling. bright colours, architectural garments, movement-based
     posing. No traditional automotive casting (driver behind wheel,
     family by car, executive in suit). This was the most commented-upon
     element of the rebrand. No customer or owner photography exists
     under the new identity.
   lighting_and_colour: >-
     Saturated, warm, theatrical. The Type 00 in Satin Rhodon Rose is
-    lit to emphasise the colour — it is the visual centrepiece. The
+    lit to emphasise the colour. it is the visual centrepiece. The
     launch film uses dramatic, fashion-show lighting. Nothing natural
     or documentary. The lighting approach is closer to a Gucci campaign
     than to anything in the automotive category. This is a deliberate
     departure from the previous Jaguar's cool, British, restrained
     lighting.
   post_production: >-
-    Highly stylised. Colour grading is saturated and precise — each
+    Highly stylised. Colour grading is saturated and precise. each
     colour in the system (including the Rhodon Rose) is controlled
     exactly. The visual output has the production quality of a fashion
     brand, not an automotive manufacturer. The concept car images are
@@ -114,7 +114,7 @@ photography:
   visual_boundaries:
     stated_exclusions: >-
       Gerry McGovern (CCO) has stated the new Jaguar will 'copy nothing.'
-      The brand explicitly rejects conventional automotive visual codes —
+      The brand explicitly rejects conventional automotive visual codes
       roads, driving scenarios, performance metrics, competitive
       comparisons, heritage nostalgia.
     observed_exceptions: >-
@@ -132,29 +132,29 @@ photography:
 graphic_language:
   confidence: "medium"
   primary_sources:
-    - "Accenture Song / Spark44 — brand identity (pre-review)"
-    - "Monotype — custom typeface design"
+    - "Accenture Song / Spark44. brand identity (pre-review)"
+    - "Monotype. custom typeface design"
     - "jaguar.com post-rebrand"
   uses_illustration: false
   illustration_style: ""
   illustration_role: ""
   icon_style: >-
-    Not characterised — the new identity system has not deployed enough
+    Not characterised. the new identity system has not deployed enough
     functional UI to establish an icon language. The focus has been on
     brand marks and typography rather than functional interface design.
   graphic_devices: >-
-    Four interchangeable brand marks — Device Mark (geometric), Artist Mark
+    Four interchangeable brand marks. Device Mark (geometric), Artist Mark
     (expressive), Makers Mark (craft-focused), and Strikethrough (the most
     reductive). The leaper cat has been retired from the primary identity
-    (though it may return on vehicles — unconfirmed). The Monotype custom
-    typeface itself functions as a graphic device — distinctive enough at
+    (though it may return on vehicles. unconfirmed). The Monotype custom
+    typeface itself functions as a graphic device. distinctive enough at
     large scale to be recognisable as a system. Bold colour fields
     (particularly the Satin Rhodon Rose associated with the Type 00) serve
     as the primary graphic structure.
   motion_language: >-
     Observed in the 'Copy Nothing' launch film: slow, fashion-paced,
     editorial. Long holds on colour and movement. The models walk, don't
-    run. The pace is deliberate and confident — closer to a Prada film
+    run. The pace is deliberate and confident. closer to a Prada film
     than a car commercial. No engine sounds, no speed, no dynamism in the
     traditional automotive sense. The motion language is about presence,
     not performance.
@@ -164,40 +164,40 @@ graphic_language:
 type_treatment:
   confidence: "medium"
   primary_sources:
-    - "Monotype — custom typeface designed for Jaguar rebrand (2024)"
+    - "Monotype. custom typeface designed for Jaguar rebrand (2024)"
     - "jaguar.com post-rebrand"
     - "Type 00 reveal materials"
   signature_move: >-
     The Monotype custom typeface at extreme scale, all-caps, generously
-    tracked. The letterforms are geometric and modernist — no reference
+    tracked. The letterforms are geometric and modernist. no reference
     to the previous serif identity. 'JAGUAR' in the new type is
     unrecognisable as the same brand at first glance. The tracking is
-    wider than automotive convention — every letter breathes. This is the
+    wider than automotive convention. every letter breathes. This is the
     single most divisive typographic decision in recent automotive history.
   what_would_look_wrong: >-
     The previous serif typeface (immediately identified as 'old Jaguar').
     Tight tracking (contradicts the spacious, fashion-forward system).
     Lowercase (the system is built on uppercase authority). Any typeface
-    with traditional British luxury connotations — no Baskerville, no
+    with traditional British luxury connotations. no Baskerville, no
     Garamond, no Times. Condensed type (the system needs horizontal space
     to breathe).
   case_convention: >-
     Uppercase for the brand name, headlines, and most display applications.
-    The uppercase convention is central to the new identity — it creates
+    The uppercase convention is central to the new identity. it creates
     the wide, architectural quality that distinguishes the system. Sentence
     case for body text where deployed.
   display_vs_body: >-
-    Display: Monotype custom — geometric, uppercase, wide-tracked, the face
+    Display: Monotype custom. geometric, uppercase, wide-tracked, the face
     that carries the entire new identity. Body: insufficient deployment to
     characterise. The new identity has been expressed almost entirely in
-    display typography — there is minimal body text in the post-rebrand
+    display typography. there is minimal body text in the post-rebrand
     materials because the brand is communicating through image, colour,
     and headline rather than information.
   type_and_image: >-
     Type dominates. In the rebrand launch, type appeared without vehicles.
     The typography is confident enough to stand alone on colour fields
     without photographic support. When type and image coexist (Type 00
-    reveal), the type sits on the image at scale — not deferring, not
+    reveal), the type sits on the image at scale. not deferring, not
     competing, but asserting equal presence. This is the opposite of
     traditional automotive typography, which typically defers to the car.
 
@@ -210,7 +210,7 @@ layout:
     - "Type 00 reveal event materials"
   signature_composition: >-
     Full-bleed colour fields with centred type or centred vehicle. The
-    compositions are simple to the point of minimalism — one colour, one
+    compositions are simple to the point of minimalism. one colour, one
     element, maximum impact. The simplicity is the statement. Compared to
     every other luxury automotive brand (Bentley, Aston Martin, Porsche),
     which use compositional complexity to signal luxury, Jaguar's post-
@@ -235,7 +235,7 @@ trend_posture:
     The Jaguar rebrand deliberately subverts every convention of automotive
     visual identity. It follows fashion and art-world trends rather than
     automotive trends. Whether this is visionary or misguided is
-    unresolved — the identity exists in isolation from a product.
+    unresolved. the identity exists in isolation from a product.
   examples:
     - trend: "Fashion-forward automotive branding"
       stance: "leader"
@@ -260,7 +260,7 @@ trend_posture:
         the brand world precedes the product.
       reasoning: >-
         With no production vehicles ready, Jaguar turned the limitation
-        into the strategy — launching the brand as a cultural statement
+        into the strategy. launching the brand as a cultural statement
         before a product statement.
 
 # ── Collaboration Rules ──────────────────────────

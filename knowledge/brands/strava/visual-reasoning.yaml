@@ -19,10 +19,10 @@ summary: Visual reasoning for Strava. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Inter for UI because it's the most neutral sans-serif—it gets completely out of the way and lets athletic data become the content. Boathouse for branding because it's distinctly athletic without being trendy or temporary. The two-typeface system creates hierarchy: the functional (Inter) and the aspirational (Boathouse). This split ensures data legibility while maintaining brand identity.
+  Inter for UI because it's the most neutral sans-serif. it gets completely out of the way and lets athletic data become the content. Boathouse for branding because it's distinctly athletic without being trendy or temporary. The two-typeface system creates hierarchy: the functional (Inter) and the aspirational (Boathouse). This split ensures data legibility while maintaining brand identity.
 colour_logic: >-
   International Orange (#FC5200) at maximum saturation because athletic effort is high-saturation, high-contrast. The color represents visible exertion and emotion. Supporting colors (Grenadier #CC4200, White #FFFFFF) create a minimal palette that keeps attention on the athlete's data visualization. No subtle tones; everything is signal, no noise.
 composition_philosophy: >-
-  Data visualization takes primary compositional role—performance graphs, activity maps, and performance metrics are the hero elements. The philosophy treats data as beautiful (because athletic effort is beautiful) rather than burying it under decorative elements. Clean grid-based layouts with generous whitespace ensure data clarity and contemplative viewing.
+  Data visualization takes primary compositional role. performance graphs, activity maps, and performance metrics are the hero elements. The philosophy treats data as beautiful (because athletic effort is beautiful) rather than burying it under decorative elements. Clean grid-based layouts with generous whitespace ensure data clarity and contemplative viewing.
 what_would_break_it: >-
   Introducing performance tiers with distinct visual treatments (silver, gold, platinum badges) or leaderboard-dominant design would immediately fragment the community's sense of equality. The moment the interface suggests that some athletes matter more than others, the brand dies.

@@ -21,7 +21,7 @@ summary: >-
   Complete genealogical and literary analysis of Wise's voice. Maps the literary
   traditions, communication lineages, and philosophical positions that inform how
   Wise speaks. Analyzes the register, audience assumptions, and what the brand
-  refuses to do—and why those refusals are philosophically necessary.
+  refuses to do. and why those refusals are philosophically necessary.
 
 # ── Data
 
@@ -60,10 +60,10 @@ audience_register_assumptions: >-
   need simplification; they need visibility. This excludes customers who prefer not
   to understand complexity (they're not Wise's audience). (2) Audience skepticism:
   customers already distrust banks. Wise's communication validates that distrust
-  rather than challenging it. This is unusual in finance—most financial brands
+  rather than challenging it. This is unusual in finance. most financial brands
   assume customers want to be reassured and trust established institutions. Wise
   assumes customers WANT to escape those institutions. (3) Audience mobility: Wise
-  addresses expats, freelancers, remote workers, digital nomads—people whose lives
+  addresses expats, freelancers, remote workers, digital nomads. people whose lives
   already cross borders. For this audience, "international banking" is not exotic;
   it's daily life. Wise speaks in the register of someone already international,
   not convincing someone to become international. (4) Audience impatience with
@@ -97,7 +97,7 @@ tone_traits:
       consumer advocacy language (Ralph Nader's accusations were direct; Elizabeth
       Warren's rhetoric is direct) and journalism traditions where clarity requires
       removing qualifiers. In corporate communication, directness is unusual and
-      slightly risky—it leaves no escape route if the claim is disputed. By choosing
+      slightly risky. it leaves no escape route if the claim is disputed. By choosing
       directness, Wise signals confidence that the claims are factually true, not
       marketing assertions. The directness also eliminates the condescension many
       financial brands use (speaking to customers as though they're confused children).
@@ -123,7 +123,7 @@ tone_traits:
   - "rebellious"
     explanation: >-
       The voice positions against authority and incumbency. "Don't let banks hide the
-      true cost of money" is inherently rebellious—it's telling customers to distrust
+      true cost of money" is inherently rebellious. it's telling customers to distrust
       the institutions that the voice is technically regulated by. This rebellion
       descends from consumer advocacy traditions (Nader's willingness to challenge GM,
       the FDA's own failure) and open-source culture's anti-proprietary rhetoric. The
@@ -168,7 +168,7 @@ anti_traits:
       designed to distance speakers from actions. When a bank says "fees are
       assessed," it's hiding "we are charging you." Wise refuses corporate voice
       because corporate voice is the language of opacity. Moreover, corporate voice
-      assumes distance between the brand and the customer—a formality that implies
+      assumes distance between the brand and the customer. a formality that implies
       transaction rather than relationship. Wise's plain speech creates the opposite
       impression: we are explaining our mechanism to you clearly because we respect
       you.
@@ -235,7 +235,7 @@ refusals_and_philosophy:
       certification requirements). Wise's refusal to claim expertise authority says:
       "Finance is simple once you see the mechanism." This is philosophically aligned
       with consumer advocacy traditions: your power comes from understanding, not from
-      trusting experts. The refusal also makes Wise less vulnerable to trust erosion—
+      trusting experts. The refusal also makes Wise less vulnerable to trust erosion. 
       if an "expert" makes a wrong prediction, the brand loses credibility. By refusing
       expert positioning, Wise avoids that risk. The voice assumes expertise is in the
       mechanism (exchange rates, fee calculation) not in the speaker (Wise).
@@ -249,7 +249,7 @@ refusals_and_philosophy:
     philosophy: >-
       The refusal to hide anything is the core philosophical position. It's not just
       about compliance; it's about customer respect. Hidden fees are a form of
-      disrespect—they treat the customer as too distracted or unsophisticated to notice.
+      disrespect. they treat the customer as too distracted or unsophisticated to notice.
       Wise's refusal extends beyond just fees; it's a refusal to design for surprise.
       Traditional fintech apps often use dark patterns (making it hard to cancel,
       burying true costs) that exploit inattention. Wise's refusal is to design with
@@ -297,7 +297,7 @@ refusals_and_philosophy:
       exploits anxiety, sales tactics that pressure). By refusing fear and scarcity,
       Wise is implicitly saying: "Your decision to use us should be based on our actual
       advantage (real rates, real fees), not manufactured urgency." This is riskier
-      marketing—it relies on actual product advantage rather than psychological
+      marketing. it relies on actual product advantage rather than psychological
       manipulation. The refusal signals confidence that the product is genuinely better,
       so no manipulation is necessary. This descends from ethical business philosophy
       traditions (Peter Drucker on business ethics, contemporary discussions of
@@ -307,7 +307,7 @@ refusals_and_philosophy:
 
 register_explanation: >-
   Wise's register is "educated peer," not "salesperson" and not "expert advisor."
-  The register assumes: (1) The speaker and listener are equals—both understand that
+  The register assumes: (1) The speaker and listener are equals. both understand that
   financial systems are human-made and can be questioned. (2) The listener prefers
   information to reassurance. (3) The listener is already skeptical of financial
   institutions and just needs confirmation plus alternatives. This register descends
@@ -324,7 +324,7 @@ register_explanation: >-
 what_register_assumes_about_customers: >-
   Wise's register assumes customers: (1) Can do math and want to see the math. (2)
   Have been hurt by financial institutions and welcome permission to distrust them.
-  (3) Are internationally mobile or aspire to be—they care about cross-border money
+  (3) Are internationally mobile or aspire to be. they care about cross-border money
   movement. (4) Are skeptical of authority and want to verify claims themselves rather
   than trust assertions. (5) Value their time and want clear information, not flowery
   writing. (6) Are educated, financially literate (they understand concepts like
@@ -385,7 +385,7 @@ guardrails:
 
   always_sound: >-
     Like someone who has studied banking thoroughly, found it overcharges customers
-    deliberately, and wants to show the proof. Not angry in a punchy way—angry in a
+    deliberately, and wants to show the proof. Not angry in a punchy way. angry in a
     calm, factual way. Like consumer advocacy: "Here's what they don't want you to
     see. Here's how it actually works. Now you decide."
 
@@ -429,7 +429,7 @@ voice_summary: >-
   foundation for sustainable trust. The voice assumes an audience of educated,
   skeptical, internationally mobile people who have experienced banking
   overcharging and are ready to verify alternatives rather than trust assertions.
-  Every communication choice—from sentence structure to what details to emphasize—
+  Every communication choice. from sentence structure to what details to emphasize. 
   serves the core thesis: clear mechanism = rational decision = customer power.
   This is not a voice trying to convince; it's a voice trying to educate, and
   assuming the education itself will convince.

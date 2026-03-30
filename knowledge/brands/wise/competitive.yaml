@@ -25,7 +25,7 @@ actually_competes_with:
 
 industry_norms_it_breaks: >-
   Banks profit from complexity. Wise's entire positioning breaks this norm by revealing
-  what complexity obscures. The bright green (#9FE870) signals this rejection visually—
+  what complexity obscures. The bright green (#9FE870) signals this rejection visually. 
   not the color itself, but that Wise dares to look radically different when incumbents
   use identical palettes. Industry norm: premium pricing requires premium experience
   (private banking, concierge, status). Wise breaks this by making low-cost, transparent
@@ -33,7 +33,7 @@ industry_norms_it_breaks: >-
   this by making transparency the selling point, with speed as a consequence. Industry
   norm: trust is built through heritage and regulation. Wise breaks this by building trust
   through visibility. Industry norm: fintech disrupts banking by feature addition
-  (Revolut's super-app, Monzo's beautiful UX). Wise disrupts by feature subtraction—by
+  (Revolut's super-app, Monzo's beautiful UX). Wise disrupts by feature subtraction. by
   refusing to add complexity that would require opacity to justify.
 
 visual_cluster: "bold-challenger"
@@ -91,7 +91,7 @@ trade_offs: >-
 
 why_competitors_chose_differently: >-
   REVOLUT's bet: "Customers want feature richness and will accept opaque trade-offs."
-  Revolut's positioning is "one app for money everywhere"—but "everywhere" requires handling
+  Revolut's positioning is "one app for money everywhere". but "everywhere" requires handling
   savings, crypto, stocks, insurance, each with distinct risk profiles and pricing complexity.
   Revolut accepts some opacity (you trust Revolut to manage these features responsibly) in
   exchange for convenience. Revolut's audience: convenience-first buyers who accept that
@@ -102,7 +102,7 @@ why_competitors_chose_differently: >-
   PayPal's opacity (high fees, opaque rates) is grandfathered in by existing relationship.
   Their belief about customers: "Trust is sticky; they won't leave even if they understand
   the costs." MONZO's bet: "Customers want beautiful, frictionless UX and will trust the
-  backend." Monzo is building towards full banking—retail accounts, spending management,
+  backend." Monzo is building towards full banking. retail accounts, spending management,
   credit products. The design is beautiful and the UX is smooth. But Monzo must eventually
   explain why credit products have interest rates, why their backend infrastructure has
   specific cost structures. Their belief about customers: "They'll accept opacity if the
@@ -114,7 +114,7 @@ why_competitors_chose_differently: >-
   easy for them to invest." WISE's counter-bet: "Customers are rational and prefer to
   understand rather than trust." Wise's entire positioning depends on this being TRUE.
   If customers prefer opacity with good experience over transparency with good experience,
-  Wise loses. So Wise does not just offer transparency—it makes transparency so central to
+  Wise loses. So Wise does not just offer transparency. it makes transparency so central to
   brand identity that choosing opacity feels like choosing inferior service. The belief:
   once you see the real exchange rate and the real fee, you cannot un-see it. Trust becomes
   voluntary rather than inherited. This only works if customers actually ARE rational

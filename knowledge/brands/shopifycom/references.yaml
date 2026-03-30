@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Shopify — Creative References
+# Shopify. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -24,21 +24,21 @@ publications:
 
 visuals:
   - url: "https://github.com/rsms/inter"
-    label: "Inter typeface on GitHub — Open-source variable font with 18 styles and 2000+ glyphs"
+    label: "Inter typeface on GitHub. Open-source variable font with 18 styles and 2000+ glyphs"
     section: "visual-language"
 
   - url: "https://shopify.com/"
-    label: "Shopify.com marketing pages — Merchant empowerment positioning and green visual identity"
+    label: "Shopify.com marketing pages. Merchant empowerment positioning and green visual identity"
     section: "visual-language"
 
   - url: "https://www.shopify.com/admin"
-    label: "Shopify Admin dashboard — Polaris design system implementation with Inter typography"
+    label: "Shopify Admin dashboard. Polaris design system implementation with Inter typography"
     section: "visual-world"
 
   - url: "https://www.shopify.com/plus"
-    label: "Shopify Plus enterprise marketing — Premium register and enterprise merchant case studies"
+    label: "Shopify Plus enterprise marketing. Premium register and enterprise merchant case studies"
     section: "visual-language"
 
   - url: "https://shop.rsms.me/"
-    label: "Rasmus Andersson's Shopify merchandise store — Supporting Inter development"
+    label: "Rasmus Andersson's Shopify merchandise store. Supporting Inter development"
     section: "visual-language"

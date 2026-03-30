@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Discord. How the brand looks structurally —
+  Visual language for Discord. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -32,14 +32,14 @@ visual_modes:
         - "Conference and event materials"
         - "Discord merchandise and swag"
       description: >-
-        Blurple (#5865F2) dominant — a blue-purple that Discord coined
+        Blurple (#5865F2) dominant. a blue-purple that Discord coined
         and owns in the communication-platform category. The 2021 rebrand
         (Koto for logo/strategy + AKQA for campaign) on Discord's 6th
-        birthday updated the original Blurple (#7289DA to #5865F2 — more
+        birthday updated the original Blurple (#7289DA to #5865F2. more
         saturated, slightly bluer), freed Clyde (the mascot) from the
         chat bubble, and introduced gg sans (Colophon Foundry, London,
-        December 1, 2022 — 'Good Game' initials). The Ginto wordmark
-        (Dinamo Typefaces/ABC Dinamo, Seb McLauchlan — geometric-humanist)
+        December 1, 2022. 'Good Game' initials). The Ginto wordmark
+        (Dinamo Typefaces/ABC Dinamo, Seb McLauchlan. geometric-humanist)
         provides the display logotype. Accent colours: Green (#57F287),
         Yellow (#FEE75C), Fuchsia (#EB459E), Red (#ED4245). Jason Citron
         (co-founder) oversees the brand's evolution. The 2024 return to
@@ -58,14 +58,14 @@ visual_modes:
         - "Discord voice and video features"
         - "Discord Stages and Forums"
       description: >-
-        Dark-mode-default — Discord's product interface defaults to a
+        Dark-mode-default. Discord's product interface defaults to a
         dark theme (dark grey/near-black background) that has become
         synonymous with the platform. Blurple appears as an accent for
         interactive elements, links, and the currently selected channel.
         gg sans serves as the UI typeface throughout. The server-list
         sidebar, channel list, and chat window create a three-column
         layout similar to Slack but darker and more gaming-community-
-        coded. The dark mode isn't just a setting — it's the brand's
+        coded. The dark mode isn't just a setting. it's the brand's
         visual identity in product. Compared to Slack (light-mode-default,
         aubergine sidebar) or Teams (light-mode-default, corporate blue),
         Discord's dark default signals its gaming-community origins.
@@ -87,13 +87,13 @@ visual_modes:
         Fuchsia, Red) with Blurple, animated gradients, and sparkle
         effects. Nitro-exclusive features (animated avatars, custom emoji,
         server boost perks) introduce visual richness that non-Nitro users
-        don't see. Server Boost levels change the server icon appearance —
+        don't see. Server Boost levels change the server icon appearance
         adding animated frames and gradient effects. The Nitro visual
         language signals premium status within the community.
       differs_from_default_by: >-
         More colour, more animation, more premium signalling. The full
         accent palette is deployed. Animated and gradient effects appear.
-        The visual register communicates 'you've unlocked more' — a
+        The visual register communicates 'you've unlocked more'. a
         gaming-influenced visual-reward system.
 
   notes: >-
@@ -102,7 +102,7 @@ visual_modes:
     groups, music, brand communities). The 2024 return to a darker,
     more gaming-focused aesthetic suggests the brand is re-centring on
     its core gaming audience after a period of broadening. 'The Sandwich'
-    — a creative collective of 26,000+ members — produces community-
+   a creative collective of 26,000+ members. produces community-
     driven creative content.
 
 # ── Photography ──────────────────────────────────
@@ -119,18 +119,18 @@ photography:
     rather than photographic content. The 'Imagine a Place' campaign
     (2021) used celebrity-featuring video content (Danny DeVito, Awkwafina)
     rather than still photography. When photography appears, it shows
-    community moments — gaming setups, creator spaces, group hangouts.
+    community moments. gaming setups, creator spaces, group hangouts.
     Compared to Slack (workplace photography, collaboration moments) or
     Zoom (video-call screenshots, meeting contexts), Discord's visual
     identity is the least photography-dependent.
   casting_observed: >-
     Limited. The 'Imagine a Place' campaign used celebrities (Danny
-    DeVito, Awkwafina) — unusual for Discord and not repeated as a pattern.
+    DeVito, Awkwafina). unusual for Discord and not repeated as a pattern.
     Community-focused content shows diverse, younger-skewing, subcultural
-    casting — gamers, creators, students, niche-community members.
+    casting. gamers, creators, students, niche-community members.
   lighting_and_colour: >-
     When photography appears, it tends toward darker, screen-lit
-    environments — reflecting the gaming and digital-community context.
+    environments. reflecting the gaming and digital-community context.
     The Blurple colour temperature influences environmental photography
     (cool, digital-feeling). No distinctive brand photography lighting
     standard.
@@ -155,14 +155,14 @@ photography:
 graphic_language:
   confidence: "high"
   primary_sources:
-    - "Clyde mascot (2021 rebrand by Koto — freed from chat bubble, 2D to expressive 3D)"
+    - "Clyde mascot (2021 rebrand by Koto. freed from chat bubble, 2D to expressive 3D)"
     - "2021 rebrand (Koto logo/strategy + AKQA campaign)"
     - "discord.com (observed February 2026)"
     - "'The Sandwich' creative collective (26,000+ members)"
   uses_illustration: true
   illustration_style: >-
     Clyde-centric with supporting abstract elements. Clyde (the game
-    controller-shaped mascot) is Discord's primary illustration asset —
+    controller-shaped mascot) is Discord's primary illustration asset
     redesigned in 2021 from a flat icon within a chat bubble to a more
     expressive, standalone 3D character. The illustration style around
     Clyde uses Blurple-palette abstract shapes, geometric elements, and
@@ -186,20 +186,20 @@ graphic_language:
     geometry. Status indicators (online green, idle yellow, DnD red,
     offline grey) form a simple but widely recognised icon vocabulary.
   graphic_devices: >-
-    Blurple (#5865F2) — the coined colour that Discord owns. No other
+    Blurple (#5865F2). the coined colour that Discord owns. No other
     major communication platform uses blue-purple as a primary colour.
-    Clyde — the game-controller-faced mascot that represents the brand's
+    Clyde. the game-controller-faced mascot that represents the brand's
     gaming DNA. The Ginto wordmark (Dinamo Typefaces) with its distinctive
     geometric-humanist letterforms. The accent colour quartet (Green
     #57F287, Yellow #FEE75C, Fuchsia #EB459E, Red #ED4245) provides
-    graphic variety. The nitro-gradient effect — animated colour shifts
+    graphic variety. The nitro-gradient effect. animated colour shifts
     that signal premium status.
   motion_language: >-
-    Clyde animates with personality — bouncing, waving, expressing
+    Clyde animates with personality. bouncing, waving, expressing
     emotions through simple, character-driven movements. Blurple gradient
     animations in Nitro marketing pulse and shift. App notifications use
     subtle bounce animations. The motion language is playful and game-
-    influenced — it feels like a game UI rather than an enterprise
+    influenced. it feels like a game UI rather than an enterprise
     communication tool. Compared to Slack (subtle, professional micro-
     animations) or Zoom (minimal, functional), Discord's motion is the
     most personality-driven.
@@ -209,48 +209,48 @@ graphic_language:
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "gg sans (Colophon Foundry, London, December 1, 2022 — 'Good Game')"
+    - "gg sans (Colophon Foundry, London, December 1, 2022. 'Good Game')"
     - "Ginto wordmark (Dinamo Typefaces / ABC Dinamo, Seb McLauchlan)"
     - "discord.com (observed February 2026)"
   signature_move: >-
-    gg sans (Colophon Foundry, London, December 1, 2022) — named 'Good
+    gg sans (Colophon Foundry, London, December 1, 2022). named 'Good
     Game,' a gaming-culture reference embedded in the typeface name itself.
     gg sans replaced Whitney as Discord's UI and brand typeface. The
-    design is geometric with humanist touches — clean enough for dense
+    design is geometric with humanist touches. clean enough for dense
     chat interfaces, warm enough to carry personality. Colophon Foundry
     (independent London foundry) is a design-community-respected choice.
     The Ginto wordmark (Dinamo Typefaces/ABC Dinamo, Seb McLauchlan)
-    provides the display logotype — a geometric-humanist face with
+    provides the display logotype. a geometric-humanist face with
     distinctive 'D' and 'o' letterforms. The two-typeface system (gg sans
     for everything, Ginto for the wordmark) is clean and effective.
-    Compared to Slack (three-typeface system — more complex) or Telegram
-    (system fonts — no brand type investment), Discord's typography is
+    Compared to Slack (three-typeface system. more complex) or Telegram
+    (system fonts. no brand type investment), Discord's typography is
     distinctively named and culturally coded.
   what_would_look_wrong: >-
     A serif typeface (Discord is entirely sans-serif). A corporate,
     neutral typeface like Helvetica or Inter (too generic for Discord's
-    personality). Whitney (the previous typeface — associated with the
+    personality). Whitney (the previous typeface. associated with the
     pre-2021 identity). Heavy, condensed, aggressive display type (Discord's
     personality is playful, not aggressive, despite the gaming association).
   case_convention: >-
     The 'Discord' wordmark uses title case. Feature names use title case
     ('Discord Nitro,' 'Server Boost,' 'Discord Stages'). Body text and
-    chat use sentence case. The brand avoids ALL CAPS in marketing —
+    chat use sentence case. The brand avoids ALL CAPS in marketing
     the tone is conversational and community-native, not declarative.
   display_vs_body: >-
-    Display: Ginto for the Discord wordmark and brand-moment type —
+    Display: Ginto for the Discord wordmark and brand-moment type
     distinctive, geometric-humanist letterforms. gg sans at heavier
     weights for marketing headlines. Body: gg sans at regular weight
     for all interface text, chat messages, channel names, and general
     content. The single UI typeface (gg sans) creates consistency across
     the dense, text-heavy chat environment.
   type_and_image: >-
-    Type dominates the Discord experience — chat messages, channel names,
+    Type dominates the Discord experience. chat messages, channel names,
     server names, and usernames are the primary visual content. Illustration
     (Clyde) and colour (Blurple) provide visual personality around the
     text-heavy interface. In marketing, type shares visual weight with
     Clyde and gradient backgrounds. The typography is designed to be read
-    quickly in real-time conversations — legibility at speed is the
+    quickly in real-time conversations. legibility at speed is the
     primary requirement.
 
 # ── Layout & Composition ─────────────────────────
@@ -262,22 +262,22 @@ layout:
     - "Discord desktop and mobile app"
     - "Discord marketing materials"
   signature_composition: >-
-    Three-column chat layout — server list (far left, icon-only), channel
+    Three-column chat layout. server list (far left, icon-only), channel
     list (left sidebar), and message view (main content area). This
     layout pattern mirrors Slack's three-column structure but with key
     visual differences: dark-mode default, server-based organisation
     (not workspace-based), and gaming-influenced visual density. The
     server list uses circular icons (similar to mobile app icon grids),
     creating a distinctive left-edge visual pattern. Voice channels
-    have their own visual treatment — user avatars arranged in a
+    have their own visual treatment. user avatars arranged in a
     connected-participants layout. Compared to Slack (lighter, workplace-
     coded, more structured), Discord's layout is darker and more
     community-space-coded.
   density_and_whitespace: >-
-    Moderate-to-high density in the chat interface — messages are
+    Moderate-to-high density in the chat interface. messages are
     compactly spaced to keep conversations flowing visually. The dark
     background creates visual depth rather than using whitespace for
-    separation. Marketing pages use more generous spacing — clean sections
+    separation. Marketing pages use more generous spacing. clean sections
     with Blurple backgrounds and centred content. The compact-chat
     default reflects gaming-community expectations (fast-moving
     conversations require density).
@@ -299,8 +299,8 @@ trend_posture:
     - trend: "Playful B2C communication-tool branding"
       stance: "leader"
       evidence: >-
-        The 2021 Koto + AKQA rebrand — freeing Clyde from the chat bubble,
-        updating Blurple, introducing gg sans — established a visual
+        The 2021 Koto + AKQA rebrand. freeing Clyde from the chat bubble,
+        updating Blurple, introducing gg sans. established a visual
         standard for community-platform branding that positions personality
         over professionalism. The 'Imagine a Place' campaign (Danny DeVito,
         Awkwafina) extended this into mainstream advertising.
@@ -315,7 +315,7 @@ trend_posture:
         Between 2020-2023, Discord broadened its visual language to
         accommodate non-gaming communities (study groups, music, brands).
         The 2024 return to darker Blurple and gaming-focused aesthetics
-        suggests a recalibration — the brand is selectively retreating
+        suggests a recalibration. the brand is selectively retreating
         from mainstream broadening to re-centre on its core community.
       reasoning: >-
         Discord's visual evolution reflects a strategic tension between
@@ -339,11 +339,11 @@ collaboration:
   notable_examples: >-
     'The Sandwich' (Discord's creative community, 26,000+ members):
     community-driven creative content that extends Discord's visual
-    identity in organic, uncontrolled directions — the most radical form
+    identity in organic, uncontrolled directions. the most radical form
     of brand-community visual collaboration. 'Imagine a Place' (2021,
     Koto + AKQA): the campaign introduced Discord to mainstream audiences
-    with celebrity casting (Danny DeVito, Awkwafina) — a significant
+    with celebrity casting (Danny DeVito, Awkwafina). a significant
     departure from the gaming-community visual register. Server community
-    branding: thousands of servers create custom visual identities — from
+    branding: thousands of servers create custom visual identities. from
     gaming clans with elaborate branding to study groups with minimal
     decoration. Discord enables and celebrates this visual diversity.

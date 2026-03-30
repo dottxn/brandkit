@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Square. How the brand looks structurally —
+  Visual language for Square. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,12 +31,12 @@ visual_modes:
         - "Square social media channels"
         - "Square hardware product marketing"
       description: >-
-        Black (#000000) and white (#FFFFFF) dominant — a monochrome palette
+        Black (#000000) and white (#FFFFFF) dominant. a monochrome palette
         that lets Square's hardware and merchant photography carry the
-        colour. SQ Market (Angus R. Shamal/ARS Type — a custom modification
+        colour. SQ Market (Angus R. Shamal/ARS Type. a custom modification
         of ARS Maquette) serves as the brand typeface. The December 2021
         parent-company rebrand from Square to Block introduced an animated
-        stacked cube with an oil-slick rainbow gradient — the cube's
+        stacked cube with an oil-slick rainbow gradient. the cube's
         animation is the primary expression (the static mark is secondary).
         Square as a product brand retained its clean black-and-white
         identity. Three-style illustration system (developed with Brand
@@ -58,7 +58,7 @@ visual_modes:
       description: >-
         The Block identity (December 2021 rebrand) uses an animated
         stacked cube with an oil-slick rainbow gradient. The animation is
-        the primary expression — the cube rotates to reveal shifting
+        the primary expression. the cube rotates to reveal shifting
         spectral colours. The static mark is deliberately less distinctive
         than the animated version, emphasising that Block exists primarily
         as a digital entity. The visual language is more abstract and
@@ -79,7 +79,7 @@ visual_modes:
         Cash App Green (#28c101) dominant with a distinctly younger, more
         culture-forward register. CashMarket (custom typeface) replaces
         SQ Market. The visual language is bold, playful, and street-culture-
-        coded — collaborations with musicians (Travis Scott), athletes,
+        coded. collaborations with musicians (Travis Scott), athletes,
         and cultural figures influence the aesthetic. Cash App Card designs
         are customisable and have become a status/identity object.
         Compared to Venmo (social-feed-coded, blue) or Zelle (bank-
@@ -93,7 +93,7 @@ visual_modes:
 
   notes: >-
     Block's portfolio strategy creates one of the most visually diverse
-    brand families in fintech — Square (black, merchant-coded), Cash App
+    brand families in fintech. Square (black, merchant-coded), Cash App
     (green, culture-coded), TIDAL (music-coded), Afterpay (mint, buy-now-
     pay-later-coded), and Bitkey (bitcoin hardware). Each sub-brand
     operates with near-total visual autonomy.
@@ -109,24 +109,24 @@ photography:
   subject_and_framing: >-
     Merchant-business-focused. Square's photography shows small-business
     owners and entrepreneurs using Square hardware in real business
-    contexts — coffee shops, retail stores, restaurants, market stalls,
+    contexts. coffee shops, retail stores, restaurants, market stalls,
     salons. The hardware (Square Reader, Square Terminal, Square Stand,
-    Square Register) is always visible — photography serves to show the
+    Square Register) is always visible. photography serves to show the
     product in use rather than abstract brand storytelling. Hardware
     product photography follows a clean, Apple-influenced studio style
-    — white backgrounds, precise lighting, attention to material quality.
+   white backgrounds, precise lighting, attention to material quality.
     Compared to PayPal (transaction-moment-focused, no hardware) or
     Shopify (more e-commerce-coded, more aspirational), Square's
     photography is the most hardware-in-context-focused.
   casting_observed: >-
-    Small-business-owner-coded — diverse, entrepreneurial, hands-on.
+    Small-business-owner-coded. diverse, entrepreneurial, hands-on.
     The casting emphasises people who run their own businesses: baristas,
     restaurateurs, salon owners, market vendors. The diversity is both
     ethnic and business-type. The casting signals 'these are the people
     Square serves' rather than aspirational or celebrity-coded imagery.
   lighting_and_colour: >-
     Bright, warm, natural-feeling in merchant contexts. Environments are
-    real or realistic business settings — the lighting communicates
+    real or realistic business settings. the lighting communicates
     authenticity and everyday commerce. Hardware product photography uses
     clean, studio-controlled lighting that shows material quality (the
     matte white and rounded edges of Square hardware).
@@ -165,7 +165,7 @@ graphic_language:
     based compositions (geometric patterns using the square motif), and
     motion variations (animated versions of both styles). The illustration
     palette is primarily black-and-white with selective colour accents.
-    The style is clean and professional — appropriate for business-owner
+    The style is clean and professional. appropriate for business-owner
     audiences who need to feel confident, not entertained. Compared to
     PayPal (no systematic illustration) or Stripe (minimal, geometric
     illustration), Square has the most developed illustration system
@@ -177,46 +177,46 @@ graphic_language:
     helps communicate complex payment and business-management concepts
     to non-technical business owners.
   icon_style: >-
-    The rounded-square logo is the primary icon — a simple square with
+    The rounded-square logo is the primary icon. a simple square with
     radiused corners that references both the company name and the
     original card reader hardware. Feature icons follow a consistent
     monoline style. Payment-type icons, business-tool icons, and
     navigation icons are minimal and functional. The 'Frost UI' frosted-
     glass material appears in some digital icon contexts.
   graphic_devices: >-
-    The rounded square — the logo shape that references both the name
-    and the original card reader. The Block cube — the animated stacked
+    The rounded square. the logo shape that references both the name
+    and the original card reader. The Block cube. the animated stacked
     cube with oil-slick rainbow gradient represents the parent company.
-    The monochrome palette itself is a graphic device — black and white
+    The monochrome palette itself is a graphic device. black and white
     creates a distinctive identity in a category where competitors use
     colour (PayPal blue, Stripe gradient, Cash App green). The hardware
-    devices themselves function as graphic elements — the white, rounded
+    devices themselves function as graphic elements. the white, rounded
     Square hardware has a distinctive physical presence at the point of
     sale.
   motion_language: >-
-    The Block cube animation is the signature motion — the stacked cube
+    The Block cube animation is the signature motion. the stacked cube
     rotates to reveal shifting spectral colours, designed to be experienced
     as animation rather than as a static mark. Square product animations
     use clean, functional transitions. 'Frost UI' elements animate with
     glass-like translucency effects. The motion language is restrained
-    and professional — business-appropriate rather than playful.
+    and professional. business-appropriate rather than playful.
 
 # ── Typography in Practice ───────────────────────
 
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "SQ Market (Angus R. Shamal/ARS Type — custom ARS Maquette modification)"
+    - "SQ Market (Angus R. Shamal/ARS Type. custom ARS Maquette modification)"
     - "squareup.com (observed February 2026)"
     - "Block corporate branding"
   signature_move: >-
-    SQ Market (Angus R. Shamal/ARS Type) — a custom modification of ARS
+    SQ Market (Angus R. Shamal/ARS Type). a custom modification of ARS
     Maquette, the Toronto-based foundry's flagship typeface. The
     modification gives Square a typeface that reads as both professional
-    and approachable — geometric precision with humanist warmth. ARS Type
-    is a small, independent foundry — the choice signals design-community
+    and approachable. geometric precision with humanist warmth. ARS Type
+    is a small, independent foundry. the choice signals design-community
     awareness without the scale of Pentagram or Monotype commissions.
-    Cash App uses CashMarket — a separate custom typeface that establishes
+    Cash App uses CashMarket. a separate custom typeface that establishes
     visual autonomy for the peer-to-peer product. The two-typeface
     strategy (SQ Market for Square, CashMarket for Cash App) reflects the
     portfolio's deliberate visual separation.
@@ -241,7 +241,7 @@ type_treatment:
   type_and_image: >-
     Typography establishes the professional, trustworthy tone while
     photography provides the human warmth. The monochrome brand palette
-    means type and image work in clear roles — type identifies and
+    means type and image work in clear roles. type identifies and
     structures, photography contextualises and humanises. Hardware product
     photography and type share equal weight in product marketing.
 
@@ -255,19 +255,19 @@ layout:
     - "Square Dashboard"
   signature_composition: >-
     Point-of-sale-centred. The Square POS interface is designed for the
-    counter — a grid of product items, a running total, and payment
+    counter. a grid of product items, a running total, and payment
     options. This layout is optimised for the specific physical context of
     a business counter with a customer on the other side. The Square
     Dashboard (merchant management) uses a standard SaaS dashboard layout
-    — left sidebar navigation, data cards, charts, and activity feeds.
+   left sidebar navigation, data cards, charts, and activity feeds.
     squareup.com uses clean, sectioned marketing layouts with hardware-
     hero sections. Compared to Shopify (more e-commerce-coded, more
     template-driven) or PayPal (more consumer-checkout-coded), Square's
     layout is the most in-person-commerce-optimised.
   density_and_whitespace: >-
-    The POS interface is moderate density — product grids need to be
+    The POS interface is moderate density. product grids need to be
     scannable quickly during transactions. The Dashboard is standard SaaS
-    density — data-rich but organised. Marketing pages use generous
+    density. data-rich but organised. Marketing pages use generous
     whitespace with large hardware product images. The monochrome palette
     creates visual breathing room even in denser layouts.
   format_preferences: >-
@@ -290,18 +290,18 @@ trend_posture:
       evidence: >-
         The original Square Reader (2009, designed by Sam Farrin, later
         by Robert Andersen) established the visual language for small-
-        business payment hardware — white, rounded, minimal, and
+        business payment hardware. white, rounded, minimal, and
         distinctly non-corporate. Every competitor's card reader
         references this design direction.
       reasoning: >-
         Square proved that payment hardware could be a design object
-        rather than a generic peripheral — the aesthetic elevated both
+        rather than a generic peripheral. the aesthetic elevated both
         the hardware category and the merchants who used it.
     - trend: "Animation-first corporate identity (Block cube)"
       stance: "early-adopter"
       evidence: >-
         The Block cube identity (December 2021) was designed as an
-        animation-first mark — the oil-slick rainbow gradient only
+        animation-first mark. the oil-slick rainbow gradient only
         fully expresses in motion. This approach (designing the animated
         version as primary, static as secondary) preceded similar
         approaches by other tech companies.
@@ -332,7 +332,7 @@ collaboration:
     hardware renders. Block x cash culture (Cash App): Cash App's
     collaborations with musicians (Travis Scott's $100M+ Cash App Card
     promotion), athletes, and cultural figures create a visual identity
-    that is genuinely embedded in youth culture — not borrowed from it.
+    that is genuinely embedded in youth culture. not borrowed from it.
     Block corporate rebrand (December 2021): the animation-first cube
     identity established a corporate-level visual language that could
     encompass the diverse portfolio without constraining individual

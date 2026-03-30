@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Glossier — Creative References
+# Glossier. Creative References
 # ──────────────────────────────────────────────
 
 people:
@@ -24,21 +24,21 @@ publications:
 
 visuals:
   - url: "https://www.glossier.com/"
-    label: "Glossier.com e-commerce — Product pages with soft minimal photography and pink accent system"
+    label: "Glossier.com e-commerce. Product pages with soft minimal photography and pink accent system"
     section: "visual-world"
 
   - url: "https://intothegloss.com/"
-    label: "Into The Gloss editorial platform — Beauty journalism and community-driven content"
+    label: "Into The Gloss editorial platform. Beauty journalism and community-driven content"
     section: "visual-language"
 
   - url: "https://www.instagram.com/glossier/"
-    label: "Glossier Instagram — Community UGC, product close-ups, and skin texture macro photography"
+    label: "Glossier Instagram. Community UGC, product close-ups, and skin texture macro photography"
     section: "visual-language"
 
   - url: "https://www.glossier.com/products/"
-    label: "Glossier product grid — E-commerce interface and product photography system"
+    label: "Glossier product grid. E-commerce interface and product photography system"
     section: "visual-world"
 
   - url: "https://www.glossier.com/flagship"
-    label: "Glossier flagship stores — In-store visual merchandising and experiential design"
+    label: "Glossier flagship stores. In-store visual merchandising and experiential design"
     section: "visual-world"

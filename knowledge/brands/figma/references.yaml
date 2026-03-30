@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Figma — Creative References
+# Figma. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -40,17 +40,17 @@ publications:
 
 visuals:
   - url: "https://figma.com/"
-    label: "Figma.com homepage and marketing — Post-September 2024 brand refresh with abstract primitives"
+    label: "Figma.com homepage and marketing. Post-September 2024 brand refresh with abstract primitives"
     section: "visual-language"
 
   - url: "https://www.figma.com/design"
-    label: "Figma design editor product interface — Neutral tool-focused canvas-centric UI"
+    label: "Figma design editor product interface. Neutral tool-focused canvas-centric UI"
     section: "visual-world"
 
   - url: "https://www.figjam.com/"
-    label: "FigJam whiteboarding tool — Warmer, more playful visual register with Figma Hand typeface"
+    label: "FigJam whiteboarding tool. Warmer, more playful visual register with Figma Hand typeface"
     section: "visual-world"
 
   - url: "https://config.figma.com/"
-    label: "Config annual conference — Annual visual identity refresh and experimental supergraphics"
+    label: "Config annual conference. Annual visual identity refresh and experimental supergraphics"
     section: "visual-language"

@@ -17,7 +17,7 @@ status: "active"
 enrichment_level: "enriched"
 summary: >-
   Visual language for CVS Pharmacy (CVS Health). How the brand looks
-  structurally — photography art direction, type treatment, layout,
+  structurally. photography art direction, type treatment, layout,
   graphic language, visual modes, and collaboration rules.
 
 # ── Visual Modes ─────────────────────────────────
@@ -31,16 +31,16 @@ visual_modes:
         - "CVS Health corporate communications"
         - "CVS social media channels"
       description: >-
-        CVS Red (#CC0000, PMS 485 C) dominant — a high-visibility red
+        CVS Red (#CC0000, PMS 485 C) dominant. a high-visibility red
         that anchors one of America's most recognisable retail healthcare
         brands. Helvetica Black (CVS wordmark) and Helvetica Neue (body
         text) serve as the primary typefaces. The 2014 rebrand (Siegel+Gale)
-        introduced the heart logo — a teardrop-geometry heart that connects
+        introduced the heart logo. a teardrop-geometry heart that connects
         CVS to health and care. Erin Condon (CMO) oversees marketing.
         Heart Haus (in-house creative agency) produces brand content. The
         Digital Pulse design system manages visual consistency across
-        digital touchpoints. The CVS Beauty Mark (2018) — a commitment
-        to no digital alteration in beauty imagery — is one of the most
+        digital touchpoints. The CVS Beauty Mark (2018). a commitment
+        to no digital alteration in beauty imagery. is one of the most
         significant visual-ethics decisions in retail. Compared to
         Walgreens (blue/red, more pharmacy-coded) or Rite Aid (blue/green,
         more traditional), CVS's visual language is the most health-
@@ -59,7 +59,7 @@ visual_modes:
       description: >-
         More corporate, more health-system-coded. CVS Health (the parent
         company) uses a more restrained visual register than CVS Pharmacy
-        retail — the heart logo in a darker red, more whitespace, more
+        retail. the heart logo in a darker red, more whitespace, more
         data-driven content. Sub-brands Aetna (purple palette), Caremark
         (pharmacy benefits), and MinuteClinic each maintain their own
         visual identities within the CVS Health framework. The visual
@@ -80,10 +80,10 @@ visual_modes:
       description: >-
         Warmer, more lifestyle-coded. CVS Beauty uses the CVS red as an
         anchor but introduces warmer, more aspirational visual treatments
-        — lifestyle photography, product beauty shots, and wellness-coded
+       lifestyle photography, product beauty shots, and wellness-coded
         imagery. The CVS Beauty Mark (2018) is the defining visual
         commitment: a watermark indicating beauty imagery has not been
-        materially altered — no reshaping bodies, no smoothing skin
+        materially altered. no reshaping bodies, no smoothing skin
         texture, no altering eye/skin colour. This visual-ethics position
         distinguishes CVS from beauty retailers that heavily retouch.
         Pearlfisher (2024-2025) redesigned CVS store-brand packaging in
@@ -96,7 +96,7 @@ visual_modes:
 
   notes: >-
     CVS Health's visual system must manage an unusually broad sub-brand
-    portfolio — CVS Pharmacy (retail), Aetna (insurance, purple), Caremark
+    portfolio. CVS Pharmacy (retail), Aetna (insurance, purple), Caremark
     (pharmacy benefits), MinuteClinic (walk-in clinics), ExtraCare
     (loyalty programme), and Oak Street Health. The 2014 Siegel+Gale
     rebrand and the 2018 CVS Beauty Mark represent the most significant
@@ -122,9 +122,9 @@ photography:
     integrated.
   casting_observed: >-
     Diverse, community-representative. CVS photography shows a broad
-    demographic — families, seniors, young adults, pharmacists of varied
+    demographic. families, seniors, young adults, pharmacists of varied
     backgrounds. The casting reflects CVS's community pharmacy positioning
-    — serving everyone in the neighbourhood. The CVS Beauty Mark ensures
+   serving everyone in the neighbourhood. The CVS Beauty Mark ensures
     beauty photography represents unretouched, real appearances.
   lighting_and_colour: >-
     Bright, clean, clinical-but-warm. Pharmacy and health contexts use
@@ -141,7 +141,7 @@ photography:
   visual_boundaries:
     stated_exclusions: >-
       CVS Beauty Mark (2018): no material alteration of beauty imagery.
-      CVS ended tobacco sales in 2014 — no tobacco-related imagery.
+      CVS ended tobacco sales in 2014. no tobacco-related imagery.
       Avoids imagery that contradicts the health-and-wellness positioning.
     observed_exceptions: >-
       Third-party brand imagery within CVS stores may not follow CVS's
@@ -171,13 +171,13 @@ graphic_language:
     touchpoints. ExtraCare loyalty programme uses its own icon system
     for rewards and benefits.
   graphic_devices: >-
-    The heart logo — a teardrop-geometry heart (Siegel+Gale, 2014) that
+    The heart logo. a teardrop-geometry heart (Siegel+Gale, 2014) that
     replaced the sunburst star mark. The heart connects CVS to health,
-    care, and human connection. CVS Red (#CC0000, PMS 485 C) — the red
+    care, and human connection. CVS Red (#CC0000, PMS 485 C). the red
     is the strongest chromatic identifier in US pharmacy retail. The
-    CVS Beauty Mark — a watermark-style badge indicating unretouched
+    CVS Beauty Mark. a watermark-style badge indicating unretouched
     imagery, functioning as both ethical signal and graphic device.
-    The ExtraCare card/programme branding — a visual system within the
+    The ExtraCare card/programme branding. a visual system within the
     system, with its own colour treatments and promotional graphics.
   motion_language: >-
     Functional, retail-standard. Digital interfaces use standard retail
@@ -193,15 +193,15 @@ type_treatment:
     - "Helvetica Neue (CVS Health body text)"
     - "cvs.com (observed February 2026)"
   signature_move: >-
-    Helvetica Black for the CVS wordmark — bold, authoritative, and
+    Helvetica Black for the CVS wordmark. bold, authoritative, and
     maximally legible at any scale from prescription labels to highway
     signage. Helvetica Neue serves as the body typeface for CVS Health
     communications. The choice of Helvetica (the world's most ubiquitous
     sans-serif) is functionally strategic rather than creatively
-    distinctive — CVS serves 9,000+ locations and 100+ million customers,
+    distinctive. CVS serves 9,000+ locations and 100+ million customers,
     requiring absolute legibility across every touchpoint from pharmacy
     labels to digital interfaces. The typography is designed to be
-    invisible rather than expressive — health information must be clear,
+    invisible rather than expressive. health information must be clear,
     not stylish. Compared to Walgreens (custom script 'W') or Rite Aid
     (no distinctive type), CVS's Helvetica use is the most functionally
     optimised for mass-market healthcare retail.
@@ -218,12 +218,12 @@ type_treatment:
     and health information follows pharmaceutical typography conventions.
   display_vs_body: >-
     Display: Helvetica Black for the CVS wordmark and primary headlines
-    — maximum weight for maximum visibility. Body: Helvetica Neue at
+   maximum weight for maximum visibility. Body: Helvetica Neue at
     regular weight for all corporate and marketing text. The single-
     family approach (Helvetica across the system) provides absolute
     consistency but no typographic personality.
   type_and_image: >-
-    Typography serves functional healthcare communication — prescription
+    Typography serves functional healthcare communication. prescription
     information, product ingredients, health guidance, pricing. In retail
     contexts, type provides price and product information alongside
     product photography. In corporate contexts, type and data
@@ -240,7 +240,7 @@ layout:
     - "Digital Pulse design system"
   signature_composition: >-
     Pharmacy-retail-coded, service-navigation-centred. cvs.com prioritises
-    service navigation — prescription refills, appointment scheduling,
+    service navigation. prescription refills, appointment scheduling,
     MinuteClinic visits, ExtraCare management. The composition reflects
     CVS's transformation from pharmacy retailer to health-services
     company. Product browsing is secondary to healthcare service access.
@@ -250,7 +250,7 @@ layout:
     coded), CVS's layout bridges physical retail and digital health
     services.
   density_and_whitespace: >-
-    High density in pharmacy and retail contexts — product information,
+    High density in pharmacy and retail contexts. product information,
     pricing, promotions, and health services compete for attention.
     Corporate communications use more generous whitespace. The Digital
     Pulse design system aims to create clarity within the inherent
@@ -272,9 +272,9 @@ trend_posture:
     - trend: "Unretouched beauty imagery in retail"
       stance: "leader"
       evidence: >-
-        The CVS Beauty Mark (2018) — a commitment to no material
+        The CVS Beauty Mark (2018). a commitment to no material
         alteration of beauty imagery across CVS store-brand marketing
-        — was the first initiative of its kind by a major US retailer.
+       was the first initiative of its kind by a major US retailer.
         The Beauty Mark watermark signals unretouched photography,
         creating a visual-ethics standard.
       reasoning: >-
@@ -312,13 +312,13 @@ collaboration:
   notable_examples: >-
     CVS x Siegel+Gale (2014 rebrand): the brand consultancy created the
     heart logo and established the 'health-first' visual positioning that
-    accompanied the tobacco sales exit — one of the most mission-
+    accompanied the tobacco sales exit. one of the most mission-
     significant visual-identity transformations in US retail. CVS x
     Pearlfisher (2024-2025 packaging redesign): the London agency elevated
-    CVS store-brand packaging design — bringing premium visual quality to
+    CVS store-brand packaging design. bringing premium visual quality to
     affordable healthcare products. CVS Beauty Mark (2018): the unretouched-
     imagery commitment created a new visual-ethics standard in retail
-    beauty — the watermark itself became a graphic device signalling
+    beauty. the watermark itself became a graphic device signalling
     transparency. CVS x Aetna (2018 acquisition integration): the visual
     integration of a pharmacy-retail brand with a health-insurance brand
     required managing two visual identities within one corporate system.

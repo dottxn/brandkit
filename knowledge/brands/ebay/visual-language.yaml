@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for eBay. How the brand looks structurally —
+  Visual language for eBay. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,8 +31,8 @@ visual_modes:
         - "eBay social media channels"
         - "eBay corporate communications"
       description: >-
-        Four-colour heritage — Red (#E53238), Blue (#0064D2), Yellow
-        (#F5AF02), Green (#86B817) — carried through the eBay wordmark.
+        Four-colour heritage. Red (#E53238), Blue (#0064D2), Yellow
+        (#F5AF02), Green (#86B817). carried through the eBay wordmark.
         Market Sans (custom typeface developed with Form agency, NYC)
         serves as the brand typeface. The November 2024 eBay Evo update
         introduced a comprehensive visual evolution: a 280-page brand
@@ -58,7 +58,7 @@ visual_modes:
         - "Seller community resources"
       description: >-
         More functional, more data-driven. The seller-facing visual
-        language prioritises usability over brand expression — analytics
+        language prioritises usability over brand expression. analytics
         dashboards, listing tools, and performance metrics use a cleaner,
         more neutral register. The four-colour palette appears as accent
         rather than dominant. Data visualisations and business-tool
@@ -79,13 +79,13 @@ visual_modes:
         - "eBay social media campaigns"
       description: >-
         The eBay Evo system (November 2024) introduced a story-driven
-        visual approach — photography that tells seller and buyer
+        visual approach. photography that tells seller and buyer
         stories, a 136-colour accessible palette that extends far
         beyond the four-colour heritage, and illustration that brings
         warmth and personality. This mode represents eBay's visual
         evolution from transactional marketplace to community-driven
         commerce platform. The visual language celebrates the unique,
-        unexpected nature of eBay's marketplace — vintage finds, collector
+        unexpected nature of eBay's marketplace. vintage finds, collector
         items, small-business stories.
       differs_from_default_by: >-
         Richer colour palette (136 colours vs four heritage colours).
@@ -95,7 +95,7 @@ visual_modes:
 
   notes: >-
     eBay's November 2024 Evo update represents the most comprehensive
-    visual investment in the brand's history — the 280-page playbook
+    visual investment in the brand's history. the 280-page playbook
     and 2,700+ assets indicate a systematic approach to visual
     governance that the brand has historically lacked. The Lippincott
     2012 redesign established the overlapping-letter wordmark; eBay Evo
@@ -110,19 +110,19 @@ photography:
     - "eBay Evo brand playbook (November 2024)"
     - "eBay brand campaigns"
   subject_and_framing: >-
-    Story-driven — the eBay Evo system (November 2024) established a
+    Story-driven. the eBay Evo system (November 2024) established a
     photography direction focused on the stories behind buying and
     selling. Seller stories: people in their workshops, garages, and
     studios with their unique inventory. Buyer stories: the delight of
     finding something unexpected or rare. Product photography shows the
-    diversity of eBay's marketplace — vintage fashion, collectibles,
+    diversity of eBay's marketplace. vintage fashion, collectibles,
     electronics, auto parts, and everything in between. Compared to
     Amazon (product-on-white, utilitarian, conversion-optimised) or
     Etsy (craft-coded, maker-focused, lifestyle-styled), eBay's
     photography emphasises the unique and unexpected nature of the
     marketplace.
   casting_observed: >-
-    Diverse, authentic, community-coded. Sellers of all types — from
+    Diverse, authentic, community-coded. Sellers of all types. from
     sneaker collectors to vintage-furniture dealers to small-business
     owners. The casting reflects eBay's position as a marketplace for
     everyone, emphasising real sellers and real buyers rather than
@@ -131,23 +131,23 @@ photography:
     The Evo photography direction uses warm, natural lighting that feels
     authentic and inviting. Seller environments (workshops, stores,
     garages) are lit to look real, not staged. Product photography varies
-    by category — from clean studio shots for electronics to styled
+    by category. from clean studio shots for electronics to styled
     compositions for fashion and home goods. The 136-colour accessible
     palette provides a broad range of environmental colour treatments.
   post_production: >-
     Moderate processing. The story-driven direction favours authenticity
-    over polish — photography should feel real and relatable. Colour
+    over polish. photography should feel real and relatable. Colour
     treatment aligns with the Evo palette. Product photography follows
     category-standard post-production conventions.
   visual_boundaries:
     stated_exclusions: >-
       eBay avoids luxury-exclusive or aspirational-lifestyle photography.
-      The brand positions as democratic and accessible — anyone can buy
+      The brand positions as democratic and accessible. anyone can buy
       and sell. The photography avoids anything that reads as corporate
       or institutional.
     observed_exceptions: >-
       eBay Luxury (watches, handbags, fine jewellery) adopts a more
-      premium register — darker backgrounds, more controlled lighting,
+      premium register. darker backgrounds, more controlled lighting,
       more refined staging.
     genuine_absence: >-
       Based on ebay.com review: no celebrity endorsement photography,
@@ -167,10 +167,10 @@ graphic_language:
   uses_illustration: true
   illustration_style: >-
     The eBay Evo system (November 2024) introduced a custom illustration
-    library — warm, colourful, and community-coded. The illustrations
+    library. warm, colourful, and community-coded. The illustrations
     use the expanded 136-colour palette and depict marketplace scenarios:
     finding unique items, seller success stories, community connections.
-    The style is approachable and slightly whimsical — it communicates
+    The style is approachable and slightly whimsical. it communicates
     the joy of discovery and the diversity of the eBay marketplace.
     Compared to Amazon (minimal illustration, functional only) or Etsy
     (craft-influenced illustration, handmade-coded), eBay's illustration
@@ -180,20 +180,20 @@ graphic_language:
     Illustrations appear in marketing materials, app empty states,
     onboarding flows, and category navigation. The custom library
     provides visual storytelling tools that photography alone cannot
-    achieve — illustrating concepts like 'community commerce,' 'unique
+    achieve. illustrating concepts like 'community commerce,' 'unique
     finds,' and 'seller success.'
   icon_style: >-
-    Category icons use a consistent style within the Evo system —
+    Category icons use a consistent style within the Evo system
     colourful, rounded, and friendly. The overlapping-letter wordmark
     functions as both logo and icon. Navigation icons follow standard
     e-commerce conventions. The Evo system defines specific icon
     treatments for the expanded product categories.
   graphic_devices: >-
-    The overlapping-letter wordmark (Lippincott, 2012) — the four
+    The overlapping-letter wordmark (Lippincott, 2012). the four
     coloured letters (e, b, a, y) each in Red, Blue, Yellow, and Green,
     slightly overlapping, communicate connection and marketplace
     diversity. The 136-colour accessible palette (eBay Evo, November
-    2024) — a dramatic expansion from four colours to 136, all tested
+    2024). a dramatic expansion from four colours to 136, all tested
     for accessibility compliance. The four heritage colours remain
     identifiable within the broader palette. Market Sans itself, open-
     source on GitHub, functions as a graphic device that demonstrates
@@ -202,7 +202,7 @@ graphic_language:
     The Evo system introduced more defined motion guidelines. The
     overlapping wordmark letters animate with playful, marketplace-
     coded movements. Category transitions use smooth, browsing-
-    appropriate motion. The motion language is friendly and inviting —
+    appropriate motion. The motion language is friendly and inviting
     it communicates discovery and delight rather than speed or urgency.
     Compared to Amazon (minimal, conversion-focused motion) or Etsy
     (gentle, craft-coded motion), eBay's motion is the most playful
@@ -218,26 +218,26 @@ type_treatment:
     - "eBay Evo brand playbook (November 2024)"
     - "ebay.com (observed February 2026)"
   signature_move: >-
-    Market Sans (developed with Form agency, NYC) — a custom sans-serif
+    Market Sans (developed with Form agency, NYC). a custom sans-serif
     designed for eBay's marketplace context. The typeface is open-source,
-    available on GitHub (ebay-font repository) — a decision that aligns
+    available on GitHub (ebay-font repository). a decision that aligns
     with eBay's marketplace ethos of openness and community. The name
     'Market' directly references the marketplace positioning. Market
-    Sans has a geometric foundation with humanist details — professional
+    Sans has a geometric foundation with humanist details. professional
     enough for commerce, warm enough for community. Compared to Amazon
     (Amazon Ember, proprietary, utilitarian) or Etsy (no custom typeface,
     less typographic investment), eBay's open-source approach to brand
-    typography is distinctive — it invites community participation in
+    typography is distinctive. it invites community participation in
     the brand identity.
   what_would_look_wrong: >-
     A serif typeface in digital contexts (eBay is entirely sans-serif
     digitally). A heavy, aggressive display typeface (contradicts the
     friendly, accessible register). The pre-2012 wordmark typography
     (associated with the earlier, less refined brand). A generic system
-    font (Market Sans is the identity — replacing it with Helvetica or
+    font (Market Sans is the identity. replacing it with Helvetica or
     Inter removes brand distinction).
   case_convention: >-
-    'eBay' uses lowercase 'e' with uppercase 'B' — a distinctive
+    'eBay' uses lowercase 'e' with uppercase 'B'. a distinctive
     camelCase convention that has been consistent since the brand's
     founding. Product names use title case ('eBay Motors,' 'eBay Luxury').
     Category names use title case. Body text uses sentence case.
@@ -250,10 +250,10 @@ type_treatment:
     typeface system creates consistency across the diverse marketplace
     experience.
   type_and_image: >-
-    Typography provides product metadata — titles, prices, descriptions,
+    Typography provides product metadata. titles, prices, descriptions,
     seller information. Product imagery dominates the visual hierarchy
     on listing pages. In brand marketing (post-Evo), type and
-    photography share space with the story-driven approach — headlines
+    photography share space with the story-driven approach. headlines
     tell stories, photography illustrates them. The overlapping-letter
     wordmark bridges typography and graphic design.
 
@@ -266,7 +266,7 @@ layout:
     - "eBay app interface"
     - "eBay Evo brand playbook"
   signature_composition: >-
-    Product-grid marketplace layout — the visual composition that defines
+    Product-grid marketplace layout. the visual composition that defines
     online marketplaces. eBay uses a grid of product listings with
     images, titles, prices, and seller ratings. Search results support
     both grid view and list view. The homepage balances curated content
@@ -280,7 +280,7 @@ layout:
     update introduced slightly more generous spacing and cleaner
     information hierarchy. Marketing pages use more whitespace than
     product pages. The marketplace must accommodate millions of seller-
-    generated product images of varying quality — the layout provides
+    generated product images of varying quality. the layout provides
     structure around diverse visual content.
   format_preferences: >-
     Product images use square (1:1) format in grid views. Hero banners
@@ -292,20 +292,20 @@ layout:
 trend_posture:
   overall: "selective-adopter"
   relationship_to_trends: >-
-    eBay historically lagged behind design trends — the platform's visual
+    eBay historically lagged behind design trends. the platform's visual
     identity was functional rather than designed. The November 2024 Evo
     update represents a deliberate catch-up and modernisation.
   examples:
     - trend: "Open-source brand assets"
       stance: "early-adopter"
       evidence: >-
-        Market Sans is open-source on GitHub (ebay-font repository) —
+        Market Sans is open-source on GitHub (ebay-font repository)
         making eBay one of the few major e-commerce companies to open-
         source its brand typeface. This parallels Reddit's open-source
         approach with Reddit Sans.
       reasoning: >-
         Open-sourcing the brand typeface aligns with eBay's marketplace
-        ethos — the platform enables open commerce, and the open-source
+        ethos. the platform enables open commerce, and the open-source
         typeface extends this philosophy to design. It also helps sellers
         create eBay-consistent marketing materials.
     - trend: "Comprehensive brand system playbooks"
@@ -332,7 +332,7 @@ collaboration:
     positioning.
   what_bends: >-
     Sellers create their own visual identities within eBay's marketplace
-    framework — custom store designs, product photography, and brand
+    framework. custom store designs, product photography, and brand
     presentations. Category-specific visual treatments (eBay Motors, eBay
     Luxury, eBay Refurbished) adapt the brand for different commerce
     contexts. The 136-colour Evo palette provides extensive flexibility
@@ -341,12 +341,12 @@ collaboration:
   notable_examples: >-
     eBay x Lippincott (2012 redesign): the consultancy created the
     overlapping-letter wordmark that has defined eBay's visual identity
-    for over a decade — replacing the connected-letter original with a
+    for over a decade. replacing the connected-letter original with a
     more contemporary, flexible mark. eBay x Form agency (Market Sans):
     the NYC-based agency developed the custom typeface that anchors eBay's
-    typographic identity — subsequently open-sourced for community use.
+    typographic identity. subsequently open-sourced for community use.
     eBay Evo (November 2024): the most comprehensive visual system in
-    eBay's history — 280-page playbook, 2,700+ assets, custom
+    eBay's history. 280-page playbook, 2,700+ assets, custom
     illustration library, 136-colour accessible palette. This system
     represents eBay's most significant investment in design governance
     and brand consistency.

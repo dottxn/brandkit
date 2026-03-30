@@ -19,10 +19,10 @@ summary: Visual reasoning for YouTube. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  YouTube Sans was designed specifically for the platform to balance readability across hundreds of millions of videos and creators with different visual aesthetics. The typeface is geometric and clean—it gets out of the way and lets creator content have the visual identity. System fonts provide consistency without requiring brand font delivery to every video page.
+  YouTube Sans was designed specifically for the platform to balance readability across hundreds of millions of videos and creators with different visual aesthetics. The typeface is geometric and clean. it gets out of the way and lets creator content have the visual identity. System fonts provide consistency without requiring brand font delivery to every video page.
 colour_logic: >-
   The palette is primary-color pure: red (#FF0000) for the play button and brand mark, white for clarity and contrast, dark gray (#282828) for interface elements. This simplicity allows creator thumbnails and video content to provide all the visual interest. Every other color in the ecosystem comes from creator content, not platform design.
 composition_philosophy: >-
-  Video grid layouts prioritize thumbnail visibility and rapid scanning. Information hierarchy serves discovery—title, thumbnail, creator, metrics are all equally scannable. No decorative composition; every element serves finding content. The interface is a frame around creator content; the frame should be subtle.
+  Video grid layouts prioritize thumbnail visibility and rapid scanning. Information hierarchy serves discovery. title, thumbnail, creator, metrics are all equally scannable. No decorative composition; every element serves finding content. The interface is a frame around creator content; the frame should be subtle.
 what_would_break_it: >-
   Introducing a curated editorial aesthetic, featured creator spotlights with distinct visual treatment, or a design system that suggests algorithmic preference hierarchies would immediately undermine creator confidence. The moment the interface suggests YouTube favors certain creators, creators lose faith in algorithmic fairness. The system must visually communicate complete platform neutrality while secretly optimizing algorithmic reach based on engagement metrics.

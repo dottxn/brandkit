@@ -19,10 +19,10 @@ summary: Visual reasoning for Robinhood. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Robinhood Phonic (custom humanist sans-serif) with delicate ink-traps provides personality without reduction to gimmick. The ink-traps create visual interest at display sizes while maintaining clarity at small sizes. Paired with Martina Plantijn (serif with sophisticated personality), the combination suggests both precision and human touch—critical for financial services authenticity.
+  Robinhood Phonic (custom humanist sans-serif) with delicate ink-traps provides personality without reduction to gimmick. The ink-traps create visual interest at display sizes while maintaining clarity at small sizes. Paired with Martina Plantijn (serif with sophisticated personality), the combination suggests both precision and human touch. critical for financial services authenticity.
 colour_logic: >-
-  Black (#000000) and white (#FFFFFF) as foundation suggest serious infrastructure. Robin Neon (#CCFF00) as singular accent—appearing on calls-to-action, highlights, and key UI elements. The neon is electric enough to feel energetic but cool enough (yellow-green, not warm yellow) to maintain sophistication. The color restraint means the neon never feels careless or playful.
+  Black (#000000) and white (#FFFFFF) as foundation suggest serious infrastructure. Robin Neon (#CCFF00) as singular accent. appearing on calls-to-action, highlights, and key UI elements. The neon is electric enough to feel energetic but cool enough (yellow-green, not warm yellow) to maintain sophistication. The color restraint means the neon never feels careless or playful.
 composition_philosophy: >-
-  Modular system designed for seamless flex between product interface and marketing communication. Generous whitespace prevents financial density from becoming intimidating. The feather logo appears throughout but subtly—it's not decorative, it's a values marker. Composition tends toward clean asymmetry (modern) rather than centered formality (corporate).
+  Modular system designed for seamless flex between product interface and marketing communication. Generous whitespace prevents financial density from becoming intimidating. The feather logo appears throughout but subtly. it's not decorative, it's a values marker. Composition tends toward clean asymmetry (modern) rather than centered formality (corporate).
 what_would_break_it: >-
   Adopting corporate finance's conservative aesthetic or youthful startup energy would destroy Robinhood's balance of sophistication (trust) and empowerment (revolution).

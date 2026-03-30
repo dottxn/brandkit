@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Opendoor. How the brand looks structurally —
+  Visual language for Opendoor. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -39,7 +39,7 @@ visual_modes:
         member since 2016) and Yuri Lence (Product Design Lead) established
         the design infrastructure. DKNG Studios (2022) developed the
         multi-tiered illustration system. The visual language is clean,
-        trustworthy, and warm — designed to make real estate transactions
+        trustworthy, and warm. designed to make real estate transactions
         feel simple and approachable rather than complex and intimidating.
         The brand personality is 'knowledgeable, neighbourly, straightforward.'
         Compared to Zillow (more marketplace-aggregation-coded, more data-
@@ -77,7 +77,7 @@ visual_modes:
       description: >-
         More functional, process-progress-coded. The seller experience
         uses a dashboard-centred layout (redesigned by Allen Jordan) that
-        tracks the selling journey digitally — a capability unavailable
+        tracks the selling journey digitally. a capability unavailable
         in traditional real estate. The Closing Dashboard provides
         personalised progress tracking through offer, inspection, closing,
         and move-out stages. The visual language must communicate both
@@ -108,9 +108,9 @@ photography:
     Professional property photography and lifestyle-context imagery.
     Opendoor uses two photography modes: property photography (wide-angle
     interiors, exterior views, neighbourhood context) following
-    professional standards — waist-height camera, tripod-stabilised,
+    professional standards. waist-height camera, tripod-stabilised,
     all lights on, open blinds, clean lines. Brand photography shows
-    people in home-transition moments — moving in, exploring
+    people in home-transition moments. moving in, exploring
     neighbourhoods, family life in new homes. The photography signals
     competence, attention to detail, and warmth regardless of property
     price point. Compared to Zillow (user-uploaded, quality-variable)
@@ -118,7 +118,7 @@ photography:
     the most consistently professional as a direct buyer/seller.
   casting_observed: >-
     Diverse, family-and-individual-coded. Brand photography shows families,
-    couples, and individuals in home contexts — reflecting the range of
+    couples, and individuals in home contexts. reflecting the range of
     people buying and selling homes. The casting emphasises the emotional
     experience of home transition rather than aspirational demographics.
   lighting_and_colour: >-
@@ -129,7 +129,7 @@ photography:
     influencing photographic colour grade.
   post_production: >-
     Clean, accurate, trust-building. Property photography aims for
-    faithful representation — Opendoor's model (buying homes directly)
+    faithful representation. Opendoor's model (buying homes directly)
     requires photographic accuracy for pricing. Brand photography
     receives moderate warm processing that enhances the welcoming,
     approachable quality.
@@ -160,7 +160,7 @@ graphic_language:
     illustrations (large-format, high-detail for landing pages and key
     touchpoints), spot illustrations (medium-scale for various use cases),
     and one-colour icons (simplified, maximum legibility at small scale).
-    The style is professional yet welcoming — designed to balance the
+    The style is professional yet welcoming. designed to balance the
     serious nature of real estate transactions with approachability.
     Jonathan Holt subsequently redesigned and expanded the DKNG
     illustration work in Figma for internal scalability. Compared to
@@ -176,23 +176,23 @@ graphic_language:
     be a purely transactional digital experience.
   icon_style: >-
     One-colour, simplified, high-legibility icons (DKNG Studios, 2022).
-    The icon system is designed for maximum clarity at small scales —
+    The icon system is designed for maximum clarity at small scales
     real estate process steps, property features, neighbourhood amenities.
     Icons follow the geometric, clean character of Graphik typography.
   graphic_devices: >-
-    The Opendoor wordmark — a text-based logotype without a separate
+    The Opendoor wordmark. a text-based logotype without a separate
     symbol. The 'door' concept is expressed through the illustration
     system and brand metaphor rather than as a literal logo mark.
-    Primary Blue (#1B84E6) — the blue communicates trust and dependability
-    for high-stakes financial transactions. Coral (#FC9474) — the warm
+    Primary Blue (#1B84E6). the blue communicates trust and dependability
+    for high-stakes financial transactions. Coral (#FC9474). the warm
     accent softens the corporate blue, adding approachability. The
-    multi-tiered illustration system — three levels of visual detail
+    multi-tiered illustration system. three levels of visual detail
     serving different contexts and scales.
   motion_language: >-
     Functional, clarity-coded. Property browsing animations, filter
     transitions, and progress indicators prioritise clarity over
     personality. The Closing Dashboard uses step-completion animations.
-    No distinctive branded motion language — the motion serves the
+    No distinctive branded motion language. the motion serves the
     transaction experience.
 
 # ── Typography in Practice ───────────────────────
@@ -203,14 +203,14 @@ type_treatment:
     - "Graphik (Christian Schwartz, Commercial Type, 2009)"
     - "opendoor.com (observed February 2026)"
   signature_move: >-
-    Graphik (Christian Schwartz, Commercial Type, 2009) — a clean,
+    Graphik (Christian Schwartz, Commercial Type, 2009). a clean,
     functional sans-serif inspired by 20th-century European sans-serifs
     and Swiss Modern design. Christian Schwartz originally created Graphik
     for personal use before it became one of Commercial Type's foundational
     releases. The typeface's clean geometry and warm proportions align
     with Opendoor's 'neighbourly and straightforward' brand personality.
     Graphik provides professional credibility without corporate coldness
-    — critical for a brand asking people to trust it with the largest
+   critical for a brand asking people to trust it with the largest
     financial transaction of their lives. Compared to Zillow (no
     distinctive type) or Redfin (Libre Franklin, open-source), Opendoor's
     Graphik is the most typographically invested among proptech platforms.
@@ -224,7 +224,7 @@ type_treatment:
   case_convention: >-
     'Opendoor' uses title case (one word). Product names use title case.
     Body text uses sentence case. Marketing headlines use sentence case.
-    The brand avoids ALL CAPS — the tone is approachable, not aggressive.
+    The brand avoids ALL CAPS. the tone is approachable, not aggressive.
   display_vs_body: >-
     Display: Graphik at medium and bold weights for marketing headlines
     and campaign type. The clean geometry is effective at display sizes.
@@ -232,10 +232,10 @@ type_treatment:
     descriptions, and interface content. The single-typeface system
     provides consistency across all touchpoints.
   type_and_image: >-
-    Typography provides critical transaction information — property
+    Typography provides critical transaction information. property
     prices, offer amounts, fee structures, timeline estimates. Numbers
     are hero content in the selling flow. In marketing, type and
-    illustration share space — DKNG hero illustrations provide visual
+    illustration share space. DKNG hero illustrations provide visual
     impact while Graphik headlines provide the message. Property
     listings use type for price, features, and neighbourhood data
     alongside photography.
@@ -250,7 +250,7 @@ layout:
     - "Buyer and Seller design systems"
   signature_composition: >-
     Address-input-centred, step-process-coded. opendoor.com leads with
-    the address-entry field — a 'sticky' element that follows the user,
+    the address-entry field. a 'sticky' element that follows the user,
     reflecting the product's core experience: enter an address, receive
     an offer. The homepage structures content around three customer
     questions: how selling works, how buying works, and why Opendoor.
@@ -274,33 +274,33 @@ trend_posture:
   overall: "selective-adopter"
   relationship_to_trends: >-
     Opendoor's visual evolution is driven by transaction-experience
-    optimisation rather than design trends — visual decisions serve
+    optimisation rather than design trends. visual decisions serve
     the goal of making real estate simple and trustworthy.
   examples:
     - trend: "Illustration systems in proptech"
       stance: "early-adopter"
       evidence: >-
-        The DKNG Studios multi-tiered illustration system (2022) — hero
-        illustrations, spot illustrations, and one-colour icons — was
+        The DKNG Studios multi-tiered illustration system (2022). hero
+        illustrations, spot illustrations, and one-colour icons. was
         an early comprehensive illustration investment in proptech,
         bringing visual warmth to a category dominated by property
         photography and data.
       reasoning: >-
         Real estate transactions are stressful. Illustration adds human
         warmth and simplifies complex processes that property photography
-        alone cannot communicate — making the unfamiliar feel approachable.
+        alone cannot communicate. making the unfamiliar feel approachable.
     - trend: "Digital-native real estate transactions"
       stance: "leader"
       evidence: >-
-        The Closing Dashboard (Allen Jordan redesign) — a digital
-        transaction tracker for home selling — is a visual innovation
+        The Closing Dashboard (Allen Jordan redesign). a digital
+        transaction tracker for home selling. is a visual innovation
         unavailable in traditional real estate. The dashboard's step-
         progress design makes the opaque traditional closing process
         transparent and trackable.
       reasoning: >-
         Opendoor's core proposition is digital simplification of real
         estate. The Closing Dashboard visualises what was previously
-        invisible — creating both functional utility and brand
+        invisible. creating both functional utility and brand
         differentiation.
 
 # ── Collaboration Rules ──────────────────────────
@@ -320,10 +320,10 @@ collaboration:
   notable_examples: >-
     Opendoor x DKNG Studios (2022 illustration system): the illustration
     studio created a multi-tiered visual system that brings warmth and
-    approachability to real estate — hero illustrations, spot illustrations,
+    approachability to real estate. hero illustrations, spot illustrations,
     and one-colour icons serving different contexts and scales. Opendoor x
     Christian Schwartz/Commercial Type (Graphik): the typeface provides
-    the typographic foundation — clean, warm, professional without being
+    the typographic foundation. clean, warm, professional without being
     corporate. Opendoor x Nicolas Solerieu (founding design team, 2016):
     Solerieu joined when the design team was 3 people and built the
     design infrastructure (principles, systems, guidelines) that scaled

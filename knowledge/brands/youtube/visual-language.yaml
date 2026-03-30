@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for YouTube. How the brand looks structurally —
+  Visual language for YouTube. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -32,7 +32,7 @@ visual_modes:
         - "YouTube social media channels"
         - "YouTube Creator events (VidCon, YouTube Brandcast)"
       description: >-
-        YouTube Red (#FF0000) dominant — the most recognisable colour in
+        YouTube Red (#FF0000) dominant. the most recognisable colour in
         online video. The play-button logo (rounded rectangle + triangle,
         redesigned 2017) is the primary mark. YouTube Sans (Saffron +
         Letterjuice Barcelona + URW++, 2017; updated to v4 2019) is the
@@ -60,7 +60,7 @@ visual_modes:
         Tool-focused, creator-empowering. YouTube Studio uses a darker,
         more dashboard-like visual language. The Creator Awards programme
         (Silver, Gold, Diamond play-button trophies) is a distinctive
-        visual system — physical objects that function as status symbols
+        visual system. physical objects that function as status symbols
         in the creator community. Creator-facing materials use a more
         functional, less brand-expressive register. The visual language
         serves the creator's needs rather than YouTube's brand expression.
@@ -80,7 +80,7 @@ visual_modes:
         uses a multicolour palette, rounded shapes, and child-friendly
         typography. The play-button logo is modified with softer edges.
         The visual language is the most significant departure from the
-        core YouTube brand — deliberately child-safe, parent-reassuring,
+        core YouTube brand. deliberately child-safe, parent-reassuring,
         and distinct from the main platform's visual language.
       differs_from_default_by: >-
         Multicolour replaces red-dominant. Rounded, playful shapes replace
@@ -123,20 +123,20 @@ photography:
     - "YouTube Brandcast and creator event photography"
     - "YouTube Culture & Trends reports"
   subject_and_framing: >-
-    YouTube uses minimal brand photography — the platform's visual content
+    YouTube uses minimal brand photography. the platform's visual content
     is creator-generated. Brand photography appears in corporate marketing,
     creator events (VidCon, Brandcast), and annual campaigns like YouTube
     Rewind (discontinued 2019). Event photography captures the creator
-    community — diverse, energetic, celebratory. Product marketing uses
+    community. diverse, energetic, celebratory. Product marketing uses
     device mockups showing the YouTube interface rather than traditional
     photography. Compared to TikTok (more creator-portrait-forward) or
     Instagram (more aspirational-lifestyle), YouTube's brand photography
     is the most platform-functional.
   casting_observed: >-
-    Creator community representation — diverse in age, ethnicity, content
+    Creator community representation. diverse in age, ethnicity, content
     type, and audience size. YouTube Brandcast features high-profile
     creators alongside traditional media executives. No single casting
-    aesthetic — the diversity of the creator community IS the casting.
+    aesthetic. the diversity of the creator community IS the casting.
   lighting_and_colour: >-
     Event photography uses warm, stage-lit environments. Brand marketing
     uses clean, bright studio lighting. The red (#FF0000) appears in
@@ -150,7 +150,7 @@ photography:
     stated_exclusions: >-
       YouTube brand photography avoids creator-specific promotion (the
       platform is neutral toward all creators). The brand avoids content-
-      category bias in its own photography — representing gaming, beauty,
+      category bias in its own photography. representing gaming, beauty,
       education, music, and all categories equally.
     observed_exceptions: >-
       YouTube Originals marketing (before its discontinuation) used more
@@ -168,11 +168,11 @@ graphic_language:
   primary_sources:
     - "Play-button logo (rounded rectangle + triangle, redesigned 2017, updated 2024)"
     - "YouTube Red (#FF0000)"
-    - "2026 visual identity refresh — Gesture Systems illustration framework"
+    - "2026 visual identity refresh. Gesture Systems illustration framework"
     - "YouTube Sans (Saffron + Letterjuice Barcelona + URW++, 2017)"
   uses_illustration: true
   illustration_style: >-
-    The 2026 visual identity refresh introduced Gesture Systems — YouTube's
+    The 2026 visual identity refresh introduced Gesture Systems. YouTube's
     first comprehensive illustration framework. The system uses expressive,
     hand-drawn-feeling gestures combined with the play-button motif. This
     represents YouTube's first significant investment in brand illustration
@@ -186,20 +186,20 @@ graphic_language:
     on creator content or photography.
   icon_style: >-
     The play button (rounded rectangle with triangle) IS the primary icon
-    — it functions as logo, icon, and graphic device simultaneously.
+   it functions as logo, icon, and graphic device simultaneously.
     Platform icons follow Google's Material Design system. YouTube-specific
     feature icons (Shorts lightning bolt, Live red dot, Super Chat icons)
     create a product-level icon language within the Material framework.
   graphic_devices: >-
-    The play button — the single most recognisable icon in online video.
-    YouTube Red (#FF0000) — the colour itself identifies the brand (updated
+    The play button. the single most recognisable icon in online video.
+    YouTube Red (#FF0000). the colour itself identifies the brand (updated
     from a darker red pre-2017). The 2026 display typeface (Sharp Type, 9
     global scripts) provides a new graphic tool for international brand
     expression. The Creator Awards play-button trophies (Silver at 100K,
     Gold at 1M, Diamond at 10M subscribers) are physical graphic devices
     that have become cultural objects in the creator economy.
   motion_language: >-
-    The 2026 refresh introduced YouTube's first motion identity system —
+    The 2026 refresh introduced YouTube's first motion identity system
     the play button animates with a defined set of transitions and
     behaviours. Prior to this, motion language was inconsistent. The
     play button's triangle-to-content reveal is the signature transition.
@@ -217,13 +217,13 @@ type_treatment:
     - "youtube.com (observed February 2026)"
   signature_move: >-
     YouTube Sans (Saffron + Letterjuice Barcelona + URW++, 2017, updated
-    to v4 2019) — a custom geometric sans-serif that references the play
+    to v4 2019). a custom geometric sans-serif that references the play
     button's geometry in its letter construction. Rounded terminals and
     geometric circles echo the logo's rounded rectangle. The 2026 display
     typeface (Sharp Type) expands YouTube's typographic system to 9 global
-    scripts — one of the most comprehensive international type investments
+    scripts. one of the most comprehensive international type investments
     by a tech platform. The typography is friendly, geometric, and
-    platform-neutral — designed to work alongside billions of creator
+    platform-neutral. designed to work alongside billions of creator
     thumbnails without competing for attention.
   what_would_look_wrong: >-
     A serif typeface (YouTube is entirely geometric sans-serif). A
@@ -238,7 +238,7 @@ type_treatment:
     case ('Silver Play Button').
   display_vs_body: >-
     Display: The 2026 display typeface (Sharp Type) for campaign headlines
-    and brand-moment type — bolder, more expressive, supporting 9 global
+    and brand-moment type. bolder, more expressive, supporting 9 global
     scripts. YouTube Sans at heavier weights for standard marketing
     headlines. Body: YouTube Sans at regular weight for interface text,
     descriptions, and general content. The platform also uses Roboto (Google's
@@ -261,7 +261,7 @@ layout:
     - "YouTube app across devices"
     - "YouTube Shorts vertical format"
   signature_composition: >-
-    Thumbnail grid — the visual composition that defines online video.
+    Thumbnail grid. the visual composition that defines online video.
     youtube.com uses horizontal rows of video thumbnails (16:9 aspect
     ratio) with title, creator name, view count, and timestamp metadata.
     This grid layout has been copied by virtually every video platform.
@@ -272,11 +272,11 @@ layout:
     sidebar-heavy), YouTube's layout is the most grid-based and browsing-
     oriented.
   density_and_whitespace: >-
-    Moderate density. The thumbnail grid is compact but breathable —
+    Moderate density. The thumbnail grid is compact but breathable
     consistent spacing between cards creates a clean browsing experience.
     The 2024 UI refresh introduced more whitespace and cleaner card
     boundaries. YouTube Shorts is full-bleed with no whitespace (video
-    fills the entire screen). Creator Studio (dashboard) is denser —
+    fills the entire screen). Creator Studio (dashboard) is denser
     data tables, analytics charts, and management tools.
   format_preferences: >-
     16:9 landscape for standard video thumbnails and content. 9:16 vertical
@@ -310,7 +310,7 @@ trend_posture:
       evidence: >-
         The 2026 display typeface (Sharp Type, 9 global scripts) is one
         of the most comprehensive international type investments by a tech
-        platform — supporting Latin, Arabic, Cyrillic, Devanagari, Japanese,
+        platform. supporting Latin, Arabic, Cyrillic, Devanagari, Japanese,
         Korean, Thai, and other scripts with a single cohesive design system.
       reasoning: >-
         YouTube's 2B+ monthly active users across virtually every country
@@ -333,11 +333,11 @@ collaboration:
     Live, Super Chat) introduce their own visual sub-systems.
   notable_examples: >-
     YouTube x creators: the platform hosts billions of creator-defined
-    visual identities — YouTube's greatest visual collaboration is the
+    visual identities. YouTube's greatest visual collaboration is the
     freedom it gives creators to define their own aesthetics within its
     framework. YouTube x Google (parent): YouTube maintains its own visual
     identity separate from Google's Material You system, though it uses
     Material Design foundations. YouTube Rewind (2010-2019): annual
     collaborative videos that created bespoke visual identities celebrating
-    the year's creator content — the most elaborate visual collaborations
+    the year's creator content. the most elaborate visual collaborations
     YouTube produced before the format was discontinued.

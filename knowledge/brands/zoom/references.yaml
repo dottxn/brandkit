@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Zoom — Creative References
+# Zoom. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -30,25 +30,25 @@ publications:
 
 visuals:
   - url: "https://futurelondonacademy.co.uk/en/articles/dl-chief-design-officer-at-zoom"
-    label: "Mark Kawano as Zoom's First CDO — Strategy and Vision"
+    label: "Mark Kawano as Zoom's First CDO. Strategy and Vision"
     section: visual-language
 
   - url: "https://medium.com/@futurelondonacademy/what-does-it-mean-to-be-the-chief-design-officer-at-zoom-af36fe0b05ca"
-    label: "Chief Design Officer Role at Zoom — Medium Article"
+    label: "Chief Design Officer Role at Zoom. Medium Article"
     section: visual-language
 
   - url: "https://www.linkedin.com/in/mkawano/"
-    role: "Mark Kawano LinkedIn Profile — Professional Background"
+    role: "Mark Kawano LinkedIn Profile. Professional Background"
     section: visual-language
 
   - url: "https://fonts.google.com/specimen/Lato"
-    label: "Lato Typeface on Google Fonts — Open-source UI Font"
+    label: "Lato Typeface on Google Fonts. Open-source UI Font"
     section: visual-world
 
   - url: "https://zoom.us"
-    label: "Zoom Platform — Live Case Study of Design System Implementation"
+    label: "Zoom Platform. Live Case Study of Design System Implementation"
     section: visual-world
 
   - url: "https://explore.zoom.us/design/"
-    label: "Zoom Design System Documentation — Official Guidelines"
+    label: "Zoom Design System Documentation. Official Guidelines"
     section: visual-world

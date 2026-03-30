@@ -20,7 +20,7 @@ actually_competes_with:
   - microsoft
   - apple
   - vercel
-industry_norms_it_breaks: "The Blossom logo (three intertwined triangles) suggesting connection and emergence rather than precision | The decision to use motion and organic flow in an AI context—counterintuitive because AI is defined by computation, yet this choice fundamentally positioned OpenAI as human-facing rather than technica | Does it make AI feel like a collaborator or a tool? OpenAI defaults to collaborator"
+industry_norms_it_breaks: "The Blossom logo (three intertwined triangles) suggesting connection and emergence rather than precision | The decision to use motion and organic flow in an AI context. counterintuitive because AI is defined by computation, yet this choice fundamentally positioned OpenAI as human-facing rather than technica | Does it make AI feel like a collaborator or a tool? OpenAI defaults to collaborator"
 visual_cluster: "geometric-clean"
 visual_fingerprint:
   - cluster: "geometric-clean"

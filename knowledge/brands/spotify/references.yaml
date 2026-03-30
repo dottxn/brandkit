@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Spotify — Creative References
+# Spotify. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -7,7 +7,7 @@ studios:
     type: branding
     url: "https://www.wearecollins.com/"
     project_url: "https://www.wearecollins.com/work/spotify/"
-    relationship: "2015 rebrand — established signature duotone photography system, The Colorizer tool, and visual identity expansion from black/green to 31-color palette"
+    relationship: "2015 rebrand. established signature duotone photography system, The Colorizer tool, and visual identity expansion from black/green to 31-color palette"
 
   - name: "Lineto"
     type: type-foundry
@@ -47,7 +47,7 @@ publications:
 
 visuals:
   - url: "https://www.wearecollins.com/work/spotify/"
-    label: "2015 rebrand case study — duotone system, The Colorizer, color expansion strategy"
+    label: "2015 rebrand case study. duotone system, The Colorizer, color expansion strategy"
     section: visual-language
 
   - url: "https://www.lineto.com/typefaces/circular"
@@ -55,5 +55,5 @@ visuals:
     section: visual-language
 
   - url: "https://design.spotify.com/"
-    label: "Spotify Design — case studies, design system documentation"
+    label: "Spotify Design. case studies, design system documentation"
     section: visual-world

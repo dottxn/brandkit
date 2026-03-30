@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Zillow — Creative References
+# Zillow. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -39,23 +39,23 @@ publications:
 
 visuals:
   - url: "https://jessicasmolinski.com/portfolio/zillow-rebrand/"
-    label: "Zillow Brand Refresh 2019 — Complete Case Study"
+    label: "Zillow Brand Refresh 2019. Complete Case Study"
     section: visual-language
 
   - url: "https://mikepatruno.com/project/zillow-marketing-web-design-system"
-    label: "Zillow Marketing Web Design System — Implementation"
+    label: "Zillow Marketing Web Design System. Implementation"
     section: visual-language
 
   - url: "https://www.clairehartinger.com/"
-    label: "Claire Hartinger Portfolio — Art Direction Work"
+    label: "Claire Hartinger Portfolio. Art Direction Work"
     section: visual-language
 
   - url: "https://www.kasimatis.co/"
-    label: "Nick Kasimatis Portfolio — Creative Direction Work"
+    label: "Nick Kasimatis Portfolio. Creative Direction Work"
     section: visual-language
 
   - url: "https://wp-tid.zillowstatic.com/bedrock/app/uploads/sites/2/2021/02/Zillow-3D-Home-Brand-Guidelines-2021-16e654.pdf"
-    label: "Zillow 3D Home Brand Guidelines — Official Design Documentation"
+    label: "Zillow 3D Home Brand Guidelines. Official Design Documentation"
     section: visual-world
 
   - url: "https://medium.com/wayfair-design/ui-at-scale-how-wayfair-supports-multiple-brands-and-geos-with-a-shared-code-base-4e2bfb1e7067"
@@ -63,5 +63,5 @@ visuals:
     section: visual-world
 
   - url: "https://www.zillow.com"
-    label: "Zillow.com Platform — Live Case Study of 2019 Rebrand in Production"
+    label: "Zillow.com Platform. Live Case Study of 2019 Rebrand in Production"
     section: visual-world

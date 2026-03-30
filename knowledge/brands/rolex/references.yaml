@@ -1,12 +1,12 @@
 # ──────────────────────────────────────────────
-# Rolex — Creative References
+# Rolex. Creative References
 # ──────────────────────────────────────────────
 
 studios:
   - name: "J. Walter Thompson"
     type: "advertising"
     url: "https://www.jwt.com/"
-    relationship: "'The Rolex Way' campaign (2014) — defining advertising and brand communication strategy"
+    relationship: "'The Rolex Way' campaign (2014). defining advertising and brand communication strategy"
 
 publications:
   - title: "Rolex Design: The Art of Precision"
@@ -23,17 +23,17 @@ publications:
 
 visuals:
   - url: "https://www.rolex.com/"
-    label: "Rolex.com product photography and testimonee programme — Studio-controlled product hero and athlete-in-achievement imagery"
+    label: "Rolex.com product photography and testimonee programme. Studio-controlled product hero and athlete-in-achievement imagery"
     section: "visual-language"
 
   - url: "https://www.rolex.com/en-us/watches"
-    label: "Rolex product pages — Precision product photography with dial detail and bezel rendering"
+    label: "Rolex product pages. Precision product photography with dial detail and bezel rendering"
     section: "visual-language"
 
   - url: "https://www.rolex.com/en-us/rolex-testimonees"
-    label: "Rolex Testimonees programme — Sports sponsorship and heritage brand associations"
+    label: "Rolex Testimonees programme. Sports sponsorship and heritage brand associations"
     section: "visual-world"
 
   - url: "https://www.rolex.com/en-us/rolex-certified-pre-owned"
-    label: "Rolex CPO packaging and authentication — Green-accented visual system for secondary market"
+    label: "Rolex CPO packaging and authentication. Green-accented visual system for secondary market"
     section: "visual-language"

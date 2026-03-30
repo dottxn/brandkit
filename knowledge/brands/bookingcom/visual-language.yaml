@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Booking.com. How the brand looks structurally —
+  Visual language for Booking.com. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,11 +31,11 @@ visual_modes:
         - "Booking.com social media channels"
         - "Booking.com corporate communications"
       description: >-
-        Resolution Blue (#003580) dominant — a deep, trustworthy blue that
+        Resolution Blue (#003580) dominant. a deep, trustworthy blue that
         anchors the world's largest online travel platform. Booking Sans
         (Colophon Foundry + Wieden+Kennedy Amsterdam, 2015) serves as the
         brand typeface, featuring distinctive 23.5-degree bevels inspired
-        by the Earth's axial tilt — a typographic reference to global
+        by the Earth's axial tilt. a typographic reference to global
         travel. German Kopytkov (Lead Visual Designer) led the logotype
         and broader rebrand. The 2020 Design Language transformation
         established a comprehensive visual system. Two distinct illustration
@@ -62,7 +62,7 @@ visual_modes:
         user-generated content to inspire booking decisions. The visual
         language must balance aspiration (inspiring travel) with utility
         (price comparison, availability, reviews). The energetic illustration
-        style (developed by Elena Snezhinskaya) appears in this mode —
+        style (developed by Elena Snezhinskaya) appears in this mode
         vibrant, expressive illustrations that celebrate the excitement of
         travel planning.
       differs_from_default_by: >-
@@ -93,7 +93,7 @@ visual_modes:
 
   notes: >-
     Booking.com's visual identity must work across 43 languages and 220+
-    markets — making the design system's scalability a core visual
+    markets. making the design system's scalability a core visual
     challenge. The Siegel+Gale brand system and Pearlfisher 2024 packaging
     work extend the visual language beyond digital into physical brand
     touchpoints. Superside provides scalable creative production.
@@ -108,10 +108,10 @@ photography:
     - "Property photography standards"
   subject_and_framing: >-
     Destination and property photography at massive scale. Booking.com's
-    photography operates at a different scale from most brands — millions
+    photography operates at a different scale from most brands. millions
     of property images, destination photographs, and user-uploaded content.
     The brand photography (as opposed to property listings) shows
-    travellers experiencing destinations — arrival moments, exploration,
+    travellers experiencing destinations. arrival moments, exploration,
     local experiences. Property photography follows standardised quality
     guidelines for partner-uploaded images. Compared to Airbnb (more
     lifestyle-coded, more host-personality-visible) or Hotels.com (more
@@ -120,12 +120,12 @@ photography:
   casting_observed: >-
     Diverse, globally representative travellers. Campaign photography
     shows couples, families, solo travellers, and groups across multiple
-    demographics and travel styles — from budget backpackers to luxury
+    demographics and travel styles. from budget backpackers to luxury
     guests. The casting reflects Booking.com's position as a platform
     for all traveller types rather than a premium or budget niche.
   lighting_and_colour: >-
     Destination-driven lighting. Travel photography uses the natural
-    lighting of diverse global locations — Mediterranean sunshine, Nordic
+    lighting of diverse global locations. Mediterranean sunshine, Nordic
     winter light, tropical warmth. Property photography uses bright,
     well-lit interior standards. The Resolution Blue brand colour influences
     graphic overlays and UI elements rather than photographic colour grade.
@@ -157,13 +157,13 @@ graphic_language:
     - "booking.com (observed February 2026)"
   uses_illustration: true
   illustration_style: >-
-    Dual-register system — two distinct illustration styles serve
+    Dual-register system. two distinct illustration styles serve
     different audiences. Traveller-facing: energetic, vibrant, expressive
     illustrations that capture the excitement and spontaneity of travel
     (developed by Elena Snezhinskaya). Bold colours, dynamic compositions,
     slightly exaggerated proportions. Partner-facing: calmer, more
     structured illustrations with softer colours and more measured
-    compositions — communicating reliability and business partnership.
+    compositions. communicating reliability and business partnership.
     Compared to Airbnb (single, warm illustration style) or Expedia
     (minimal illustration use), Booking.com's dual-register approach is
     the most audience-segmented illustration system in travel.
@@ -178,23 +178,23 @@ graphic_language:
     Functional, travel-category-specific. Property-type icons (hotel,
     apartment, villa, hostel), amenity icons (pool, wifi, parking,
     breakfast), and travel-service icons follow a consistent, clean style.
-    The icon system must work across 43 languages — icons serve as
+    The icon system must work across 43 languages. icons serve as
     universal visual communication where text varies.
   graphic_devices: >-
-    Resolution Blue (#003580) — the deep blue is Booking.com's most
+    Resolution Blue (#003580). the deep blue is Booking.com's most
     ownable graphic device, instantly recognisable in travel contexts.
-    The Booking Sans 23.5-degree bevel — the Earth-axial-tilt-inspired
+    The Booking Sans 23.5-degree bevel. the Earth-axial-tilt-inspired
     typographic angle is a distinctive brand detail. The yellow accent
-    (#FEBB02) — used for ratings, highlights, and calls to action, the
+    (#FEBB02). used for ratings, highlights, and calls to action, the
     yellow provides visual energy against the blue. The 'Genius' loyalty
-    badge system — tiered loyalty indicators that function as visual
+    badge system. tiered loyalty indicators that function as visual
     status markers.
   motion_language: >-
     Functional, conversion-supportive. UI animations support the booking
-    flow — search refinement, price updates, availability changes.
+    flow. search refinement, price updates, availability changes.
     Marketing videos use travel-montage compositions with Resolution Blue
     graphic elements. The motion language is more functional than
-    expressive — designed to facilitate booking decisions rather than
+    expressive. designed to facilitate booking decisions rather than
     create brand atmosphere.
 
 # ── Typography in Practice ───────────────────────
@@ -206,7 +206,7 @@ type_treatment:
     - "German Kopytkov (Lead Visual Designer, logotype)"
     - "booking.com (observed February 2026)"
   signature_move: >-
-    Booking Sans (Colophon Foundry + Wieden+Kennedy Amsterdam, 2015) — a
+    Booking Sans (Colophon Foundry + Wieden+Kennedy Amsterdam, 2015). a
     custom typeface featuring distinctive 23.5-degree bevels on select
     letterforms, inspired by the Earth's axial tilt. This is the most
     astronomically-referenced typographic decision in travel branding. The
@@ -215,7 +215,7 @@ type_treatment:
     led the logotype design within the broader visual system. Colophon
     Foundry (London, founded 2009 by Anthony Sheret and Edd Harrington)
     developed the typeface family with W+K Amsterdam providing creative
-    direction. The typeface must work across 43 languages — the language
+    direction. The typeface must work across 43 languages. the language
     coverage requirement shaped the design's utility-first character.
     Compared to Airbnb (Cereal, more friendly-rounded) or Expedia (system
     fonts in product), Booking Sans is the most conceptually grounded
@@ -233,15 +233,15 @@ type_treatment:
     ALL CAPS in most contexts.
   display_vs_body: >-
     Display: Booking Sans at heavier weights for marketing headlines and
-    campaign type — the 23.5-degree bevels are most visible at display
+    campaign type. the 23.5-degree bevels are most visible at display
     sizes. Body: Booking Sans at regular weight for all interface and
     content text. The single-typeface system ensures consistency across
     43 language variants. Property descriptions and reviews use the same
     typographic treatment for visual unity.
   type_and_image: >-
-    Typography serves utilitarian purposes — property names, prices,
+    Typography serves utilitarian purposes. property names, prices,
     ratings, dates, availability. Numbers are hero content in the booking
-    interface — prices, review scores, and distances dominate the visual
+    interface. prices, review scores, and distances dominate the visual
     hierarchy. In marketing, type and destination photography share space
     with Resolution Blue providing chromatic unity.
 
@@ -255,22 +255,22 @@ layout:
     - "Booking.com app interface"
   signature_composition: >-
     Search-results-driven, information-dense. Booking.com's signature
-    layout is the property search results page — a dense, data-rich
+    layout is the property search results page. a dense, data-rich
     composition showing property thumbnails, prices, ratings, availability,
     and promotional badges. This information density is a deliberate
-    design choice — it facilitates comparison shopping by showing maximum
+    design choice. it facilitates comparison shopping by showing maximum
     useful data per property listing. The booking funnel (search → results
     → property detail → checkout) drives the compositional logic. Compared
     to Airbnb (more image-forward, card-based, exploratory) or Hotels.com
     (similar density but less refined), Booking.com's layout is the most
     conversion-optimised in travel.
   density_and_whitespace: >-
-    High density in search results — deliberate. The platform shows
+    High density in search results. deliberate. The platform shows
     prices, ratings, distances, amenities, and promotional badges for
     each property in a compact space. Property detail pages use more
     generous spacing with large photography. Marketing pages use
     moderate whitespace. The high-density search results are a competitive
-    advantage — experienced travellers can compare options efficiently.
+    advantage. experienced travellers can compare options efficiently.
   format_preferences: >-
     Desktop for complex search and comparison. Mobile-first for app
     browsing and booking. Property photography uses landscape format
@@ -297,7 +297,7 @@ trend_posture:
       reasoning: >-
         At Booking.com's scale (43 languages, 220+ markets), a custom
         typeface provides both brand distinction and functional control
-        over multi-script rendering — the investment is both aesthetic
+        over multi-script rendering. the investment is both aesthetic
         and operational.
     - trend: "Dual-audience visual systems"
       stance: "leader"
@@ -308,7 +308,7 @@ trend_posture:
         share a visual family while serving different emotional registers.
       reasoning: >-
         Platforms serving both consumers and business partners face a
-        visual tension — excitement vs reliability. Booking.com's dual-
+        visual tension. excitement vs reliability. Booking.com's dual-
         register illustration system addresses this tension explicitly.
 
 # ── Collaboration Rules ──────────────────────────
@@ -329,14 +329,14 @@ collaboration:
   notable_examples: >-
     Booking.com x Colophon Foundry + W+K Amsterdam (Booking Sans, 2015):
     the custom typeface with Earth-axial-tilt bevels represents one of
-    the most conceptually ambitious typographic commissions in travel —
+    the most conceptually ambitious typographic commissions in travel
     embedding a global reference in the letterforms themselves.
     Booking.com x Elena Snezhinskaya (illustration system): the dual-
     register illustration approach created a visual vocabulary that
     communicates differently to travellers and partners while maintaining
     brand coherence. Booking.com x Pearlfisher (2024 packaging): the
     London agency extended the digital-native visual language into physical
-    brand touchpoints — demonstrating the visual system's adaptability
+    brand touchpoints. demonstrating the visual system's adaptability
     beyond screens. Booking.com x Siegel+Gale (brand system): the brand
     consultancy established the strategic framework within which the
     visual system operates.

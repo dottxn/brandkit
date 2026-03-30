@@ -20,7 +20,7 @@ actually_competes_with:
   - apple
   - nothing
   - "herman-miller"
-industry_norms_it_breaks: "Extreme minimalism (deep charcoal #1a1a1a, warm white #fafafa) punctuated by orange accent (#ff6600) as singular call-to-action | The architectural decision to build brand identity around what the device doesn't do rather than what it does—this negative space positioning is philosophically courageous | Does this eliminate distraction or introduce it? Every feature must reduce friction to pure writing"
+industry_norms_it_breaks: "Extreme minimalism (deep charcoal #1a1a1a, warm white #fafafa) punctuated by orange accent (#ff6600) as singular call-to-action | The architectural decision to build brand identity around what the device doesn't do rather than what it does. this negative space positioning is philosophically courageous | Does this eliminate distraction or introduce it? Every feature must reduce friction to pure writing"
 visual_cluster: "geometric-clean"
 visual_fingerprint:
   - cluster: "geometric-clean"

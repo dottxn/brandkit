@@ -20,7 +20,7 @@ actually_competes_with:
   - slack
   - discord
   - microsoft
-industry_norms_it_breaks: "The rounded rectangular video tile grid that mirrors the actual experience of seeing multiple faces at once—the interface structure reflects the human experience. | The commitment to making video conferencing feel natural and unmediated. Competitors add features and complexity; Zoom's design philosophy is subtraction toward invisible infrastructure. | Does this increase the feeling of connection, or does it make people aware they're using technology? Technology should disappear."
+industry_norms_it_breaks: "The rounded rectangular video tile grid that mirrors the actual experience of seeing multiple faces at once. the interface structure reflects the human experience. | The commitment to making video conferencing feel natural and unmediated. Competitors add features and complexity; Zoom's design philosophy is subtraction toward invisible infrastructure. | Does this increase the feeling of connection, or does it make people aware they're using technology? Technology should disappear."
 visual_cluster: "geometric-clean"
 visual_fingerprint:
   - cluster: "geometric-clean"

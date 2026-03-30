@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for HBO. How the brand looks structurally —
+  Visual language for HBO. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,19 +31,19 @@ visual_modes:
         - "HBO linear channel identity"
         - "hbo.com and social media channels"
       description: >-
-        Black (#000000) and white (#FFFFFF) dominant — a monochrome palette
+        Black (#000000) and white (#FFFFFF) dominant. a monochrome palette
         that signals prestige television authority. The Modified Avant Garde
         Gothic logotype (Bemis Balkind, 1975) has been essentially unchanged
         for 50+ years. HBO Street (Carvalho Bernau + LettError, 2015) is
         a screen-first graded variable font designed for broadcast and
         digital contexts. The 'Static Angel' intro animation (created on
-        a Quantel Paintbox — the 5-second animation took 3 days to produce)
+        a Quantel Paintbox. the 5-second animation took 3 days to produce)
         remains one of the most recognisable brand sounds and visuals in
         television. Dave Curry (Senior Director Product Design & UX)
         oversees the digital visual system. Compared to Netflix (red-and-
         black, algorithm-driven, quantity-forward) or Apple TV+ (minimal,
         Apple-coded, premium), HBO's visual language carries the heaviest
-        cultural weight — the brand itself is a quality signal.
+        cultural weight. the brand itself is a quality signal.
       differs_from_default_by: >-
         This is the baseline. All other modes reference this monochrome,
         prestige-authority, Avant Garde Gothic-logotyped register.
@@ -58,11 +58,11 @@ visual_modes:
         The May 2023 rebrand from HBO Max to Max (DixonBaxi, Karun Agimal
         Design Director) introduced Max Sans (F37 Foundry + DixonBaxi) as
         the streaming platform's typeface. The visual language is broader
-        and more accessible than HBO — Max carries HBO content alongside
+        and more accessible than HBO. Max carries HBO content alongside
         Discovery+, Warner Bros., DC, and other Warner Bros. Discovery
         properties. Blue-purple gradients and a wider colour palette
         distinguish Max from HBO's monochrome austerity. May 2025: the
-        platform is rebranding back to HBO Max — David Zaslav (CEO) stated
+        platform is rebranding back to HBO Max. David Zaslav (CEO) stated
         'bringing back HBO' acknowledges the brand equity lost in the Max
         simplification.
       differs_from_default_by: >-
@@ -79,11 +79,11 @@ visual_modes:
         - "Series merchandise and ancillary products"
         - "Series premiere events and screenings"
       description: >-
-        Each HBO original series develops its own visual identity — this
+        Each HBO original series develops its own visual identity. this
         is the most distinctive aspect of HBO's visual system. The Sopranos
-        (Annie Leibovitz, 1999 — iconic family-portrait key art), Game of
+        (Annie Leibovitz, 1999. iconic family-portrait key art), Game of
         Thrones (elaborate medieval-fantasy visual world), Succession
-        (Andrij Parekh DOP — cold, institutional, green-tinted photography),
+        (Andrij Parekh DOP. cold, institutional, green-tinted photography),
         The White Lotus (tropical, saturated, resort-aesthetic). Each series
         operates as a visual sub-brand with its own typography, colour
         palette, photography style, and title sequence. The HBO logo
@@ -95,7 +95,7 @@ visual_modes:
         name signals quality) but doesn't constrain the visual approach.
 
   notes: >-
-    HBO's visual strategy is unique in entertainment — the brand functions
+    HBO's visual strategy is unique in entertainment. the brand functions
     as a quality endorsement rather than a visual system. Individual series
     carry their own visual identities. The May 2025 return to HBO Max
     (from Max) represents a significant moment for the brand's visual
@@ -106,14 +106,14 @@ visual_modes:
 photography:
   confidence: "medium"
   primary_sources:
-    - "Annie Leibovitz — The Sopranos key art (1999)"
+    - "Annie Leibovitz. The Sopranos key art (1999)"
     - "HBO series key art and promotional photography"
-    - "Succession — Andrij Parekh (Director of Photography)"
+    - "Succession. Andrij Parekh (Director of Photography)"
     - "hbo.com (observed February 2026)"
   subject_and_framing: >-
     Series-specific, world-class. HBO's photography is defined by its
     series rather than a unified brand style. Annie Leibovitz's Sopranos
-    family portrait (1999) set the standard for prestige-TV key art —
+    family portrait (1999) set the standard for prestige-TV key art
     a single image that communicated the entire show. Succession uses
     cold, institutional photography that mirrors its power-dynamics
     narrative. The White Lotus uses saturated, resort-lifestyle imagery.
@@ -124,18 +124,18 @@ photography:
   casting_observed: >-
     Series-determined. Each show's cast defines the photography casting.
     HBO brand marketing (not series-specific) uses minimal people
-    photography — the brand communicates through titles and quality
+    photography. the brand communicates through titles and quality
     association rather than faces.
   lighting_and_colour: >-
     Series-specific. The range spans from Succession's cold, desaturated,
-    institutional lighting (Andrij Parekh — natural light, cool tones,
+    institutional lighting (Andrij Parekh. natural light, cool tones,
     shallow depth of field) to Euphoria's saturated, neon-lit, high-
     contrast aesthetic. HBO's brand photography (non-series-specific)
     defaults to high-contrast black-and-white.
   post_production: >-
     Series-specific post-production. Each show has its own colour grade
     and retouching philosophy. HBO brand materials use clean, high-contrast
-    black-and-white processing. The overall standard is cinematic — post-
+    black-and-white processing. The overall standard is cinematic. post-
     production matches the production value of the content.
   visual_boundaries:
     stated_exclusions: >-
@@ -145,8 +145,8 @@ photography:
       graphics).
     observed_exceptions: >-
       Max streaming platform marketing adopted more conventional streaming-
-      platform visual conventions — content grids, promotional banners,
-      free-trial graphics — that departed from HBO's prestige register.
+      platform visual conventions. content grids, promotional banners,
+      free-trial graphics. that departed from HBO's prestige register.
     genuine_absence: >-
       Based on HBO brand materials: no stock photography, no generic
       lifestyle imagery, no promotional pricing graphics in brand
@@ -172,18 +172,18 @@ graphic_language:
     Succession's 'S' mark) operates independently of the HBO brand system.
   graphic_devices: >-
     The HBO lettermark (Modified Avant Garde Gothic, Bemis Balkind, 1975)
-    — three letters that have communicated prestige television for 50+
-    years. The 'Static Angel' intro — the visual-noise-to-logo animation
+   three letters that have communicated prestige television for 50+
+    years. The 'Static Angel' intro. the visual-noise-to-logo animation
     that precedes every HBO broadcast. This 5-second animation (Quantel
     Paintbox, reportedly taking 3 days to create) is one of the most
     recognisable brand animations in entertainment. The monochrome
-    palette — black and white as a graphic device that communicates
+    palette. black and white as a graphic device that communicates
     exclusivity and authority.
   motion_language: >-
-    The 'Static Angel' is the motion signature — the television static
+    The 'Static Angel' is the motion signature. the television static
     that resolves into the HBO logo. This animation has been updated over
     the decades while maintaining the static-to-clarity narrative. Series
-    title sequences represent HBO's highest motion-design investment —
+    title sequences represent HBO's highest motion-design investment
     each series has a bespoke opening sequence (Game of Thrones' mechanical
     map, Succession's home-video-quality family footage, True Detective's
     double-exposure landscapes). Compared to Netflix (the 'ta-dum' sound
@@ -196,17 +196,17 @@ graphic_language:
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "Modified Avant Garde Gothic (Bemis Balkind, 1975) — HBO logotype"
-    - "HBO Street (Carvalho Bernau + LettError, 2015) — broadcast/digital typeface"
-    - "Max Sans (F37 Foundry + DixonBaxi, 2023) — streaming platform typeface"
+    - "Modified Avant Garde Gothic (Bemis Balkind, 1975). HBO logotype"
+    - "HBO Street (Carvalho Bernau + LettError, 2015). broadcast/digital typeface"
+    - "Max Sans (F37 Foundry + DixonBaxi, 2023). streaming platform typeface"
   signature_move: >-
-    The Modified Avant Garde Gothic logotype (Bemis Balkind, 1975) —
+    The Modified Avant Garde Gothic logotype (Bemis Balkind, 1975)
     three geometric sans-serif letters that have been essentially unchanged
     for 50+ years. The simplicity is the signature: no tagline, no symbol,
-    no colour (beyond black or white) — just 'HBO.' The logotype's
+    no colour (beyond black or white). just 'HBO.' The logotype's
     geometric precision and the brand's refusal to redesign it communicate
     confidence and permanence. HBO Street (Carvalho Bernau + LettError,
-    2015) extended the typographic system — a screen-first graded variable
+    2015) extended the typographic system. a screen-first graded variable
     font designed to render consistently across broadcast and digital
     at various sizes. The graded axis adjusts stroke weight based on
     size, maintaining optical consistency.
@@ -222,17 +222,17 @@ type_treatment:
     or sentence case. Series titles follow their own conventions. The
     brand name is always 'HBO' (uppercase, no periods).
   display_vs_body: >-
-    Display: The HBO logotype for brand identification — it appears at
+    Display: The HBO logotype for brand identification. it appears at
     the beginning of content and on all marketing. HBO Street at heavier
     weights for marketing headlines and promotional text. Body: HBO Street
     at regular weight for digital content, descriptions, and interface
-    text. Max Sans (F37 Foundry, 2023) for the Max streaming platform —
+    text. Max Sans (F37 Foundry, 2023) for the Max streaming platform
     a separate typographic system for the streaming context.
   type_and_image: >-
-    The HBO logotype sits above or apart from imagery — it's a stamp of
+    The HBO logotype sits above or apart from imagery. it's a stamp of
     quality, not an integrated design element. Series key art uses its
     own typography; the HBO logo appears as an endorsement. In brand
-    marketing, the logotype dominates — it IS the brand, more than any
+    marketing, the logotype dominates. it IS the brand, more than any
     image. The type-image relationship is: the logo certifies, the series
     visual identity communicates.
 
@@ -245,22 +245,22 @@ layout:
     - "Max streaming platform interface"
     - "HBO brand marketing materials"
   signature_composition: >-
-    Content-grid streaming layout for the Max platform — horizontal
+    Content-grid streaming layout for the Max platform. horizontal
     scrolling rows of title cards, hero banners for featured content,
     algorithmic personalisation. The streaming layout follows industry
     conventions established by Netflix. HBO brand marketing uses simpler
     compositions: logo + series title + key art image. The brand's
-    compositional signature is restraint — fewer elements, more impact.
+    compositional signature is restraint. fewer elements, more impact.
     Compared to Netflix (busier, more algorithmically varied) or Disney+
     (more family-friendly, more promotional), HBO's layout is the most
     restrained.
   density_and_whitespace: >-
-    HBO brand materials use generous whitespace — the monochrome palette
+    HBO brand materials use generous whitespace. the monochrome palette
     and the confidence of the logotype create compositions that don't
     need density. The Max streaming platform is standard streaming density
-    — content-rich, algorithmically populated. Series key art ranges from
-    minimal (Succession — a single image, restrained type) to complex
-    (Game of Thrones — elaborate fantasy compositions).
+   content-rich, algorithmically populated. Series key art ranges from
+    minimal (Succession. a single image, restrained type) to complex
+    (Game of Thrones. elaborate fantasy compositions).
   format_preferences: >-
     Landscape for streaming hero banners and title cards. Portrait for
     series key art in certain contexts. The HBO logotype is horizontal.
@@ -272,7 +272,7 @@ layout:
 trend_posture:
   overall: "selective-adopter"
   relationship_to_trends: >-
-    HBO's brand identity resists trends — the 50-year-old logotype and
+    HBO's brand identity resists trends. the 50-year-old logotype and
     monochrome palette are anti-trend by definition. Individual series
     adopt or lead trends within their own visual worlds.
   examples:
@@ -284,7 +284,7 @@ trend_posture:
         grids, algorithmic personalisation, promotional overlays), HBO
         maintained its distinction through the quality-endorsement model.
         The May 2025 return to HBO Max (from Max) explicitly re-centres
-        the HBO brand — resisting the trend of generic platform branding.
+        the HBO brand. resisting the trend of generic platform branding.
       reasoning: >-
         HBO's brand equity (built over 50+ years) is more valuable than
         platform-generic visual conventions. The return to HBO Max
@@ -292,14 +292,14 @@ trend_posture:
     - trend: "Prestige-TV visual identity design"
       stance: "leader"
       evidence: >-
-        HBO defined the genre of prestige-TV visual identity — from The
+        HBO defined the genre of prestige-TV visual identity. from The
         Sopranos' Annie Leibovitz key art (1999) to Game of Thrones'
         elaborate visual world-building to Succession's institutional-
         cold aesthetic. Other networks and streamers have followed HBO's
         model of investing heavily in series-specific visual identities.
       reasoning: >-
         HBO established the standard that prestige TV series require
-        prestige visual identities — bespoke typography, world-class
+        prestige visual identities. bespoke typography, world-class
         photography, and cinematic title sequences.
 
 # ── Collaboration Rules ──────────────────────────
@@ -309,22 +309,22 @@ collaboration:
   what_stays: >-
     The HBO logotype (Modified Avant Garde Gothic). The monochrome
     palette. The 'Static Angel' intro. The quality-endorsement
-    positioning — the HBO name appears on everything it produces.
+    positioning. the HBO name appears on everything it produces.
   what_bends: >-
-    Individual series develop their own complete visual identities —
+    Individual series develop their own complete visual identities
     the most radical form of visual collaboration within a brand. The
     Max streaming platform introduced a distinct visual system that
     coexists with (but doesn't replace) the HBO brand. Warner Bros.
     Discovery corporate contexts introduce additional branding layers.
   notable_examples: >-
     HBO x Game of Thrones: the series developed the most elaborate
-    visual world in television history — custom typography, detailed
+    visual world in television history. custom typography, detailed
     map-based title sequence, extensive world-building across marketing,
     merchandise, and immersive experiences. The HBO logo appeared as an
     endorsement, not a constraint. HBO x Succession: cold, institutional
-    visual identity that deliberately contrasted with HBO's warmth —
+    visual identity that deliberately contrasted with HBO's warmth
     demonstrating the brand's willingness to let series define their own
     aesthetic. HBO x DixonBaxi (Max rebrand, 2023): the most significant
-    visual collaboration at the brand level — creating a streaming-
+    visual collaboration at the brand level. creating a streaming-
     platform identity that attempted (controversially) to expand beyond
     the HBO prestige register.

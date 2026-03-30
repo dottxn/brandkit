@@ -20,22 +20,22 @@ summary: Visual reasoning for Wise. Why the design choices work. Deep design his
 # ── Data
 
 type_logic: >-
-  Wise Sans carries personality within a system of clarity — a paradox that
+  Wise Sans carries personality within a system of clarity. a paradox that
   resolves through understanding type design as *rhetoric* rather than mere
   *legibility*. The typeface is descended from humanist sans theory (Gerrit
   Noordzij's belief that typefaces carry personality, refined in contemporary
   practice by designers like Erik Spiekermann and Christian Schwartz) which
   holds that personality in type *enables* trust rather than undermining it.
-  Open letterforms (the a, g, e) signal accessibility and friendliness — a
+  Open letterforms (the a, g, e) signal accessibility and friendliness. a
   customer can imagine having a conversation with a human. Consistent stroke
-  weights signal reliability — the typeface won't surprise you with hidden
-  complexity. Modern without being trendy — descended from the design principle
+  weights signal reliability. the typeface won't surprise you with hidden
+  complexity. Modern without being trendy. descended from the design principle
   that contemporary design is legible across decades, not just seasons. Wise
   Sans communicates "we are rebuilding finance from first principles" through
   the visual language of humanist sans rather than geometric sans (which would
   say "we are optimizing systems") or serif (which would say "we respect
-  heritage"). The typeface's warmth — particularly at display scales where the
-  letterforms appear generous and slightly rounded — creates cognitive
+  heritage"). The typeface's warmth. particularly at display scales where the
+  letterforms appear generous and slightly rounded. creates cognitive
   dissonance with the confrontational green palette. This tension is the point.
   The typeface says "this message comes from humans who care about your
   understanding." The colour says "this understanding is about systems that
@@ -46,7 +46,7 @@ type_logic: >-
   who believe design is a language for revealing systems, not beautifying them.
 
 colour_logic: >-
-  The bright green (#9FE870) functions as *semiotic violence* — a colour chosen
+  The bright green (#9FE870) functions as *semiotic violence*. a colour chosen
   precisely because it makes traditional banking contexts uncomfortable. The
   logic is descended from punk design's confrontational colour theory (Jamie
   Reid's Sex Pistols work, 1976-1978, which used clashing colours not for
@@ -56,14 +56,14 @@ colour_logic: >-
   almost neon-like, capturing the moment of realization when you understand how
   much you're being overcharged by traditional banks. In banking psychology,
   green typically represents "go" (descended from traffic-light logic) or "growth"
-  (descended from nature metaphors — leaves, growth). Wise's green rejects both
-  metaphors. Instead it signals *electrical presence* — the colour of screens
+  (descended from nature metaphors. leaves, growth). Wise's green rejects both
+  metaphors. Instead it signals *electrical presence*. the colour of screens
   and digital natives, not heritage institutions. Supporting dark navy (#0E1A2B)
-  provides necessary contrast — descended from Swiss International Style's
+  provides necessary contrast. descended from Swiss International Style's
   understanding that colour pairs communicate better than single colours. The
   palette deliberately avoids warm, inviting colors (oranges, warm grays) that
   would soften the confrontational message. Instead it creates chromatic
-  vibration — the two colours (bright electric green against deep navy) cannot
+  vibration. the two colours (bright electric green against deep navy) cannot
   sit still visually. This restlessness is intentional. The psychology: when
   you see Wise's colours, your eye is uncomfortable. That discomfort is the
   *design working*. It's saying: "Don't accept what you're used to. Question
@@ -74,26 +74,26 @@ colour_logic: >-
 
 composition_philosophy: >-
   Information architecture prioritizes rate and fee transparency before aesthetic
-  experience — descended from Donald Norman's principle that the best design
+  experience. descended from Donald Norman's principle that the best design
   *disappears* in service of task completion and from the Unix philosophy's
   belief that systems should "do one thing well." Numbers and comparisons are
-  the visual hero elements — the transfer amount, the exchange rate you're
+  the visual hero elements. the transfer amount, the exchange rate you're
   actually getting, the fee breakdown all appear at visual hierarchy level that
   says "this is what matters." Diagrams show money flow clearly through
-  illustrated arrows and paths rather than abstract metaphor — descended from
+  illustrated arrows and paths rather than abstract metaphor. descended from
   the information design traditions of Edward Tufte and contemporary
   practitioners who believe visualizations should *clarify* rather than
   *decorate*. No decorative composition; every layout element serves
-  understanding. The grid exists not as ornament but as structure — descended
+  understanding. The grid exists not as ornament but as structure. descended
   from Swiss International Style (Müller-Brockmann's grid systems, 1960s) which
   held that grids enable both clarity and flexibility. Asymmetrical designs in
   campaigns maintain energy and prevent the sterile feeling of traditional
-  banking — descended from the design principle that perfect symmetry reads as
+  banking. descended from the design principle that perfect symmetry reads as
   institutional authority while asymmetry reads as human-made and contemporary.
   The composition philosophy says: *Make the invisible visible. Show the math.
   Show the cost. Show the alternative.* Every compositional choice serves this
   principle rather than aesthetic fashion. The information density is moderate
-  rather than minimal — Wise could simplify to bare essentials (as fintech
+  rather than minimal. Wise could simplify to bare essentials (as fintech
   minimalism would suggest) but instead shows comparisons because transparency
   requires context. "You're paying 3% here vs. 0.6% with Wise" is dense but
   essential information. The density level is descended from journalism design
@@ -111,20 +111,20 @@ what_would_break_it: >-
   banking's aesthetic *is* banking's identity. Shifting to formal typography
   (serif typefaces descended from print heritage, geometric sans descended from
   corporate systems) would signal institutional authority rather than human
-  accessibility — contradicting the core message that financial clarity comes
+  accessibility. contradicting the core message that financial clarity comes
   from *removing* jargon, not institutionalizing it. Using professional-service
   aesthetics (environmental photography of suited professionals, lifestyle
   imagery of luxury or aspiration) would transform Wise from "radical
   transparency" to "premium service." The positioning would shift from
   "everyone deserves to see the real cost" to "pay for our expertise to
-  navigate the system for you" — the opposite of Wise's mission. Adopting
+  navigate the system for you". the opposite of Wise's mission. Adopting
   minimalist composition (showing only the transfer amount, hiding all
   comparative data) would violate the core principle that transparency requires
   context. A customer needs to see "you're paying this much vs. what you'd pay
   with a bank" to make the comparison meaningful. Hiding that information in
   pursuit of aesthetic simplicity would transform the interface from transparent
   to opaque. The system must constantly communicate "this is different from what
-  you're used to" — any move toward traditional banking aesthetics would erode
+  you're used to". any move toward traditional banking aesthetics would erode
   the cognitive dissonance that signals disruption. This is why competitors
   cannot copy Wise's visual system. If Revolut painted itself in Wise's green
   tomorrow, the colour would instantly lose meaning because Revolut's positioning
@@ -149,25 +149,25 @@ design_lineage: >-
   that colour could be confrontational. Reid understood that punk's visual
   language needed to shock within a cultural context (1970s Britain) where music
   and fashion had become safely corporate. His colours forced viewers to *react*
-  — they weren't beautiful, they were *necessary*. This tradition flows through
+ they weren't beautiful, they were *necessary*. This tradition flows through
   hacker culture's green monochrome terminals (1980s-90s), which represented
   *visibility* of systems normally hidden within proprietary software. The green
   meant: "Here's what's actually happening under the hood." Contemporary design
   activists like Metahaven (2010s) continued this tradition, using colour to
   reveal power structures and information flows. Wise's bright green #9FE870
-  descends directly from this lineage — it functions as visual argument that
+  descends directly from this lineage. it functions as visual argument that
   financial systems are *visible*, not mystified.
 
   Typographic Foundation: Eric Gill's Gill Sans (1928-1930) established that
   sans-serif typefaces could carry humanity and warmth. Gill rejected the
   mechanistic coldness of early geometric sans-serifs, instead creating a
   typeface where the letterforms felt human-drawn rather than mathematically
-  perfect. This philosophy — that personality in type enables rather than
-  undermines trust — became foundational to humanist sans design. Mario
+  perfect. This philosophy. that personality in type enables rather than
+  undermines trust. became foundational to humanist sans design. Mario
   Feliciano's Parafina (2010s) refined this tradition for contemporary practice,
   adding slightly asymmetric letterforms that suggest handwriting within a
   systematic structure. Luke Prowse's extension to 342 languages (NaN foundry,
-  2020s) took Parafina's philosophy and applied it globally — maintaining warm
+  2020s) took Parafina's philosophy and applied it globally. maintaining warm
   personality across writing systems with completely different letterform logic
   (Thai script, Arabic, Devanagari, etc.). This represents a philosophical
   commitment: that inclusion is not a feature you add but a design principle
@@ -180,13 +180,13 @@ design_lineage: >-
   systems where colours don't harmonize but *oppose*. Vignelli understood that
   a successful colour system needs colours that cannot be confused, that create
   visual clarity through opposition rather than through subtle differentiation.
-  Wise's pairing of bright green with deep navy follows this logic — the two
+  Wise's pairing of bright green with deep navy follows this logic. the two
   colours create chromatic vibration that makes each appear more intense. This
   descends from colour theory as *communication system* rather than aesthetic
   preference. Josef Albers's "Interaction of Color" (1963) provided the
   philosophical foundation: colours don't exist in isolation but in relationship,
   and understanding those relationships is essential to meaning-making. Wise's
-  palette is descended from this research — it's not beautiful in the
+  palette is descended from this research. it's not beautiful in the
   conventional sense, but it's *legible* and *meaningful*.
 
   Illustration & Cultural Reference: Owen Jones's "The Grammar of Ornament"
@@ -198,7 +198,7 @@ design_lineage: >-
   routes into textile traditions (West African indigo, Indian block-print, Thai
   batik, Andean weaving) and extracting pattern logic rather than merely
   copying motifs. This represents a philosophical stance against generic
-  globalism — Wise's Tapestries don't use a generic "world cultures"
+  globalism. Wise's Tapestries don't use a generic "world cultures"
   aesthetic but instead reference specific traditions with specificity and
   respect. The approach is descended from design activists like Hal Foster
   (whose writing on design criticism emphasizes engagement with *actual*
@@ -207,7 +207,7 @@ design_lineage: >-
 
   Photography & Documentary Truth: Henry Cartier-Bresson's "The Decisive
   Moment" (1952) established documentary photography as a tradition of
-  *authenticity* — the belief that genuine moments reveal truth more effectively
+  *authenticity*. the belief that genuine moments reveal truth more effectively
   than staged representation. This philosophy flows through Sebastião Salgado's
   "Migrations" (1999-2006), which documents human movement and global
   displacement with dignity and specificity rather than spectacle. Contemporary
@@ -215,7 +215,7 @@ design_lineage: >-
   treating everyday life as worthy of photographic attention. Wise's casting and
   framing (diverse people in genuine contexts, available light, environmental
   specificity) descends from this tradition. The casting is not about
-  "representation" (marketing diversity) but about *documentation* — Wise's
+  "representation" (marketing diversity) but about *documentation*. Wise's
   actual customers *are* diverse and globally distributed, and the photography
   reflects that fact rather than performing inclusion.
 
@@ -228,7 +228,7 @@ design_lineage: >-
   minimalism trend that treats information as clutter. Instead, they ask: what
   information is *essential* for decision-making, and how can that information
   be presented with maximum clarity? Wise's decision to show comparative fee
-  data (you vs. bank vs. competitor) represents this philosophy — the density
+  data (you vs. bank vs. competitor) represents this philosophy. the density
   exists because understanding alternatives is essential to choosing.
 
   This synthesis is unusual because it combines traditions that typically

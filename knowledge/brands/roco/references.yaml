@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Ro (ro.co) — Creative References
+# Ro (ro.co). Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -26,13 +26,13 @@ publications:
 
 visuals:
   - url: "https://www.metalab.com/work/ro"
-    label: "MetaLab case study — Brand identity, product design, and visual system"
+    label: "MetaLab case study. Brand identity, product design, and visual system"
     section: "visual-language"
 
   - url: "https://ro.co/"
-    label: "Ro.co homepage and product pages — Patient-centric visual language and typography"
+    label: "Ro.co homepage and product pages. Patient-centric visual language and typography"
     section: "visual-language"
 
   - url: "https://ro.co/weight-loss"
-    label: "Ro treatment verticals — Category-coded within unified visual system"
+    label: "Ro treatment verticals. Category-coded within unified visual system"
     section: "visual-language"

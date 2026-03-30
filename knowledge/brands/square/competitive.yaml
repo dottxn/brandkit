@@ -21,7 +21,7 @@ actually_competes_with:
   - paypal
   - shopifycom
   - "cash-app"
-industry_norms_it_breaks: "The concentric rounded squares (#FFFFFF, #6C757D, #000000) that represent a card reader physical shape—the icon literally shows how the product works. | The decision to make physical form language central to digital design. The concentric squares literally represent the card reader; competitors just abstract payment into flow diagrams. | Does this remove barriers for someone with $100 and a smartphone to start selling? If not, it's enterprise bloat."
+industry_norms_it_breaks: "The concentric rounded squares (#FFFFFF, #6C757D, #000000) that represent a card reader physical shape. the icon literally shows how the product works. | The decision to make physical form language central to digital design. The concentric squares literally represent the card reader; competitors just abstract payment into flow diagrams. | Does this remove barriers for someone with $100 and a smartphone to start selling? If not, it's enterprise bloat."
 visual_cluster: "geometric-clean"
 visual_fingerprint:
   - cluster: "geometric-clean"

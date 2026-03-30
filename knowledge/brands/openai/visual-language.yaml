@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for OpenAI. How the brand looks structurally —
+  Visual language for OpenAI. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -34,7 +34,7 @@ visual_modes:
         Black and white dominant with strategic colour accents. The
         February 4, 2025 rebrand (OpenAI's first ever, led by in-house
         designers Veit Moeller and Shannon Jager with type from ABC
-        Dinamo) introduced OpenAI Sans — a custom typeface that serves
+        Dinamo) introduced OpenAI Sans. a custom typeface that serves
         as the centrepiece of the visual identity. The hexagonal six-
         looped knot logo received a subtle 2025 refinement. Michael
         Tabtabai (VP Global Creative) oversees brand expression. Studio
@@ -58,12 +58,12 @@ visual_modes:
         - "ChatGPT Plus and Pro subscription marketing"
       description: >-
         ChatGPT Green (#74aa9c / #00A67E) identifies the consumer product.
-        The 'Emotive Point' — a pulsing blue-green disc — serves as
+        The 'Emotive Point'. a pulsing blue-green disc. serves as
         ChatGPT's visual avatar during conversations. ChatGPT Pro uses
         a purple accent (#ab68ff) to distinguish its premium tier. The
         sparkle icon (now an AI-industry visual convention that OpenAI
         helped establish) indicates AI-generated content. The product
-        interface is minimal — generous whitespace, centred conversation
+        interface is minimal. generous whitespace, centred conversation
         layout, no visual clutter. Ian Silber (Head of Product Design)
         oversees the product visual system. Compared to Claude (warm,
         text-focused, orange-accented) or Gemini (Google-branded, Material
@@ -83,10 +83,10 @@ visual_modes:
         - "API pricing and usage dashboards"
       description: >-
         More technical, more structured. The API documentation uses a
-        developer-standard layout — left sidebar navigation, code examples,
+        developer-standard layout. left sidebar navigation, code examples,
         endpoint references. AREA 17 designed the original website
         architecture. The visual language is functional and information-
-        dense — code blocks with syntax highlighting, structured parameter
+        dense. code blocks with syntax highlighting, structured parameter
         tables, and minimal decorative elements. Monospace type appears
         alongside OpenAI Sans for code contexts.
       differs_from_default_by: >-
@@ -95,7 +95,7 @@ visual_modes:
         functional. The brand personality recedes behind technical utility.
 
   notes: >-
-    OpenAI's visual identity is evolving rapidly — from research lab
+    OpenAI's visual identity is evolving rapidly. from research lab
     (2015-2022) to consumer brand (ChatGPT launch, November 2022) to the
     February 2025 rebrand establishing a mature visual system. The Jony
     Ive/LoveFrom acquisition (May 2025) will likely introduce hardware-
@@ -125,7 +125,7 @@ photography:
     Limited. Team photography in blog posts and about pages. OpenAI events
     feature leadership (Sam Altman, Mira Murati before departure, Greg
     Brockman) in standard tech-executive contexts. No distinctive casting
-    direction — the brand communicates through AI outputs and typography
+    direction. the brand communicates through AI outputs and typography
     rather than people photography.
   lighting_and_colour: >-
     When photography appears, it tends toward clean, bright, contemporary
@@ -141,11 +141,11 @@ photography:
       AI as useful and accessible, not threatening or alien.
     observed_exceptions: >-
       AI-generated imagery (DALL-E, Sora outputs) appears in product
-      demonstrations and marketing — this AI-generated content exists
+      demonstrations and marketing. this AI-generated content exists
       in a space between photography and illustration.
     genuine_absence: >-
       Based on openai.com review: no lifestyle photography, no product
-      photography (OpenAI is software, not hardware — at least until the
+      photography (OpenAI is software, not hardware. at least until the
       LoveFrom partnership produces devices), no celebrity endorsement
       imagery.
 
@@ -155,35 +155,35 @@ graphic_language:
   confidence: "high"
   primary_sources:
     - "Hexagonal knot logo (subtle 2025 refinement)"
-    - "Emotive Point (pulsing disc — ChatGPT avatar)"
+    - "Emotive Point (pulsing disc. ChatGPT avatar)"
     - "February 2025 rebrand"
     - "Studio Dumbar/DEPT (motion, since Spring 2024)"
   uses_illustration: false
   illustration_style: ""
   illustration_role: ""
   icon_style: >-
-    The sparkle icon — a four-pointed star that indicates AI-generated
+    The sparkle icon. a four-pointed star that indicates AI-generated
     content and has become an industry-wide convention for AI features.
     OpenAI established this visual shorthand before Google (Gemini sparkle),
     Apple (Apple Intelligence), and others adopted similar iconography.
     Product icons are minimal and geometric. The hexagonal knot logo
     reduces cleanly to a favicon.
   graphic_devices: >-
-    The hexagonal six-looped knot — a topologically complex mark that
+    The hexagonal six-looped knot. a topologically complex mark that
     suggests interconnection and intelligence. The 2025 refinement
     maintained the structure while cleaning proportions. The Emotive
-    Point — a pulsing, colour-shifting disc that serves as ChatGPT's
+    Point. a pulsing, colour-shifting disc that serves as ChatGPT's
     avatar during conversations, expressing a 'thinking' state through
-    animation. The sparkle icon — the four-pointed star that signals
-    AI capability. OpenAI Sans itself functions as a graphic device —
+    animation. The sparkle icon. the four-pointed star that signals
+    AI capability. OpenAI Sans itself functions as a graphic device
     the typeface's distinctive letterforms (particularly the lowercase 'a'
     and 'g') carry brand recognition in text-heavy contexts.
   motion_language: >-
     Studio Dumbar/DEPT (since Spring 2024) developed the motion language.
     The Emotive Point's pulsing behaviour during ChatGPT conversations is
-    the most widely experienced AI-interaction animation in the world —
+    the most widely experienced AI-interaction animation in the world
     hundreds of millions of users see it regularly. The motion language
-    is subtle and organic — no mechanical or robotic movements. The
+    is subtle and organic. no mechanical or robotic movements. The
     hexagonal knot animates with fluid, continuous rotation. Brand
     transitions use smooth, considered motion that communicates
     intelligence without aggression.
@@ -198,12 +198,12 @@ type_treatment:
     - "openai.com (observed February 2026)"
   signature_move: >-
     OpenAI Sans (ABC Dinamo, Zurich + in-house designers Veit Moeller
-    and Shannon Jager, February 4, 2025) — the centrepiece of OpenAI's
+    and Shannon Jager, February 4, 2025). the centrepiece of OpenAI's
     first-ever rebrand. ABC Dinamo (the Zurich foundry behind Whyte,
     Diatype, and Discord's gg sans logotype Ginto) collaborated with
     OpenAI's in-house team to create a typeface that embodies the brand's
     four values: simplify, space, imperfection, vivid. The 'imperfection'
-    value is notable — the typeface includes deliberate optical
+    value is notable. the typeface includes deliberate optical
     irregularities that prevent it from feeling sterile or machine-perfect,
     a philosophical statement about AI's relationship to human craft.
     Ludwig Pettersson (historical Creative Director, ex-Stripe) influenced
@@ -221,7 +221,7 @@ type_treatment:
     'OpenAI' uses camelCase (capital O, capital AI). Product names use
     capitalisation specific to each: 'ChatGPT' (camelCase), 'DALL-E'
     (stylised), 'Sora,' 'GPT-4o.' Body text uses sentence case. Marketing
-    headlines use sentence case — the tone is conversational and
+    headlines use sentence case. the tone is conversational and
     accessible, not corporate or declarative.
   display_vs_body: >-
     Display: OpenAI Sans at heavier weights for marketing headlines, brand
@@ -229,13 +229,13 @@ type_treatment:
     is most visible at display sizes. Body: OpenAI Sans at regular weight
     for all brand and product text. The single-typeface system creates
     consistency across research publications, product interfaces, and
-    marketing — everything speaks in the same typographic voice.
+    marketing. everything speaks in the same typographic voice.
   type_and_image: >-
     Type dominates OpenAI's visual identity. In the absence of significant
     photography or illustration, OpenAI Sans carries the brand's visual
     personality. The hexagonal knot logo and the Emotive Point provide
-    graphic counterpoints, but text — research findings, product
-    descriptions, model capabilities — is the primary visual content.
+    graphic counterpoints, but text. research findings, product
+    descriptions, model capabilities. is the primary visual content.
     This is appropriate for a company whose products are fundamentally
     text-based.
 
@@ -251,10 +251,10 @@ layout:
     Centred, spacious, single-column. openai.com uses a clean, centred
     layout with generous margins and vertical rhythm. The ChatGPT
     conversation interface is centred single-column with a wide text input
-    at the bottom — a layout pattern that has become the default for AI
+    at the bottom. a layout pattern that has become the default for AI
     chat interfaces worldwide (Claude, Gemini, Copilot all follow a
     similar pattern). The 2025 rebrand emphasised 'space' as a design
-    value — compositions use whitespace as a deliberate element rather
+    value. compositions use whitespace as a deliberate element rather
     than empty space. Compared to Microsoft (denser, more structured) or
     Google (more visually active, more colour), OpenAI's layouts are the
     most restrained.
@@ -262,7 +262,7 @@ layout:
     Low density, high whitespace. The 2025 rebrand's 'space' value is
     expressed through generous margins, ample line spacing, and
     compositions that let content breathe. The ChatGPT interface is
-    deliberately sparse — nothing competes with the conversation. API
+    deliberately sparse. nothing competes with the conversation. API
     documentation is necessarily denser but still maintains clean
     information hierarchy.
   format_preferences: >-
@@ -283,9 +283,9 @@ trend_posture:
     - trend: "AI-interface visual conventions"
       stance: "leader"
       evidence: >-
-        The ChatGPT conversation interface — centred text input, Emotive
+        The ChatGPT conversation interface. centred text input, Emotive
         Point avatar, streaming text output, sparkle icon for AI content
-        — established the visual template that Claude, Gemini, Copilot,
+       established the visual template that Claude, Gemini, Copilot,
         and dozens of other AI products have adopted. The sparkle icon
         has become the universal signifier for AI features across the
         entire tech industry.
@@ -298,7 +298,7 @@ trend_posture:
       evidence: >-
         OpenAI Sans (February 2025) represents the first significant
         custom-type investment by an AI company. The philosophical
-        approach — embedding 'imperfection' as a value — sets a
+        approach (embedding 'imperfection' as a value) sets a
         typographic precedent for how AI brands communicate humanity
         through type design.
       reasoning: >-
@@ -323,13 +323,13 @@ collaboration:
     visual elements.
   notable_examples: >-
     OpenAI x ABC Dinamo (February 2025 rebrand): the Zurich foundry
-    collaborated on OpenAI Sans — bringing type-design craft to the AI
+    collaborated on OpenAI Sans. bringing type-design craft to the AI
     industry's most prominent brand. OpenAI x Studio Dumbar/DEPT (motion,
     since Spring 2024): established the motion language including the
     Emotive Point animation. OpenAI x AREA 17 (2019 original website):
     the digital agency designed the information architecture that
     structured OpenAI's transition from research lab to public-facing
     organisation. The Jony Ive/LoveFrom acquisition (May 2025) represents
-    the most significant design collaboration in OpenAI's history — Ive's
+    the most significant design collaboration in OpenAI's history. Ive's
     influence will likely reshape the visual language as OpenAI moves
     into hardware.

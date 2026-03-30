@@ -19,7 +19,7 @@ summary: Deep insights for OpenAI. Learned wisdom and what nobody copies.
 # ── Data
 learned_insights:
   - >-
-    The brands defining AI's perception do so through tone, not through technological explanations—nobody understands the math, so personality becomes credibility
+    The brands defining AI's perception do so through tone, not through technological explanations. nobody understands the math, so personality becomes credibility
   - >-
     Custom typefaces matter most when they're invisible (OpenAI Sans works because you see the words, not the typeface)
   - >-
@@ -29,4 +29,4 @@ learned_insights:
   - >-
     Research-driven credibility (ChatGPT adoption) matters infinitely more than marketing claims
 what_nobody_copies: >-
-  The decision to use motion and organic flow in an AI context—counterintuitive because AI is defined by computation, yet this choice fundamentally positioned OpenAI as human-facing rather than technical
+  The decision to use motion and organic flow in an AI context. counterintuitive because AI is defined by computation, yet this choice fundamentally positioned OpenAI as human-facing rather than technical

@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Redfin. How the brand looks structurally —
+  Visual language for Redfin. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,17 +31,17 @@ visual_modes:
         - "Redfin social media channels"
         - "Redfin corporate communications"
       description: >-
-        Redfin Red (#A02021, Mexican Red) dominant — a deep, confident
+        Redfin Red (#A02021, Mexican Red) dominant. a deep, confident
         red that distinguishes Redfin from Zillow's blue and Realtor.com's
         red-orange. Libre Franklin (Pablo Impallari, open-source, 2016)
         serves as the primary web typeface, selected by designer Carey
-        Spies when Redfin's Helvetica licence ended in late 2016 — chosen
+        Spies when Redfin's Helvetica licence ended in late 2016. chosen
         for its shared font-family lineage with Benton Sans and Franklin
         Gothic. Matt Lerner (SVP Product and Design, ex-Walk Score co-
         founder, joined November 2017) leads product and design. The 2017
         design language initiative (Carey Spies) established comprehensive
         documentation for typography, colour, spacing, and components.
-        The Caregiver brand archetype guides visual decisions — customer-
+        The Caregiver brand archetype guides visual decisions. customer-
         first service, advocacy, and trustworthiness. The house-and-
         location-pin logo combines real estate (house) with technology
         (map pin). Compared to Zillow (more marketplace-aggregation-coded,
@@ -60,7 +60,7 @@ visual_modes:
         - "School district and amenity overlays"
       description: >-
         Map-dominant, data-rich. The search experience is Redfin's most
-        distinctive visual context — an interactive map with colour-coded
+        distinctive visual context. an interactive map with colour-coded
         property pins (dark green for MLS listings, pink for FSBO, purple
         for foreclosures, blue for sold), draw-tool area selection, school
         district overlays, and price-range colour coding. The map-and-
@@ -96,7 +96,7 @@ visual_modes:
 
   notes: >-
     Redfin's visual identity was developed primarily in-house rather
-    than through agency partnerships — reflecting its engineering-driven
+    than through agency partnerships. reflecting its engineering-driven
     culture. The 2017 design language initiative established foundations
     that continue to guide the visual system. Redfin Redesign AI
     (December 2023, powered by Roomvu) introduces generative AI-powered
@@ -114,12 +114,12 @@ photography:
   subject_and_framing: >-
     Professional property photography at service-standard quality.
     Redfin provides professional DSLR photography free to all listing
-    clients — a competitive differentiator. Property photography follows
+    clients. a competitive differentiator. Property photography follows
     professional standards: wide-angle at waist height, tripod-stabilised,
     all lights on, blinds open, neutral staging colours (light greys,
-    off-whites). The 2020 redesign increased image sizes 35% — making
+    off-whites). The 2020 redesign increased image sizes 35%. making
     photography the hero of listing pages. Brand photography shows
-    home-buying moments — tours, discoveries, keys-in-hand celebrations.
+    home-buying moments. tours, discoveries, keys-in-hand celebrations.
     A 2013 Redfin study found professionally photographed homes sold
     faster and for more ($11,200+ for $400K-$500K homes). Compared to
     Zillow (user-uploaded, quality-variable) or Opendoor (institutional-
@@ -128,22 +128,22 @@ photography:
   casting_observed: >-
     Diverse, home-buyer-coded. Agent profiles include professional
     headshots. Brand photography shows families, couples, and individuals
-    in home-buying contexts — reflecting the broad demographic of
+    in home-buying contexts. reflecting the broad demographic of
     homebuyers and sellers.
   lighting_and_colour: >-
     Bright, natural, warm. Property photography maximises natural light
-    — open blinds, all lights on, golden-hour exteriors. The lighting
+   open blinds, all lights on, golden-hour exteriors. The lighting
     creates bright, airy, welcoming environments. Brand photography
     uses warm, natural lighting in home contexts.
   post_production: >-
     Clean, accurate. Property photography aims for faithful representation
-    — accurate colour balance, clean lines, no heavy manipulation. Redfin
+   accurate colour balance, clean lines, no heavy manipulation. Redfin
     Redesign AI (December 2023) offers AI-powered visualisation of
     design styles (modern, rustic, Scandinavian, etc.) as an opt-in
     enhancement.
   visual_boundaries:
     stated_exclusions: >-
-      Redfin avoids aspirational-luxury-only property imagery — the
+      Redfin avoids aspirational-luxury-only property imagery. the
       platform serves all price points. Avoids traditional realtor-
       marketing conventions (glamour headshots, sold-sticker celebrations).
     observed_exceptions: >-
@@ -167,26 +167,26 @@ graphic_language:
   illustration_style: ""
   illustration_role: ""
   icon_style: >-
-    Map-pin colour system — the most distinctive icon element. Property
+    Map-pin colour system. the most distinctive icon element. Property
     type pins: dark green (MLS), pink (FSBO), purple (foreclosed), blue
     (sold). School icons for district visualisation. Standard real estate
     feature icons. The colour-coded pin system creates an immediately
     readable map interface.
   graphic_devices: >-
-    The house-and-location-pin logo — combining a house silhouette with
+    The house-and-location-pin logo. combining a house silhouette with
     a map pin, immediately communicating 'property search' and 'location
     technology.' The geometric simplicity works at all scales. Redfin Red
-    (#A02021) — the deep red is the primary chromatic identifier,
+    (#A02021). the deep red is the primary chromatic identifier,
     distinguishing Redfin from Zillow's blue. The colour-coded map pin
-    system — multiple colours encoding property type and status on the
-    interactive map. The draw-tool search area — users can draw custom
+    system. multiple colours encoding property type and status on the
+    interactive map. The draw-tool search area. users can draw custom
     search boundaries, creating personalised map shapes. Activity Stats
-    visualisation — the Viewed/Favourited/X'd-Out/Toured data display
+    visualisation. the Viewed/Favourited/X'd-Out/Toured data display
     on listing pages.
   motion_language: >-
     Functional, performance-first. Map interactions (zoom, pan, pin
     hover, draw-tool) use smooth, responsive animation. The brand
-    follows a 'every millisecond counts' philosophy — motion serves
+    follows a 'every millisecond counts' philosophy. motion serves
     speed and clarity. No distinctive branded motion language beyond
     functional interaction animation.
 
@@ -200,7 +200,7 @@ type_treatment:
     - "Carey Spies (typography documentation, 2017)"
     - "redfin.com (observed February 2026)"
   signature_move: >-
-    Libre Franklin (Pablo Impallari, 2016, open-source) — selected by
+    Libre Franklin (Pablo Impallari, 2016, open-source). selected by
     designer Carey Spies from three finalists (alongside Source Sans and
     Open Sans) when Redfin's Helvetica licence ended in late 2016. The
     selection was driven by lineage: Libre Franklin descends from Franklin
@@ -210,7 +210,7 @@ type_treatment:
     licensing cost. Sentinel and Benton Sans (premium, print-only
     licences) provide the typographic foundation that Libre Franklin
     extends to web. The zero-budget constraint that led to Libre Franklin
-    reflects Redfin's engineering-pragmatic culture — finding high-quality
+    reflects Redfin's engineering-pragmatic culture. finding high-quality
     open-source solutions rather than commissioning custom typefaces.
     Compared to Zillow (no distinctive type) or Opendoor (Graphik,
     Commercial Type), Redfin's typography is pragmatic and lineage-
@@ -235,10 +235,10 @@ type_treatment:
     The web/print distinction reflects the licensing arrangement rather
     than a deliberate typographic strategy.
   type_and_image: >-
-    Typography provides critical real estate information — property
+    Typography provides critical real estate information. property
     prices, addresses, features, neighbourhood data, school ratings,
     agent details. Numbers are hero content (price, square footage,
-    bed/bath count). In the map interface, type is minimal — pins and
+    bed/bath count). In the map interface, type is minimal. pins and
     colour coding communicate more than text. In listing detail pages,
     type provides structured property information alongside large
     photography.
@@ -253,11 +253,11 @@ layout:
     - "8px grid system"
   signature_composition: >-
     Map-and-listing split-screen. Redfin's most distinctive layout is
-    the search experience — an interactive map on one side with property
+    the search experience. an interactive map on one side with property
     listings on the other (toggle between list and map views). This
     split-screen composition defines the primary user experience and
     distinguishes Redfin from competitors. The 2020 listing detail
-    redesign uses a photography-hero composition — 35% larger images
+    redesign uses a photography-hero composition. 35% larger images
     at top, neighbourhood map immediately visible, collapsible
     information sections below. An 8px grid system with card-based
     content blocks provides consistent spacing. Compared to Zillow
@@ -267,7 +267,7 @@ layout:
   density_and_whitespace: >-
     Moderate density. Search results balance property information with
     map space. Listing detail pages distribute information across
-    collapsible sections — preventing cognitive overload while
+    collapsible sections. preventing cognitive overload while
     maintaining comprehensive property data. Card-based layouts use
     subtle drop shadows and rounded corners for depth. Overall
     impression: clean, functional, information-accessible.
@@ -283,25 +283,25 @@ trend_posture:
   overall: "selective-adopter"
   relationship_to_trends: >-
     Redfin adopts design trends that serve real estate search
-    efficiency and customer advocacy — visual decisions are driven by
+    efficiency and customer advocacy. visual decisions are driven by
     user research and the Caregiver brand archetype.
   examples:
     - trend: "AI-powered visual tools in real estate"
       stance: "early-adopter"
       evidence: >-
-        Redfin Redesign (December 2023, powered by Roomvu) — an AI tool
+        Redfin Redesign (December 2023, powered by Roomvu). an AI tool
         that generates visualisations of homes in different design styles
         (modern, rustic, Scandinavian, etc.). The tool adds a visual-
         imagination layer to property browsing.
       reasoning: >-
         AI visualisation helps buyers see potential rather than current
-        state — addressing a key barrier in home-purchase decision-
+        state. addressing a key barrier in home-purchase decision-
         making. The tool extends Redfin's technology-forward positioning
         into generative AI.
     - trend: "Dark mode in property search apps"
       stance: "selective-adopter"
       evidence: >-
-        Redfin iOS dark mode — with approximately 40% of iOS sessions
+        Redfin iOS dark mode. with approximately 40% of iOS sessions
         occurring between 6pm-7am and more than half of those users
         having devices set to dark mode. The implementation uses
         desaturated Redfin Red to reduce optical vibration on dark
@@ -328,14 +328,14 @@ collaboration:
     photography for local markets.
   notable_examples: >-
     Redfin x Carey Spies (2017 design language): the designer established
-    the comprehensive visual system — typography documentation, colour
-    system, spacing standards, and component library — that continues to
+    the comprehensive visual system. typography documentation, colour
+    system, spacing standards, and component library. that continues to
     guide Redfin's visual identity. The pragmatic approach (Libre Franklin
     selected within zero budget from open-source options) reflects
     Redfin's engineering culture. Redfin x Roomvu (Redfin Redesign,
     December 2023): the AI-powered home visualisation partnership
-    extends Redfin's visual language into generative design — buyers
+    extends Redfin's visual language into generative design. buyers
     can visualise properties in different styles. Redfin x 2020 listing
     detail redesign: the 35% image-size increase and reorganised
     information architecture made property photography the visual hero
-    of listing pages — a design decision validated by higher engagement.
+    of listing pages. a design decision validated by higher engagement.

@@ -16,7 +16,7 @@ last_updated: "2026-02-27"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Rivian. How the brand looks structurally —
+  Visual language for Rivian. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -29,17 +29,17 @@ visual_modes:
         - "Rivian social media channels"
         - "Rivian corporate communications"
       description: >-
-        Yellow-on-dark dominant — Rivian's signature warm yellow evokes
+        Yellow-on-dark dominant. Rivian's signature warm yellow evokes
         imagination and optimism, grounded by dark backgrounds that
         communicate sophistication and strength. Adventure (Pentagram /
         Eddie Opara + Klim Type Foundry / Kris Sowersby, 2024) serves as
         the custom brand typeface, adapted from Söhne with humanist
-        modifications — rounder apertures, reduced terminal flare, and a
+        modifications. rounder apertures, reduced terminal flare, and a
         zero referencing the elongated oval of Rivian headlights. Jeff
         Hammoud (Chief Design Officer) and Shaun Harris (Senior Director
-        of Experience Design) led the collaboration. The Rivian Compass —
+        of Experience Design) led the collaboration. The Rivian Compass
         a squared-off emblem with four arrows pointing north, south, east,
-        and west — anchors the identity, symbolising adventure and
+        and west. anchors the identity, symbolising adventure and
         exploration. The visual language is nature-tech-coded: outdoor
         adventure and electric-vehicle technology exist without tension.
         Compared to Tesla (minimal, tech-industrial, Musk-personality-
@@ -58,13 +58,13 @@ visual_modes:
         - "Speedometer and instrument cluster"
       description: >-
         Functional, legibility-first. The vehicle UI is where Adventure
-        typeface originated — the initial brief from Rivian was custom
+        typeface originated. the initial brief from Rivian was custom
         display numerals for the digital dashboard, which Pentagram
         extended into a full alphabet. The monospace version (Adventure
         Mono) ensures smooth numeral transitions on the speedometer,
         preventing visual jumping as digits change. Dark backgrounds
         dominate (dashboard convention). The UI must function at varying
-        light conditions — from bright desert sun to dark forest trails.
+        light conditions. from bright desert sun to dark forest trails.
         ISTD International Typographic Awards 2024 Certificates of
         Excellence recognised the work.
       differs_from_default_by: >-
@@ -84,7 +84,7 @@ visual_modes:
         toward landscape photography, outdoor lifestyle, and the vehicles
         in natural environments. The Rivian Adventure Network (charging
         stations) introduces environmental and wayfinding design. The Gear
-        Shop extends the visual identity into merchandise — clothing,
+        Shop extends the visual identity into merchandise. clothing,
         outdoor equipment, and accessories that carry the yellow-and-dark
         palette.
       differs_from_default_by: >-
@@ -97,7 +97,7 @@ visual_modes:
     Rivian acquired a full licence of the Adventure typeface from Klim/
     Pentagram so it can continue to be modified as the company evolves.
     The vehicle model lockups (R1, R1S, R1T, R2, R3, R3X) each receive
-    custom typographic balancing — the '2' is widened for visual parity
+    custom typographic balancing. the '2' is widened for visual parity
     with the 'R,' and a rounded corner in the 'R' aperture nods to the
     Compass symbol.
 
@@ -110,7 +110,7 @@ photography:
   subject_and_framing: >-
     Vehicles in dramatic natural landscapes. Rivian's photography places
     the R1T truck and R1S SUV in wilderness, desert, mountain, forest,
-    and coastal environments — the vehicle is both subject and gateway to
+    and coastal environments. the vehicle is both subject and gateway to
     nature. The framing balances vehicle detail (design lines, headlight
     ovals, wheel arches) with environmental grandeur (vast landscapes,
     dramatic skies, remote trails). Interior photography emphasises the
@@ -121,14 +121,14 @@ photography:
     most contemporary-adventure-coded.
   casting_observed: >-
     Active, outdoor-lifestyle-coded. People appear in Rivian photography
-    as adventurers — camping, hiking, surfing, mountain biking alongside
+    as adventurers. camping, hiking, surfing, mountain biking alongside
     the vehicle. The casting reflects a younger, active, environmentally
     conscious demographic. Dogs feature prominently. Families and friend
-    groups in outdoor contexts. No celebrity endorsement — the lifestyle
+    groups in outdoor contexts. No celebrity endorsement. the lifestyle
     IS the endorsement.
   lighting_and_colour: >-
     Golden-hour and blue-hour dominant. Landscape photography uses
-    dramatic natural lighting — sunrise, sunset, storm light, desert
+    dramatic natural lighting. sunrise, sunset, storm light, desert
     midday. The warm yellow brand colour harmonises with golden-hour
     photography. Interior photography uses the warm glow of dashboard
     displays. The overall colour temperature is warm and natural.
@@ -162,29 +162,29 @@ graphic_language:
   illustration_style: ""
   illustration_role: ""
   icon_style: >-
-    The Rivian Compass — a squared-off emblem with four directional arrows
-    — functions as the primary icon. Vehicle-feature icons follow
+    The Rivian Compass. a squared-off emblem with four directional arrows
+   functions as the primary icon. Vehicle-feature icons follow
     automotive-UI conventions with Adventure typeface integration. The
     Rivian Adventure Network uses wayfinding icons for charging stations.
     Navigation and trail icons reflect the outdoor-adventure positioning.
   graphic_devices: >-
-    The Rivian Compass — four-arrow directional emblem symbolising
+    The Rivian Compass. four-arrow directional emblem symbolising
     adventure and exploration. The compass is squared-off rather than
     circular, giving it a modern, geometric character. Signature yellow
-    — the warm, optimistic yellow is Rivian's most ownable chromatic
-    device in automotive. The headlight oval — the elongated oval shape
+   the warm, optimistic yellow is Rivian's most ownable chromatic
+    device in automotive. The headlight oval. the elongated oval shape
     of Rivian's distinctive headlights is referenced in the Adventure
     typeface's zero and appears as a recurring design motif. Vehicle
-    model lockups (R1, R1S, R1T, R2, R3, R3X) — custom-balanced
+    model lockups (R1, R1S, R1T, R2, R3, R3X). custom-balanced
     letter-numeral combinations with the rounded 'R' aperture nodding
     to the Compass.
   motion_language: >-
     Cinematic, landscape-movement-coded. Vehicle-in-motion footage uses
     dramatic angles in natural environments. Dashboard UI animations are
-    smooth and functional — numeral transitions (Adventure Mono) are
+    smooth and functional. numeral transitions (Adventure Mono) are
     carefully designed to prevent visual distraction. Marketing videos
     combine aerial landscape footage with vehicle-detail cinematography.
-    The motion language is confident and unhurried — adventure rather
+    The motion language is confident and unhurried. adventure rather
     than speed.
 
 type_treatment:
@@ -196,13 +196,13 @@ type_treatment:
     - "rivian.com (observed February 2026)"
   signature_move: >-
     Adventure (Pentagram / Eddie Opara + Klim Type Foundry / Kris
-    Sowersby, 2024) — a custom variable typeface adapted from Söhne with
+    Sowersby, 2024). a custom variable typeface adapted from Söhne with
     humanist modifications specific to Rivian. The design began as custom
     display numerals for vehicle dashboards, then extended into a full
     alphabet. Curves, counterspaces, and apertures are rounder and more
     open than Söhne. Terminal flare is reduced for a more streamlined
     appearance. The zero references the elongated oval of Rivian's
-    distinctive headlights — embedding the vehicle's physical design
+    distinctive headlights. embedding the vehicle's physical design
     language in the typography. Variable weight range (300-600) aligns
     with Söhne for system integration. Eddie Opara (Pentagram partner)
     led the design team. Received ISTD International Typographic Awards
@@ -229,9 +229,9 @@ type_treatment:
     typeface variable system provides continuity from vehicle dashboard
     to marketing website.
   type_and_image: >-
-    Typography shares space with landscape photography — Adventure
+    Typography shares space with landscape photography. Adventure
     headlines provide message while nature imagery provides atmosphere.
-    On the vehicle dashboard, type IS the primary visual content —
+    On the vehicle dashboard, type IS the primary visual content
     speed, battery range, navigation information. Model lockups (R1T,
     R2) are visual devices in their own right, carefully balanced for
     typographic harmony.
@@ -246,7 +246,7 @@ layout:
     uses dramatic full-width landscape and vehicle photography as the
     primary compositional element. The vehicle configurator provides an
     interactive 3D composition. The overall layout prioritises visual
-    immersion — the vehicles and landscapes fill the frame, with
+    immersion. the vehicles and landscapes fill the frame, with
     typography and navigation as minimal overlay. Compared to Tesla
     (more product-specification-forward, more minimalist) or Ford
     (more traditional automotive-marketing layout), Rivian's composition
@@ -254,7 +254,7 @@ layout:
   density_and_whitespace: >-
     Low density, generous space. Photography occupies the visual field.
     Product specifications use clean, well-spaced layouts. The overall
-    impression is of designed confidence — space for the vehicles and
+    impression is of designed confidence. space for the vehicles and
     landscapes to breathe.
   format_preferences: >-
     Wide, cinematic landscape format for hero imagery. Vehicle
@@ -265,27 +265,27 @@ trend_posture:
   overall: "leader"
   relationship_to_trends: >-
     Rivian leads visual trends in EV branding by integrating outdoor-
-    adventure aesthetics with vehicle-technology design — a combination
+    adventure aesthetics with vehicle-technology design. a combination
     no other manufacturer has achieved as completely.
   examples:
     - trend: "Custom vehicle-UI typefaces"
       stance: "leader"
       evidence: >-
-        Adventure (Pentagram/Klim, 2024) — a custom variable typeface
-        designed from dashboard numerals outward — represents the most
+        Adventure (Pentagram/Klim, 2024). a custom variable typeface
+        designed from dashboard numerals outward. represents the most
         comprehensive vehicle-UI-to-brand-identity typographic project
         in automotive. ISTD International Typographic Awards 2024
         recognition.
       reasoning: >-
         Most automotive brands use system fonts or generic custom faces
-        for vehicle UI. Rivian's approach — starting with dashboard
-        numerals and extending to a full brand typeface — creates
+        for vehicle UI. Rivian's approach. starting with dashboard
+        numerals and extending to a full brand typeface. creates
         seamless continuity between driving experience and brand identity.
     - trend: "Nature-technology EV branding"
       stance: "leader"
       evidence: >-
         Rivian's visual language resolves the nature/technology tension
-        that other EV brands struggle with — vehicles in wilderness
+        that other EV brands struggle with. vehicles in wilderness
         contexts, warm-yellow-on-dark palette, adventure-coded photography.
         No other EV manufacturer has committed as fully to outdoor-
         adventure visual positioning.
@@ -309,12 +309,12 @@ collaboration:
   notable_examples: >-
     Rivian x Pentagram / Eddie Opara (Adventure typeface, 2024): the
     Pentagram partner led a custom typeface project that began with
-    dashboard numerals and expanded into a full brand typeface — the most
+    dashboard numerals and expanded into a full brand typeface. the most
     significant type-design investment in the EV category. Rivian x Klim
     Type Foundry / Kris Sowersby (Adventure, based on Söhne): the NZ
     foundry provided the typographic foundation (Söhne) and collaborated
-    on humanist modifications specific to Rivian — rounder apertures,
+    on humanist modifications specific to Rivian. rounder apertures,
     reduced terminal flare, headlight-oval zero. Rivian x Amazon
     (delivery vans): the commercial delivery partnership introduces
-    Rivian-designed vehicles in Amazon's fleet — extending the visual
+    Rivian-designed vehicles in Amazon's fleet. extending the visual
     identity into commercial logistics.

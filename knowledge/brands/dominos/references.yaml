@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Domino's — Creative References
+# Domino's. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -27,7 +27,7 @@ people:
   - name: "Terrance Weinzierl"
     role: "Type Designer"
     url: "http://typeterrance.com/"
-    context: "Designed Pizza Press typeface (2014) — modular, stackable, multi-weight family"
+    context: "Designed Pizza Press typeface (2014). modular, stackable, multi-weight family"
 
   - name: "Kate Trumbull"
     role: "EVP & CMO"
@@ -54,21 +54,21 @@ publications:
 
 visuals:
   - url: "https://www.monotype.com/resources/case-studies/stackable-typeface-domino%E2%80%99s-pizza"
-    label: "Pizza Press Typeface Case Study — Monotype"
+    label: "Pizza Press Typeface Case Study. Monotype"
     section: "visual-language"
 
   - url: "http://typeterrance.com/custom-fonts-for-dominos2"
-    label: "Pizza Press Custom Font — Terrance Weinzierl Portfolio"
+    label: "Pizza Press Custom Font. Terrance Weinzierl Portfolio"
     section: "visual-language"
 
   - url: "https://www.jkr.london/"
-    label: "JKR Design Studio — Pizza Box Redesign"
+    label: "JKR Design Studio. Pizza Box Redesign"
     section: "visual-world"
 
   - url: "https://www.dominos.com/"
-    label: "Dominos.com — Current Brand & Ordering Experience"
+    label: "Dominos.com. Current Brand & Ordering Experience"
     section: "visual-world"
 
   - url: "https://fontsinuse.com/uses/6746/domino-s-pizza-1"
-    label: "Pizza Press in Use — Fonts In Use Documentation"
+    label: "Pizza Press in Use. Fonts In Use Documentation"
     section: "visual-language"

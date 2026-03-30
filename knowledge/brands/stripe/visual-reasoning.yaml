@@ -19,7 +19,7 @@ summary: Visual reasoning for Stripe. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Inter was chosen because it's become the standard sans-serif for technical interfaces—not because it's beautiful, but because it has achieved neutral legibility consensus. System fonts as fallbacks reinforce that design serves technical consistency, not visual distinctiveness. The typography hierarchy is built on scale alone, not on decorative weight variations or stylistic flourishes.
+  Inter was chosen because it's become the standard sans-serif for technical interfaces. not because it's beautiful, but because it has achieved neutral legibility consensus. System fonts as fallbacks reinforce that design serves technical consistency, not visual distinctiveness. The typography hierarchy is built on scale alone, not on decorative weight variations or stylistic flourishes.
 colour_logic: >-
   The palette operates on information architecture principles, not aesthetic harmony. #635BFF is used only for interactive elements (links, buttons, focus states) to create visual affordance. Supporting colors (#F6F9FC backgrounds, #E3E8EE borders, #8898AA text) are chosen for legibility ratios and reduce cognitive load. This is the palette of safety-critical systems: every color communicates function.
 composition_philosophy: >-

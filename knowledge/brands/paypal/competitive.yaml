@@ -22,7 +22,7 @@ actually_competes_with:
   - "cash-app"
   - wise
   - revolut
-industry_norms_it_breaks: "Overlapping P monogram (#0070BA and #003087) creating dimensional depth suggesting layered financial services in simple form | The architectural decision to keep PayPal's identity simple (the monogram works everywhere) despite operating across 200 markets and 434 million accounts—most global brands compromise into complexity | Does it make financial friction invisible? Or does it acknowledge friction exists and we're here to remove it?"
+industry_norms_it_breaks: "Overlapping P monogram (#0070BA and #003087) creating dimensional depth suggesting layered financial services in simple form | The architectural decision to keep PayPal's identity simple (the monogram works everywhere) despite operating across 200 markets and 434 million accounts. most global brands compromise into complexity | Does it make financial friction invisible? Or does it acknowledge friction exists and we're here to remove it?"
 visual_cluster: "geometric-clean"
 visual_fingerprint:
   - cluster: "geometric-clean"

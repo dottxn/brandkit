@@ -16,7 +16,7 @@ last_updated: "2026-02-27"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Wayfair. How the brand looks structurally —
+  Visual language for Wayfair. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -29,16 +29,16 @@ visual_modes:
         - "Wayfair social media channels"
         - "Wayfair corporate communications"
       description: >-
-        Wayfair Purple dominant — 'epitomising the heart of the brand,
-        evoking feelings of warmth, comfort, and belonging — just like
+        Wayfair Purple dominant. 'epitomising the heart of the brand,
+        evoking feelings of warmth, comfort, and belonging. just like
         home.' Extended palette includes olive, mint, and yellow accents.
-        Andrew Beardsall led the 2024 Brand Evolution — logo refinement,
+        Andrew Beardsall led the 2024 Brand Evolution. logo refinement,
         typography updates, colour system development, and digital/print
         guidelines. The pinwheel icon was simplified to a monochromatic
         mark for improved scalability and legibility. The customised
         sans-serif typeface feels 'both modern and approachable.' The
         'Welcome to the Wayborhood' campaign (March 2024) launched the
-        refreshed identity across TV, digital, and physical retail —
+        refreshed identity across TV, digital, and physical retail
         including Wayfair's first-ever large-format physical store. The
         visual language is home-inspiration-coded: warm, imaginative, and
         style-democratic. Compared to IKEA (more functional-Scandinavian-
@@ -78,7 +78,7 @@ visual_modes:
         - "Wayfair app shopping experience"
       description: >-
         Product-photography-dominant, room-scene-coded. The shopping
-        experience uses extensive room-scene photography — furniture and
+        experience uses extensive room-scene photography. furniture and
         decor shown in styled room contexts that help customers visualise
         products in their own homes. 3D and AR visualisation tools allow
         customers to place virtual products in their real spaces. Product
@@ -103,10 +103,10 @@ photography:
     - "Room scene photography"
   subject_and_framing: >-
     Room-scene-dominant, style-diverse. Wayfair's photography shows
-    furniture and home decor in styled room compositions — living rooms,
+    furniture and home decor in styled room compositions. living rooms,
     bedrooms, kitchens, dining rooms, and outdoor spaces. The photography
     must represent enormous style diversity (modern, traditional,
-    farmhouse, boho, coastal, industrial, and more) — the 'Wayborhood'
+    farmhouse, boho, coastal, industrial, and more). the 'Wayborhood'
     concept celebrates this variety. Product photography shows items
     from multiple angles with specification detail. The 'Wayborhood'
     campaign introduces stylised, whimsical room compositions that
@@ -117,7 +117,7 @@ photography:
   casting_observed: >-
     Diverse, home-enjoying, style-personal. The 'Wayborhood' campaign
     shows individuals and families with distinctly different home styles
-    — celebrating that there is no single 'right' way to make a home.
+   celebrating that there is no single 'right' way to make a home.
     Celebrity partners were introduced in the 2024 campaign. The casting
     reflects Wayfair's 'everyone deserves the home they want' positioning.
   lighting_and_colour: >-
@@ -134,7 +134,7 @@ photography:
     decisions.
   visual_boundaries:
     stated_exclusions: >-
-      Wayfair avoids exclusively luxury or premium imagery — the platform
+      Wayfair avoids exclusively luxury or premium imagery. the platform
       serves all price points and style preferences. Avoids cold,
       uninhabited-feeling room photography.
     observed_exceptions: >-
@@ -155,23 +155,23 @@ graphic_language:
   illustration_style: ""
   illustration_role: ""
   icon_style: >-
-    The pinwheel — simplified to monochromatic in the 2024 brand
+    The pinwheel. simplified to monochromatic in the 2024 brand
     evolution for improved scalability and legibility. The pinwheel
     functions as Wayfair's primary icon at all scales. Product-category
     icons (furniture, decor, outdoor, lighting, rugs) follow e-commerce
     conventions. Room-style icons help customers navigate style
     preferences.
   graphic_devices: >-
-    The pinwheel — Wayfair's iconic mark, simplified to monochromatic
+    The pinwheel. Wayfair's iconic mark, simplified to monochromatic
     in 2024. The pinwheel suggests home, creativity, and playful
-    imagination. Wayfair Purple — the dominant chromatic device, evoking
-    warmth and belonging. The 'Wayborhood' concept — a whimsical visual
+    imagination. Wayfair Purple. the dominant chromatic device, evoking
+    warmth and belonging. The 'Wayborhood' concept. a whimsical visual
     world where diverse home styles coexist as a neighbourhood. The
-    lowercase 'wayfair' wordmark — modernised with improved legibility
+    lowercase 'wayfair' wordmark. modernised with improved legibility
     in the 2024 update.
   motion_language: >-
     The 'Wayborhood' campaign uses playful, stylised animation and
-    video — a whimsical visual world bringing the neighbourhood concept
+    video. a whimsical visual world bringing the neighbourhood concept
     to life. Product visualisation tools (3D/AR) provide interactive
     motion for home-furnishing decisions. Marketing videos show room
     transformations and style-inspiration compositions.
@@ -184,10 +184,10 @@ type_treatment:
     - "wayfair.com (observed February 2026)"
   signature_move: >-
     A customised sans-serif typeface (2024 brand evolution, Andrew
-    Beardsall) — modernised for improved legibility and a balance between
+    Beardsall). modernised for improved legibility and a balance between
     modern and approachable. The specific typeface details are not
     publicly disclosed, but the design is neither overly playful nor
-    rigidly corporate — matching Wayfair's 'home for everyone'
+    rigidly corporate. matching Wayfair's 'home for everyone'
     positioning. The typographic updates resolved legibility issues from
     the previous identity, particularly for the new physical retail
     environment. Compared to IKEA (Noto Sans/IKEA Sans, more functional-
@@ -211,7 +211,7 @@ type_treatment:
     The typeface must work at physical-retail signage scale as well as
     digital.
   type_and_image: >-
-    Typography provides critical e-commerce information — product names,
+    Typography provides critical e-commerce information. product names,
     prices, dimensions, materials, customer ratings. In the shopping
     experience, type serves purchase-decision information alongside
     room-scene and product photography. In marketing, type and the
@@ -234,7 +234,7 @@ layout:
     grid, no inspiration), Wayfair's layout is the most inspiration-
     and-transaction-balanced.
   density_and_whitespace: >-
-    High density in product browsing — Wayfair's massive catalogue
+    High density in product browsing. Wayfair's massive catalogue
     (millions of items) requires dense product grids. Inspiration
     sections use more generous spacing with room-scene photography.
     The balance between density and whitespace reflects the dual
@@ -254,23 +254,23 @@ trend_posture:
     - trend: "AR/3D product visualisation in home retail"
       stance: "early-adopter"
       evidence: >-
-        Wayfair's 3D and AR visualisation tools — allowing customers to
-        place virtual furniture in their real rooms — represent early
+        Wayfair's 3D and AR visualisation tools. allowing customers to
+        place virtual furniture in their real rooms. represent early
         adoption of spatial-computing for home-furnishing retail.
       reasoning: >-
-        Home furnishing is uniquely suited to AR visualisation — customers
+        Home furnishing is uniquely suited to AR visualisation. customers
         need to see how products look in their specific spaces. AR reduces
         purchase uncertainty and return rates.
     - trend: "Online-to-physical retail expansion"
       stance: "selective-adopter"
       evidence: >-
         Wayfair's first large-format physical store (2024) required the
-        2024 brand evolution — the visual identity needed to work at
+        2024 brand evolution. the visual identity needed to work at
         physical-retail scale (signage, wayfinding, displays) in addition
         to digital.
       reasoning: >-
         Born-digital retailers expanding to physical stores face unique
-        visual-identity challenges — digital-first design must translate
+        visual-identity challenges. digital-first design must translate
         to architectural-scale applications.
 
 collaboration:
@@ -286,7 +286,7 @@ collaboration:
     style treatments. Physical retail introduces environmental design.
   notable_examples: >-
     Wayfair x Andrew Beardsall (2024 Brand Evolution): the designer led
-    the comprehensive brand update — logo refinement, pinwheel
+    the comprehensive brand update. logo refinement, pinwheel
     simplification, typography modernisation, and colour system
     development for both digital and physical retail. Wayfair x
     'Wayborhood' campaign (March 2024): the 360-degree campaign launched

@@ -21,7 +21,7 @@ actually_competes_with:
   - stripe
   - amazon
   - etsy
-industry_norms_it_breaks: "The emerald green (#95BF47) used never as highlight but as the visual representation of \"ready to go live\"—action unlocked, permission granted. | The deliberate refusal to make the visual system showy. Every competitor tries to add vibrancy and emotional appeal; Shopify leans harder into the inverse—making the merchant's products the star, not  | Does this reduce friction for merchants to focus on what they actually love doing? If no, we don't ship it."
+industry_norms_it_breaks: "The emerald green (#95BF47) used never as highlight but as the visual representation of \"ready to go live\". action unlocked, permission granted. | The deliberate refusal to make the visual system showy. Every competitor tries to add vibrancy and emotional appeal; Shopify leans harder into the inverse. making the merchant's products the star, not  | Does this reduce friction for merchants to focus on what they actually love doing? If no, we don't ship it."
 visual_cluster: "tech-system"
 visual_fingerprint:
   - cluster: "tech-system"

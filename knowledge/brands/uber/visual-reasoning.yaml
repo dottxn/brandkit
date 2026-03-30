@@ -19,7 +19,7 @@ summary: Visual reasoning for Uber. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Uber Move was designed as a global sans-serif that works across all writing systems without requiring localization. The typeface rejects personality—it's purely functional. This philosophical choice creates consistency across 70+ markets where custom typography could fragment the brand. Geometric precision in letter forms ensures readability at small sizes in mobile interfaces.
+  Uber Move was designed as a global sans-serif that works across all writing systems without requiring localization. The typeface rejects personality. it's purely functional. This philosophical choice creates consistency across 70+ markets where custom typography could fragment the brand. Geometric precision in letter forms ensures readability at small sizes in mobile interfaces.
 colour_logic: >-
   The palette (#000000, #FFFFFF, #1FB253) operates on signal hierarchy. Black and white are the foundation; green is reserved for action confirmation. This creates a system where color has meaning (green = "go") rather than aesthetic value. No supporting colors, no accent palette, no seasonal variations. The system is deliberately constrained to eliminate complexity.
 composition_philosophy: >-

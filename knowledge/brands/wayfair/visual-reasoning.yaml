@@ -19,9 +19,9 @@ summary: Visual reasoning for Wayfair. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Wayfair Sans was designed to be approachable yet modern—avoiding both sterile corporate sans-serif and trendy geometric fonts. The typeface has friendly proportions that feel inviting to uncertain shoppers while maintaining clarity for product information. System sans-serif fallbacks ensure consistency across devices without requiring custom font delivery.
+  Wayfair Sans was designed to be approachable yet modern. avoiding both sterile corporate sans-serif and trendy geometric fonts. The typeface has friendly proportions that feel inviting to uncertain shoppers while maintaining clarity for product information. System sans-serif fallbacks ensure consistency across devices without requiring custom font delivery.
 colour_logic: >-
-  The primary purple (#7B189F) is warm and inclusive—neither traditionally masculine nor feminine. Supporting warm whites and earth tones create a palette that feels like a comfortable home rather than a sterile showroom. The color system allows seasonal updates without losing brand consistency. Supporting functional colors (greens for positive actions, reds for alerts) follow usability conventions.
+  The primary purple (#7B189F) is warm and inclusive. neither traditionally masculine nor feminine. Supporting warm whites and earth tones create a palette that feels like a comfortable home rather than a sterile showroom. The color system allows seasonal updates without losing brand consistency. Supporting functional colors (greens for positive actions, reds for alerts) follow usability conventions.
 composition_philosophy: >-
   Product grid layouts emphasize abundance while maintaining visual rhythm and easy navigation. High product density with consistent thumbnail sizing, standardized pricing presentation, and clear rating/review indicators. Information architecture prioritizes quick scanning and comparison. Asymmetrical layouts in marketing materials balance stunning product imagery with readable copy.
 what_would_break_it: >-

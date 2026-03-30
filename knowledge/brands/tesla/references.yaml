@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Tesla — Creative References
+# Tesla. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -7,23 +7,23 @@ studios:
     type: branding
     url: "https://www.rostudio.com/"
     project_url: "https://www.ro-studio.com/tesla"
-    relationship: "Designed Tesla 'T' logo (2003) — geometric mark referencing electric motor cross-section"
+    relationship: "Designed Tesla 'T' logo (2003). geometric mark referencing electric motor cross-section"
 
   - name: "Letters from Sweden"
     type: type-foundry
     url: "https://www.lettersfromsweden.se/"
-    relationship: "Designed Tesla sans-serif typeface (2014) — minimal, tech-forward geometric font used across all touchpoints"
+    relationship: "Designed Tesla sans-serif typeface (2014). minimal, tech-forward geometric font used across all touchpoints"
 
 people:
   - name: "Göran Söderström"
     role: "Typeface Designer, Letters from Sweden"
     url: "https://www.lettersfromsweden.se/"
-    context: "Designed Tesla custom sans-serif (2014) — clean, geometric, tech-modern typeface for vehicle UI and marketing"
+    context: "Designed Tesla custom sans-serif (2014). clean, geometric, tech-modern typeface for vehicle UI and marketing"
 
   - name: "Franz von Holzhausen"
     role: "Chief Designer"
     url: "https://www.linkedin.com/in/franzxyz/"
-    context: "Chief Designer since 2008 — defines vehicle design language that marketing visual language serves"
+    context: "Chief Designer since 2008. defines vehicle design language that marketing visual language serves"
 
 publications:
   - title: "A Rare Interview with Tesla's Chief Designer"
@@ -36,13 +36,13 @@ publications:
 
 visuals:
   - url: "https://tesla.com"
-    label: "Tesla website — vehicle configurator, 3D renders, minimal layouts, product-dominant composition"
+    label: "Tesla website. vehicle configurator, 3D renders, minimal layouts, product-dominant composition"
     section: visual-language
 
   - url: "https://tesla.com/model3"
-    label: "Model 3 product page — scroll-triggered reveals, centered vehicle, Apple-influenced layout"
+    label: "Model 3 product page. scroll-triggered reveals, centered vehicle, Apple-influenced layout"
     section: visual-language
 
   - url: "https://www.artcenter.edu/about/get-to-know-artcenter/people/franz-von-holzhausen.html"
-    label: "Franz von Holzhausen — ArtCenter faculty profile"
+    label: "Franz von Holzhausen. ArtCenter faculty profile"
     section: visual-world

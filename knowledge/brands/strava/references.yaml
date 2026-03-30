@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Strava — Creative References
+# Strava. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -11,7 +11,7 @@ studios:
   - name: "ILLO Studio"
     type: branding
     url: "https://www.illostudio.com/"
-    relationship: "Designed 2023 challenge badge system — artisanal illustration approach to gamification elements"
+    relationship: "Designed 2023 challenge badge system. artisanal illustration approach to gamification elements"
 
   - name: "Manual Creative"
     type: creative-direction
@@ -21,18 +21,18 @@ studios:
   - name: "Mapbox"
     type: digital-design
     url: "https://www.mapbox.com/"
-    relationship: "Partnership for Global Heatmap — visualization of 1B+ activities as glowing heat trails"
+    relationship: "Partnership for Global Heatmap. visualization of 1B+ activities as glowing heat trails"
 
 people:
   - name: "Anita Patwardhan Butler"
     role: "Chief Design Officer"
     url: "https://www.linkedin.com/in/anita-patwardhan-butler/"
-    context: "First CDO appointed February 2023 (ex-Twitter/Facebook) — oversees visual system and design investment"
+    context: "First CDO appointed February 2023 (ex-Twitter/Facebook). oversees visual system and design investment"
 
   - name: "Kris Sowersby"
     role: "Founder, Klim Type Foundry / Designer"
     url: "https://www.klim.co.nz/"
-    context: "Creative director of Grilli Type (Zurich) — designed Boathouse with athletic-brand energy"
+    context: "Creative director of Grilli Type (Zurich). designed Boathouse with athletic-brand energy"
 
   - name: "Rasmus Andersson"
     role: "Typeface Designer"
@@ -46,13 +46,13 @@ publications:
 
 visuals:
   - url: "https://www.strava.com"
-    label: "Strava website — Boathouse typography, orange dominant, activity-data visual language"
+    label: "Strava website. Boathouse typography, orange dominant, activity-data visual language"
     section: visual-language
 
   - url: "https://www.grillitype.com/typefaces/boathouse"
-    label: "Boathouse typeface specifications and design story — rowing heritage connection"
+    label: "Boathouse typeface specifications and design story. rowing heritage connection"
     section: visual-language
 
   - url: "https://www.strava.com/heatmap"
-    label: "Global Heatmap — 1B+ activities visualised, Mapbox partnership"
+    label: "Global Heatmap. 1B+ activities visualised, Mapbox partnership"
     section: visual-world

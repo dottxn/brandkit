@@ -46,14 +46,14 @@ publications:
   relevance: Comprehensive software UI design system and principles documentation.
 visuals:
 - url: https://developer.apple.com/design/
-  label: Human Interface Guidelines — developer.apple.com
+  label: Human Interface Guidelines. developer.apple.com
   section: visual-world
 - url: https://www.apple.com/newsroom/
-  label: Product announcements and design stories — Apple Newsroom
+  label: Product announcements and design stories. Apple Newsroom
   section: visual-language
 - url: https://www.fosterandpartners.com/
-  label: Apple Park architecture case study — Foster + Partners
+  label: Apple Park architecture case study. Foster + Partners
   section: visual-world
 - url: https://www.lovefrom.com/
-  label: Product design philosophy — LoveFrom
+  label: Product design philosophy. LoveFrom
   section: visual-world

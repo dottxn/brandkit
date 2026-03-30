@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Coursera — Creative References
+# Coursera. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -22,7 +22,7 @@ people:
   - name: "Paul D. Hunt"
     role: "Type Designer"
     url: ""
-    context: "Designed Source Sans Pro (Adobe, 2012) — Coursera's primary brand typeface"
+    context: "Designed Source Sans Pro (Adobe, 2012). Coursera's primary brand typeface"
 
 publications:
   - title: "Coursera Brand Evolution Blog Post"
@@ -35,17 +35,17 @@ publications:
 
 visuals:
   - url: "https://blog.coursera.org/evolving-courseras-brand-identity/"
-    label: "Coursera Rebrand Documentation — 2020 Visual Identity Evolution"
+    label: "Coursera Rebrand Documentation. 2020 Visual Identity Evolution"
     section: "visual-language"
 
   - url: "https://www.sarahlynch.design/project/coursera-rebrand"
-    label: "Coursera Rebrand Case Study — Sarah Lynch Design Work"
+    label: "Coursera Rebrand Case Study. Sarah Lynch Design Work"
     section: "visual-language"
 
   - url: "https://www.coursera.org/"
-    label: "Coursera.org Homepage — Current Brand Implementation"
+    label: "Coursera.org Homepage. Current Brand Implementation"
     section: "visual-world"
 
   - url: "https://www.designerfund.com/blog/coursera-design-an-inside-look/"
-    label: "Designer Fund Article — Coursera Design Culture (2014)"
+    label: "Designer Fund Article. Coursera Design Culture (2014)"
     section: "visual-language"

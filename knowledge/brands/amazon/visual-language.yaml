@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Amazon. How the brand looks structurally —
+  Visual language for Amazon. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -27,16 +27,16 @@ visual_modes:
     - name: "retail-marketplace"
       touchpoints:
         - "amazon.com homepage and product detail pages"
-        - "Amazon app — mobile shopping experience"
-        - "Packaging — branded tape, shipping boxes with smile"
+        - "Amazon app. mobile shopping experience"
+        - "Packaging. branded tape, shipping boxes with smile"
         - "Amazon Fresh and Whole Foods Market integration"
       description: >-
         White-dominant, information-dense, conversion-optimised. The smile
-        arrow (Turner Duckworth, 2000 — connects 'a' to 'z', curves upward
+        arrow (Turner Duckworth, 2000. connects 'a' to 'z', curves upward
         to form a dimpled smile) appears on every touchpoint in Smile Orange
         (#FF9900). Amazon Ember (Dalton Maag, 2015) is the system typeface.
-        The 2024-2025 Koto global rebrand redrew the smile — 'deeper and
-        more empathetic' — and introduced Amazon Logo Sans, a custom alphabet
+        The 2024-2025 Koto global rebrand redrew the smile. 'deeper and
+        more empathetic'. and introduced Amazon Logo Sans, a custom alphabet
         where each letter carries the smile's curvature. Over 50 sub-brand
         logos were refreshed to align. Compared to Walmart (blue dominant,
         spark motif) or Target (red bullseye, more design-forward), Amazon's
@@ -56,7 +56,7 @@ visual_modes:
         Dark-dominant, cinematic, entertainment-forward. Prime Video Sharp
         (Lucas Sharp / Sharp Type, 2023) replaced the retail typeface with a
         sharper, more editorial serif-sans hybrid. Emily Oberman (Pentagram)
-        led the 2023 Prime Video rebrand — introducing a new blue gradient
+        led the 2023 Prime Video rebrand. introducing a new blue gradient
         mark and content-first visual system. The photography is title-specific
         (each original series gets its own art direction) but unified by dark
         backgrounds, dramatic lighting, and a more premium register than the
@@ -66,7 +66,7 @@ visual_modes:
       differs_from_default_by: >-
         Dark backgrounds replace white. Entertainment typography (Prime Video
         Sharp) replaces Amazon Ember. Content imagery replaces product imagery.
-        The smile is absent — replaced by the Prime Video blue mark.
+        The smile is absent. replaced by the Prime Video blue mark.
 
     - name: "aws-enterprise"
       touchpoints:
@@ -76,7 +76,7 @@ visual_modes:
         - "Enterprise sales materials and whitepapers"
       description: >-
         AWS Navy (#252F3E) dominant, technical, diagram-heavy. A completely
-        separate visual identity from consumer Amazon — the smile arrow is
+        separate visual identity from consumer Amazon. the smile arrow is
         replaced by the AWS logotype (orange on navy). Amazon Ember serves
         both brands but the application differs radically: AWS uses Ember
         in dense, technical contexts (documentation, console UI, architecture
@@ -98,8 +98,8 @@ visual_modes:
       description: >-
         Clean, product-hero, Apple-influenced in presentation. Device
         photography uses studio-lit product shots on white or gradient
-        backgrounds — the most design-forward mode in the Amazon ecosystem.
-        Kindle uses Bookerly (Dalton Maag, 2015) — a bespoke e-reader serif
+        backgrounds. the most design-forward mode in the Amazon ecosystem.
+        Kindle uses Bookerly (Dalton Maag, 2015). a bespoke e-reader serif
         designed for optimal legibility on E Ink displays. The Alexa visual
         language uses a cyan-blue gradient ring as its primary motif. The
         2024-2025 rebrand (Koto) introduced Ember Modern (NaN Foundry) as
@@ -130,8 +130,8 @@ photography:
     Varies radically by mode. Retail: product photography is vendor-supplied,
     inconsistent, optimised for information over aesthetics. Amazon's own
     lifestyle photography (for Amazon Essentials, Amazon Fashion) uses natural
-    settings, diverse casting, and straightforward framing — nothing conceptual.
-    Prime Video: title-specific cinematic key art — each series has its own
+    settings, diverse casting, and straightforward framing. nothing conceptual.
+    Prime Video: title-specific cinematic key art. each series has its own
     photographic language. Devices: studio-lit product shots, Apple-influenced
     clean presentation, the device as hero against white or gradient backgrounds.
     Compared to Apple (every image meticulously art-directed) or Google (warm,
@@ -140,7 +140,7 @@ photography:
   casting_observed: >-
     Diverse across age, ethnicity, and body type in lifestyle imagery for
     Amazon Fashion and Amazon Essentials. Retail product photography is
-    vendor-determined. Prime Video casting follows content — each series
+    vendor-determined. Prime Video casting follows content. each series
     determines its own visual casting. No single casting aesthetic across
     the brand.
   lighting_and_colour: >-
@@ -153,13 +153,13 @@ photography:
   post_production: >-
     Retail product images follow strict technical requirements (white background,
     minimum 1000px longest side, no watermarks, product fills 85% of frame).
-    Lifestyle photography has moderate retouching — natural-looking but
+    Lifestyle photography has moderate retouching. natural-looking but
     polished. Prime Video key art receives full cinematic post-production.
   visual_boundaries:
     stated_exclusions: >-
       Amazon product photography guidelines prohibit: logos, watermarks,
       borders, colour blocks, text overlays on main product images.
-      Lifestyle imagery avoids luxury or aspirational coding — Amazon positions
+      Lifestyle imagery avoids luxury or aspirational coding. Amazon positions
       as accessible, not exclusive.
     observed_exceptions: >-
       Amazon Fashion and Amazon Essentials campaigns occasionally push toward
@@ -177,16 +177,16 @@ graphic_language:
   confidence: "high"
   primary_sources:
     - "The smile arrow (Turner Duckworth, 2000)"
-    - "2024-2025 Koto global rebrand — redrawn smile, Amazon Logo Sans"
+    - "2024-2025 Koto global rebrand. redrawn smile, Amazon Logo Sans"
     - "AWS architecture diagrams and service icons"
     - "Alexa gradient ring motif"
   uses_illustration: true
   illustration_style: >-
     Amazon uses flat, functional illustration primarily in instructional
-    contexts — how-to guides, onboarding flows, empty states in apps. AWS
+    contexts. how-to guides, onboarding flows, empty states in apps. AWS
     uses a comprehensive icon system for its 200+ services (orange line-
     weight icons on dark backgrounds). The style is utilitarian, not
-    expressive — compared to Google's playful illustrations or Apple's
+    expressive. compared to Google's playful illustrations or Apple's
     polished 3D renders, Amazon's illustration is closer to infographic
     than art.
   illustration_role: >-
@@ -195,11 +195,11 @@ graphic_language:
     rather than replaces photography.
   icon_style: >-
     Amazon retail: minimal, line-weight icons for navigation and UI. AWS:
-    a comprehensive service icon system — flat, orange-accented, geometric,
+    a comprehensive service icon system. flat, orange-accented, geometric,
     designed for architecture diagrams. Alexa: rounded, friendly, cyan-blue.
     Each sub-brand has its own icon language.
   graphic_devices: >-
-    The smile arrow (Turner Duckworth, 2000, redrawn by Koto 2024-2025) —
+    The smile arrow (Turner Duckworth, 2000, redrawn by Koto 2024-2025)
     connects 'a' to 'z', curves upward to form a dimple. The most recognised
     e-commerce symbol globally. After the rebrand, the smile is 'deeper and
     more empathetic.' Amazon Logo Sans extends the smile's curvature into
@@ -207,10 +207,10 @@ graphic_language:
     The AWS orange-on-navy palette. Each device functions as a brand identifier
     within its sub-brand context.
   motion_language: >-
-    The smile arrow has an established animation — it curves and resolves from
+    The smile arrow has an established animation. it curves and resolves from
     'a' to 'z' in brand films. Alexa uses a pulsing cyan ring animation for
     listening/thinking states. Prime Video uses cinematic title sequences
-    specific to each original series. AWS motion is minimal — functional
+    specific to each original series. AWS motion is minimal. functional
     transitions only.
 
 # ── Typography in Practice ───────────────────────
@@ -218,19 +218,19 @@ graphic_language:
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "Amazon Ember (Dalton Maag, 2015) — primary corporate/retail typeface"
-    - "Ember Modern (NaN Foundry, 2024-2025) — updated variable typeface for digital"
-    - "Bookerly (Dalton Maag, 2015) — bespoke Kindle e-reader serif"
+    - "Amazon Ember (Dalton Maag, 2015). primary corporate/retail typeface"
+    - "Ember Modern (NaN Foundry, 2024-2025). updated variable typeface for digital"
+    - "Bookerly (Dalton Maag, 2015). bespoke Kindle e-reader serif"
     - "Prime Video Sharp (Lucas Sharp / Sharp Type, 2023)"
-    - "Amazon Logo Sans (Koto, 2024-2025) — custom alphabet"
+    - "Amazon Logo Sans (Koto, 2024-2025). custom alphabet"
   signature_move: >-
-    Amazon Ember (Dalton Maag, 2015) — a humanist sans-serif designed to be
+    Amazon Ember (Dalton Maag, 2015). a humanist sans-serif designed to be
     universally readable across devices, languages, and screen sizes. Warm
     enough to feel approachable, neutral enough to disappear behind content.
     The 2024-2025 rebrand added Ember Modern (NaN Foundry) as a variable
-    typeface update and Amazon Logo Sans (Koto) — a custom display alphabet
+    typeface update and Amazon Logo Sans (Koto). a custom display alphabet
     where every letter carries the curvature of the smile arrow. The
-    typographic signature is functional clarity — Amazon's type is designed
+    typographic signature is functional clarity. Amazon's type is designed
     to sell products, not to be noticed.
   what_would_look_wrong: >-
     A decorative, expressive, or luxury typeface in retail contexts. Serif
@@ -241,21 +241,21 @@ type_treatment:
   case_convention: >-
     Sentence case for product listings and UI. Title case for brand names
     and service names. The Amazon wordmark uses lowercase with an uppercase
-    'A' — a deliberate choice that reads as friendly and accessible.
+    'A'. a deliberate choice that reads as friendly and accessible.
   display_vs_body: >-
-    Display: Amazon Logo Sans (Koto, 2024-2025) for brand moments — each
+    Display: Amazon Logo Sans (Koto, 2024-2025) for brand moments. each
     letter carries the smile's curvature. Prime Video Sharp (Sharp Type, 2023)
-    for entertainment contexts — sharper, more editorial. Body: Amazon Ember
+    for entertainment contexts. sharper, more editorial. Body: Amazon Ember
     (Dalton Maag, 2015) across retail, corporate, and most digital touchpoints.
     Ember Modern (NaN Foundry, 2024-2025) as the variable update for responsive
-    digital applications. Bookerly (Dalton Maag, 2015) for Kindle reading —
+    digital applications. Bookerly (Dalton Maag, 2015) for Kindle reading
     a bespoke serif with unusually large x-height for E Ink legibility.
   type_and_image: >-
     Type defers to content in retail (product images dominate, type is
-    informational). In Prime Video, type competes with imagery — title
+    informational). In Prime Video, type competes with imagery. title
     treatments are central to key art. In device marketing, type provides
     context while the product hero dominates. Amazon is not a type-forward
-    brand — the smile is the visual anchor, not the typography.
+    brand. the smile is the visual anchor, not the typography.
 
 # ── Layout & Composition ─────────────────────────
 
@@ -268,19 +268,19 @@ layout:
   signature_composition: >-
     Retail: information-dense grid, optimised for browsing and conversion.
     Product cards, recommendation carousels, and review modules create a
-    layered, data-rich experience. The layout serves discovery — every pixel
+    layered, data-rich experience. The layout serves discovery. every pixel
     earns its space by driving engagement. Compared to Apple (generous
     whitespace, single-product hero) or Shopify stores (template-varied),
     Amazon's retail layout is the most information-dense major e-commerce
-    experience. Prime Video: content-grid with large hero banners — closer
+    experience. Prime Video: content-grid with large hero banners. closer
     to Netflix's layout logic (horizontal scrolling rows, algorithmic
     personalisation).
   density_and_whitespace: >-
     Retail is the densest major consumer digital experience. Whitespace is
     functional (separating information blocks) not aesthetic. Product pages
     layer: hero image, title, price, ratings, bullet points, variations,
-    buy box, recommendations, reviews — everything above the fold that can
-    fit. This density is intentional — Amazon's data shows that information
+    buy box, recommendations, reviews. everything above the fold that can
+    fit. This density is intentional. Amazon's data shows that information
     density drives conversion. Prime Video and devices use more generous
     whitespace.
   format_preferences: >-
@@ -295,7 +295,7 @@ trend_posture:
   overall: "selective-adopter"
   relationship_to_trends: >-
     Amazon adopts design trends when they serve utility and conversion. The
-    brand is not a design leader — it follows proven patterns rather than
+    brand is not a design leader. it follows proven patterns rather than
     setting aesthetic direction. The 2024-2025 Koto rebrand represents a
     rare investment in brand aesthetics over pure functionality.
   examples:
@@ -303,7 +303,7 @@ trend_posture:
       stance: "leader"
       evidence: >-
         Amazon's recommendation engine personalises not just products but
-        visual presentation — layout, imagery, and content density adapt to
+        visual presentation. layout, imagery, and content density adapt to
         individual user behaviour. The 2024-2025 rebrand introduced AI-
         governed brand asset management across 50+ sub-brands.
       reasoning: >-
@@ -315,7 +315,7 @@ trend_posture:
         The 2024-2025 Koto global rebrand is Amazon's first comprehensive
         visual identity update since the 2000 Turner Duckworth smile. The
         rebrand redrew the smile, introduced Amazon Logo Sans, and refreshed
-        50+ sub-brand logos — a decade overdue compared to peer tech companies.
+        50+ sub-brand logos. a decade overdue compared to peer tech companies.
       reasoning: >-
         Amazon historically underinvests in brand design relative to its
         scale. The Koto rebrand signals a shift toward treating visual
@@ -330,7 +330,7 @@ collaboration:
     colour. Amazon Ember as the system typeface. The functional, conversion-
     first approach to layout in retail contexts.
   what_bends: >-
-    Sub-brands have significant visual autonomy — Prime Video, AWS, Alexa,
+    Sub-brands have significant visual autonomy. Prime Video, AWS, Alexa,
     and Kindle each have distinct visual identities. Colour palette shifts
     dramatically by context (navy for AWS, blue gradient for Prime Video,
     cyan for Alexa). Typography changes by sub-brand. Photography style
@@ -338,7 +338,7 @@ collaboration:
   notable_examples: >-
     Amazon x NFL Thursday Night Football (2022-present): created a distinct
     broadcast visual identity with custom graphics, darker palette, and
-    sports-specific design language — significant departure from retail
+    sports-specific design language. significant departure from retail
     Amazon. Amazon x Whole Foods (acquired 2017): maintained Whole Foods'
     existing green-and-brown organic visual identity, integrating Amazon
     Prime branding as an overlay rather than replacing the brand. Amazon

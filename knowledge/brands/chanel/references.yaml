@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Chanel — Creative References
+# Chanel. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -49,17 +49,17 @@ publications:
 
 visuals:
   - url: "https://www.chanel.com/"
-    label: "Official Chanel website and campaigns — chanel.com"
+    label: "Official Chanel website and campaigns. chanel.com"
     section: visual-world
 
   - url: "https://petermarinoarchitect.com/"
-    label: "Boutique and retail design — Peter Marino Architect"
+    label: "Boutique and retail design. Peter Marino Architect"
     section: visual-world
 
   - url: "https://www.mikaeljansson.com/"
-    label: "Campaign photography — Mikael Jansson"
+    label: "Campaign photography. Mikael Jansson"
     section: visual-language
 
   - url: "https://www.mariotestino.com/"
-    label: "Campaign photography — Mario Testino"
+    label: "Campaign photography. Mario Testino"
     section: visual-language

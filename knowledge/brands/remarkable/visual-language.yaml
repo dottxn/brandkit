@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for reMarkable. How the brand looks structurally —
+  Visual language for reMarkable. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -34,13 +34,13 @@ visual_modes:
         Extreme minimalism with a distinctive accent palette. The visual
         language prioritises whitespace, clean typography, and product
         photography above all else. Mats Herding Solberg (CDO, founding
-        employee) oversees the visual system. The accent palette —
+        employee) oversees the visual system. The accent palette
         Philippine Yellow (#FFC90B), Bright Navy (#354594), Caribbean
-        Blue (#5097A9), Retro Turquoise (#74BDB1) — provides colour
+        Blue (#5097A9), Retro Turquoise (#74BDB1). provides colour
         variety against predominantly white and light-grey backgrounds.
         Magnus Haug Wanberg (founder, Executive Chairman since December
         2022) established the Scandinavian design ethos. The brand
-        positioning centres on paper-as-metaphor — the e-ink device
+        positioning centres on paper-as-metaphor. the e-ink device
         replaces paper, and the visual language reflects paper's calm,
         uncluttered quality. Grape Architects designed the Oslo headquarters
         to reflect this minimal aesthetic. Compared to Apple (minimal but
@@ -62,7 +62,7 @@ visual_modes:
         device's sharper edges and colour e-ink display allowed for
         richer product photography than the reMarkable 2's softer, more
         restrained aesthetic. Marketing emphasises the colour display
-        capability — warm, paper-like colour rendering rather than the
+        capability. warm, paper-like colour rendering rather than the
         pure black-and-white of earlier models. The visual evolution
         from reMarkable 2 to Paper Pro mirrors the product evolution
         from note-taking tool to professional document system.
@@ -80,8 +80,8 @@ visual_modes:
       description: >-
         More structured, more workplace-contextualised. Enterprise
         marketing places the reMarkable device in professional contexts
-        — meetings, note-taking, document review. The visual language
-        is slightly more conventional than the consumer brand — desk
+       meetings, note-taking, document review. The visual language
+        is slightly more conventional than the consumer brand. desk
         settings, professional environments, team collaboration. The
         accent palette appears more sparingly; the visual emphasis is
         on the device in professional workflows.
@@ -92,12 +92,12 @@ visual_modes:
         with enterprise procurement expectations.
 
   notes: >-
-    reMarkable's visual identity is unusually consistent — the minimal
+    reMarkable's visual identity is unusually consistent. the minimal
     aesthetic is maintained across all contexts without significant
     variation. This consistency reflects both the brand's design
     philosophy (reduction as a feature, not a compromise) and its
     narrow product focus (one device category, one purpose). The
-    Scandinavian design DNA is deeply embedded — the visual language
+    Scandinavian design DNA is deeply embedded. the visual language
     feels Norwegian in its restraint and material honesty.
 
 # ── Photography ──────────────────────────────────
@@ -111,9 +111,9 @@ photography:
   subject_and_framing: >-
     Product-hero with paper-metaphor staging. reMarkable's product
     photography shows the device as a beautiful object in calm, minimal
-    environments — desks with few other objects, natural materials (wood,
+    environments. desks with few other objects, natural materials (wood,
     paper, leather), and generous negative space. The device is always
-    shown with handwritten content on its screen — reinforcing the
+    shown with handwritten content on its screen. reinforcing the
     paper-replacement positioning. Close-up photography emphasises the
     e-ink display quality and the pen-on-screen interaction. Compared to
     Apple iPad (product-as-everything, feature-forward, multi-use) or
@@ -121,33 +121,33 @@ photography:
     the most focused on the writing-and-thinking experience.
   casting_observed: >-
     Minimal people photography. When people appear, they are professionals
-    in calm, focused work moments — writing, thinking, reviewing
+    in calm, focused work moments. writing, thinking, reviewing
     documents. The casting is understated: no celebrities, no aspirational
     lifestyles, just people using the device thoughtfully. The casting
-    demographic skews professional and adult — this is a productivity
+    demographic skews professional and adult. this is a productivity
     tool, not a consumer-entertainment device.
   lighting_and_colour: >-
     Soft, natural, Scandinavian-coded. Daylight or daylight-simulated
-    lighting dominates — the environments feel calm and airy. The colour
+    lighting dominates. the environments feel calm and airy. The colour
     palette in photography is muted and natural: wood tones, paper whites,
     soft greys. The accent palette colours (Yellow, Navy, Blue, Turquoise)
     appear sparingly in environmental elements. The overall impression
-    is of a quiet, considered space — the visual equivalent of the
+    is of a quiet, considered space. the visual equivalent of the
     distraction-free device experience.
   post_production: >-
     Minimal and clean. Skin tones are natural. Environments are lightly
     processed to enhance the calm, airy quality. No dramatic colour
-    grading or artistic treatment — the post-production reflects the
+    grading or artistic treatment. the post-production reflects the
     brand's commitment to honest, unembellished presentation.
   visual_boundaries:
     stated_exclusions: >-
       reMarkable avoids busy, cluttered, or stimulating imagery. The
-      brand positions against the distracting digital world — the
+      brand positions against the distracting digital world. the
       photography must reflect the calm, focused experience the device
       provides. No flashy, attention-grabbing visual treatments.
     observed_exceptions: >-
       Paper Pro launch photography was slightly more dynamic than the
-      reMarkable 2 era — reflecting the product's expanded capabilities
+      reMarkable 2 era. reflecting the product's expanded capabilities
       while maintaining the calm foundation.
     genuine_absence: >-
       Based on remarkable.com review: no lifestyle photography, no
@@ -171,23 +171,23 @@ graphic_language:
     aesthetic. Navigation icons follow standard conventions. Feature
     icons use thin strokes and geometric construction. The reMarkable
     logo (lowercase 'r' mark) serves as the primary icon. The visual
-    simplicity extends to iconography — nothing decorative, nothing
+    simplicity extends to iconography. nothing decorative, nothing
     excessive.
   graphic_devices: >-
-    The reMarkable wordmark — lowercase, clean sans-serif with the
+    The reMarkable wordmark. lowercase, clean sans-serif with the
     distinctive camelCase 'M' (reMarkable). The accent colour palette
     (Philippine Yellow, Bright Navy, Caribbean Blue, Retro Turquoise)
-    — these four colours provide graphic variety against the predominantly
+   these four colours provide graphic variety against the predominantly
     white and grey brand environment. Whitespace itself is the primary
-    graphic device — the generous negative space communicates the brand's
-    philosophy of focus and reduction. The e-ink display aesthetic — the
+    graphic device. the generous negative space communicates the brand's
+    philosophy of focus and reduction. The e-ink display aesthetic. the
     paper-like quality of e-ink influences how digital graphics are
     rendered in brand materials.
   motion_language: >-
     Restrained and considered. Product demonstration videos use slow,
-    deliberate movements — pen touching screen, pages turning, documents
+    deliberate movements. pen touching screen, pages turning, documents
     loading. The motion language communicates thoughtfulness rather than
-    speed or excitement. Website animations are subtle — gentle fades,
+    speed or excitement. Website animations are subtle. gentle fades,
     smooth scrolls, nothing attention-grabbing. Compared to Apple (more
     theatrical product reveals) or Samsung (more dynamic feature
     demonstrations), reMarkable's motion is the most deliberately slow
@@ -201,14 +201,14 @@ type_treatment:
     - "remarkable.com (observed February 2026)"
     - "reMarkable product and marketing materials"
   signature_move: >-
-    reMarkable uses a clean sans-serif typeface system — the specific
+    reMarkable uses a clean sans-serif typeface system. the specific
     typeface is not publicly identified as a high-profile custom
     commission (unlike Nothing's NDot or Stripe's custom type). The
-    typography is deliberately self-effacing — it communicates without
+    typography is deliberately self-effacing. it communicates without
     drawing attention to itself, consistent with the brand's philosophy
     of reducing distraction. The camelCase 'reMarkable' wordmark (with
     uppercase 'M') is the most distinctive typographic element. The
-    typography system prioritises readability and calm — appropriate
+    typography system prioritises readability and calm. appropriate
     weights, generous spacing, and clear hierarchy. Compared to Nothing
     (dot-matrix typography as ideology) or Apple (San Francisco as
     invisible perfection), reMarkable's typography is the most
@@ -223,18 +223,18 @@ type_treatment:
     'reMarkable' uses camelCase (lowercase 'r,' uppercase 'M'). Product
     names use title case ('Paper Pro,' 'Marker Plus'). Body text uses
     sentence case. Marketing headlines use sentence case. The brand
-    avoids ALL CAPS — the tone is quiet and confident, not declarative.
+    avoids ALL CAPS. the tone is quiet and confident, not declarative.
   display_vs_body: >-
     Display: The brand typeface at medium-to-bold weights for marketing
-    headlines — restrained and spacious rather than impactful. Body:
-    The brand typeface at regular weight for all content — product
+    headlines. restrained and spacious rather than impactful. Body:
+    The brand typeface at regular weight for all content. product
     descriptions, feature explanations, and interface text. The
-    typographic hierarchy is gentle — the difference between display
+    typographic hierarchy is gentle. the difference between display
     and body is size and weight, not character.
   type_and_image: >-
     Typography is subordinate to product photography and whitespace.
     The brand communicates visually through the product image and the
-    surrounding negative space — type provides necessary information
+    surrounding negative space. type provides necessary information
     without competing for attention. In product marketing, short,
     considered headlines sit alongside product photography with
     generous spacing between elements.
@@ -250,9 +250,9 @@ layout:
   signature_composition: >-
     Centred, spacious, product-focused. remarkable.com uses a clean,
     centred layout with large product images, minimal text, and generous
-    vertical spacing. Product pages follow a scroll-reveal structure —
+    vertical spacing. Product pages follow a scroll-reveal structure
     each section introduces a feature with a product image and a short
-    description. The composition is deliberately simple — no sidebar
+    description. The composition is deliberately simple. no sidebar
     navigation on marketing pages, no competing visual elements. The
     layout reflects the device experience: focused, uncluttered, and
     calm. Compared to Apple (similar structure but with more visual
@@ -263,11 +263,11 @@ layout:
     compositional element. Sections are separated by generous vertical
     spacing. Text blocks are short and well-spaced. The whitespace
     communicates the brand's core value: focus through reduction. This
-    is not empty space — it is designed calm.
+    is not empty space. it is designed calm.
   format_preferences: >-
     Landscape for hero product images. Portrait for device-in-hand
     photography. The website is designed for comfortable desktop and
-    tablet viewing — the generous whitespace requires screen real estate
+    tablet viewing. the generous whitespace requires screen real estate
     to work effectively.
 
 # ── Trend Posture ────────────────────────────────
@@ -275,7 +275,7 @@ layout:
 trend_posture:
   overall: "selective-adopter"
   relationship_to_trends: >-
-    reMarkable's visual identity is deliberately trend-resistant — the
+    reMarkable's visual identity is deliberately trend-resistant. the
     minimal aesthetic is a philosophical commitment rather than a
     contemporary design choice. The brand selectively adopts trends
     only when they align with the core philosophy of reduction.
@@ -284,12 +284,12 @@ trend_posture:
       stance: "leader"
       evidence: >-
         reMarkable practices the most radical form of minimalism in
-        consumer tech branding — fewer colours, fewer words, fewer visual
+        consumer tech branding. fewer colours, fewer words, fewer visual
         elements than virtually any competitor. While minimalism is common
         in tech (Apple, Google), reMarkable pushes it further by making
         reduction the product proposition as well as the brand aesthetic.
       reasoning: >-
-        reMarkable's minimalism is authentic rather than aesthetic — the
+        reMarkable's minimalism is authentic rather than aesthetic. the
         product literally removes features (no apps, no web browser, no
         social media) and the visual language reflects this philosophy.
         The coherence between product proposition and brand aesthetics
@@ -298,14 +298,14 @@ trend_posture:
       stance: "early-adopter"
       evidence: >-
         reMarkable is one of the few major tech brands that authentically
-        embodies Scandinavian design principles — restraint, material
+        embodies Scandinavian design principles. restraint, material
         honesty, functional beauty, and connection to nature. The Oslo
         headquarters (Grape Architects) and the founding team's Norwegian
         background make this genuinely cultural rather than borrowed.
       reasoning: >-
         Most 'Scandinavian design' in tech is aesthetic borrowing.
         reMarkable is a Norwegian company with a Norwegian design team
-        creating products in Oslo — the Scandinavian design DNA is native
+        creating products in Oslo. the Scandinavian design DNA is native
         rather than referenced.
 
 # ── Collaboration Rules ──────────────────────────
@@ -325,10 +325,10 @@ collaboration:
   notable_examples: >-
     reMarkable x Grape Architects (Oslo HQ): the architecture firm
     designed a headquarters that embodies the brand's minimal aesthetic
-    — the physical space and the brand visual language share the same
+   the physical space and the brand visual language share the same
     design philosophy of calm, focused spaces. reMarkable x Paper Pro
     launch: the evolution from monochrome (reMarkable 2) to colour
-    display (Paper Pro) required careful visual management — introducing
+    display (Paper Pro) required careful visual management. introducing
     colour without compromising the minimal identity. The launch
     photography balanced the new capability with the established
     restraint.

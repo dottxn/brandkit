@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for adidas. How the brand looks structurally —
+  Visual language for adidas. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -33,10 +33,10 @@ visual_modes:
       description: >-
         Trefoil logo (1972, three-leaf design representing the continents),
         black-and-white primary palette with archival colour accents. The
-        Samba/Gazelle revival drove 19% YoY growth in Q4 2024 — the
+        Samba/Gazelle revival drove 19% YoY growth in Q4 2024. the
         visual language leverages this heritage momentum. Chadwick Tyler
         shot the Originals heritage campaign (September 2023) featuring
-        Jenna Ortega, Zinedine Zidane, and Pusha T — a mix of cultural
+        Jenna Ortega, Zinedine Zidane, and Pusha T. a mix of cultural
         icons across music, sport, and entertainment. The visual register
         is street-level, documentary-inflected, and culturally credible.
         Compared to Nike (more cinematic, more athlete-hero) or New
@@ -55,7 +55,7 @@ visual_modes:
         - "Event-specific branding (FIFA, Olympics, marathons)"
       description: >-
         Three Slanted Bars logo (Performance division, mountain/challenge
-        symbolism). Photography is action-focused — athletes in motion,
+        symbolism). Photography is action-focused. athletes in motion,
         sweat-visible, environment-authentic. The visual register is
         technical, dynamic, and performance-credible. Jess Kohl
         photographed major performance campaigns (2024–2025). Alasdhair
@@ -79,22 +79,22 @@ visual_modes:
         - "adidas x Gucci FW22"
         - "Pharrell Williams collaborations"
       description: >-
-        Partner-led visual language — each collaborator brings their own
+        Partner-led visual language. each collaborator brings their own
         art direction. Wales Bonner collaborations (Chris Rhodes
         photographer) use a warm, Afro-Caribbean-inflected editorial
         register with soft natural lighting and cultural specificity.
         Bad Bunny collaborations use a Latin pop, high-saturation,
         maximalist register. Y-3 (since 2003, Yohji Yamamoto) uses
         a monochrome, avant-garde, fashion-forward register. The visual
-        identity shifts dramatically per partner — adidas provides the
+        identity shifts dramatically per partner. adidas provides the
         product platform and Three Stripes, the collaborator provides
         the creative vision. This is the most visually diverse mode
         in the brand system.
       differs_from_default_by: >-
         Collaborator's visual language dominates over adidas brand
         standards. The Three Stripes persist as a recognition element
-        but everything else — photography style, colour palette, casting,
-        set design — adapts to the partner's aesthetic world.
+        but everything else. photography style, colour palette, casting,
+        set design. adapts to the partner's aesthetic world.
 
     - name: "post-yeezy-pivot"
       touchpoints:
@@ -103,19 +103,19 @@ visual_modes:
         - "OG L.A. Creative Division (established 2024)"
       description: >-
         Following the termination of the Yeezy partnership (October 2022),
-        adidas pivoted to a heritage-first strategy — amplifying the
+        adidas pivoted to a heritage-first strategy. amplifying the
         Samba, Gazelle, and Superstar silhouettes. The visual language
         shifted from Yeezy's earth-toned, fashion-forward minimalism to
         a broader, more colourful, more culturally diverse register.
         The Farm (Brooklyn creative studio) and the OG L.A. Creative
         Division (established 2024) drive creative output. The brand's
         visual recovery strategy relied on existing heritage equity
-        rather than individual creative partnership — a democratic
+        rather than individual creative partnership. a democratic
         visual language vs. the singular Yeezy aesthetic.
       differs_from_default_by: >-
         Strategic context rather than distinct visual register. The
         visual language is essentially the Originals heritage mode
-        amplified — broader casting, more colour, more silhouette
+        amplified. broader casting, more colour, more silhouette
         diversity, less dependence on any single creative partnership.
 
   notes: >-
@@ -130,13 +130,13 @@ visual_modes:
 photography:
   confidence: "medium"
   primary_sources:
-    - "Chadwick Tyler — adidas Originals heritage campaign (September 2023)"
-    - "Jess Kohl — adidas Performance campaigns (2024–2025)"
-    - "Chris Rhodes — Wales Bonner x adidas campaigns"
+    - "Chadwick Tyler. adidas Originals heritage campaign (September 2023)"
+    - "Jess Kohl. adidas Performance campaigns (2024–2025)"
+    - "Chris Rhodes. Wales Bonner x adidas campaigns"
     - "adidas.com observed February 2026"
   subject_and_framing: >-
     Originals: street-level, environmental, documentary-inflected. Talent
-    photographed in urban settings — basketball courts, street corners,
+    photographed in urban settings. basketball courts, street corners,
     recording studios, cultural venues. The product is worn in context,
     never isolated on a pedestal. Chadwick Tyler's Originals campaign
     used a mix of studio portraiture and environmental shots with a
@@ -148,31 +148,31 @@ photography:
     most documentary-authentic.
   casting_observed: >-
     Originals heritage campaign (September 2023, Chadwick Tyler): Jenna
-    Ortega (actor), Zinedine Zidane (football legend), Pusha T (rapper) —
+    Ortega (actor), Zinedine Zidane (football legend), Pusha T (rapper)
     a deliberate cross-cultural mix. Wales Bonner collaborations: models
     reflecting Afro-Caribbean cultural specificity. Bad Bunny partnership:
     Latin cultural casting. Performance: professional athletes in their
     sport context. The casting strategy is culturally specific per campaign
-    rather than demographically broad — each campaign targets a cultural
+    rather than demographically broad. each campaign targets a cultural
     community rather than a mass audience.
   lighting_and_colour: >-
     Originals: natural and available light dominant, warm tones, visible
     grain and film quality. The black-and-white-with-accent approach
     uses the Three Stripes' black/white identity as a base with product
     colour as the accent. Performance: brighter, more saturated, more
-    dynamic lighting — stadium and outdoor environments. Wales Bonner:
+    dynamic lighting. stadium and outdoor environments. Wales Bonner:
     warm, golden, soft natural light (Chris Rhodes). Compared to Nike
     (more dramatic, more high-contrast) or New Balance (more cool-toned,
     more editorial), adidas is the warmest and most documentary-natural.
   post_production: >-
-    Originals: intentionally analogue — visible grain, slight desaturation,
+    Originals: intentionally analogue. visible grain, slight desaturation,
     warm colour cast. The aesthetic references 1990s–2000s street
     photography and music photography. Performance: cleaner, higher
     contrast, more digitally precise. Collaboration campaigns follow the
     collaborator's retouching sensibility.
   visual_boundaries:
     stated_exclusions: >-
-      adidas positions against luxury-exclusive visual codes — the brand
+      adidas positions against luxury-exclusive visual codes. the brand
       is culturally democratic, not aspirationally exclusive. No imagery
       that undermines the sport-authentic or street-credible positioning.
     observed_exceptions: >-
@@ -205,18 +205,18 @@ graphic_language:
     mountain/challenge symbolism). Each logo signals a different brand
     context rather than functioning as a navigational icon system.
   graphic_devices: >-
-    The Three Stripes — three parallel lines appearing on every adidas
+    The Three Stripes. three parallel lines appearing on every adidas
     shoe, apparel side seam, and marketing material. Acquired from
     Finnish brand Karhu in 1949 for two bottles of whiskey and €1,600.
-    The most legally defended graphic device in sportswear — adidas has
+    The most legally defended graphic device in sportswear. adidas has
     litigated the Three Stripes trademark extensively. The stripes
     function simultaneously as brand mark, design element, and product
-    feature. Golden Dream yellow (#EDE734) — an accent colour appearing
+    feature. Golden Dream yellow (#EDE734). an accent colour appearing
     in select campaigns and on heritage products, providing warmth against
     the black-white base palette. The Trefoil and Badge of Sport logos
     serve as division identifiers rather than decorative devices.
   motion_language: >-
-    Campaign videos follow the photography register — Originals videos
+    Campaign videos follow the photography register. Originals videos
     are street-paced, music-driven, culturally embedded. Performance
     videos use athletic slow-motion and technical product reveals.
     adidas.com uses functional, smooth transitions. No singular motion
@@ -232,14 +232,14 @@ type_treatment:
     - "adidas brand guidelines (lowercase 'adidas')"
     - "adidas.com observed February 2026"
   signature_move: >-
-    Adineue PRO — a custom typeface originally designed by Joancarles
+    Adineue PRO. a custom typeface originally designed by Joancarles
     Casasín, expanded by Jeremy Mickel (MCKL Type) in 2015. A geometric
     sans-serif with a mechanical, sportswear-precision quality. The brand
-    name 'adidas' is officially lowercase in all contexts — a deliberate
+    name 'adidas' is officially lowercase in all contexts. a deliberate
     choice that reads as democratic and accessible rather than corporate
     and authoritative. The lowercase convention is the single most
     distinctive typographic decision: where Nike uses uppercase 'NIKE' and
-    Puma uses uppercase 'PUMA', adidas insists on lowercase — anti-
+    Puma uses uppercase 'PUMA', adidas insists on lowercase. anti-
     hierarchical, street-level, and culturally confident.
   what_would_look_wrong: >-
     'ADIDAS' in uppercase (violates the brand's most fundamental
@@ -248,7 +248,7 @@ type_treatment:
     personal for the geometric brand system). Thin or ultralight weights
     in brand contexts (too delicate for the sportswear register).
   case_convention: >-
-    Lowercase 'adidas' in all contexts — brand name, headlines, body
+    Lowercase 'adidas' in all contexts. brand name, headlines, body
     copy references. Product names in their established forms (Samba,
     Gazelle, Superstar, Ultraboost). Sub-brand names follow their own
     conventions (Y-3, YEEZY was uppercase). The lowercase rule is
@@ -257,12 +257,12 @@ type_treatment:
     Adineue PRO serves both display and body roles through weight
     variation. Display: bold weights for headlines, campaign titles.
     Body: regular weights for product descriptions, web content.
-    The geometric precision remains consistent across scales — the
+    The geometric precision remains consistent across scales. the
     mechanical quality is the constant, weight provides hierarchy.
   type_and_image: >-
     Type is integrated with imagery rather than subordinate to it.
     Campaign layouts often feature bold typographic statements alongside
-    or overlapping photography — more integrated than Nike (where
+    or overlapping photography. more integrated than Nike (where
     photography dominates) but less type-forward than Oatly (where
     type IS the visual). The Three Stripes frequently appear as a
     graphic element bridging type and image.
@@ -277,7 +277,7 @@ layout:
     - "adidas retail environmental design"
   signature_composition: >-
     Grid-based with high visual impact. adidas.com uses a modular tile
-    system — large hero images alternate with product grids. Campaign
+    system. large hero images alternate with product grids. Campaign
     pages feature full-bleed photography with bold typographic overlays.
     Product pages use clean grids with consistent backgrounds (white
     for product shots, environmental for lifestyle). The layout is
@@ -286,7 +286,7 @@ layout:
     Originals section uses a more editorial, magazine-style layout
     with cultural content mixed into product presentation.
   density_and_whitespace: >-
-    High density — adidas packs more products and content per page
+    High density. adidas packs more products and content per page
     than most competitors. The visual impact comes from the size of
     hero imagery and the boldness of typography rather than from
     whitespace. Compared to Nike (more breathing room, more editorial
@@ -315,7 +315,7 @@ trend_posture:
         The Samba and Gazelle silhouettes drove 19% YoY growth in Q4 2024.
         adidas reactivated heritage designs with updated colourways and
         cultural collaborations (Wales Bonner x Samba, Bad Bunny x Gazelle)
-        — the visual language positioned 1970s–1980s silhouettes as
+       the visual language positioned 1970s–1980s silhouettes as
         contemporary fashion through casting and cultural context rather
         than product redesign.
       reasoning: >-
@@ -328,7 +328,7 @@ trend_posture:
     - trend: "Luxury-sportswear crossover"
       stance: "early-adopter"
       evidence: >-
-        Gucci x adidas FW22 — GG monogram merged with Three Stripes,
+        Gucci x adidas FW22. GG monogram merged with Three Stripes,
         Alessandro Michele creative direction. Wales Bonner x adidas
         elevated the Samba into a fashion-week staple. Y-3 (Yohji
         Yamamoto, since 2003) was one of the earliest luxury-sportswear
@@ -357,11 +357,11 @@ collaboration:
     stripes for Gucci, tonal stripes for Wales Bonner).
   notable_examples: >-
     Wales Bonner x adidas (ongoing): warm, Afro-Caribbean editorial
-    register by Chris Rhodes — elevated the Samba into fashion-week
+    register by Chris Rhodes. elevated the Samba into fashion-week
     footwear. Gucci x adidas FW22: luxury-sportswear mashup merging
-    GG monogram with Three Stripes — Glen Luchford photography. Bad
+    GG monogram with Three Stripes. Glen Luchford photography. Bad
     Bunny x adidas (5-year partnership, 2022–): Latin pop maximalism
     across Campus, Gazelle, Response CL silhouettes. Y-3 (Yohji
-    Yamamoto, since 2003): monochrome avant-garde fashion-sport —
+    Yamamoto, since 2003): monochrome avant-garde fashion-sport
     the longest-running luxury collaboration in sportswear. Pharrell
     Williams x adidas (Humanrace): colourful, inclusive, craft-focused.

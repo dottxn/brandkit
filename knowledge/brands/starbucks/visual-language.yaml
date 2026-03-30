@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Starbucks. How the brand looks structurally —
+  Visual language for Starbucks. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -32,7 +32,7 @@ visual_modes:
         - "Starbucks cups, sleeves, and packaging"
       description: >-
         Siren Green (#00704A / Pantone 3425C) dominant. The Siren mark
-        (freed from its circular frame in 2011 — the circle and
+        (freed from its circular frame in 2011. the circle and
         'Starbucks Coffee' text were removed, leaving the Siren standalone)
         anchors the system. Sodo Sans (Riley Cran, 92 fonts across 4
         families, designed 2017-2019) for all UI, headlines, and body text.
@@ -52,7 +52,7 @@ visual_modes:
         - "In-store seasonal decorations"
       description: >-
         Red, green, gold, and festive. The holiday cup design is an annual
-        cultural event — the reveal generates press coverage and social
+        cultural event. the reveal generates press coverage and social
         media discussion. The 'Drawn Together' Holiday 2025 campaign
         (illustrated by Geoff McFetridge, CD Kristy Cameron) introduced
         a hand-drawn illustration style that softened the corporate
@@ -95,7 +95,7 @@ visual_modes:
       description: >-
         More retail-native, more grocery-shelf-optimised. The RTD line
         (bottled Frappuccinos, canned cold brews, energy drinks) uses a
-        visual language adapted for grocery environments — bolder colour,
+        visual language adapted for grocery environments. bolder colour,
         more prominent product photography, flavour cues. Landor & Fitch
         redesigned the RTD packaging (2022). The Siren appears but the
         visual system competes with grocery-shelf conventions. Compared
@@ -107,7 +107,7 @@ visual_modes:
         and flavour-cue signalling.
 
   notes: >-
-    Starbucks operates at enormous scale — 38,000+ stores globally. The
+    Starbucks operates at enormous scale. 38,000+ stores globally. The
     visual language must work across company-owned stores, licensed stores,
     grocery RTD, and digital channels. Brian Niccol's 'Back to Starbucks'
     strategy is actively reshaping the visual experience, and the full
@@ -119,14 +119,14 @@ photography:
   confidence: "medium"
   primary_sources:
     - "starbucks.com menu and marketing photography (observed February 2026)"
-    - "Anomaly — current US creative AOR (since November 2024)"
+    - "Anomaly. current US creative AOR (since November 2024)"
     - "'Drawn Together' Holiday 2025 campaign"
     - "Starbucks app product photography"
   subject_and_framing: >-
     Drink photography: top-down or 3/4 angle, the drink composed to show
     layers, toppings, and colour. Drinks are shot on warm-toned surfaces
     (wood, marble, warm grey) or in hand with warm lighting. The cup (with
-    Siren logo visible) IS the product shot — unlike competitors who
+    Siren logo visible) IS the product shot. unlike competitors who
     show the liquid, Starbucks often shows the branded cup. Store and
     lifestyle photography: warm, inviting, real Starbucks locations with
     customers reading, working, or socialising. Compared to Dunkin'
@@ -134,38 +134,38 @@ photography:
     serious, more craft-focused), Starbucks photography is warmer and
     more atmospheric.
   casting_observed: >-
-    Diverse, multi-generational, everyday customers. Not aspirational —
+    Diverse, multi-generational, everyday customers. Not aspirational
     the casting reflects the 'everyone' positioning. Baristas appear
-    in 'Back to Starbucks' content — their hands writing names, making
+    in 'Back to Starbucks' content. their hands writing names, making
     drinks, handing over cups. The Geoff McFetridge holiday illustrations
-    replaced photographic casting with illustrated figures — a shift
+    replaced photographic casting with illustrated figures. a shift
     toward warmth without the complexity of diverse casting in every
     market.
   lighting_and_colour: >-
     Warm, amber-toned, café-atmospheric. The lighting mimics the in-store
-    experience — warm overhead, natural daylight through windows, the
+    experience. warm overhead, natural daylight through windows, the
     amber tones of wood and espresso. The colour world is anchored by
     Siren Green, but the photography is dominated by coffee browns,
-    creams, and warm neutrals. Seasonal photography shifts temperature —
+    creams, and warm neutrals. Seasonal photography shifts temperature
     warmer and darker for autumn/winter, lighter for spring/summer.
     Compared to Dunkin' (cooler, more orange-and-pink) or Costa (warmer
     but more British), Starbucks lighting is the most consistently
     café-atmospheric.
   post_production: >-
     Moderate warmth in colour grading. Drink photography is styled but
-    not over-processed — the foam, the drizzle, the layering is real but
+    not over-processed. the foam, the drizzle, the layering is real but
     arranged. Lifestyle photography is lightly graded to maintain the
-    warm colour temperature. The overall approach is 'elevated real' —
+    warm colour temperature. The overall approach is 'elevated real'
     it looks better than your actual Starbucks but recognisably like one.
   visual_boundaries:
     stated_exclusions: >-
       Starbucks positions against fast-food visual codes (no bright red,
       no drive-through-dominant imagery, no price-point-focused marketing).
-      The brand does not show rapid-service or efficiency-focused imagery —
+      The brand does not show rapid-service or efficiency-focused imagery
       even the mobile ordering is presented as convenient, not fast.
     observed_exceptions: >-
       RTD grocery packaging uses more aggressive colour and product
-      photography — closer to energy-drink or soda visual conventions
+      photography. closer to energy-drink or soda visual conventions
       than the café experience. The Starbucks Rewards programme uses more
       promotional, commerce-focused visual language than the brand
       marketing.
@@ -182,48 +182,48 @@ graphic_language:
   primary_sources:
     - "The Siren mark (freed from circle frame, 2011)"
     - "Sodo Sans (Riley Cran, 92 fonts across 4 families, 2017-2019)"
-    - "Geoff McFetridge — 'Drawn Together' Holiday 2025 illustrations"
-    - "Pentagram — brand system work"
-    - "Landor & Fitch — RTD packaging redesign (2022)"
+    - "Geoff McFetridge. 'Drawn Together' Holiday 2025 illustrations"
+    - "Pentagram. brand system work"
+    - "Landor & Fitch. RTD packaging redesign (2022)"
   uses_illustration: true
   illustration_style: >-
     Illustration has become more prominent under Anomaly's creative
     direction. Geoff McFetridge's 'Drawn Together' Holiday 2025 campaign
-    introduced a warm, hand-drawn line-illustration style — simplified
+    introduced a warm, hand-drawn line-illustration style. simplified
     human figures in warm colours, evocative of community and togetherness.
     This is a deliberate shift from the previous photographic holiday
-    approach. Seasonal cup designs use varied illustration styles —
+    approach. Seasonal cup designs use varied illustration styles
     different artists and approaches each season. The illustration is
-    warm, human, and craft-oriented — consistent with the 'Back to
+    warm, human, and craft-oriented. consistent with the 'Back to
     Starbucks' strategy.
   illustration_role: >-
-    Cup design is the primary illustration context — every seasonal cup
+    Cup design is the primary illustration context. every seasonal cup
     is a design project. Holiday cups in particular are cultural events.
     McFetridge's 2025 illustrations extended to in-store decoration, OOH
-    advertising, and digital marketing — illustration carried the entire
+    advertising, and digital marketing. illustration carried the entire
     holiday campaign. Beyond seasonal moments, illustration appears in
     merchandise, store murals (local artist programmes), and gift card
     designs.
   icon_style: >-
-    The Starbucks app uses a warm, rounded icon set — consistent with
+    The Starbucks app uses a warm, rounded icon set. consistent with
     Sodo Sans's friendly geometry. Reward stars, drink customisation
     icons, and menu category icons are all rounded and warm. The icon
     style reinforces the friendly, accessible positioning.
   graphic_devices: >-
-    The Siren — freed from its circular frame in 2011, the Siren is used
+    The Siren. freed from its circular frame in 2011, the Siren is used
     at all scales, from cup embossment to building signage. The Siren is
     green on white or white on green. The circle reappears selectively
     in the app icon and certain contexts. Siren Green (#00704A) as a
-    colour device — the green is distinctive enough to identify Starbucks
-    without the mark. The cup itself is a graphic device — the white cup
+    colour device. the green is distinctive enough to identify Starbucks
+    without the mark. The cup itself is a graphic device. the white cup
     with green Siren is one of the most recognised brand objects in the
     world. Starbucks Reserve uses a star-within-star mark to differentiate
     the premium sub-brand.
   motion_language: >-
     Observed in the app and digital marketing: warm, smooth, unhurried.
-    Product reveals use gentle animations — drink ingredients assembling,
+    Product reveals use gentle animations. drink ingredients assembling,
     cream pouring, seasonal decorations appearing. The motion language is
-    slower and warmer than competitors — consistent with the 'third place'
+    slower and warmer than competitors. consistent with the 'third place'
     positioning. No rapid cuts, no aggressive transitions. The app
     uses spring-based micro-animations for ordering interactions.
 
@@ -233,15 +233,15 @@ type_treatment:
   confidence: "high"
   primary_sources:
     - "Sodo Sans (Riley Cran, 92 fonts across 4 families, designed 2017-2019)"
-    - "Lander — serif accent typeface"
-    - "Pike — condensed typeface"
+    - "Lander. serif accent typeface"
+    - "Pike. condensed typeface"
     - "starbucks.com and Starbucks app observed February 2026"
-    - "Pentagram — brand identity system"
+    - "Pentagram. brand identity system"
   signature_move: >-
-    Sodo Sans (Riley Cran, 2017-2019) — a massive custom type system of
+    Sodo Sans (Riley Cran, 2017-2019). a massive custom type system of
     92 fonts across 4 families, designed specifically for Starbucks's
     scale and range of applications. The type is rounded, friendly, and
-    warm — terminals are softened, counters are open, and the overall
+    warm. terminals are softened, counters are open, and the overall
     impression is approachable without being childish. Named after the
     SoDo (South of Downtown) neighbourhood in Seattle where Starbucks HQ
     is located. The breadth of the system (92 fonts) means it handles
@@ -249,7 +249,7 @@ type_treatment:
     outside the brand's type family.
   what_would_look_wrong: >-
     Angular or geometric type (contradicts the rounded, warm system).
-    Condensed or compressed type for headlines (Starbucks type breathes —
+    Condensed or compressed type for headlines (Starbucks type breathes
     Pike exists for compact contexts but is used sparingly). A neutral
     sans-serif like Helvetica or Roboto (would lose the custom warmth
     that distinguishes Starbucks from generic café branding). Serif type
@@ -259,24 +259,24 @@ type_treatment:
     Sentence case for most applications. Drink names in title case
     ('Pumpkin Spice Latte', 'Iced Caramel Macchiato'). 'Starbucks'
     always capitalised. The brand uses sentence case even for in-store
-    signage — friendly and conversational rather than authoritative.
+    signage. friendly and conversational rather than authoritative.
   display_vs_body: >-
-    Display: Sodo Sans Bold or Medium at generous sizes — warm, rounded,
-    inviting. Body: Sodo Sans Regular — readable and friendly at all
-    sizes. Accent: Lander (serif) for editorial contexts — adds warmth
+    Display: Sodo Sans Bold or Medium at generous sizes. warm, rounded,
+    inviting. Body: Sodo Sans Regular. readable and friendly at all
+    sizes. Accent: Lander (serif) for editorial contexts. adds warmth
     and literary quality where needed. Compact: Pike (condensed) for
     menus, nutritional info, and other dense-information contexts. The
     four-family system (Sodo Sans in multiple widths, Lander serif, Pike
     condensed, plus a handwritten option) covers every brand context
     without stepping outside the custom type programme.
   type_and_image: >-
-    Type and drink photography share the frame — product names and
-    descriptions sit alongside or below the drink image. Neither dominates —
+    Type and drink photography share the frame. product names and
+    descriptions sit alongside or below the drink image. Neither dominates
     the relationship is balanced and warm. In seasonal campaigns (holiday
-    cups, new drink launches), type can be more expressive — larger,
+    cups, new drink launches), type can be more expressive. larger,
     more colourful, integrated with the illustration. The 'Back to
     Starbucks' handwritten element (Sharpie names on cups) introduces
-    actual handwriting into the type-and-image relationship — a deliberate
+    actual handwriting into the type-and-image relationship. a deliberate
     de-systematisation.
 
 # ── Layout & Composition ─────────────────────────
@@ -289,26 +289,26 @@ layout:
     - "In-store menu board layouts"
   signature_composition: >-
     Warm, editorial, drink-forward. starbucks.com uses a magazine-like
-    layout — hero drink images, editorial content sections, and seasonal
-    features. The app is commerce-focused — menu grid, customisation
-    options, rewards integration — but warmer and more image-rich than
+    layout. hero drink images, editorial content sections, and seasonal
+    features. The app is commerce-focused. menu grid, customisation
+    options, rewards integration. but warmer and more image-rich than
     most QSR apps. In-store menu boards use a structured grid with drink
-    images, names, and sizes — functional but warm. Compared to Dunkin'
+    images, names, and sizes. functional but warm. Compared to Dunkin'
     (more commerce-dense, more promotional) or Costa (simpler, more
     coffee-purist), Starbucks layouts are more editorial and more
     image-rich.
   density_and_whitespace: >-
     Moderate density. The app is moderately dense (menu items, customisation
     options, rewards) but uses warm colours and generous image sizes to
-    avoid feeling cluttered. The website is less dense — more editorial,
+    avoid feeling cluttered. The website is less dense. more editorial,
     more spacious. In-store menu boards are dense by necessity but
     organised into clear sections. Starbucks uses more imagery in its
-    layouts than most competitors — the visual warmth comes from seeing
+    layouts than most competitors. the visual warmth comes from seeing
     the drinks, not from whitespace.
   format_preferences: >-
     Vertical for mobile (the primary ordering channel). Square for drink
     photography and social. Wide for in-store signage. The drink image
-    aspect ratio varies — tall for cup shots, square for top-down
+    aspect ratio varies. tall for cup shots, square for top-down
     presentations. The cup's vertical format influences many compositional
     decisions.
 
@@ -325,7 +325,7 @@ trend_posture:
     - trend: "Return to craft and handmade brand elements"
       stance: "early-adopter"
       evidence: >-
-        Brian Niccol's 'Back to Starbucks' (since September 2024) — ceramic
+        Brian Niccol's 'Back to Starbucks' (since September 2024). ceramic
         mugs replacing paper cups for dine-in, 200,000 Sharpies distributed
         for handwritten names on cups, Geoff McFetridge's hand-drawn
         holiday illustrations replacing photographic campaigns. The visual
@@ -344,7 +344,7 @@ trend_posture:
         corporate type commissions and reflects Starbucks's need to
         operate across diverse contexts while maintaining consistency.
       reasoning: >-
-        The investment in a 92-font system reflects the brand's scale —
+        The investment in a 92-font system reflects the brand's scale
         38,000+ stores in 80+ markets, plus app, web, packaging, and
         advertising. Few brands operate at this range and need type
         systems this comprehensive.
@@ -361,16 +361,16 @@ collaboration:
   what_bends: >-
     Seasonal colour palette shifts significantly (holiday reds, spring
     pastels, autumn oranges). Cup design is the primary collaboration
-    canvas — artist collaborations, seasonal themes, and regional
+    canvas. artist collaborations, seasonal themes, and regional
     variations all express through cup illustration. The illustration
     style varies by season and collaborator. Store design can adapt
     for premium (Reserve Roastery) or local (community store programmes)
     contexts.
   notable_examples: >-
     Starbucks Reserve Roastery (multiple global locations): a premium
-    sub-brand with darker, more industrial-craft visual language — exposed
+    sub-brand with darker, more industrial-craft visual language. exposed
     roasting equipment, darker colour palette, the Reserve star mark.
-    Annual holiday cup design: each year's design is a cultural event —
+    Annual holiday cup design: each year's design is a cultural event
     different artists and approaches create anticipation. Geoff McFetridge
     'Drawn Together' (2025): illustration-led holiday campaign that
     brought an artist's distinctive visual voice into the brand system.

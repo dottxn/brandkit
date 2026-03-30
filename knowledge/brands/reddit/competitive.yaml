@@ -20,7 +20,7 @@ actually_competes_with:
   - discord
   - youtube
   - slack
-industry_norms_it_breaks: "Dynamic conversation bubbles that adapt to subreddit shapes and comment threads—form follows function literally | The architectural decision to center identity around conversation structure (bubbles) rather than around content or users—this makes Reddit's identity infinitely scalable across subreddits | Does this enable genuine conversation or does it optimize for engagement metrics? Reddit chooses conversation"
+industry_norms_it_breaks: "Dynamic conversation bubbles that adapt to subreddit shapes and comment threads. form follows function literally | The architectural decision to center identity around conversation structure (bubbles) rather than around content or users. this makes Reddit's identity infinitely scalable across subreddits | Does this enable genuine conversation or does it optimize for engagement metrics? Reddit chooses conversation"
 visual_cluster: "warm-humanist"
 visual_fingerprint:
   - cluster: "warm-humanist"

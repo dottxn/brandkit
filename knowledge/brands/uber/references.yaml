@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Uber — Creative References
+# Uber. Creative References
 # ──────────────────────────────────────────────
 
 channels:
@@ -15,28 +15,28 @@ studios:
     type: branding
     url: "https://www.wolff-olins.com/"
     project_url: "https://wolffolins.com/work/uber"
-    relationship: "2018 rebrand — visual system reset, U-Frame composition system, brand guidelines governance"
+    relationship: "2018 rebrand. visual system reset, U-Frame composition system, brand guidelines governance"
 
   - name: "MCKL Type"
     type: type-foundry
     url: "https://www.mckltype.com/"
-    relationship: "Designed Uber Move custom typeface (2018) — geometric sans-serif with Display and Text optical sizes"
+    relationship: "Designed Uber Move custom typeface (2018). geometric sans-serif with Display and Text optical sizes"
 
   - name: "jkr"
     type: branding
     url: "https://jkr.co.uk/"
-    relationship: "Expanded brand identity from ride-hailing to 'go anywhere, get anything' — Uber Eats and delivery products"
+    relationship: "Expanded brand identity from ride-hailing to 'go anywhere, get anything'. Uber Eats and delivery products"
 
 people:
   - name: "Jeremy Mickel"
     role: "Founder, MCKL Type / Typeface Designer"
     url: "https://www.mckltype.com/"
-    context: "Designed Uber Move — geometric sans-serif inspired by early twentieth century and global transportation fonts"
+    context: "Designed Uber Move. geometric sans-serif inspired by early twentieth century and global transportation fonts"
 
   - name: "Forest Young"
     role: "Executive Creative Director, Wolff Olins"
     url: "https://www.linkedin.com/in/forestyoung/"
-    context: "Led 2018 rebrand creative direction — deliberate reset after 2016 brand controversy"
+    context: "Led 2018 rebrand creative direction. deliberate reset after 2016 brand controversy"
 
   - name: "Katie Dill"
     role: "Head of Design"
@@ -55,17 +55,17 @@ publications:
 
 visuals:
   - url: "https://www.uber.com"
-    label: "Uber homepage — monochrome palette, U-Frame composition system, authority-coded visual language"
+    label: "Uber homepage. monochrome palette, U-Frame composition system, authority-coded visual language"
     section: visual-language
 
   - url: "https://base.uber.com"
-    label: "Base design system — comprehensive component library, motion principles, accessibility standards"
+    label: "Base design system. comprehensive component library, motion principles, accessibility standards"
     section: visual-world
 
   - url: "https://www.ubereats.com"
-    label: "Uber Eats — green palette, food photography, warmer visual register than ride-hailing"
+    label: "Uber Eats. green palette, food photography, warmer visual register than ride-hailing"
     section: visual-language
 
   - url: "https://www.mckltype.com/custom/uber"
-    label: "Uber Move typeface — design specifications, optical size system"
+    label: "Uber Move typeface. design specifications, optical size system"
     section: visual-language

@@ -21,7 +21,7 @@ actually_competes_with:
   - roco
   - "seed-health"
   - "oscar-health"
-industry_norms_it_breaks: "Clean, transparent interface design that makes medical information legible and treatment options visible—no hidden fees, no jargon fog. Information architecture is the actual product; when you can see | The commitment to transparent pricing as default brand behavior rather than competitive novelty. Most telehealth competitors hide costs until checkout; HarleyMeds stating prices upfront contradicts he | Would a busy professional (35-50, moderate income) trust this with sensitive health concerns? Does it feel supportive without being patronizing? Is the interface designed for someone in a hurry who wa"
+industry_norms_it_breaks: "Clean, transparent interface design that makes medical information legible and treatment options visible. no hidden fees, no jargon fog. Information architecture is the actual product; when you can see | The commitment to transparent pricing as default brand behavior rather than competitive novelty. Most telehealth competitors hide costs until checkout; HarleyMeds stating prices upfront contradicts he | Would a busy professional (35-50, moderate income) trust this with sensitive health concerns? Does it feel supportive without being patronizing? Is the interface designed for someone in a hurry who wa"
 visual_cluster: "soft-minimal"
 visual_fingerprint:
   - cluster: "soft-minimal"

@@ -19,7 +19,7 @@ summary: "Anti-patterns for Microsoft. What this brand would never do."
 # ── Data
 visual:
   - pattern: Gradient overlays on product photos
-    reasoning: "Productivity software doesn't need visual softness—it needs clarity"
+    reasoning: "Productivity software doesn't need visual softness. it needs clarity"
   - pattern: "Playful, rounded corners in UI elements"
     reasoning: Rigorous typeface pairing with geometric precision wins enterprise trust
   - pattern: Abstract human imagery unrelated to actual work

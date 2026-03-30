@@ -19,9 +19,9 @@ summary: Visual reasoning for Arc. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  System defaults and Segoe UI Variable work because they're readable without personality—Arc doesn't need a branded font because the brand is the experience, not the typography. Humanist characteristics arrive through interface design, not letterforms
+  System defaults and Segoe UI Variable work because they're readable without personality. Arc doesn't need a branded font because the brand is the experience, not the typography. Humanist characteristics arrive through interface design, not letterforms
 colour_logic: >-
-  The gradient system (#D2F3E5 to #51D19B, with accents in #EF8C62) works because it's analogous—colors exist in family rather than contrast. No color shouts; all colors harmonize. This creates the psychological effect of coherence and calm without monotony. Warm accent (#EF8C62) appears only in moments requiring attention (actions, alerts)
+  The gradient system (#D2F3E5 to #51D19B, with accents in #EF8C62) works because it's analogous. colors exist in family rather than contrast. No color shouts; all colors harmonize. This creates the psychological effect of coherence and calm without monotony. Warm accent (#EF8C62) appears only in moments requiring attention (actions, alerts)
 composition_philosophy: >-
   The sidebar as organizing principle creates a manifest of personal identity. Whitespace is abundant, not as luxury but as mental breathing room. Asymmetry mirrors natural organization rather than designed control
 what_would_break_it: >-

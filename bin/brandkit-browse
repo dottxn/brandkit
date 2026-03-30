@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-brandkit-browse — Lightweight headless browser for brand research.
+brandkit-browse: Lightweight headless browser for brand research.
 
 Screenshots, text extraction, and responsive testing for brand strategy work.
 Used by /brand-discover, /brand-proposition, and /brand-concepts when visual
@@ -23,7 +23,7 @@ Requires: pip3 install playwright && python3 -m playwright install chromium
 Inspired by gstack's browse tool (https://github.com/anthropics/gstack).
 gstack provides a full browser automation framework with persistent daemon,
 60+ commands, and ref-based element interaction. brandkit-browse takes the
-core insight — that AI agents need programmatic browser access — and reduces
+core insight, that AI agents need programmatic browser access, and reduces
 it to the essentials for brand research: see, read, compare.
 """
 
@@ -46,13 +46,13 @@ def check_playwright():
         print("  pip3 install playwright && python3 -m playwright install chromium", file=sys.stderr)
         print("", file=sys.stderr)
         print("brandkit skills will work without it (using WebFetch for text),", file=sys.stderr)
-        print("but brandkit-browse enables visual research — screenshots,", file=sys.stderr)
+        print("but brandkit-browse enables visual research: screenshots,", file=sys.stderr)
         print("responsive testing, and observation of live brand websites.", file=sys.stderr)
         sys.exit(1)
 
 
 def launch_browser(playwright):
-    """Launch browser — prefer system Chrome, fall back to Playwright Chromium."""
+    """Launch browser. Prefer system Chrome, fall back to Playwright Chromium."""
     # Try system Chrome first (zero download)
     try:
         browser = playwright.chromium.launch(headless=True, channel="chrome")
@@ -70,7 +70,7 @@ def launch_browser(playwright):
         print("Install Chromium with:", file=sys.stderr)
         print("  python3 -m playwright install chromium", file=sys.stderr)
         print("", file=sys.stderr)
-        print("Or install Google Chrome — brandkit-browse will use it automatically.", file=sys.stderr)
+        print("Or install Google Chrome. brandkit-browse will use it automatically.", file=sys.stderr)
         sys.exit(1)
 
 
@@ -98,7 +98,7 @@ def navigate(page, url, wait_seconds):
     try:
         page.goto(url, wait_until="networkidle", timeout=30000)
     except Exception:
-        # networkidle can timeout on heavy sites — fall back to load
+        # networkidle can timeout on heavy sites, fall back to load
         try:
             page.goto(url, wait_until="load", timeout=30000)
         except Exception as e:

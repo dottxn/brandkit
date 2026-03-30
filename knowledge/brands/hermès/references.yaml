@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Hermès — Creative References
+# Hermès. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -22,7 +22,7 @@ people:
   - name: "Rudolf Wolf"
     role: "Type Designer"
     url: "https://en.wikipedia.org/wiki/Rudolf_Wolf_(type_designer)"
-    context: "Designed Memphis Bold typeface (1929) — Hermès signature typeface"
+    context: "Designed Memphis Bold typeface (1929). Hermès signature typeface"
 
   - name: "Craig McDean"
     role: "Photographer"
@@ -45,21 +45,21 @@ publications:
 
 visuals:
   - url: "https://www.hermes.com/"
-    label: "Hermès Brand Website — Live Implementation with Hand-Drawn Illustrations"
+    label: "Hermès Brand Website. Live Implementation with Hand-Drawn Illustrations"
     section: visual-language
 
   - url: "https://interiordesign.net/designwire/hermes-madison-avenue-rdai-denis-montel-new-york/"
-    label: "Hermès Madison Avenue Flagship Store by Denis Montel — Interior Design"
+    label: "Hermès Madison Avenue Flagship Store by Denis Montel. Interior Design"
     section: visual-world
 
   - url: "https://www.designboom.com/architecture/denis-montel-hermes-bond-street-london-flagship-store-08-26-2015/"
-    label: "Hermès Bond Street London Flagship — Design Boom"
+    label: "Hermès Bond Street London Flagship. Design Boom"
     section: visual-world
 
   - url: "https://www.dezeen.com/2010/12/20/hermes-rive-gauche-by-rdai/"
-    label: "Hermès Rive Gauche Flagship by RDAI — Dezeen"
+    label: "Hermès Rive Gauche Flagship by RDAI. Dezeen"
     section: visual-world
 
   - url: "https://www.rdai.fr/en/"
-    label: "RDAI Architecture Portfolio — Studio Website"
+    label: "RDAI Architecture Portfolio. Studio Website"
     section: visual-world

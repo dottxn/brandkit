@@ -1,47 +1,47 @@
 # ──────────────────────────────────────────────
-# Aesop — Creative References
+# Aesop. Creative References
 # ──────────────────────────────────────────────
 
 studios:
   - name: "Snøhetta"
     type: architecture
     url: "https://www.snohetta.com/"
-    relationship: "Designed 8+ Aesop stores globally — Oslo, London Duke of York Square, Singapore ION, Sydney Pitt Street"
+    relationship: "Designed 8+ Aesop stores globally. Oslo, London Duke of York Square, Singapore ION, Sydney Pitt Street"
 
   - name: "Schemata Architects"
     type: architecture
     url: "https://schemata.jp/"
-    relationship: "Jo Nagasaka's studio — designed Tokyo stores with Japanese architectural sensibility"
+    relationship: "Jo Nagasaka's studio. designed Tokyo stores with Japanese architectural sensibility"
 
   - name: "CASE-REAL"
     type: architecture
     url: "https://www.casereal.com/"
-    relationship: "Koichi Futatsumata's studio — store design in Fukuoka and beyond"
+    relationship: "Koichi Futatsumata's studio. store design in Fukuoka and beyond"
 
   - name: "Barozzi Veiga"
     type: architecture
     url: "https://barozziveiga.com/"
-    relationship: "Designed Aesop Barcelona store (Passeig de Gràcia) — stucco walls, terrazzo, burnished steel"
+    relationship: "Designed Aesop Barcelona store (Passeig de Gràcia). stucco walls, terrazzo, burnished steel"
 
   - name: "StudioIlse"
     type: interior-design
     url: "https://www.studioilse.com/"
-    relationship: "Ilse Crawford — humanist interior design for select Aesop retail spaces"
+    relationship: "Ilse Crawford. humanist interior design for select Aesop retail spaces"
 
   - name: "Torafu Architects"
     type: architecture
     url: "http://torafu.com/"
-    relationship: "Japanese architecture practice — Aesop store collaborations in Japan"
+    relationship: "Japanese architecture practice. Aesop store collaborations in Japan"
 
   - name: "Work & Co"
     type: digital-design
     url: "https://work.co/"
-    relationship: "Redesigned aesop.com — the site reads more like a book than a commerce platform"
+    relationship: "Redesigned aesop.com. the site reads more like a book than a commerce platform"
 
   - name: "Commission Studio"
     type: creative-direction
     url: "https://www.commission.studio/"
-    relationship: "Creative direction on Always On campaign and Gloam fragrance campaign — art direction across stills and motion"
+    relationship: "Creative direction on Always On campaign and Gloam fragrance campaign. art direction across stills and motion"
 
   - name: "Swiss Typefaces"
     type: type-foundry
@@ -53,11 +53,11 @@ people:
   - name: "Ai Kato"
     role: "Global Creative Director, Aesop"
     url: "https://www.linkedin.com/in/ai-kato-67350a7/"
-    context: "Oversees 70-person in-house creative team — maintains tight control over all visual output"
+    context: "Oversees 70-person in-house creative team. maintains tight control over all visual output"
 
   - name: "Marianne Lardilleux"
     role: "Global Head of Retail Design, Aesop"
-    context: "Oversees the programme where each store responds to its neighbourhood — ex Louis Vuitton, ex Celine"
+    context: "Oversees the programme where each store responds to its neighbourhood. ex Louis Vuitton, ex Celine"
 
   - name: "Jean-Philippe Bonnefoi"
     role: "Head of Retail Design Europe, Aesop"
@@ -67,43 +67,43 @@ people:
   - name: "Romain Laprade"
     role: photographer
     url: "https://romainlaprade.com/"
-    context: "Travel campaigns, SPF campaign, Parsley Seeds campaign, RIMOWA x Aesop collaboration — architectural and still-life specialist"
+    context: "Travel campaigns, SPF campaign, Parsley Seeds campaign, RIMOWA x Aesop collaboration. architectural and still-life specialist"
 
   - name: "Lasse Kusk"
     role: photographer
     url: "https://www.shotbykusk.com/"
-    context: "Campaign photography and official product photography — Danish, Tokyo-based since 2015"
+    context: "Campaign photography and official product photography. Danish, Tokyo-based since 2015"
 
   - name: "Luke Evans"
     role: photographer
     url: "https://www.luk-e.com/"
-    context: "Always On campaign photography — also shoots for Fenty, Jo Malone, Tiffany"
+    context: "Always On campaign photography. also shoots for Fenty, Jo Malone, Tiffany"
 
   - name: "Henrik Bülow"
     role: photographer
     url: "https://www.commission.studio/projects/aesop-gloam-campaign"
-    context: "Gloam fragrance campaign stills — self-reflection and the body in repose"
+    context: "Gloam fragrance campaign stills. self-reflection and the body in repose"
 
   - name: "Edvinas Bruzas"
     role: photographer
     url: "https://edvinasbruzas.com/"
-    context: "Always On campaign — Lithuanian-born, London-based; also shoots for Kinfolk, Monocle, Dyson"
+    context: "Always On campaign. Lithuanian-born, London-based; also shoots for Kinfolk, Monocle, Dyson"
 
   - name: "Ollie Tomlinson"
     role: photographer
     url: "https://www.ollietomlinson.com/"
-    context: "Store interior photography — Aesop Leeds, Islington, published in Dezeen"
+    context: "Store interior photography. Aesop Leeds, Islington, published in Dezeen"
 
   - name: "Simone Marcolin"
     role: photographer
     url: "https://simonemarcolin.com/"
-    context: "Photographed Aesop Barcelona store (Barozzi Veiga) — architectural and object specialist"
+    context: "Photographed Aesop Barcelona store (Barozzi Veiga). architectural and object specialist"
 
   # ── Film & motion ──
   - name: "Jan Vrhovnik"
     role: cinematographer
     url: "https://www.janvrhovnik.com/"
-    context: "Fragrance film campaigns — 2023 Cannes Young Directors Award; also shoots for Balenciaga, Hermès, JW Anderson"
+    context: "Fragrance film campaigns. 2023 Cannes Young Directors Award; also shoots for Balenciaga, Hermès, JW Anderson"
 
   - name: "Frederik Säll"
     role: motion-designer
@@ -113,7 +113,7 @@ people:
   - name: "Kei Yoshino"
     role: set-designer
     url: "https://www.kyoshino.com/"
-    context: "Set design for Always On campaign — hand-crafted props, graphic play with objects and textures"
+    context: "Set design for Always On campaign. hand-crafted props, graphic play with objects and textures"
 
   # ── Architects ──
   - name: "Peter Zumthor"
@@ -124,31 +124,31 @@ people:
   - name: "Paulo Mendes da Rocha"
     role: architect
     url: "https://www.pritzkerprize.com/laureates/2006"
-    context: "Designed Aesop's São Paulo store — Brutalist material honesty"
+    context: "Designed Aesop's São Paulo store. Brutalist material honesty"
 
   # ── Type designers ──
   - name: "Hermann Zapf"
     role: type-designer
     url: "https://fonts.adobe.com/designers/hermann-zapf"
-    context: "Designed Optima (1958) — Aesop's logotype typeface, inspired by Florentine gravestone inscriptions"
+    context: "Designed Optima (1958). Aesop's logotype typeface, inspired by Florentine gravestone inscriptions"
 
   - name: "Ian Party"
     role: type-designer
     url: "https://newglyph.com/"
-    context: "Founded Swiss Typefaces, designed Suisse International — Aesop's primary body typeface"
+    context: "Founded Swiss Typefaces, designed Suisse International. Aesop's primary body typeface"
 
 publications:
   - title: "Atmospheres"
     author: "Peter Zumthor"
-    relevance: "One of three books given to every architect before they begin an Aesop store — spatial philosophy of sensation and material"
+    relevance: "One of three books given to every architect before they begin an Aesop store. spatial philosophy of sensation and material"
 
   - title: "The Poetics of Space"
     author: "Gaston Bachelard"
-    relevance: "Second of the three architect books — philosophical framework for how people inhabit and experience space"
+    relevance: "Second of the three architect books. philosophical framework for how people inhabit and experience space"
 
   - title: "In Praise of Shadows"
     author: "Jun'ichirō Tanizaki"
-    relevance: "Third architect book — the aesthetic of restraint, shadow, and patina that runs through Aesop's visual language"
+    relevance: "Third architect book. the aesthetic of restraint, shadow, and patina that runs through Aesop's visual language"
 
 # ── Visual proof points ──
 # URLs that show the brand's visual language in action.
@@ -156,41 +156,41 @@ publications:
 
 visuals:
   - url: "https://work.co/clients/aesop/"
-    label: "aesop.com redesign — Work & Co case study"
+    label: "aesop.com redesign. Work & Co case study"
     section: visual-language
 
   - url: "https://www.commission.studio/projects/aesop-always-on"
-    label: "Always On campaign — Commission Studio"
+    label: "Always On campaign. Commission Studio"
     section: visual-language
 
   - url: "https://www.commission.studio/projects/aesop-gloam-campaign"
-    label: "Gloam fragrance campaign — Commission Studio"
+    label: "Gloam fragrance campaign. Commission Studio"
     section: visual-language
 
   - url: "https://romainlaprade.com/AESOP-TRAVEL-CAMPAIGNS"
-    label: "Travel campaign photography — Romain Laprade"
+    label: "Travel campaign photography. Romain Laprade"
     section: visual-language
 
   - url: "https://edvinasbruzas.com/featured-projects/aesop-always-on"
-    label: "Always On product photography — Edvinas Bruzas"
+    label: "Always On product photography. Edvinas Bruzas"
     section: visual-language
 
   - url: "https://www.snohetta.com/projects/aesop-pitt-street-sydney"
-    label: "Pitt Street store — Snøhetta"
+    label: "Pitt Street store. Snøhetta"
     section: visual-world
 
   - url: "https://barozziveiga.com/projects/aesop-store"
-    label: "Barcelona store — Barozzi Veiga"
+    label: "Barcelona store. Barozzi Veiga"
     section: visual-world
 
   - url: "https://www.dezeen.com/tag/aesop/"
-    label: "Store design coverage — Dezeen"
+    label: "Store design coverage. Dezeen"
     section: visual-world
 
   - url: "https://www.aesop.com/us/r/the-fabulist/"
-    label: "The Fabulist — Aesop editorial journal"
+    label: "The Fabulist. Aesop editorial journal"
     section: visual-language
 
   - url: "https://www.kyoshino.com/Aesop-1"
-    label: "Set design — Kei Yoshino"
+    label: "Set design. Kei Yoshino"
     section: visual-language

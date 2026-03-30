@@ -42,7 +42,7 @@ example_phrases:
   - "Duo is quite literally sick of reminding everyone to do their lessons!"
   - Everyone can Duolingo
   - Learning just got louder
-  - Language never stands still — and neither do we
+  - Language never stands still. and neither do we
 guardrails:
   never_say: []
   always_sound: "friendly nagging, encouraging persistence, gamified motivation, meme-savvy humor, viral moments"

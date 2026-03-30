@@ -16,7 +16,7 @@ last_updated: "2026-02-25"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for MasterClass. How the brand looks structurally —
+  Visual language for MasterClass. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -33,11 +33,11 @@ visual_modes:
       description: >-
         Dark, cinematic, instructor-as-protagonist. Black or near-black
         backgrounds with dramatic directional lighting on the instructor.
-        Each instructor receives the visual treatment of a film poster —
+        Each instructor receives the visual treatment of a film poster
         close-up portrait, dramatic lighting, the underscore device below
         their name. Söhne (Klim) for typography, Ivar (Letters From Sweden)
         for editorial body. The visual register says 'this person is the
-        best in the world at what they do.' The darkness is the signature —
+        best in the world at what they do.' The darkness is the signature
         MasterClass looks like cinema, not e-learning.
       differs_from_default_by: >-
         This is the baseline. Every other mode departs from this dark,
@@ -51,10 +51,10 @@ visual_modes:
         - "App class tiles"
       description: >-
         The nameplate system assigns each instructor an individual colour
-        and typographic treatment — the class card becomes a branded tile
+        and typographic treatment. the class card becomes a branded tile
         within the larger grid. Gordon Ramsay, Serena Williams, Martin
         Scorsese each have a distinctive colour palette on their tile. The
-        grid of instructor nameplates IS the product — browsing MasterClass
+        grid of instructor nameplates IS the product. browsing MasterClass
         is browsing a gallery of human expertise. The system was designed
         by Gretel (October 2020, designer Luke Barnell, strategist Kasia
         Galla Barrett).
@@ -71,17 +71,17 @@ visual_modes:
         - "Social video content"
         - "Filmstrip interactive preview on class pages"
       description: >-
-        High-production-value video — the instructors teach in carefully
+        High-production-value video. the instructors teach in carefully
         designed environments (Ramsay in a kitchen, Scorsese in a screening
         room, a writer at their desk). The cinematography is feature-film
         quality: controlled lighting, considered composition, professional
         colour grading. The filmstrip interactive preview on class pages
-        lets users scrub through key moments — the medium is treated with
+        lets users scrub through key moments. the medium is treated with
         the care of a documentary, not a lecture recording.
       differs_from_default_by: >-
         Moving image rather than still. The dark cinematic register extends
         into actual cinema. The production quality of the video content IS
-        the product differentiator — it is what separates MasterClass from
+        the product differentiator. it is what separates MasterClass from
         Skillshare, Udemy, or Coursera visually.
 
     - name: "enterprise-teams"
@@ -106,7 +106,7 @@ visual_modes:
     MasterClass's visual language is heavily dependent on the quality and
     fame of its instructors. As the platform expands beyond A-list
     celebrities into more everyday experts, the visual system may need
-    to evolve — the current cinematic treatment works because the
+    to evolve. the current cinematic treatment works because the
     instructors are already famous enough to warrant film-poster treatment.
 
 # ── Photography ──────────────────────────────────
@@ -118,47 +118,47 @@ photography:
     - "Gretel rebrand (October 2020, Luke Barnell designer, Kasia Galla Barrett strategy)"
     - "Class trailers and promotional content"
   subject_and_framing: >-
-    The instructor is always the subject. Portrait photography dominates —
+    The instructor is always the subject. Portrait photography dominates
     close to medium shots, the face lit dramatically against dark
     backgrounds. The framing is cinematic: shallow depth of field, the
     instructor sharp against soft darkness. Each instructor is shot in
-    their domain — Gordon Ramsay with kitchen elements, a writer at a
-    desk, an athlete in their environment — but the environment is
+    their domain. Gordon Ramsay with kitchen elements, a writer at a
+    desk, an athlete in their environment. but the environment is
     suggested rather than detailed. The background recedes; the person
     is the content. Compared to Coursera (headshot on white, LinkedIn-
     style), Skillshare (colourful, illustrated, casual), or LinkedIn
     Learning (corporate, well-lit), MasterClass's photography operates
     at a fundamentally different production level.
   casting_observed: >-
-    The instructors ARE the casting — the platform's visual identity is
+    The instructors ARE the casting. the platform's visual identity is
     built on the fame and recognisability of its teachers. Recent
     instructor additions span disciplines but share a quality: they are
     recognised as the best in their field. The photography must work for
     both A-list celebrities (whose image is heavily managed) and
     less-famous experts (who need the production quality to elevate them).
-    No stock photography, no generic model casting — every face in
+    No stock photography, no generic model casting. every face in
     MasterClass marketing is an actual instructor.
   lighting_and_colour: >-
     Dramatic, directional, cinematic. Hard key light from 45 degrees,
     deep shadows, the face sculpted by light. The colour temperature is
-    warm on skin, cool in the background — this creates the sense of
+    warm on skin, cool in the background. this creates the sense of
     the instructor emerging from darkness. The lighting references cinema
-    (not studio portraiture, not fashion photography) — it is the lighting
+    (not studio portraiture, not fashion photography). it is the lighting
     of a prestige documentary or film interview. Background colours shift
     per instructor (as part of the nameplate system) but are always dark.
     The consistency of the lighting treatment across hundreds of instructors
     is the visual system.
   post_production: >-
-    Colour grading is controlled and consistent — warm on skin, desaturated
+    Colour grading is controlled and consistent. warm on skin, desaturated
     in the background. The dark tones are rich, not flat. Skin retouching
-    is moderate — these are famous faces and the photography needs to look
+    is moderate. these are famous faces and the photography needs to look
     like them, but at the quality level of a Vanity Fair portrait. The
-    overall grade has a slight filmic quality — not digital-clean, not
+    overall grade has a slight filmic quality. not digital-clean, not
     Instagram-filtered, but the warm, deep tones of well-shot cinema.
   visual_boundaries:
     stated_exclusions: >-
       MasterClass positions against the visual codes of traditional
-      e-learning — bright backgrounds, casual selfie-quality video,
+      e-learning. bright backgrounds, casual selfie-quality video,
       slideshows, screen recordings, talking-head-on-white. The brand
       also avoids academic or institutional visual codes.
     observed_exceptions: >-
@@ -190,24 +190,24 @@ graphic_language:
     to the instructor portrait system. Not a distinctive element of the
     identity.
   graphic_devices: >-
-    The underscore device — a horizontal line below the instructor's name
+    The underscore device. a horizontal line below the instructor's name
     that serves as both typographic punctuation and brand signature. Gretel
     designed this as the brand's most recognisable graphic element after
-    the instructor portraits. The filmstrip — the interactive preview on
+    the instructor portraits. The filmstrip. the interactive preview on
     class pages that lets users scrub through key moments, treating the
-    class like a film to preview. The instructor nameplate system — each
+    class like a film to preview. The instructor nameplate system. each
     instructor's name, underscore, and colour assignment creates an
     individual brand tile that is both part of the system and individually
-    distinctive. The dark background itself is a graphic device — the
+    distinctive. The dark background itself is a graphic device. the
     darkness is as much a brand element as any logo.
   motion_language: >-
     Observed in class trailers and marketing: cinematic pacing, long holds
     on the instructor speaking, slow reveals of the teaching environment.
-    The editing is documentary-grade — cuts are motivated, not decorative.
+    The editing is documentary-grade. cuts are motivated, not decorative.
     Music is orchestral or atmospheric, not upbeat. The trailers are
-    designed to feel like film trailers — there is a build, a hook, and a
+    designed to feel like film trailers. there is a build, a hook, and a
     reveal. The motion language is the single most important element of
-    the visual system because MasterClass is a video product — the way
+    the visual system because MasterClass is a video product. the way
     the video looks IS the brand.
 
 # ── Typography in Practice ───────────────────────
@@ -215,18 +215,18 @@ graphic_language:
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "Söhne (Kris Sowersby / Klim Type Foundry) — display and UI"
-    - "Ivar (Letters From Sweden) — editorial body text"
+    - "Söhne (Kris Sowersby / Klim Type Foundry). display and UI"
+    - "Ivar (Letters From Sweden). editorial body text"
     - "Gretel rebrand (October 2020)"
     - "masterclass.com observed February 2026"
   signature_move: >-
     Söhne (Kris Sowersby / Klim Type Foundry) in white on dark backgrounds.
     The combination of Söhne's clean geometry with the cinematic portrait
     photography creates the brand's typographic signature. The underscore
-    device below instructor names is a typographic invention by Gretel —
+    device below instructor names is a typographic invention by Gretel
     it functions as both a design element and a structural separator.
     Importantly, MasterClass does NOT use Tiempos Headline (as sometimes
-    reported) — the verified type system is Söhne for display/UI and Ivar
+    reported). the verified type system is Söhne for display/UI and Ivar
     (Letters From Sweden) for editorial body text.
   what_would_look_wrong: >-
     Bright or colourful type on light backgrounds (contradicts the dark
@@ -238,25 +238,25 @@ type_treatment:
   case_convention: >-
     Instructor names in uppercase on nameplates. Class titles in title
     case. Body text and UI in sentence case. The uppercase nameplate
-    convention gives instructor names the weight of a film credit —
+    convention gives instructor names the weight of a film credit
     reinforcing the cinematic positioning.
   display_vs_body: >-
-    Display: Söhne — clean, geometric, confident on dark backgrounds.
+    Display: Söhne. clean, geometric, confident on dark backgrounds.
     The display type is always white or light-coloured against darkness.
-    Body: Ivar (Letters From Sweden) — a serif with editorial warmth
+    Body: Ivar (Letters From Sweden). a serif with editorial warmth
     that provides contrast to Söhne's geometry. The Söhne/Ivar pairing
     creates a hierarchy where Söhne announces (instructor names, class
     titles, navigation) and Ivar informs (class descriptions, editorial
     content, longer text). The serif-for-body choice is unusual in
     tech/platform brands and signals editorial quality.
   type_and_image: >-
-    Type sits on the photograph — literally overlaid on the dark
+    Type sits on the photograph. literally overlaid on the dark
     background surrounding the instructor portrait. The instructor's
     name in Söhne + underscore is placed in the lower portion of the
     composition, film-credit style. The type and the portrait work
-    together as a single composition — the instructor nameplate is
+    together as a single composition. the instructor nameplate is
     not separate from the photography, it is part of it. This integration
-    is more complete than most platforms — MasterClass's type doesn't
+    is more complete than most platforms. MasterClass's type doesn't
     label the image, it inhabits it.
 
 # ── Layout & Composition ─────────────────────────
@@ -269,47 +269,47 @@ layout:
     - "Gretel rebrand system"
   signature_composition: >-
     Dark grid of instructor nameplates. The browse experience is a gallery
-    of dramatic portraits — each tile is a self-contained composition of
+    of dramatic portraits. each tile is a self-contained composition of
     portrait, name, underscore, and colour accent. The grid is the product
-    — browsing is the core interaction. Individual class pages shift to
-    immersive, full-bleed compositions — the instructor at scale, the
+   browsing is the core interaction. Individual class pages shift to
+    immersive, full-bleed compositions. the instructor at scale, the
     teaching environment filling the frame. Compared to Netflix (bright
     thumbnails, genre-organised), Coursera (white, academic, text-heavy),
     or Skillshare (colourful, illustrated, casual), MasterClass's layout
     is uniquely cinematic and portrait-driven.
   density_and_whitespace: >-
-    The browse grid is moderately dense — instructor tiles packed to show
+    The browse grid is moderately dense. instructor tiles packed to show
     the breadth of the catalogue. Individual class pages are immersive and
-    spacious — the instructor portrait and class trailer dominate, with
+    spacious. the instructor portrait and class trailer dominate, with
     details (class plan, instructor bio, reviews) below in a more
     conventional layout. The dark backgrounds create a sense of space
-    even when the grid is dense — darkness expands visually.
+    even when the grid is dense. darkness expands visually.
   format_preferences: >-
     Portrait for instructor photography (the human face and shoulders
     drive the format). Landscape for class environment shots and trailers.
     Square for the browse grid tiles. The instructor portrait format is
-    structurally important — it is close to a film poster aspect ratio.
+    structurally important. it is close to a film poster aspect ratio.
 
 # ── Trend Posture ────────────────────────────────
 
 trend_posture:
   overall: "leader"
   relationship_to_trends: >-
-    MasterClass defined a visual category — the premium online learning
+    MasterClass defined a visual category. the premium online learning
     platform. The dark, cinematic, celebrity-instructor aesthetic is now
     copied by competitors. The brand leads through production quality
-    rather than design trends — it set the standard and maintains it.
+    rather than design trends. it set the standard and maintains it.
   examples:
     - trend: "Premium dark-mode interface design"
       stance: "leader"
       evidence: >-
         MasterClass was dark-mode before dark-mode was a platform feature.
-        The dark background is not an accessibility option — it is the
+        The dark background is not an accessibility option. it is the
         brand. The cinematic darkness predates the broader dark-mode trend
         in UI design and is more intentional than most dark-mode
         implementations (which are functional; MasterClass's is aesthetic).
       reasoning: >-
-        The dark background serves a specific brand purpose — it creates
+        The dark background serves a specific brand purpose. it creates
         the cinematic quality that differentiates MasterClass from every
         other learning platform. The darkness is content strategy, not
         interface preference.
@@ -317,8 +317,8 @@ trend_posture:
       stance: "leader"
       evidence: >-
         MasterClass pioneered the format of A-list celebrities teaching
-        their craft in high-production-value video. The visual treatment —
-        cinematic portraiture, film-quality production, dramatic lighting —
+        their craft in high-production-value video. The visual treatment
+        cinematic portraiture, film-quality production, dramatic lighting
         established the visual standard for this content category. BBC
         Maestro and similar competitors directly reference MasterClass's
         visual approach.
@@ -344,11 +344,11 @@ collaboration:
     register for corporate contexts.
   notable_examples: >-
     MasterClass has not engaged in traditional brand collaborations. The
-    instructor partnerships ARE the collaboration model — each instructor
+    instructor partnerships ARE the collaboration model. each instructor
     is effectively a brand collaboration, bringing their fame, visual
     identity, and audience into the MasterClass system. The visual
     negotiation is: MasterClass controls the photography, lighting, and
     typography; the instructor controls the content and brings their
     fame. The MasterClass at Work enterprise product represents the
-    closest thing to a brand partnership — corporate clients' logos
+    closest thing to a brand partnership. corporate clients' logos
     appear alongside the MasterClass system in co-branded contexts.

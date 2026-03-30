@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Udemy — Creative References
+# Udemy. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -7,13 +7,13 @@ studios:
     type: branding
     url: "https://www.vsapartners.com/"
     project_url: "https://www.vsapartners.com/work"
-    relationship: "2021 rebrand — minimalist visual identity, geometric sans-serif, purple palette, U-with-hat mark"
+    relationship: "2021 rebrand. minimalist visual identity, geometric sans-serif, purple palette, U-with-hat mark"
 
 people:
   - name: "VSA Partners Team"
     role: "Creative Direction, Chicago"
     url: "https://www.vsapartners.com/"
-    context: "Designed 2021 rebrand — simplified identity for global scalability, minimalist contemporary direction"
+    context: "Designed 2021 rebrand. simplified identity for global scalability, minimalist contemporary direction"
 
 publications:
   - title: "New Logo and Identity for Udemy by VSA Partners"
@@ -26,17 +26,17 @@ publications:
 
 visuals:
   - url: "https://www.udemy.com"
-    label: "Udemy homepage — purple signature colour, geometric typography, course catalogue layout"
+    label: "Udemy homepage. purple signature colour, geometric typography, course catalogue layout"
     section: visual-language
 
   - url: "https://www.underconsideration.com/brandnew/archives/new_logo_for_udemy.php"
-    label: "Brand New case study — 2021 rebrand analysis and design system overview"
+    label: "Brand New case study. 2021 rebrand analysis and design system overview"
     section: visual-language
 
   - url: "https://www.vsapartners.com/"
-    label: "VSA Partners portfolio — design system work and branding expertise"
+    label: "VSA Partners portfolio. design system work and branding expertise"
     section: visual-world
 
   - url: "https://teach.udemy.com/a-new-look/"
-    label: "Udemy instructor announcement — rebrand messaging and visual updates"
+    label: "Udemy instructor announcement. rebrand messaging and visual updates"
     section: visual-world

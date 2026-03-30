@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Erdem — Creative References
+# Erdem. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -46,13 +46,13 @@ publications:
 
 visuals:
   - url: "https://erdem.com/"
-    label: "Official website and campaign gallery — Editorial campaign photography"
+    label: "Official website and campaign gallery. Editorial campaign photography"
     section: "visual-language"
 
   - url: "https://www.vogue.com/"
-    label: "Vogue editorial features — Fashion editorial collections coverage"
+    label: "Vogue editorial features. Fashion editorial collections coverage"
     section: "visual-language"
 
   - url: "https://www.harpersbazaar.com/"
-    label: "Harper's Bazaar editorial features — Campaign and collection editorial"
+    label: "Harper's Bazaar editorial features. Campaign and collection editorial"
     section: "visual-language"

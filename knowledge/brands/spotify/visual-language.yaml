@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Spotify. How the brand looks structurally —
+  Visual language for Spotify. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -36,7 +36,7 @@ visual_modes:
         Brunner / Lineto, adopted 2015 via Collins rebrand) for all UI
         text. The Encore design system (2019) unified 22 separate internal
         design systems into one coherent framework. The interface is
-        designed to recede — the album art IS the visual content, and the
+        designed to recede. the album art IS the visual content, and the
         UI provides a dark frame around it. Compared to Apple Music
         (lighter, more editorial, Apple-branded) or YouTube Music (Google
         Material, more colourful), Spotify's interface is the most content-
@@ -65,7 +65,7 @@ visual_modes:
       differs_from_default_by: >-
         The dark, recessive product interface explodes into colour, motion,
         and typographic experimentation. Wrapped is the annual permission
-        to break every rule — vivid gradients, experimental typography,
+        to break every rule. vivid gradients, experimental typography,
         data as visual spectacle.
 
     - name: "editorial-playlist"
@@ -77,15 +77,15 @@ visual_modes:
       description: >-
         Duotone photography and bold colour gradients. The Collins 2015
         rebrand (Leland Maschmeyer, CD; Brett Renfer, 'The Colorizer'
-        tool) introduced the signature duotone treatment — artist
+        tool) introduced the signature duotone treatment. artist
         photography washed in saturated colour pairs. Each playlist has
         a distinctive colour world. The editorial register is music-
-        press-influenced — dramatic artist photography, bold type, genre-
+        press-influenced. dramatic artist photography, bold type, genre-
         specific visual codes. The duotone system allows any photograph
         to feel 'Spotify' regardless of the original photography style.
       differs_from_default_by: >-
         Colour-saturated where the product interface is dark and neutral.
-        The editorial mode is Spotify's public face — what appears on
+        The editorial mode is Spotify's public face. what appears on
         billboards, social media, and press. The duotone treatment and
         bold gradients distinguish Spotify from Apple Music (cleaner,
         less treated) and YouTube Music (more photographic, less graphic).
@@ -99,19 +99,19 @@ visual_modes:
       description: >-
         Data-driven, culturally referential, often humorous. Spotify's
         advertising uses listener data to create culturally specific
-        messages — 'Dear person who played "Sorry" 42 times on Valentine's
+        messages. 'Dear person who played "Sorry" 42 times on Valentine's
         Day...' The visual format is simple: bold type on coloured
         background, artist image, and a data-driven copy line. This mode
         combines the duotone visual language with data storytelling. The
         register is smart, personal, and meme-adjacent.
       differs_from_default_by: >-
         Text-led where other modes are image-led. The data becomes the
-        visual content. Simpler compositions — one line of type, one
+        visual content. Simpler compositions. one line of type, one
         colour field, one cultural reference. The humour in this mode
         is absent from the product and editorial registers.
 
   notes: >-
-    Spotify's visual language is unusually dynamic — it changes more
+    Spotify's visual language is unusually dynamic. it changes more
     frequently than most tech brands. The Wrapped annual reinvention,
     the duotone system's colour flexibility, and the data-driven
     advertising all create a visual identity that is recognisable
@@ -125,30 +125,30 @@ photography:
   confidence: "medium"
   primary_sources:
     - "Spotify editorial playlist covers and artist profiles (observed February 2026)"
-    - "Collins 2015 rebrand — duotone system (Brett Renfer, 'The Colorizer' tool)"
+    - "Collins 2015 rebrand. duotone system (Brett Renfer, 'The Colorizer' tool)"
     - "Spotify OOH campaigns"
   subject_and_framing: >-
-    Artist photography dominates — portraits and performance shots that
+    Artist photography dominates. portraits and performance shots that
     are then processed through the duotone colour system. The original
     photography ranges from professional press shots to candid performance
     photography. Podcast covers use host portraits or conceptual imagery.
-    The framing follows music-press conventions — tight portraits, 3/4
+    The framing follows music-press conventions. tight portraits, 3/4
     angles, performance action shots. But the duotone treatment means
     the original photography is always filtered through Spotify's
-    colour system — every image becomes a Spotify image.
+    colour system. every image becomes a Spotify image.
   casting_observed: >-
-    Artists ARE the casting — Spotify doesn't commission photography of
+    Artists ARE the casting. Spotify doesn't commission photography of
     non-musicians for its core marketing. The artist diversity is the
-    platform's diversity — every genre, every demographic, every level
+    platform's diversity. every genre, every demographic, every level
     of fame. Featured playlists spotlight specific artists. The casting
     is driven by listening data and editorial curation, not by traditional
     campaign casting decisions.
   lighting_and_colour: >-
     The duotone system (introduced by Collins, Brett Renfer's 'Colorizer'
     tool) overrides original lighting. The system maps any photograph's
-    tonal range to two brand colours — the result is always vivid,
+    tonal range to two brand colours. the result is always vivid,
     always saturated, always distinctly Spotify. The colour pairs are
-    numerous and genre-coded — warmer pairs for R&B/soul, cooler pairs
+    numerous and genre-coded. warmer pairs for R&B/soul, cooler pairs
     for electronic, vivid contrast pairs for pop. Non-duotone photography
     is increasingly present but the colour treatment remains Spotify's
     signature. Compared to Apple Music (natural colour, minimal treatment)
@@ -157,7 +157,7 @@ photography:
   post_production: >-
     The duotone treatment IS the post-production. Beyond that, standard
     music-press retouching levels. The treatment is systematic enough
-    that it can be applied algorithmically (The Colorizer tool) — this
+    that it can be applied algorithmically (The Colorizer tool). this
     scalability is what makes it work across millions of playlist covers
     and artist images.
   visual_boundaries:
@@ -167,7 +167,7 @@ photography:
       aesthetic of Apple Music. The brand does not use stock photography
       or generic imagery in its marketing.
     observed_exceptions: >-
-      Podcast content introduces non-music photography — talk-show formats,
+      Podcast content introduces non-music photography. talk-show formats,
       news imagery, documentary photography. The visual consistency that
       duotone provides for music content doesn't extend as cleanly to the
       podcasting vertical.
@@ -190,9 +190,9 @@ graphic_language:
   illustration_style: >-
     Illustration appears primarily in Wrapped campaigns and special
     editorial content. Each Wrapped year introduces a new illustration
-    direction — 2023 used flowing, organic shapes; 2024 used hyperloop-
+    direction. 2023 used flowing, organic shapes; 2024 used hyperloop-
     inspired graphic forms; 2025 used analog-grunge textures. The
-    illustration is always abstract and graphic rather than figurative —
+    illustration is always abstract and graphic rather than figurative
     shapes, gradients, and typographic compositions rather than character
     or scene illustration. Between Wrapped periods, illustration is
     minimal in the core product.
@@ -205,27 +205,27 @@ graphic_language:
     states and onboarding.
   icon_style: >-
     The Spotify icon (three curved sound waves in a circle) is the
-    brand's primary mark. The app interface uses a functional icon set —
-    play/pause, skip, shuffle, repeat, heart/save — that has become
+    brand's primary mark. The app interface uses a functional icon set
+    play/pause, skip, shuffle, repeat, heart/save. that has become
     industry-standard for music players. The icon style is minimal,
-    filled, and monochrome (white on dark). Not distinctive — the
+    filled, and monochrome (white on dark). Not distinctive. the
     interaction patterns are more recognisable than the icons themselves.
   graphic_devices: >-
-    The duotone colour system — the most significant graphic device,
-    capable of making any image 'Spotify.' The gradient — smooth colour
+    The duotone colour system. the most significant graphic device,
+    capable of making any image 'Spotify.' The gradient. smooth colour
     transitions between two or more brand colours, used as backgrounds,
     overlays, and UI accents. The sound-wave logo mark at various scales.
     The equaliser bar animation (responding to playing music). The Wrapped
-    social sharing card format — a specific layout (stat, colour, type)
+    social sharing card format. a specific layout (stat, colour, type)
     designed for Instagram Story and social sharing. The green (#1DB954)
     play button as the brand's most frequently seen micro-interaction.
   motion_language: >-
     Observed in Wrapped campaigns, app UI, and advertising: energetic,
     music-driven, rhythm-synced. The Wrapped experience uses scroll-driven
     animation with transitions timed to music. The product interface uses
-    subtle motion — the now-playing bar pulses, artwork transitions
+    subtle motion. the now-playing bar pulses, artwork transitions
     smoothly, list items animate in with spring easing. Campaign films
-    are cut to music — the visual rhythm follows the audio. Compared
+    are cut to music. the visual rhythm follows the audio. Compared
     to Apple Music (smoother, slower, more controlled) or YouTube Music
     (choppier, more video-native), Spotify's motion language is the most
     rhythmically driven.
@@ -236,16 +236,16 @@ type_treatment:
   confidence: "high"
   primary_sources:
     - "Spotify Circular (Laurenz Brunner / Lineto, adopted 2015 via Collins rebrand)"
-    - "Spotify Mix (Dinamo Typefaces, launched May 22, 2024 — variable font)"
+    - "Spotify Mix (Dinamo Typefaces, launched May 22, 2024. variable font)"
     - "Collins 2015 rebrand"
     - "Spotify app and marketing observed February 2026"
   signature_move: >-
-    Spotify Circular (Laurenz Brunner / Lineto) — a geometric, circular
+    Spotify Circular (Laurenz Brunner / Lineto). a geometric, circular
     sans-serif that matches the rounded forms of the brand mark and the
     green play button. The type is clean, geometric, and friendly without
     being decorative. The 2024 introduction of Spotify Mix (Dinamo
     Typefaces, launched May 22, 2024) added a variable font that shifts
-    weight and width dynamically — used in Wrapped 2024 and increasingly
+    weight and width dynamically. used in Wrapped 2024 and increasingly
     in editorial and campaign contexts. The variable capability of Mix
     allows type to respond to data (listening stats, mood, energy level),
     making typography itself a data visualisation.
@@ -260,21 +260,21 @@ type_treatment:
     Sentence case for most applications. Playlist names in title case.
     'Spotify' always capitalised. Wrapped uses more varied case conventions
     depending on the year's visual direction. The brand avoids uppercase
-    — the tone is conversational and approachable.
+   the tone is conversational and approachable.
   display_vs_body: >-
-    Display: Spotify Circular Bold or Spotify Mix (variable) — used in
+    Display: Spotify Circular Bold or Spotify Mix (variable). used in
     Wrapped, campaigns, and editorial headers. The Mix variable font allows
     display type to shift weight dynamically. Body: Spotify Circular
-    Regular — readable, geometric, functional for playlist names, artist
+    Regular. readable, geometric, functional for playlist names, artist
     names, and UI labels. The transition from Circular to Mix for display
     contexts (starting 2024) signals a move toward more expressive
     display typography while maintaining Circular for functional UI text.
   type_and_image: >-
-    Type overlays image — in the duotone editorial system, artist names
+    Type overlays image. in the duotone editorial system, artist names
     and playlist titles sit directly on the colour-treated photograph.
     The type and the duotone colour share the same visual layer, creating
     an integrated composition. In Wrapped, type IS the primary visual
-    element — data statistics rendered as enormous display type. In the
+    element. data statistics rendered as enormous display type. In the
     product UI, type labels the content (song titles, artist names) and
     is functionally subordinate to album art.
 
@@ -288,28 +288,28 @@ layout:
     - "Spotify OOH campaigns"
     - "Encore design system (2019)"
   signature_composition: >-
-    The card — Spotify's interface is built on rectangular cards (album
+    The card. Spotify's interface is built on rectangular cards (album
     art, playlist covers, podcast shows) arranged in horizontal scroll
     rows and vertical feeds. The card is the fundamental compositional
     unit. In marketing, the OOH format uses a simple two-part composition:
     coloured background + type on one side, duotone artist image on the
     other. Wrapped social sharing cards use a specific layout: stat at
-    top, visual in the middle, Spotify branding at the bottom — designed
+    top, visual in the middle, Spotify branding at the bottom. designed
     for portrait/story sharing. Compared to Apple Music (more editorial,
     full-bleed hero images) or YouTube Music (video-forward, 16:9
     dominant), Spotify's layout is more card-based and more data-driven.
   density_and_whitespace: >-
-    The product interface is dense — horizontal scroll rows pack maximum
+    The product interface is dense. horizontal scroll rows pack maximum
     content discovery into the viewport. Compared to Apple Music (more
     spacious, more editorial) or Tidal (more minimal), Spotify prioritises
-    content density for discovery. Marketing and OOH are sparser —
+    content density for discovery. Marketing and OOH are sparser
     simple message, bold colour, clean composition. Wrapped sits in
-    between — dense with data but generously spaced per card.
+    between. dense with data but generously spaced per card.
   format_preferences: >-
     Square for album art and playlist covers (the foundational format).
     Portrait for Wrapped social cards and story-format content. Landscape
     for OOH. The square album-art format drives the entire interface
-    layout — everything is built around the square cover image.
+    layout. everything is built around the square cover image.
 
 # ── Trend Posture ────────────────────────────────
 
@@ -319,7 +319,7 @@ trend_posture:
     Spotify's in-house creative team sets visual trends through Wrapped
     and the duotone system. The brand has won In-House Agency of the Year
     four times (2018-2021). The annual Wrapped reinvention is itself a
-    trend-setting moment — design publications analyse each year's visual
+    trend-setting moment. design publications analyse each year's visual
     direction as an industry event.
   examples:
     - trend: "Duotone photography treatment"
@@ -341,8 +341,8 @@ trend_posture:
       evidence: >-
         Spotify Wrapped (running annually since 2016, with major visual
         evolution each year) proved that personalised data could be the
-        content of a global marketing campaign. The format — your listening
-        stats, beautifully visualised, designed for social sharing — has
+        content of a global marketing campaign. The format. your listening
+        stats, beautifully visualised, designed for social sharing. has
         been copied by fitness apps, banking apps, and other data-rich
         platforms. Wrapped 2023 won Gold Lion at Cannes.
       reasoning: >-
@@ -367,12 +367,12 @@ collaboration:
     follows the artist or partner's visual world.
   notable_examples: >-
     Spotify x artists (ongoing): each major artist partnership creates a
-    bespoke visual campaign — custom colour palettes, custom duotone
+    bespoke visual campaign. custom colour palettes, custom duotone
     treatments, sometimes custom playlist experiences. The artist's visual
     identity enters the Spotify system while the green, the Circular type,
     and the card format remain. Spotify x Samsung (various hardware
     partnerships): Spotify's interface adapts to Samsung's hardware
     ecosystem while maintaining its dark UI and brand elements. Each
     Wrapped year effectively collaborates with the current design zeitgeist
-    — the in-house team absorbs and reinterprets contemporary visual
+   the in-house team absorbs and reinterprets contemporary visual
     culture through the Spotify lens.

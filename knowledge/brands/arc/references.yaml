@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Arc — Creative References
+# Arc. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -37,13 +37,13 @@ publications:
 
 visuals:
   - url: "https://arc.net/"
-    label: "Official browser website and design system — arc.net"
+    label: "Official browser website and design system. arc.net"
     section: visual-world
 
   - url: "https://www.youtube.com/c/thebrowsercompany"
-    label: "Product update videos and design documentation — YouTube"
+    label: "Product update videos and design documentation. YouTube"
     section: visual-language
 
   - url: "https://nateparrott.com/"
-    label: "Design philosophy — Nate Parrott"
+    label: "Design philosophy. Nate Parrott"
     section: visual-language

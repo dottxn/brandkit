@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for L'Oréal Paris. How the brand looks structurally —
+  Visual language for L'Oréal Paris. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -27,7 +27,7 @@ visual_modes:
     - name: "brand-worth-it"
       touchpoints:
         - "lorealparisusa.com and global L'Oréal Paris websites"
-        - "Global brand campaigns — print, digital, broadcast"
+        - "Global brand campaigns. print, digital, broadcast"
         - "Product packaging and counter displays"
         - "Social media channels"
       description: >-
@@ -37,14 +37,14 @@ visual_modes:
         (custom serif, 2 weights, Robert Granjon-influenced) form the
         type system. Core palette: Black (#000000), Earls Green (#BBCA31),
         Mine Shaft (#313131). 'Because We're All Worth It' (changed from
-        'Because You're Worth It' in January 2023 — the shift from 'You'
+        'Because You're Worth It' in January 2023. the shift from 'You'
         to 'We' reflecting inclusivity) anchors the positioning. Delphine
         Viguier-Hovasse (Global Brand President through June 2025, succeeded
         by Laetitia Toupet-Delon July 2025) oversaw the brand's visual
         evolution. McCann Worldgroup is the lead agency. Compared to Estée
         Lauder (more luxury-coded, more restrained) or Maybelline (more
         youth-oriented, more playful), L'Oréal Paris positions as
-        democratic luxury — accessible glamour with a Parisian authority.
+        democratic luxury. accessible glamour with a Parisian authority.
       differs_from_default_by: >-
         This is the baseline. All other modes reference this ambassador-
         driven, glamour-forward, Parisian-authority register.
@@ -57,7 +57,7 @@ visual_modes:
         - "Product-specific social media content"
       description: >-
         Product as protagonist. L'Oréal Paris has developed distinctive
-        product design language — the 'Carron' signature bottle shape for
+        product design language. the 'Carron' signature bottle shape for
         certain lines creates recognisable silhouettes on shelf. Product
         photography uses dramatic lighting, often against dark backgrounds,
         to create a luxury register. Packaging design varies by line
@@ -78,12 +78,12 @@ visual_modes:
       description: >-
         Ambassador-led glamour photography. The ambassador roster includes
         Kendall Jenner, Cara Delevingne, Helen Mirren, Eva Longoria, and
-        Viola Davis — representing multi-generational, multi-ethnic
+        Viola Davis. representing multi-generational, multi-ethnic
         glamour. Cannes Film Festival partnership (official beauty partner
-        since 1998) provides the ultimate glamour stage — red carpet
+        since 1998) provides the ultimate glamour stage. red carpet
         photography, backstage beauty content, and celebrity moments.
         Paris Fashion Week partnership connects the brand to haute couture
-        authority. The photography is high-glamour — professional lighting,
+        authority. The photography is high-glamour. professional lighting,
         beauty close-ups, product integration, aspirational but not
         exclusionary.
       differs_from_default_by: >-
@@ -96,7 +96,7 @@ visual_modes:
     L'Oréal Paris is one brand within the L'Oréal Group portfolio (which
     includes Lancôme, YSL Beauty, Kérastase, La Roche-Posay, and others).
     Each brand has its own visual identity. L'Oréal Paris specifically
-    occupies the 'democratic luxury' position — accessible price,
+    occupies the 'democratic luxury' position. accessible price,
     aspirational presentation.
 
 # ── Photography ──────────────────────────────────
@@ -111,7 +111,7 @@ photography:
   subject_and_framing: >-
     Two primary photography modes: ambassador-led beauty portraits and
     product-hero studio shots. Ambassador photography uses beauty-standard
-    framing — close-up face/beauty shots with professional lighting and
+    framing. close-up face/beauty shots with professional lighting and
     product integration. Celebrity ambassadors (Kendall Jenner, Cara
     Delevingne, Helen Mirren, Eva Longoria) are photographed with glamour
     lighting and minimal background. Product photography uses dramatic
@@ -123,20 +123,20 @@ photography:
   casting_observed: >-
     Multi-generational, multi-ethnic ambassador roster. Helen Mirren
     (age 80+), Kendall Jenner (20s), Eva Longoria (50s), Viola Davis (50s),
-    Cara Delevingne (30s). The casting deliberately spans age decades —
+    Cara Delevingne (30s). The casting deliberately spans age decades
     a visual expression of 'Because We're ALL Worth It.' The inclusivity
     is more generational than size-inclusive (the casting still leans
     toward conventional beauty standards within each age group).
   lighting_and_colour: >-
-    Glamour lighting — diffused, warm, flattering. Beauty photography uses
+    Glamour lighting. diffused, warm, flattering. Beauty photography uses
     classic beauty-lighting setups (butterfly/Paramount lighting, ring
-    light, softbox). Colour grading is warm with golden undertones — the
+    light, softbox). Colour grading is warm with golden undertones. the
     Parisian glamour register. Product photography uses more dramatic,
     directional lighting with darker backgrounds. The overall colour
     temperature is warmer than Estée Lauder (cooler, more porcelain) but
     less saturated than Maybelline (brighter, more pop).
   post_production: >-
-    Beauty-industry standard retouching — skin is refined but not plastic.
+    Beauty-industry standard retouching. skin is refined but not plastic.
     The brand has moved toward more natural skin texture in recent years,
     influenced by industry-wide 'real beauty' trends. Product colours are
     precisely matched to actual products. Hair photography (Elvive/Elsève)
@@ -145,11 +145,11 @@ photography:
     stated_exclusions: >-
       L'Oréal Paris avoids clinical or dermatological visual language (that's
       La Roche-Posay and CeraVe territory within the L'Oréal Group). The
-      brand avoids niche or subculture-coded imagery — the visual language
+      brand avoids niche or subculture-coded imagery. the visual language
       is mainstream glamour.
     observed_exceptions: >-
       Digital and social content occasionally adopts more casual, less
-      polished photography — influenced by TikTok and creator culture.
+      polished photography. influenced by TikTok and creator culture.
       This represents a tension between the glamour baseline and the
       platform-native content demands.
     genuine_absence: >-
@@ -174,20 +174,20 @@ graphic_language:
     custom icon system. Product category icons follow beauty-industry
     conventions (lipstick silhouette for makeup, bottle for skincare).
   graphic_devices: >-
-    The enlarged 'O' — extracted from the L'Oréal Paris wordmark and used
+    The enlarged 'O'. extracted from the L'Oréal Paris wordmark and used
     as a standalone graphic device. The 'O' functions as a frame, a
     window, and a brand signature across marketing contexts. The Eiffel
     Tower appears as a subtle Parisian authority signal in certain
     marketing contexts. The 'Carron' bottle shape for select product
     lines creates ownable product silhouettes. Earls Green (#BBCA31) as
-    an unexpected accent colour within the beauty category — most
+    an unexpected accent colour within the beauty category. most
     competitors use gold, rose gold, or neutral metallics.
   motion_language: >-
     Observed in L'Oréal Paris campaign films and digital content: glamorous,
     slow-motion beauty moments. Hair campaigns use signature slow-motion
     hair movement (the 'hair flick'). Product reveals use dramatic
     lighting reveals. Ambassador films use cinematic pacing with musical
-    scoring. The motion language is polished and aspirational — nothing
+    scoring. The motion language is polished and aspirational. nothing
     raw, fast, or gritty.
 
 # ── Typography in Practice ───────────────────────
@@ -197,10 +197,10 @@ type_treatment:
   primary_sources:
     - "L'Oréal Essentielle (custom geometric sans, 4 weights)"
     - "L'Oréal Royale (custom serif, 2 weights, Robert Granjon-influenced)"
-    - "Trade Gothic LT Std (Jackson Burke) — used in logo"
+    - "Trade Gothic LT Std (Jackson Burke). used in logo"
     - "lorealparisusa.com (observed February 2026)"
   signature_move: >-
-    The dual type system — L'Oréal Essentielle (geometric sans, 4 weights)
+    The dual type system. L'Oréal Essentielle (geometric sans, 4 weights)
     for modern, accessible contexts and L'Oréal Royale (serif, 2 weights,
     influenced by Robert Granjon's 16th-century French typographic
     tradition) for elevated, luxurious moments. The serif carries Parisian
@@ -219,10 +219,10 @@ type_treatment:
   case_convention: >-
     The L'ORÉAL PARIS wordmark is uppercase. Body text uses sentence case.
     Product names use title case. Campaign headlines use uppercase or
-    sentence case depending on the register — uppercase for authority,
+    sentence case depending on the register. uppercase for authority,
     sentence case for warmth.
   display_vs_body: >-
-    Display: L'Oréal Royale for elevated, heritage moments — beauty
+    Display: L'Oréal Royale for elevated, heritage moments. beauty
     campaign headlines, luxury product launches, Cannes and PFW contexts.
     L'Oréal Essentielle at bold weights for everyday campaign headlines.
     Body: L'Oréal Essentielle at regular weight for product descriptions,
@@ -230,7 +230,7 @@ type_treatment:
     mirrors the brand's dual identity: Parisian heritage (Royale) meets
     democratic accessibility (Essentielle).
   type_and_image: >-
-    Type supports and frames photography — it never dominates. Campaign
+    Type supports and frames photography. it never dominates. Campaign
     headlines appear above or below beauty photography, providing context
     without competing. The 'Because We're All Worth It' tagline is the
     most prominent text element in many campaigns, set in a register that
@@ -254,7 +254,7 @@ layout:
   density_and_whitespace: >-
     Moderate density. Campaign compositions use generous space around the
     ambassador and product. E-commerce pages are standard beauty-retail
-    density. The brand avoids cluttered compositions — the enlarged 'O'
+    density. The brand avoids cluttered compositions. the enlarged 'O'
     and the ambassador face create clear focal points.
   format_preferences: >-
     Portrait orientation for beauty close-ups and ambassador shots.
@@ -267,7 +267,7 @@ trend_posture:
   overall: "selective-adopter"
   relationship_to_trends: >-
     L'Oréal Paris selectively adopts visual trends that align with its
-    'democratic luxury' positioning — neither too avant-garde nor too
+    'democratic luxury' positioning. neither too avant-garde nor too
     conservative. The brand follows beauty-industry visual trends rather
     than leading them.
   examples:
@@ -275,8 +275,8 @@ trend_posture:
       stance: "leader"
       evidence: >-
         The ambassador roster spanning Helen Mirren (80+) to Kendall
-        Jenner (20s) — with 'Because We're ALL Worth It' (changed from
-        'You're' in January 2023) — makes age inclusivity a visual brand
+        Jenner (20s). with 'Because We're ALL Worth It' (changed from
+        'You're' in January 2023). makes age inclusivity a visual brand
         commitment rather than a campaign moment.
       reasoning: >-
         L'Oréal Paris was among the first mass-market beauty brands to
@@ -308,10 +308,10 @@ collaboration:
     have their own visual registers within the brand framework.
   notable_examples: >-
     L'Oréal Paris x Cannes Film Festival (official partner since 1998):
-    the red carpet provides the ultimate glamour stage — backstage content,
+    the red carpet provides the ultimate glamour stage. backstage content,
     beauty looks, celebrity moments all produced within L'Oréal Paris's
     visual language. L'Oréal Paris x Paris Fashion Week: backstage beauty
     content that connects the brand to haute couture authority. L'Oréal
     Paris x Balmain (lipstick collaboration, 2017): Olivier Rousteing's
-    aesthetic applied to mass-market beauty — gold packaging, fashion-
+    aesthetic applied to mass-market beauty. gold packaging, fashion-
     runway photography.

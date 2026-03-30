@@ -1,8 +1,20 @@
 # brandkit
 
-Claude Code skills for brand design. Three phases — discovery, proposition, concepts — modelled on how real studios work.
+Turns vague brand opinions into a usable strategic backbone for creative work.
 
-Ships with 88 brands analysed across 11 dimensions. The methodology is baked into the skills. The knowledge base is the R&D.
+Three Claude Code skills (discovery, proposition, concepts) modelled on how real studios work. Each phase earns the next. The canonical output is `BRAND.md`: one file that compresses everything the pipeline produces into a source of truth your team can actually use.
+
+## What it gives you
+
+**`brandkit/BRAND.md`**, the source of truth. It builds up as you run each phase:
+
+| After | BRAND.md contains |
+|-------|------------------|
+| `/brand-discover` | What we learned: conclusions from research and interview |
+| `/brand-proposition` | + What we believe, what we reject, the proposition, the soul |
+| `/brand-concepts` | + How it looks and sounds, the signature move, non-negotiables |
+
+The detailed phase files (discovery reports, territory cards, concept directions) live in `brandkit/discovery/`, `brandkit/proposition/`, and `brandkit/concepts/`. BRAND.md is the compressed version, the one you share, reference, and build from.
 
 ## Install
 
@@ -13,37 +25,21 @@ cd ~/.claude/skills/brandkit && ./setup
 
 ## Usage
 
-Open Claude Code in any project and run the skills in sequence:
-
 ```
 /brand-discover      # Research, observe, challenge
-/brand-proposition   # Distill, position, articulate
-/brand-concepts      # Explore visual directions, voice, content
+/brand-proposition   # Distill into debatable proposition territories
+/brand-concepts      # Explore what it looks, sounds, and feels like
 ```
 
-Each phase produces files in `brandkit/` in your working directory. Each phase reads the previous phase's output. You can run them standalone, but they're designed to chain.
+Each phase reads the previous phase's output. You can run them standalone, but they're designed to chain.
 
-### `/brand-discover`
+## How it works
 
-Structured brand immersion. Stakeholder interview (5-7 adaptive questions), desk research, competitive landscape, observation synthesis across 4 lenses (product, audience, experience, landscape), and challenges framed as questions.
+The database trained the method. The skills apply the method.
 
-Works on existing brands (audit) and new brands (explore).
+88 real brands analysed across 11 dimensions: archetypes, positioning scales, creative tensions, visual clusters, voice patterns, anti-patterns. That analysis produced the methodology baked into each skill's instructions. The knowledge base ships alongside so skills can reference specific brands as benchmarks.
 
-**Output:** `brandkit/discovery/`
-
-### `/brand-proposition`
-
-Strategic distillation. Finds themes in the discovery, builds pillars, maps competitive positioning, and arrives at the reframe — the single insight that changes how you see the brand.
-
-For new brands, presents 2-3 genuinely different strategic directions.
-
-**Output:** `brandkit/proposition/`
-
-### `/brand-concepts`
-
-Creative direction exploration. Translates the proposition into visual worlds, voice directions, content ideas, and applied moments. Produces directions — not final territories, but openings that a team can develop.
-
-**Output:** `brandkit/concepts/`
+The skills don't query the database at runtime. The patterns are the instructions.
 
 ## What's in the box
 
@@ -62,30 +58,6 @@ brandkit/
     └── patterns.md               # Methodology patterns extracted from analysis
 ```
 
-### Knowledge
-
-88 brands across 17 categories. Each brand has up to 11 YAML chunks:
-
-| Chunk | What it captures |
-|-------|-----------------|
-| `positioning` | Category, archetypes, positioning scales, price tier |
-| `soul` | Feels like, core belief, creative tension, decision filter, what would break it |
-| `voice` | Personality, tone traits, anti-traits, guardrails |
-| `visual-dna` | Colours, typography, 19 visual tags, composition logic |
-| `visual-language` | Photography, graphic language, type treatment, layout, trend posture |
-| `competitive` | Competitors, visual clusters, strategic cluster, norms broken |
-| `strategy` | Purpose, mission, vision, values |
-| `insights` | Learned insights, what nobody copies |
-| `anti-patterns` | Visual, strategic, tonal, cultural anti-patterns |
-| `visual-reasoning` | Type logic, colour logic, composition philosophy |
-| `references` | Source URLs and evidence |
-
-### How it works
-
-The skills don't query the knowledge base at runtime. The methodology — positioning scales, soul frameworks, competitive patterns, visual clusters, anti-pattern categories — is baked into the skill instructions from analysing 88 brands. The knowledge ships alongside so you can reference specific brands when the skills need benchmarks.
-
-`bin/brandkit-load-context` assembles chunks for specific tasks, respecting token budgets defined in `knowledge/brands/_retrieval-rules.yaml`.
-
 ## Requirements
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
@@ -96,6 +68,4 @@ The skills don't query the knowledge base at runtime. The methodology — positi
 pip3 install playwright && python3 -m playwright install chromium
 ```
 
-Without Playwright, the skills work fine — WebFetch handles text extraction and the methodology is baked in. With it, the skills can screenshot competitor websites, test responsive layouts, and visually analyse live brands during research. `brandkit-browse` will also use system Chrome if installed, avoiding the Chromium download.
-
-Browser approach inspired by [gstack](https://github.com/anthropics/gstack).
+Without Playwright, the skills work fine. WebFetch handles text extraction and the methodology is baked in. With it, the skills can screenshot competitor websites, test responsive layouts, and visually analyse live brands during research. `brandkit-browse` will also use system Chrome if installed, avoiding the Chromium download.

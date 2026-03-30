@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Microsoft — Creative References
+# Microsoft. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -52,7 +52,7 @@ visuals:
     section: "visual-language"
 
   - url: "https://learn.microsoft.com/en-us/windows/apps/design/fluent-2/"
-    label: "Windows Fluent 2 design guidelines — Microsoft Learn"
+    label: "Windows Fluent 2 design guidelines. Microsoft Learn"
     section: "visual-world"
 
   - url: "https://www.monotype.com/"

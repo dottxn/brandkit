@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Uber. How the brand looks structurally —
+  Visual language for Uber. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -32,9 +32,9 @@ visual_modes:
         - "Uber social media channels"
         - "OOH advertising"
       description: >-
-        Black (#000000) and white (#FFFFFF) dominant — a monochrome palette
+        Black (#000000) and white (#FFFFFF) dominant. a monochrome palette
         with Safety Blue as a functional accent. The 2018 Wolff Olins
-        rebrand (Forest Young, ECD) established the current visual system —
+        rebrand (Forest Young, ECD) established the current visual system
         replacing the controversial 2016 'atom' logo with a clean 'UBER'
         wordmark in Uber Move (MCKL / Jeremy Mickel, 2018). Katie Dill
         (Head of Design, ex-Airbnb/Lyft) oversees the visual system. Peter
@@ -61,9 +61,9 @@ visual_modes:
         Green (#06C167, 'Uber Eats Green') replaces black as the dominant
         colour. The Uber Eats visual language is warmer, more appetising,
         and more promotional than the ride-hailing brand. Food photography
-        is the hero content — close-up, appetising, warm-lit. The green
+        is the hero content. close-up, appetising, warm-lit. The green
         serves as a clear visual separator from ride-hailing Uber (black).
-        jkr agency expanded the brand to 'go anywhere, get anything' —
+        jkr agency expanded the brand to 'go anywhere, get anything'
         the visual language now encompasses grocery, alcohol, and
         convenience delivery alongside restaurant food.
       differs_from_default_by: >-
@@ -81,7 +81,7 @@ visual_modes:
       description: >-
         More structured, more corporate. The monochrome palette remains
         but the visual language adopts more conventional B2B SaaS
-        conventions — data visualisations, case studies, structured
+        conventions. data visualisations, case studies, structured
         layouts, and enterprise-credible photography. Uber Freight uses
         its own visual sub-language with logistics and supply-chain
         imagery. The enterprise mode demonstrates that Uber's minimal
@@ -111,28 +111,28 @@ photography:
   subject_and_framing: >-
     Two primary photography modes: city/mobility and food. Ride-hailing:
     urban environments, city streets, maps, and the Uber interface shown
-    in context. People in motion — getting in cars, walking city streets,
+    in context. People in motion. getting in cars, walking city streets,
     arriving at destinations. The framing emphasises movement and urban
-    life. Uber Eats: food photography dominates — close-up, warm-lit,
+    life. Uber Eats: food photography dominates. close-up, warm-lit,
     appetising. Restaurant and delivery scenes. Compared to Lyft (warmer,
-    pinker, more personal — 'Lyft' feels like a friend; 'Uber' feels
+    pinker, more personal. 'Lyft' feels like a friend; 'Uber' feels
     like a service) or DoorDash (more food-forward, red-accented),
     Uber's photography is the most architecturally minimal.
   casting_observed: >-
     Diverse, urban, multi-ethnic. Ride-hailing photography shows a global
-    cross-section of urban life — professionals, travellers, everyday
+    cross-section of urban life. professionals, travellers, everyday
     commuters. No celebrity casting. The casting reflects Uber's global,
-    egalitarian positioning — the service is for everyone, everywhere.
+    egalitarian positioning. the service is for everyone, everywhere.
   lighting_and_colour: >-
     Ride-hailing: neutral-to-cool, urban natural lighting. City environments
-    at various times of day — the lighting communicates 24/7 availability.
-    Uber Eats: warm, appetising food lighting — the standard food-photography
+    at various times of day. the lighting communicates 24/7 availability.
+    Uber Eats: warm, appetising food lighting. the standard food-photography
     warmth that makes food look appealing. The monochrome brand palette
     means photography carries the colour variety.
   post_production: >-
     Clean, moderate processing. Ride-hailing photography is colour-corrected
     to feel urban and contemporary. Food photography follows standard food-
-    photography post-production — warmth, saturation, sharpness. No
+    photography post-production. warmth, saturation, sharpness. No
     distinctive artistic post-production.
   visual_boundaries:
     stated_exclusions: >-
@@ -140,7 +140,7 @@ photography:
       the original 'everyone's private driver' premium positioning). The
       brand avoids promotional, deal-coded imagery in primary brand contexts.
     observed_exceptions: >-
-      Uber Reserve and Uber Black marketing adopt a more premium register —
+      Uber Reserve and Uber Black marketing adopt a more premium register
       darker, more luxurious photography that echoes the original Uber
       positioning before the 2018 rebrand.
     genuine_absence: >-
@@ -160,9 +160,9 @@ graphic_language:
   uses_illustration: true
   illustration_style: >-
     Uber uses a flat, minimal illustration system for instructional
-    contexts — onboarding flows, safety features, empty states, and help
+    contexts. onboarding flows, safety features, empty states, and help
     content. The illustrations use the monochrome palette with Safety
-    Blue accents. The style is functional and informational — closer to
+    Blue accents. The style is functional and informational. closer to
     infographic than art. Compared to Lyft (more playful, more
     personality-driven illustration) or Grab (more colourful, more
     Southeast Asian-coded), Uber's illustration is the most minimal.
@@ -173,43 +173,43 @@ graphic_language:
     experience rather than replacing it.
   icon_style: >-
     The Base design system (base.uber.com) defines a comprehensive icon
-    system — minimal, monochrome, consistent stroke weight. Vehicle-type
+    system. minimal, monochrome, consistent stroke weight. Vehicle-type
     icons (UberX, Uber Black, Uber XL, Uber Pool) use simple silhouettes.
     Navigation icons follow standard mobile conventions. The map pin and
     car-on-map are the most distinctive Uber icons.
   graphic_devices: >-
-    The UBER wordmark (Uber Move, MCKL/Jeremy Mickel, 2018) — clean,
-    geometric, uppercase. The U-Frame — a composition grid based on the
+    The UBER wordmark (Uber Move, MCKL/Jeremy Mickel, 2018). clean,
+    geometric, uppercase. The U-Frame. a composition grid based on the
     letter 'U' proportions, used to structure marketing layouts, product
     frames, and advertising compositions. The map interface itself is a
-    graphic device — the real-time map with car dots, route lines, and
+    graphic device. the real-time map with car dots, route lines, and
     ETAs is Uber's most recognisable visual element after the wordmark.
     Safety Blue as an accent colour for trust-critical moments (verification,
     safety features).
   motion_language: >-
-    Map-based motion — car icons moving along route lines in real time.
+    Map-based motion. car icons moving along route lines in real time.
     This is Uber's signature motion language, experienced by hundreds of
     millions of users. The real-time map animation is both functional
     (showing where your driver is) and emotionally satisfying (watching
     the car approach). App transitions follow Base design system motion
-    principles — smooth, fast, functional. Brand marketing uses urban
-    movement — cars, cities, people in motion.
+    principles. smooth, fast, functional. Brand marketing uses urban
+    movement. cars, cities, people in motion.
 
 # ── Typography in Practice ───────────────────────
 
 type_treatment:
   confidence: "high"
   primary_sources:
-    - "Uber Move (MCKL / Jeremy Mickel, 2018 — Display + Text optical sizes)"
+    - "Uber Move (MCKL / Jeremy Mickel, 2018. Display + Text optical sizes)"
     - "2018 Wolff Olins rebrand"
     - "Base design system (base.uber.com)"
     - "uber.com (observed February 2026)"
   signature_move: >-
-    Uber Move (MCKL / Jeremy Mickel, 2018) — a custom geometric sans-serif
+    Uber Move (MCKL / Jeremy Mickel, 2018). a custom geometric sans-serif
     with Display and Text optical sizes. Jeremy Mickel (MCKL, Minneapolis)
-    designed both Uber Move and Pepsi Owners — he specialises in custom
+    designed both Uber Move and Pepsi Owners. he specialises in custom
     typefaces for global brands. Uber Move's geometry is clean and
-    contemporary — slightly squarish proportions with generous x-height
+    contemporary. slightly squarish proportions with generous x-height
     for screen legibility. The Display variant uses tighter spacing and
     more refined details; the Text variant is optimised for small-size
     readability across interfaces. The typeface replaced a period of
@@ -220,22 +220,22 @@ type_treatment:
     sans-serif (contradicts the geometric precision). The pre-2018
     typography (associated with the Kalanick era). Any typeface that
     reads as playful or casual (Uber's tone is efficient and authoritative,
-    not friendly — that's Lyft's territory).
+    not friendly. that's Lyft's territory).
   case_convention: >-
     The UBER wordmark is uppercase. Product names use title case ('Uber
     Eats,' 'Uber Black,' 'Uber Reserve'). Body text uses sentence case.
     Marketing headlines vary between uppercase (for impact) and sentence
     case (for warmth).
   display_vs_body: >-
-    Display: Uber Move Display — tighter spacing, more refined details,
+    Display: Uber Move Display. tighter spacing, more refined details,
     used for marketing headlines, campaign type, and brand moments. Body:
-    Uber Move Text — optimised for small-size screen reading, used across
+    Uber Move Text. optimised for small-size screen reading, used across
     the app interface, product descriptions, and documentation. The
     optical size distinction (Display vs Text) is more technically
-    sophisticated than most brand type systems — it ensures typographic
+    sophisticated than most brand type systems. it ensures typographic
     quality across all sizes.
   type_and_image: >-
-    Type provides functional context in the ride-hailing experience —
+    Type provides functional context in the ride-hailing experience
     ETAs, prices, addresses, driver names. The map interface is the visual
     hero; type serves it. In marketing, the UBER wordmark and campaign
     type sit cleanly against photography or colour fields. The U-Frame
@@ -252,10 +252,10 @@ layout:
     - "Base design system"
   signature_composition: >-
     Map-centred. The Uber app's primary composition is a full-screen map
-    with a bottom sheet for interaction — this layout pattern has been
+    with a bottom sheet for interaction. this layout pattern has been
     adopted by virtually every ride-hailing and delivery app. The map
     dominates; UI elements float above it. Marketing uses the U-Frame
-    system — a grid based on the letter 'U' proportions that structures
+    system. a grid based on the letter 'U' proportions that structures
     advertising and campaign layouts into consistent, modular compositions.
     uber.com uses clean, sectioned layouts with generous whitespace.
     Compared to Lyft (similar map-centred layout but warmer, more
@@ -263,9 +263,9 @@ layout:
     super-app layout), Uber's composition is the most architecturally
     minimal.
   density_and_whitespace: >-
-    Low density in the ride-hailing app — the map fills most of the screen,
+    Low density in the ride-hailing app. the map fills most of the screen,
     with minimal UI overlay. Marketing uses generous whitespace, consistent
-    with the monochrome, minimal brand register. Uber Eats is denser —
+    with the monochrome, minimal brand register. Uber Eats is denser
     food listings, restaurant cards, and category navigation create a
     commerce-standard density. The Base design system defines spacing
     scales that maintain consistency across contexts.
@@ -301,7 +301,7 @@ trend_posture:
       stance: "early-adopter"
       evidence: >-
         Base design system (base.uber.com) is one of the most comprehensive
-        public design systems in tech — covering components, tokens, motion,
+        public design systems in tech. covering components, tokens, motion,
         accessibility, and brand guidelines. Frontify (brand management
         platform, since 2021) governs brand consistency at global scale.
       reasoning: >-
@@ -324,11 +324,11 @@ collaboration:
     introduce premium visual registers.
   notable_examples: >-
     Uber x Wolff Olins (2018 rebrand): Forest Young (ECD) created the
-    visual system that replaced the controversial 2016 identity — a
+    visual system that replaced the controversial 2016 identity. a
     deliberate corporate rehabilitation through design. Uber x jkr (brand
     expansion): extended the visual identity from ride-hailing to 'go
-    anywhere, get anything' — encompassing Eats, grocery, alcohol, and
+    anywhere, get anything'. encompassing Eats, grocery, alcohol, and
     convenience delivery. Uber Eats x restaurant partners: the visual
     system accommodates thousands of restaurant brands within Uber's
-    framework — each restaurant maintains its own visual identity within
+    framework. each restaurant maintains its own visual identity within
     the Uber Eats chrome.

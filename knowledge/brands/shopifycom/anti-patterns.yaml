@@ -39,7 +39,7 @@ strategic:
       Every feature ships with sensible defaults that work before customization. Overwhelming merchants with options first would violate core promise.
   - pattern: "Platform dependency lock-in through complexity"
     reasoning: >-
-      The opposite of their strategy—easy exit creates trust that increases retention. They could lock merchants in; they don't.
+      The opposite of their strategy. easy exit creates trust that increases retention. They could lock merchants in; they don't.
   - pattern: Chasing every market trend
     reasoning: >-
       Shopify's competitive edge comes from depth in core tools, not breadth in experimental features. Abandoning this would destroy focus.
@@ -49,7 +49,7 @@ tonal:
       Voice is confident but never condescending. "You're our customer" becomes implied through actions, not stated through copy.
   - pattern: Apology language or hedging
     reasoning: >-
-      No "we hope," "we think," or "we believe"—only decisive statements about capability. Uncertainty would undermine the core message of empowerment.
+      No "we hope," "we think," or "we believe". only decisive statements about capability. Uncertainty would undermine the core message of empowerment.
   - pattern: Technical jargon as a display of sophistication
     reasoning: >-
       Every technical concept is explained simply. Complexity hidden in the product, clarity visible in the voice.

@@ -33,19 +33,19 @@ publications:
 - title: amazon.design case studies
   author: Amazon Design Team
   relevance: Official design system documentation and guidelines.
-- title: Design systems at scale — Amazon approach
+- title: Design systems at scale. Amazon approach
   author: Amazon Design Leadership
   relevance: Documentation of visual systems managing 50+ sub-brands.
 visuals:
 - url: https://amazon.design/
-  label: Official design system — amazon.design
+  label: Official design system. amazon.design
   section: visual-world
 - url: https://www.turnerduckworth.com/
-  label: Smile logo case study — Turner Duckworth
+  label: Smile logo case study. Turner Duckworth
   section: visual-language
 - url: https://www.daltonmaag.com/
-  label: Amazon Ember and Ember Modern typefaces — Dalton Maag
+  label: Amazon Ember and Ember Modern typefaces. Dalton Maag
   section: visual-language
 - url: https://www.koto.com/
-  label: 2024-2025 rebrand case study — Koto
+  label: 2024-2025 rebrand case study. Koto
   section: visual-language

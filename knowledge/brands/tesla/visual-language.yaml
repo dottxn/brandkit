@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Tesla. How the brand looks structurally —
+  Visual language for Tesla. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -31,13 +31,13 @@ visual_modes:
         - "Tesla retail store displays"
         - "Vehicle delivery experience"
       description: >-
-        Product isolated on clean background — white, grey, or contextual
+        Product isolated on clean background. white, grey, or contextual
         environment. 3D renders and photography that emphasise vehicle form,
         paint finish, and design details. The configurator IS the shopping
-        experience — no dealership, no salesperson, the website does the
+        experience. no dealership, no salesperson, the website does the
         selling. Tesla sans-serif (Göran Söderström / Letters from Sweden,
         designed 2014) for all UI and marketing text. The visual register
-        is minimal, tech-forward, and product-dominant — closer to Apple's
+        is minimal, tech-forward, and product-dominant. closer to Apple's
         product pages than to any automotive competitor. Franz von
         Holzhausen (Chief Designer since 2008) defines the vehicle design
         language that the marketing visual language serves.
@@ -53,10 +53,10 @@ visual_modes:
         - "tesla.com/cybertruck configurator"
       description: >-
         Harder, darker, more aggressive. The Cybertruck's visual language
-        departs from the rest of the Tesla range — unpainted stainless
+        departs from the rest of the Tesla range. unpainted stainless
         steel, flat angular panels, industrial material finish. The
         marketing photography is moodier and more dramatic than the
-        standard Tesla product register — darker environments, harder
+        standard Tesla product register. darker environments, harder
         lighting, the vehicle's angular silhouette emphasised. The visual
         register is closer to a concept car or industrial sculpture than
         to the friendly, accessible register of Model 3/Y. The Model Y
@@ -78,15 +78,15 @@ visual_modes:
         Dark interface, minimal chrome, data-forward. The in-vehicle UI
         (V12, updated 2024.14) uses a dark background with the Tesla
         sans-serif and simple iconography. The FSD visualisation is
-        distinctively Tesla — a real-time 3D rendering of the car's
+        distinctively Tesla. a real-time 3D rendering of the car's
         surroundings with detected objects highlighted. The software UI
-        is intentionally plain — functionality over decoration. Compared
+        is intentionally plain. functionality over decoration. Compared
         to Mercedes MBUX (more luxurious, more ambient-lit) or BMW iDrive
         (more structured, more information-dense), Tesla's UI is the
         most minimal and the most phone-like.
       differs_from_default_by: >-
         Screen-native rather than marketing-native. The vehicle UI is the
-        most-seen expression of the Tesla visual language — every driver
+        most-seen expression of the Tesla visual language. every driver
         interacts with it daily. The minimal quality of the marketing
         extends into the actual product experience.
 
@@ -106,48 +106,48 @@ photography:
   primary_sources:
     - "tesla.com vehicle pages and configurator imagery (observed February 2026)"
     - "Tesla delivery and event photography"
-    - "Franz von Holzhausen — Chief Designer (since 2008)"
+    - "Franz von Holzhausen. Chief Designer (since 2008)"
     - "Tesla social media and owner-generated content"
   subject_and_framing: >-
-    Vehicle-dominant — the car fills the frame, shot at angles that
+    Vehicle-dominant. the car fills the frame, shot at angles that
     emphasise design lines and proportions. tesla.com uses 3D renders
-    alongside photography — the configurator imagery is rendered, while
+    alongside photography. the configurator imagery is rendered, while
     lifestyle and event content is photographic. Vehicle is typically
-    shown in clean environments — empty roads, open landscapes, minimal
+    shown in clean environments. empty roads, open landscapes, minimal
     urban contexts. The framing emphasises the vehicle's silhouette and
     design details (headlights, wheel design, roofline). Compared to
     BMW (more dynamic, more driving-focused) or Mercedes (more luxurious,
     more lifestyle-integrated), Tesla's photography is more static and
-    more design-focused — the vehicle is presented as a design object
+    more design-focused. the vehicle is presented as a design object
     rather than a driving experience.
   casting_observed: >-
     Almost no people in Tesla's marketing photography. The vehicle is
     the sole subject. When people appear, they are shown getting into,
-    out of, or sitting in the vehicle — the interaction is functional.
+    out of, or sitting in the vehicle. the interaction is functional.
     No celebrity endorsement. Owner-generated content (a significant
     portion of Tesla's visual presence) shows real owners and their
     vehicles. The 2017 Project Loveday campaign invited owners to create
-    ads — the user-generated aesthetic is a de facto part of the brand's
+    ads. the user-generated aesthetic is a de facto part of the brand's
     photographic identity.
   lighting_and_colour: >-
     Clean, high-key, tech-precise. Vehicle renders use controlled studio
     lighting designed to show paint colour and surface finish accurately.
     The configurator imagery is evenly lit with soft gradients. Outdoor
-    photography uses natural light — open sky, golden hour, clean horizons.
+    photography uses natural light. open sky, golden hour, clean horizons.
     The colour world is dominated by the vehicles' own colours (white,
     black, red, blue, midnight silver) against neutral environments.
     Guardsman Red (#CC0000) is the brand accent colour but it's used
-    sparingly in marketing — the vehicles' own palette drives the colour
+    sparingly in marketing. the vehicles' own palette drives the colour
     experience.
   post_production: >-
-    Vehicle imagery is heavily controlled — whether rendered or photographed,
+    Vehicle imagery is heavily controlled. whether rendered or photographed,
     the surface quality, reflections, and colour accuracy are precise.
     3D renders are the primary hero imagery and are colour-accurate to
     physical vehicles. Lifestyle photography is lightly graded to maintain
     the clean, tech-forward aesthetic. No heavy artistic grading.
   visual_boundaries:
     stated_exclusions: >-
-      Tesla positions against traditional automotive visual codes —
+      Tesla positions against traditional automotive visual codes
       no racetrack photography, no family-in-SUV scenarios, no dealer
       showroom imagery, no competitive comparison advertising. The brand
       also avoids the premium-luxury visual codes of Mercedes, BMW, or
@@ -177,27 +177,27 @@ graphic_language:
   illustration_role: ""
   icon_style: >-
     Minimal, thin-line, monochrome. The vehicle UI (V12) uses a simple
-    icon set — navigation, media, climate, and vehicle controls. The
+    icon set. navigation, media, climate, and vehicle controls. The
     icons are functional and undecorated. The Tesla app mirrors this
-    style. Not a distinctive brand element — the minimalism extends to
+    style. Not a distinctive brand element. the minimalism extends to
     icon design.
   graphic_devices: >-
-    The Tesla 'T' logo — a geometric, symmetrical mark that references
+    The Tesla 'T' logo. a geometric, symmetrical mark that references
     an electric motor cross-section (designed by RO Studio, 2003). The
-    'T' is used sparingly and at small scale — on the vehicle nose, on
+    'T' is used sparingly and at small scale. on the vehicle nose, on
     the website, on the app icon. It is not a dominant compositional
     element in the way that BMW's roundel or Mercedes's star is.
     Guardsman Red (#CC0000) as an accent in the UI and marketing (the
     'Order Now' button, the energy product graphs). The FSD real-time
-    visualisation — a unique graphic expression that no competitor has
+    visualisation. a unique graphic expression that no competitor has
     replicated at Tesla's level.
   motion_language: >-
     Observed on tesla.com and in-vehicle UI: smooth, minimal, physics-
     based. Vehicle configurator transitions are smooth 3D rotations.
     The FSD visualisation is real-time 3D rendering. UI animations are
-    functional — panels slide, content fades. No decorative motion.
+    functional. panels slide, content fades. No decorative motion.
     tesla.com product pages use scroll-triggered reveals similar to
-    Apple's approach — the vehicle appears, rotates, and details emerge
+    Apple's approach. the vehicle appears, rotates, and details emerge
     as the user scrolls. The motion language is restrained and technical.
 
 # ── Typography in Practice ───────────────────────
@@ -209,12 +209,12 @@ type_treatment:
     - "tesla.com observed February 2026"
     - "Tesla vehicle UI typography"
   signature_move: >-
-    Tesla sans-serif (Göran Söderström / Letters from Sweden, 2014) — a
+    Tesla sans-serif (Göran Söderström / Letters from Sweden, 2014). a
     clean, geometric, tech-modern typeface used across all touchpoints
     from website to vehicle UI to marketing. The type is thin-to-medium
-    weight at clean sizes — never bold, never compressed, never decorative.
+    weight at clean sizes. never bold, never compressed, never decorative.
     The typographic signature is extreme restraint: the type exists to
-    present information without adding personality. This is deliberate —
+    present information without adding personality. This is deliberate
     the vehicle design IS the personality, and the type steps aside.
     Compared to BMW (BMW Type, more architectural), Mercedes (Corporate
     A, more luxurious), or Audi (Audi Type, more engineered), Tesla's
@@ -223,23 +223,23 @@ type_treatment:
     Bold or heavy type (contradicts the thin, clean register). Serif type
     (too traditional, too luxury-automotive). A humanist sans-serif (too
     warm for the tech-forward positioning). Condensed type (too aggressive).
-    Any typeface with visible personality — Tesla's type is deliberately
+    Any typeface with visible personality. Tesla's type is deliberately
     personality-free.
   case_convention: >-
     Sentence case throughout. 'Tesla' capitalised. Model names use
     capitalisation (Model S, Model 3, Model X, Model Y, Cybertruck).
-    No uppercase in headlines — the type is quiet and informational.
+    No uppercase in headlines. the type is quiet and informational.
   display_vs_body: >-
     Tesla sans-serif serves both display and body at different weights.
-    Display: Tesla Light or Regular at generous sizes — clean, modern,
-    unhurried. Body: Tesla Regular at readable sizes — functional and
+    Display: Tesla Light or Regular at generous sizes. clean, modern,
+    unhurried. Body: Tesla Regular at readable sizes. functional and
     minimal. The single-family approach is consistent with the brand's
-    minimalism — one typeface, used everywhere, without variation.
+    minimalism. one typeface, used everywhere, without variation.
   type_and_image: >-
-    Type and vehicle imagery are separated — headlines above or below
+    Type and vehicle imagery are separated. headlines above or below
     the vehicle, never overlaid. The vehicle is never obscured by
     typography. On tesla.com, the scroll reveals vehicle imagery first,
-    then type follows. The hierarchy is vehicle first, type second — the
+    then type follows. The hierarchy is vehicle first, type second. the
     design object speaks, the words explain. This is similar to Apple's
     type-and-image relationship and distinct from traditional automotive
     advertising where headlines can be as prominent as the vehicle.
@@ -254,10 +254,10 @@ layout:
     - "Tesla retail store displays"
   signature_composition: >-
     Centred vehicle, full-width, scroll-to-reveal. tesla.com vehicle
-    pages are vertical scrolls — each section reveals a feature (range,
+    pages are vertical scrolls. each section reveals a feature (range,
     performance, interior, safety) with the vehicle centred in the frame.
     The composition is borrowed directly from Apple's product-page
-    approach — centred, minimal, scroll-driven. The configurator is the
+    approach. centred, minimal, scroll-driven. The configurator is the
     most distinctive composition: the vehicle rendered in real-time 3D
     with colour, wheel, and interior options applied live. Compared to
     BMW (more dynamic, asymmetric compositions), Mercedes (more luxurious,
@@ -265,11 +265,11 @@ layout:
     based), Tesla's layout is the most minimal and the most Apple-
     influenced.
   density_and_whitespace: >-
-    Very low density on vehicle pages — one feature per scroll section,
+    Very low density on vehicle pages. one feature per scroll section,
     generous whitespace, the vehicle dominant. The configurator is
     moderately dense (option selections, pricing) but visually clean.
     Spec pages are denser but follow the same minimal typography. Tesla
-    uses more whitespace than any traditional automotive brand — the
+    uses more whitespace than any traditional automotive brand. the
     minimalism is the differentiation.
   format_preferences: >-
     Landscape for vehicle photography (the car's proportions drive the
@@ -282,7 +282,7 @@ layout:
 trend_posture:
   overall: "leader"
   relationship_to_trends: >-
-    Tesla defined the visual standard for electric vehicle brands —
+    Tesla defined the visual standard for electric vehicle brands
     the minimal, tech-forward, direct-to-consumer visual language has been
     adopted by Rivian, Lucid, Polestar, and other EV startups. The brand
     leads through product design rather than marketing design.
@@ -305,8 +305,8 @@ trend_posture:
       evidence: >-
         Tesla's clean, button-less vehicle interiors (centred touchscreen,
         minimal physical controls) defined the visual standard that
-        competitors now follow. The vehicle UI design (V12) — dark,
-        minimal, full-screen — has influenced every new EV's interior
+        competitors now follow. The vehicle UI design (V12). dark,
+        minimal, full-screen. has influenced every new EV's interior
         display approach.
       reasoning: >-
         Franz von Holzhausen's vehicle design philosophy (maximum
@@ -324,7 +324,7 @@ collaboration:
     collaboration positions Tesla outside the tech-forward, EV context.
   what_bends: >-
     Very little. Tesla does not engage in traditional brand collaborations.
-    The brand's visual identity is almost entirely self-contained — no
+    The brand's visual identity is almost entirely self-contained. no
     co-branded products, no fashion partnerships, no celebrity
     endorsements. The visual system bends only for functional reasons
     (different vehicle lines, energy products vs. automotive).
@@ -334,6 +334,6 @@ collaboration:
     Tesla Roadster sent to space, the Cybertruck's Starship-influenced
     stainless steel), which are more Elon Musk brand synergies than
     formal collaborations. The vehicle itself is the collaboration
-    canvas — owners customise and wrap their vehicles, and this owner-
+    canvas. owners customise and wrap their vehicles, and this owner-
     generated visual diversity is a de facto part of the brand's visual
     ecosystem.

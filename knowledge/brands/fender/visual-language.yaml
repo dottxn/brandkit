@@ -17,7 +17,7 @@ last_updated: "2026-02-21"
 status: active
 enrichment_level: enriched
 summary: >-
-  Visual language for Fender. How Fender actually operates visually —
+  Visual language for Fender. How Fender actually operates visually
   photography art direction, type treatment, channel behaviour, and how
   the brand flexes between heritage craft and contemporary music culture.
 
@@ -30,7 +30,7 @@ visual_modes:
       Fender.com product pages, dealer catalogues, custom shop
       communications, investor materials, corporate identity
     description: >-
-      Instrument-forward, reverent, precise. The guitar is the hero —
+      Instrument-forward, reverent, precise. The guitar is the hero
       clean product photography with rich detail on wood grain, hardware,
       and finish. The Fender Script sits with authority. Red, black, and
       white palette at its most disciplined. This is Fender at its most
@@ -44,7 +44,7 @@ visual_modes:
       Energetic, culturally connected, louder. Photography shifts from
       product detail to performance and atmosphere. Type is bolder,
       layout is more dynamic. Red becomes more prominent. The brand
-      turns up the volume without losing its roots — this is Fender
+      turns up the volume without losing its roots. this is Fender
       backstage, not in the museum.
   contextual:
     - cluster: warm-humanist
@@ -55,7 +55,7 @@ visual_modes:
         Friendlier, more accessible, patient. Photography includes hands
         on fretboards, practice spaces, and living rooms. The Script
         typeface softens into a supporting role. The message is
-        encouragement, not aspiration — "you can do this" rather than
+        encouragement, not aspiration. "you can do this" rather than
         "legends play this."
 
 # ── Photography ──────────────────────────────────────────
@@ -64,12 +64,12 @@ photography:
   subject_focus: >-
     The instrument, always. Even in artist-led photography, the guitar
     shares equal billing with the player. Product shots obsess over
-    detail — the grain of an alder body, the curve of a maple neck,
+    detail. the grain of an alder body, the curve of a maple neck,
     the patina of vintage hardware. The instrument is photographed with
     the reverence of a portrait, not a product.
   casting: >-
     Musicians, not models. Every person in a Fender photograph should
-    look like they play — calloused fingertips, relaxed relationship
+    look like they play. calloused fingertips, relaxed relationship
     with the instrument, natural comfort on stage or in a practice
     room. The roster spans genres, ages, and backgrounds. Beginners
     appear in educational contexts looking engaged and slightly
@@ -77,26 +77,26 @@ photography:
     artists get the most dynamic, energetic treatment.
   lighting: >-
     Two distinct registers. Product: controlled studio light that
-    reveals material quality — you should be able to see the wood
+    reveals material quality. you should be able to see the wood
     grain, the chrome finish, the colour depth of a sunburst. The
     light respects the object. Performance: atmospheric, warm,
     stage-influenced. Amber and tungsten tones, backlight through amp
     glow, the warm haze of a small venue. Natural light for lifestyle
-    and practice contexts — afternoon light in a bedroom or garage.
+    and practice contexts. afternoon light in a bedroom or garage.
   post_production: >-
-    Colour-accurate for product — the difference between Olympic White
+    Colour-accurate for product. the difference between Olympic White
     and Vintage White matters to a buyer. Performance photography allows
     warmer colour grading with richer shadows. Film-like grain is
     acceptable in editorial and performance contexts, connecting to the
     analogue heritage. Retouching preserves the honest character of
-    instruments and players — scratches on a touring guitar are a
+    instruments and players. scratches on a touring guitar are a
     feature.
   composition: >-
     Generous space around the instrument. The guitar is never crowded
-    or cropped arbitrarily — when cropped, it is a deliberate detail
+    or cropped arbitrarily. when cropped, it is a deliberate detail
     shot (headstock, pickups, bridge). Full guitar shots use negative
     space to let the silhouette breathe. Artist compositions are often
-    environmental — the player in their space, with the instrument as
+    environmental. the player in their space, with the instrument as
     the connective element between person and place.
   texture_and_finish: >-
     Material-obsessed. The photography must communicate what it feels
@@ -108,7 +108,7 @@ photography:
     Pristine, sterile environments. Fashion styling. Instruments
     treated as lifestyle accessories or props. Models holding guitars
     they clearly do not play. Overcrowded compositions where the
-    instrument competes for attention. Digital-first aesthetics — neon,
+    instrument competes for attention. Digital-first aesthetics. neon,
     glitch, heavily processed imagery that disconnects from the
     analogue craft.
 
@@ -118,7 +118,7 @@ graphic_language:
   uses_illustration: true
   illustration_style: >-
     Hand-drawn, vintage-influenced. Illustration echoes the mid-century
-    American aesthetic of Fender's origins — line art that could appear
+    American aesthetic of Fender's origins. line art that could appear
     in a 1950s catalogue. Occasionally more expressive and artistic for
     cultural campaigns, but always retaining a craft quality.
   illustration_role: >-
@@ -136,15 +136,15 @@ graphic_language:
     The Fender Script wordmark as the primary graphic device. The "F"
     logo as a secondary mark. Red accent bars or bands for emphasis.
     The spaghetti logo for heritage and Custom Shop contexts.
-    Instrument silhouettes — the Stratocaster and Telecaster shapes
+    Instrument silhouettes. the Stratocaster and Telecaster shapes
     are so iconic they function as graphic marks without annotation.
   motion_language: >-
     Warm, musical, rhythm-driven. Transitions sync to music where
     possible. Camera movement is smooth and deliberate, often revealing
-    the instrument slowly — a cinematic unveiling. Text animation is
+    the instrument slowly. a cinematic unveiling. Text animation is
     clean and confident, never flashy. Slow-motion for performance
     detail (fingers on strings, pick striking). The tempo of the
-    motion matches the genre — faster for punk and rock, more measured
+    motion matches the genre. faster for punk and rock, more measured
     for blues and jazz.
 
 # ── Typography in Practice ───────────────────────────────
@@ -152,18 +152,18 @@ graphic_language:
 type_treatment:
   case_convention: >-
     Mixed case, led by the Script. The Fender Script logo is always in
-    its custom form — never retyped or approximated. Supporting
+    its custom form. never retyped or approximated. Supporting
     headlines use title case. Body text is sentence case. Uppercase is
     used sparingly for labels, model designations (STRATOCASTER,
     TELECASTER), and navigational elements.
   size_philosophy: >-
-    The Script is the star — when it appears, it commands the space.
+    The Script is the star. when it appears, it commands the space.
     Supporting type is sized respectfully below it. Product names
     (Stratocaster, Telecaster, Jazzmaster) carry historical weight
     and are given typographic prominence. Body text serves the product
     information without competing.
   spacing_approach: >-
-    Moderate tracking — neither tight nor loose. The Script has its
+    Moderate tracking. neither tight nor loose. The Script has its
     own natural rhythm that cannot be modified. Supporting sans-serif
     type has clean, comfortable spacing. Whitespace around type is
     generous enough to feel premium but not so excessive it feels
@@ -171,19 +171,19 @@ type_treatment:
   hierarchy_pattern: >-
     Three levels: the Fender Script or logo (identity), the product
     or model name (functional authority), and supporting copy (details,
-    specs, story). The hierarchy is clear and traditional — there is a
+    specs, story). The hierarchy is clear and traditional. there is a
     deliberate order to how information is presented, reflecting the
     brand's respect for craft and process.
   type_and_image: >-
     Type defers to the instrument. On product pages, type sits below
     or beside the guitar, never overlapping it. In campaign contexts,
     type may overlay atmospheric photography but always with enough
-    contrast to read cleanly. The Script logo is placed with care —
+    contrast to read cleanly. The Script logo is placed with care
     it is a signature, and signatures do not crowd the page.
   display_vs_body: >-
-    Fender Script for display and identity — handwritten, warm,
+    Fender Script for display and identity. handwritten, warm,
     irreplaceable. A clean sans-serif (often Proxima Nova or similar)
-    for body and functional text — neutral, readable, modern enough to
+    for body and functional text. neutral, readable, modern enough to
     support the heritage display type without creating dissonance. The
     Script carries all the brand's emotional weight; the sans carries
     the information.
@@ -192,21 +192,21 @@ type_treatment:
 
 layout:
   grid_system: >-
-    Traditional grid for e-commerce and catalogues — clean product
+    Traditional grid for e-commerce and catalogues. clean product
     grids with consistent spacing. Editorial and campaign layouts use
     a looser structure that gives the instrument room to breathe. The
-    grid is never rigidly geometric — there is a slight organic quality
+    grid is never rigidly geometric. there is a slight organic quality
     to layout, reflecting the handmade nature of the instruments.
   density: >-
     Moderate. Product pages balance generous imagery with necessary
     specifications and details. Campaign work is more spacious. Fender
     never goes as minimal as a fashion brand or as dense as a tech
-    company — the density reflects a craft workshop aesthetic: purposeful
+    company. the density reflects a craft workshop aesthetic: purposeful
     but not austere.
   whitespace_role: >-
     Respect for the instrument. Whitespace gives the guitar room to
     exist as a beautiful object. In campaign work, whitespace creates
-    atmosphere — the visual equivalent of the space between notes. The
+    atmosphere. the visual equivalent of the space between notes. The
     whitespace is never cold or clinical; it is warm and inviting, like
     the empty stage before the show.
   visual_hierarchy: >-
@@ -226,7 +226,7 @@ channels:
   instagram:
     grid_strategy: >-
       A mix of product beauty shots, artist performance moments, and
-      heritage content. The feed reads as a music magazine — diverse
+      heritage content. The feed reads as a music magazine. diverse
       content unified by warm colour temperature, instrument-centricity,
       and the Fender red thread. No rigid grid formula; authenticity
       over aesthetics.
@@ -240,7 +240,7 @@ channels:
       - "behind-the-scenes craft and factory"
     visual_rules: >-
       Warm colour temperature throughout. The instrument must be
-      recognisable as a Fender — headstock or body shape visible.
+      recognisable as a Fender. headstock or body shape visible.
       Artist content feels documentary not staged. Reels and Stories
       can be rawer and more energetic. UGC is welcomed but curated
       for quality.
@@ -252,14 +252,14 @@ channels:
       Artist and story pages are more editorial with richer photography
       and longer-form content.
     hero_treatment: >-
-      New model launches get full-width cinematic treatment — the guitar
+      New model launches get full-width cinematic treatment. the guitar
       as hero, often lit dramatically against a dark or neutral
       background. Campaign heroes feature artists and instruments
       together. The Custom Shop section elevates the hero moment to
       luxury-craft level.
   packaging:
     approach: >-
-      The guitar case is the packaging — a functional, protective,
+      The guitar case is the packaging. a functional, protective,
       iconic object. Fender cases (tweed, black tolex, moulded) are
       recognisable and carry enormous heritage weight. Accessory
       packaging is simpler but maintains the red-black-white palette.
@@ -272,11 +272,11 @@ channels:
     approach: >-
       Artist-led and instrument-centred. OOH features the guitar
       prominently, often a new model against a clean background with
-      the Fender Script. Digital advertising adapts for audiences —
+      the Fender Script. Digital advertising adapts for audiences
       heritage content for experienced players, accessible and
       encouraging content for beginners via Fender Play.
     format_preferences: >-
-      Wide landscape for OOH and print — the guitar's natural
+      Wide landscape for OOH and print. the guitar's natural
       orientation. Video is a major format for artist storytelling and
       product demonstrations. Vertical for social and mobile placements.
   editorial:
@@ -288,7 +288,7 @@ channels:
       reader's musical knowledge.
   retail:
     approach: >-
-      Guitars displayed as objects of desire — wall-mounted, well-lit,
+      Guitars displayed as objects of desire. wall-mounted, well-lit,
       accessible to play. The retail experience is about touching and
       hearing the instrument. Fender flagship spaces use warm materials
       (wood, exposed brick) that connect to the workshop heritage. The
@@ -304,7 +304,7 @@ trend_posture:
     experiments. The brand updates its visual execution (better
     photography, modern web design, video production) without chasing
     aesthetic trends. When Fender looks different, it is because the
-    culture around music has shifted — not because a design trend
+    culture around music has shifted. not because a design trend
     suggested it. The brand's timelessness is its competitive advantage.
   examples:
     - trend: "Brutalist and anti-design web aesthetics"
@@ -317,7 +317,7 @@ trend_posture:
     - trend: "Nostalgic design / vintage revival"
       stance: selective-adopter
       reasoning: >-
-        Fender has genuine heritage to draw from — 1950s catalogues,
+        Fender has genuine heritage to draw from. 1950s catalogues,
         vintage amp graphics, spaghetti logos. The brand uses its own
         archive rather than generic nostalgia. It is nostalgic about
         itself, authentically, not performatively.
@@ -327,7 +327,7 @@ trend_posture:
         Music content thrives in short-form video. Fender Play
         tutorials, artist demos, and tone showcases are natural fits
         for the format. The brand adopted vertical video pragmatically
-        because it serves the core purpose — helping people play guitar.
+        because it serves the core purpose. helping people play guitar.
 
 # ── Collaboration Rules ──────────────────────────────────
 
@@ -341,13 +341,13 @@ collaboration:
   what_bends: >-
     Colour palette can expand for artist signature models (limited
     edition finishes). Photography style can shift toward the artist's
-    world — grittier, more atmospheric, genre-specific. Layout can
+    world. grittier, more atmospheric, genre-specific. Layout can
     become more experimental for cultural moments. The brand will step
     into a genre's visual language if the artist is authentic enough
     to carry it.
   notable_examples: >-
     Fender artist signature series: each signature model's visual
-    treatment adapts to the artist's aesthetic — Tom Morello's guitars
+    treatment adapts to the artist's aesthetic. Tom Morello's guitars
     get bolder, more political visual treatment while Kurt Cobain's
     Jag-Stang gets a grungier, rawer presentation. The instrument
     itself is always the collaboration, and the visual language follows

@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# Etsy — Creative References
+# Etsy. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -31,17 +31,17 @@ publications:
 
 visuals:
   - url: "https://www.etsy.com/"
-    label: "Etsy.com marketplace — Product grid layouts and seller-crafted visual diversity"
+    label: "Etsy.com marketplace. Product grid layouts and seller-crafted visual diversity"
     section: "visual-world"
 
   - url: "https://www.etsy.com/shop/"
-    label: "Etsy seller dashboard — Operational interface and shop management tools"
+    label: "Etsy seller dashboard. Operational interface and shop management tools"
     section: "visual-world"
 
   - url: "https://www.etsy.com/gift-mode"
-    label: "Etsy Gift Mode (2024) — Curated gift discovery visual experience"
+    label: "Etsy Gift Mode (2024). Curated gift discovery visual experience"
     section: "visual-language"
 
   - url: "https://help.etsy.com/"
-    label: "Etsicons system documentation — Icon design patterns and guidelines"
+    label: "Etsicons system documentation. Icon design patterns and guidelines"
     section: "visual-language"

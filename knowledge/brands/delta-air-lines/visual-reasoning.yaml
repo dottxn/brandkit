@@ -19,10 +19,10 @@ summary: Visual reasoning for Delta Air Lines. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Delta Sans and Delta Serif are custom typefaces—the sans-serif provides geometric clarity and forward motion, while the serif version brings editorial warmth to storytelling. Together they signal that Delta is both reliable infrastructure and human experience. Humanist characteristics (organic proportions despite geometric forms) make corporate communication feel approachable
+  Delta Sans and Delta Serif are custom typefaces. the sans-serif provides geometric clarity and forward motion, while the serif version brings editorial warmth to storytelling. Together they signal that Delta is both reliable infrastructure and human experience. Humanist characteristics (organic proportions despite geometric forms) make corporate communication feel approachable
 colour_logic: >-
-  Delta Red (#E01A34) is specific warmth—not orange, not purple. Navigator Navy (#0F172D) provides grounding contrast. The palette rejects cool blues that might feel impersonal. These colors appear in motion through dynamic triangle widget, creating psychological momentum. The 3D effects and atmospheric color treatments suggest depth and ascent
+  Delta Red (#E01A34) is specific warmth. not orange, not purple. Navigator Navy (#0F172D) provides grounding contrast. The palette rejects cool blues that might feel impersonal. These colors appear in motion through dynamic triangle widget, creating psychological momentum. The 3D effects and atmospheric color treatments suggest depth and ascent
 composition_philosophy: >-
-  The dynamic triangle widget becomes compositional organizing principle—everything tilts, climbs, moves along the triangle's trajectory. Motion behaviors (Connecting Line for journey, Explorative Space for discovery) are embedded in composition philosophy. Human stories are centered (not aircraft), with motion elements supporting rather than dominating the narrative
+  The dynamic triangle widget becomes compositional organizing principle. everything tilts, climbs, moves along the triangle's trajectory. Motion behaviors (Connecting Line for journey, Explorative Space for discovery) are embedded in composition philosophy. Human stories are centered (not aircraft), with motion elements supporting rather than dominating the narrative
 what_would_break_it: >-
   Static compositions without motion, aircraft/airport imagery as primary content, cool blue color dominance, removing 3D triangle as organizing principle, or design language that prioritizes operational messaging over human transformation

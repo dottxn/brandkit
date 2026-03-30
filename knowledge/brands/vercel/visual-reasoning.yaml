@@ -19,9 +19,9 @@ summary: Visual reasoning for Vercel. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  Vercel Sans was designed as a geometric sans-serif that mirrors the brand's philosophy—precision without ornamentation. System fonts serve as fallbacks, indicating that the visual hierarchy is more important than branded typography. The typeface feels contemporaneous without being trendy, technical without being cold.
+  Vercel Sans was designed as a geometric sans-serif that mirrors the brand's philosophy. precision without ornamentation. System fonts serve as fallbacks, indicating that the visual hierarchy is more important than branded typography. The typeface feels contemporaneous without being trendy, technical without being cold.
 colour_logic: >-
-  The primary palette uses stark black (#000000) and white (#FFFFFF) for maximum contrast and information clarity. The signature gradient (#0070F3 blue to #7928CA purple) is reserved for brand expression moments and highlights interaction states. This restraint ensures that color has meaning—it never decorates, it always signals.
+  The primary palette uses stark black (#000000) and white (#FFFFFF) for maximum contrast and information clarity. The signature gradient (#0070F3 blue to #7928CA purple) is reserved for brand expression moments and highlights interaction states. This restraint ensures that color has meaning. it never decorates, it always signals.
 composition_philosophy: >-
   Layouts use generous whitespace and asymmetrical balance to create hierarchy and guide attention. Information is organized in scannable chunks for rapid comprehension. Documentation and marketing use the same grid-based, left-aligned approach. No decorative composition; hierarchy comes from scale, whitespace, and positioning.
 what_would_break_it: >-

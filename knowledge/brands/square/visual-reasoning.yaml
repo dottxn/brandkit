@@ -19,9 +19,9 @@ summary: Visual reasoning for Square. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  The custom geometric sans-serif uses consistent stroke weights and open letterforms—characteristics that mirror the concentric squares logo. The typeface reinforces the geometric purity of the brand; every letterform echoes the core visual language. This creates coherence at the typographic level without relying on decorative elements.
+  The custom geometric sans-serif uses consistent stroke weights and open letterforms. characteristics that mirror the concentric squares logo. The typeface reinforces the geometric purity of the brand; every letterform echoes the core visual language. This creates coherence at the typographic level without relying on decorative elements.
 colour_logic: >-
-  The three-color system (white, light gray, black) with strict hierarchy—white as hero, gray as structure, black as text—creates extreme contrast and readability. This is the palette of physical product design scaled to digital interface. Financial instruments require clarity above all; the limited palette ensures no information is ambiguous or hidden.
+  The three-color system (white, light gray, black) with strict hierarchy (white as hero, gray as structure, black as text) creates extreme contrast and readability. This is the palette of physical product design scaled to digital interface. Financial instruments require clarity above all; the limited palette ensures no information is ambiguous or hidden.
 composition_philosophy: >-
   Layout rejects decorative composition; every element serves information clarity. Symmetry and centered alignment dominate because they communicate stability and mathematical precision. Asymmetrical or artistic compositions would feel uncertain in a financial context. The philosophy prioritizes confidence over beauty.
 what_would_break_it: >-

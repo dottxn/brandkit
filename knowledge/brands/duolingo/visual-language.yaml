@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Duolingo. How the brand looks structurally —
+  Visual language for Duolingo. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -26,7 +26,7 @@ visual_modes:
   modes:
     - name: "app-learning"
       touchpoints:
-        - "Duolingo app — lesson interface, skill tree, league screens"
+        - "Duolingo app. lesson interface, skill tree, league screens"
         - "duolingo.com course landing pages"
         - "Duolingo for Schools interface"
         - "design.duolingo.com brand guidelines (published August 2024)"
@@ -34,12 +34,12 @@ visual_modes:
         Bright, saturated, gamified. Duolingo Green (#58CC02) dominant,
         with Dodger Blue (#1CB0F6), Sunflower (#FFC800), Cardinal (#FF4B4B),
         and Fox (#FF9600) as supporting lesson colours. Characters (Duo
-        the owl, Lily, Zari, Bea, Junior, Eddy, Lin, Lucy, Oscar — designed
+        the owl, Lily, Zari, Bea, Junior, Eddy, Lin, Lucy, Oscar. designed
         by Emily Chiu and the in-house character design team) appear
         throughout the learning interface. Feather Bold (Krista Radoeva /
         Fontsmith / Monotype, commissioned for the 2019 Johnson Banks
         rebrand) for headlines and key UI text. DIN Next Rounded for body.
-        The shape language is rounded — rounded rectangles, circles, and
+        The shape language is rounded. rounded rectangles, circles, and
         soft corners everywhere. Ryan Sims (VP Design) and Mig Reyes
         (Head of Product Experience) oversee the system.
       differs_from_default_by: >-
@@ -50,23 +50,23 @@ visual_modes:
       touchpoints:
         - "Duolingo TikTok (10M+ followers, run by Zaria Parvez, joined 2020)"
         - "Duolingo X / Twitter"
-        - "Duo 'death' campaign (February 11, 2025 — 1.7B impressions, 25,560% brand mention spike)"
+        - "Duo 'death' campaign (February 11, 2025. 1.7B impressions, 25,560% brand mention spike)"
         - "Duo on Ice musical parody (February 2025)"
       description: >-
         Chaotic, meme-native, deliberately absurd. The Duo owl character
-        becomes a cultural agent — appearing in TikTok trends, threatening
+        becomes a cultural agent. appearing in TikTok trends, threatening
         users who miss lessons, and generating viral moments. The Duo
         'death' campaign (February 11, 2025) killed the mascot, generated
         1.7B impressions and a 25,560% spike in brand mentions within
         hours. The visual language on social is lo-fi, meme-formatted,
-        and intentionally rough — poorly cropped images, reaction memes,
+        and intentionally rough. poorly cropped images, reaction memes,
         screenshots of user-generated chaos. Zaria Parvez pioneered this
         voice starting in 2020 and it has become the brand's most
         distinctive external expression. Compared to any other edtech
         brand, this mode is unprecedented.
       differs_from_default_by: >-
         The polished, systematic app register breaks down entirely. The
-        visual quality deliberately drops — lo-fi signals internet-native
+        visual quality deliberately drops. lo-fi signals internet-native
         authenticity. The character Duo transforms from friendly mascot
         to chaotic internet personality. The colour system loosens, the
         typography becomes platform-native, and the only visual constant
@@ -74,17 +74,17 @@ visual_modes:
 
     - name: "brand-campaign"
       touchpoints:
-        - "OOH advertising — billboards, transit, airport"
+        - "OOH advertising. billboards, transit, airport"
         - "Duolingo brand films and TV spots"
         - "duolingo.com homepage hero content"
         - "Print and digital advertising"
       description: >-
         Clean, bold, character-led but more controlled than social.
         Feather Bold at large scale in Duolingo Green on white or green
-        backgrounds. Characters are the protagonists — Duo, Lily, and
+        backgrounds. Characters are the protagonists. Duo, Lily, and
         the cast appear in illustrated scenarios. The brand campaign
         register sits between the systematic app mode and the chaotic
-        social mode — it has energy and personality but maintains the
+        social mode. it has energy and personality but maintains the
         brand system's structure (consistent colour, consistent type,
         consistent character rendering).
       differs_from_default_by: >-
@@ -93,7 +93,7 @@ visual_modes:
         and in more varied scenarios.
 
   notes: >-
-    Duolingo's visual language is unusually bifurcated — the app experience
+    Duolingo's visual language is unusually bifurcated. the app experience
     is systematic and gamified, while the social media presence is
     deliberately chaotic. The tension between these two modes IS the
     brand's visual identity. Duolingo Max (AI tier) and Duolingo Math
@@ -114,35 +114,35 @@ photography:
     documentation (Duocon), and the occasional brand campaign that
     blends real-world photography with illustrated characters. The Duo
     owl costume in real-world settings is the most distinctive photographic
-    element — the physical mascot photographed in absurd situations
+    element. the physical mascot photographed in absurd situations
     (outside offices, at events, in the wild) drives TikTok content.
   casting_observed: >-
     The Duolingo characters ARE the casting. When real people appear, they
     are typically Duolingo employees (Zaria Parvez appears in TikTok
     content) or users featured in testimonial/UGC contexts. No celebrity
-    endorsement in the traditional sense — though the Duo 'death' campaign
+    endorsement in the traditional sense. though the Duo 'death' campaign
     generated celebrity responses (Dua Lipa's tribute was part of the
     cultural moment).
   lighting_and_colour: >-
-    Photography follows the brand's saturated colour world — Duolingo
+    Photography follows the brand's saturated colour world. Duolingo
     Green dominates any photographic context (the owl costume, green
     backgrounds, branded environments). The colour temperature is warm
-    and bright. Social media photography is deliberately casual — natural
+    and bright. Social media photography is deliberately casual. natural
     light, phone-camera quality, intentionally un-polished.
   post_production: >-
-    Minimal for social content — the lo-fi quality is intentional and
+    Minimal for social content. the lo-fi quality is intentional and
     maintaining it requires resisting the urge to polish. Brand campaign
     photography is more controlled but still bright and saturated, matching
     the illustrated character palette.
   visual_boundaries:
     stated_exclusions: >-
       Duolingo positions against the visual codes of traditional education
-      — no classroom photography, no textbook aesthetics, no corporate
+     no classroom photography, no textbook aesthetics, no corporate
       stock photography. The brand also avoids 'serious edtech' visual
       conventions used by Coursera, LinkedIn Learning, or Rosetta Stone.
     observed_exceptions: >-
       Duolingo for Schools marketing introduces some classroom context
-      and more conventional educational photography — teachers and
+      and more conventional educational photography. teachers and
       students with devices. The B2B/enterprise positioning requires a
       slightly more conventional visual approach.
     genuine_absence: >-
@@ -158,12 +158,12 @@ graphic_language:
   primary_sources:
     - "Johnson Banks rebrand (Michael Johnson, Creative Director, September 2019)"
     - "design.duolingo.com brand guidelines (published August 2024)"
-    - "Emily Chiu — character design"
+    - "Emily Chiu. character design"
     - "Ryan Sims (VP Design), Mig Reyes (Head of Product Experience)"
     - "Feather Bold (Krista Radoeva / Fontsmith / Monotype, 2019)"
   uses_illustration: true
   illustration_style: >-
-    Flat vector character illustration with consistent shape language —
+    Flat vector character illustration with consistent shape language
     all characters are built from rounded rectangles, circles, and rounded
     triangles. The illustration is cel-shaded (flat colour with shadow
     shapes, no gradients). Line weight is consistent across all characters
@@ -174,35 +174,35 @@ graphic_language:
     (September 2019, Michael Johnson CD) established the current character
     system and shape language.
   illustration_role: >-
-    Illustration is the PRIMARY visual language — not supplementary to
+    Illustration is the PRIMARY visual language. not supplementary to
     photography. Characters appear in the app interface (lessons, rewards,
     notifications), all marketing materials, social media content, and
     OOH advertising. The characters carry the brand's personality more
     than any other visual element. The lesson illustration system is
-    extensive — hundreds of scenario illustrations for different language
+    extensive. hundreds of scenario illustrations for different language
     contexts, all following the shape and colour rules.
   icon_style: >-
     Rounded, colourful, consistent with the character shape language. Skill
     icons in the app use the same rounded-rectangle foundation and flat
-    colour approach. The icon system is large — covering every language
+    colour approach. The icon system is large. covering every language
     topic and skill category. Icons feel like simplified versions of the
     full illustration system.
   graphic_devices: >-
-    Duo the owl as graphic device — the green owl face is as recognisable
+    Duo the owl as graphic device. the green owl face is as recognisable
     as any corporate logo. The rounded-rectangle shape is the foundational
-    graphic unit — buttons, cards, containers, progress bars all use the
+    graphic unit. buttons, cards, containers, progress bars all use the
     same rounded-corner radius. The streak flame icon. The heart (lives)
     icon. The league trophy progression. The XP progress bar. Duolingo
-    Green (#58CC02) as a colour device — the green is distinctive enough
+    Green (#58CC02) as a colour device. the green is distinctive enough
     to identify the brand without the owl. The entire gamification UI
     (streaks, leagues, hearts, gems) creates a graphic vocabulary unique
     to Duolingo.
   motion_language: >-
     Observed in the app and social content: bouncy, playful, exaggerated.
     Characters bounce, squash-and-stretch, and react with cartoon timing.
-    UI elements animate with spring physics — overshooting their target
+    UI elements animate with spring physics. overshooting their target
     position before settling. Celebration animations (correct answer,
-    level completion, streak milestone) are deliberately over-the-top —
+    level completion, streak milestone) are deliberately over-the-top
     confetti, sparkles, character dances. The motion language reinforces
     the gamified, dopamine-driven learning loop. Compared to other edtech
     apps (Khan Academy: minimal, functional; Babbel: conservative,
@@ -214,44 +214,44 @@ type_treatment:
   confidence: "high"
   primary_sources:
     - "Feather Bold (Krista Radoeva / Fontsmith / Monotype, commissioned 2019 for Johnson Banks rebrand)"
-    - "DIN Next Rounded (Akira Kobayashi / Monotype) — secondary/body"
+    - "DIN Next Rounded (Akira Kobayashi / Monotype). secondary/body"
     - "design.duolingo.com brand guidelines (August 2024)"
     - "duolingo.com and Duolingo app observed February 2026"
   signature_move: >-
-    Feather Bold (Krista Radoeva / Fontsmith / Monotype) — a custom
+    Feather Bold (Krista Radoeva / Fontsmith / Monotype). a custom
     typeface commissioned for the 2019 Johnson Banks rebrand. Rounded
     terminals, high x-height, friendly personality. The type matches
-    the character illustration style — rounded, warm, approachable. The
-    rounded quality of Feather Bold IS Duolingo's typographic identity —
+    the character illustration style. rounded, warm, approachable. The
+    rounded quality of Feather Bold IS Duolingo's typographic identity
     every letter echoes the rounded-rectangle shape language of the entire
     brand system. Compared to other edtech type choices (Coursera: Source
     Sans, neutral; Khan Academy: Lato, clean; Babbel: custom, German-
     inflected), Feather is the most distinctive and personality-driven.
   what_would_look_wrong: >-
-    Angular or geometric type (contradicts the rounded shape language —
+    Angular or geometric type (contradicts the rounded shape language
     Duolingo is all curves). Serif type (too formal for a brand that
-    communicates through play). Thin or light weights (too quiet — Duolingo's
+    communicates through play). Thin or light weights (too quiet. Duolingo's
     type is bold and present). A neutral sans-serif like Helvetica or
     Inter (would strip the personality that makes Duolingo distinctive from
     generic app UI).
   case_convention: >-
     Sentence case for UI and marketing. Product name 'Duolingo' always
-    capitalised. The brand avoids uppercase — even emphasis is achieved
+    capitalised. The brand avoids uppercase. even emphasis is achieved
     through size and colour rather than capitalisation. This is consistent
     with the friendly, non-authoritarian tone.
   display_vs_body: >-
-    Display: Feather Bold — the custom face at large sizes for headlines,
+    Display: Feather Bold. the custom face at large sizes for headlines,
     app headings, and marketing. The rounded terminals are most visible
     at display sizes. Body: DIN Next Rounded (Akira Kobayashi / Monotype)
-    — a more neutral rounded sans-serif for readable body text, lesson
+   a more neutral rounded sans-serif for readable body text, lesson
     content, and UI labels. The Feather-to-DIN transition preserves the
     rounded quality while improving readability at small sizes.
   type_and_image: >-
-    Type and illustration share the frame equally — headlines sit alongside
+    Type and illustration share the frame equally. headlines sit alongside
     or above character illustrations in marketing. In the app, type IS the
     primary interface element (lesson sentences, vocabulary, instructions)
     with characters providing emotional context. The type doesn't compete
-    with illustration — they share the same visual DNA (rounded, colourful,
+    with illustration. they share the same visual DNA (rounded, colourful,
     friendly) and coexist naturally.
 
 # ── Layout & Composition ─────────────────────────
@@ -264,23 +264,23 @@ layout:
     - "design.duolingo.com"
   signature_composition: >-
     Card-based, vertically scrolling, centred content. The app uses a
-    skill-tree layout — circular skill nodes connected by a path, scrolling
+    skill-tree layout. circular skill nodes connected by a path, scrolling
     vertically. Each lesson card is a rounded rectangle with an icon and
-    label. The composition is centred and symmetrical on mobile — single-
+    label. The composition is centred and symmetrical on mobile. single-
     column, clear hierarchy. On web, duolingo.com uses larger character
     illustrations alongside text in asymmetric two-column layouts. The
-    most distinctive composition is the lesson interface itself — a clean,
+    most distinctive composition is the lesson interface itself. a clean,
     focused screen with one question, one input area, and a progress bar.
   density_and_whitespace: >-
-    Moderate density in the app — the gamification elements (streak, XP,
+    Moderate density in the app. the gamification elements (streak, XP,
     hearts, leagues) create visual complexity, but each individual screen
     is focused on a single task. Compared to other language-learning apps,
-    Duolingo is moderately dense — more visual elements than Babbel (cleaner,
+    Duolingo is moderately dense. more visual elements than Babbel (cleaner,
     more minimal) but less cluttered than Busuu (more feature-packed).
     Marketing materials and duolingo.com use more whitespace than the app.
   format_preferences: >-
     Vertical for app and mobile-first web. Square for social. The app
-    is mobile-first — the portrait orientation drives all compositional
+    is mobile-first. the portrait orientation drives all compositional
     decisions. OOH uses landscape but the compositions remain centred
     and character-forward.
 
@@ -300,15 +300,15 @@ trend_posture:
       evidence: >-
         Duolingo pioneered the chaotic brand mascot on TikTok (Zaria
         Parvez, starting 2020). The Duo owl's threatening, absurdist
-        personality on social media — including the 'death' campaign
+        personality on social media. including the 'death' campaign
         (February 11, 2025, 1.7B impressions, 25,560% brand mention spike)
-        — established a template now imitated by brands across categories.
+       established a template now imitated by brands across categories.
         The mascot behaves as a character with agency, not a brand
         spokesperson.
       reasoning: >-
         Duolingo was early to understand that TikTok rewards authentic,
         chaotic, character-driven content over polished brand messaging.
-        The success has been reinforced by consistent investment — the
+        The success has been reinforced by consistent investment. the
         social strategy is now as important as the product marketing.
     - trend: "Gamification as visual language in apps"
       stance: "leader"
@@ -319,7 +319,7 @@ trend_posture:
         celebration animations) has been widely copied by fitness apps,
         financial apps, and other edtech products.
       reasoning: >-
-        The gamification visual language IS Duolingo's product — the game
+        The gamification visual language IS Duolingo's product. the game
         mechanics and their visual expression are inseparable from the
         learning experience.
 
@@ -339,7 +339,7 @@ collaboration:
     the partner's visual language more freely.
   notable_examples: >-
     Duo 'death' campaign x cultural moment (February 2025): Duo appeared
-    in celebrity social media posts, brand tributes, and meme formats —
+    in celebrity social media posts, brand tributes, and meme formats
     the character's visual identity held across completely uncontrolled
     contexts. Duolingo x HBO Max (Valyrian language course, Game of
     Thrones): Duo appeared in GoT-themed illustration while maintaining

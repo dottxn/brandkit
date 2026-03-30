@@ -16,7 +16,7 @@ last_updated: "2026-02-26"
 status: "active"
 enrichment_level: "enriched"
 summary: >-
-  Visual language for Vercel. How the brand looks structurally —
+  Visual language for Vercel. How the brand looks structurally
   photography art direction, type treatment, layout, graphic language,
   visual modes, and collaboration rules.
 
@@ -35,13 +35,13 @@ visual_modes:
         Blue (#0070F3) as the accent. The triangle logo (equilateral,
         introduced 2020) anchors the visual identity with geometric
         precision. Geist (Andrés Briganti + Basement Studio, Argentina,
-        2023) — a typeface family comprising Geist Sans, Geist Mono, and
-        Geist Pixel — serves as the brand typeface, replacing Inter.
+        2023). a typeface family comprising Geist Sans, Geist Mono, and
+        Geist Pixel. serves as the brand typeface, replacing Inter.
         Nicolás Garro 'Evil Rabbit' (Founding Designer/Brand Architect,
         since 2016) built the visual identity from scratch. The visual
-        language is Swiss-modernist-influenced — precision, geometry,
+        language is Swiss-modernist-influenced. precision, geometry,
         restraint, and functional beauty. Code-as-visual-content defines
-        the brand's unique approach — code snippets, terminal interfaces,
+        the brand's unique approach. code snippets, terminal interfaces,
         and deployment logs appear as design elements rather than
         documentation. Compared to Netlify (green, more playful, more
         accessible) or AWS (orange, enterprise-coded, utilitarian),
@@ -64,7 +64,7 @@ visual_modes:
         creates annual visual identities within the Vercel aesthetic
         framework. Documentation uses Geist Mono for code examples and
         Geist Sans for explanatory text. The Next.js community is the
-        largest sub-brand visual context — contributing to the Vercel
+        largest sub-brand visual context. contributing to the Vercel
         visual ecosystem through open-source projects, tutorials, and
         community content.
       differs_from_default_by: >-
@@ -80,7 +80,7 @@ visual_modes:
         - "v0 marketing within the Vercel ecosystem"
       description: >-
         v0 (Vercel's AI-powered UI generation tool) introduces a slightly
-        different visual register — the AI output (generated React
+        different visual register. the AI output (generated React
         components) becomes the visual content. The v0 interface is
         conversational (similar to ChatGPT) with generated UI components
         rendering in real time. The visual language must accommodate both
@@ -94,7 +94,7 @@ visual_modes:
 
   notes: >-
     Vercel's visual identity is unusually influential within the developer
-    community — the dark theme, Geist typeface, and code-as-visual-content
+    community. the dark theme, Geist typeface, and code-as-visual-content
     approach have been widely imitated. Nicolás Garro 'Evil Rabbit' has
     built one of the most recognisable developer-brand identities from
     scratch since 2016. The triangle logo's geometric simplicity is both
@@ -111,7 +111,7 @@ photography:
     Vercel uses virtually no brand photography. The visual identity is
     built entirely on typography (Geist), geometry (triangle logo), colour
     (monochrome + blue), and code-as-content. Conference photography
-    (Next.js Conf, Ship) shows developer community moments — stage
+    (Next.js Conf, Ship) shows developer community moments. stage
     presentations, audience reactions, networking. Product marketing uses
     screen recordings, code demonstrations, and terminal interfaces
     rather than photography. Compared to Stripe (occasional lifestyle
@@ -120,7 +120,7 @@ photography:
     major developer platforms.
   casting_observed: >-
     Minimal. Conference photography captures the developer community.
-    No distinctive casting direction — the brand communicates through
+    No distinctive casting direction. the brand communicates through
     code and interface rather than people.
   lighting_and_colour: >-
     Conference photography uses standard event lighting. No distinctive
@@ -156,32 +156,32 @@ graphic_language:
   illustration_role: ""
   icon_style: >-
     Geometric, minimal, monochrome. The triangle logo functions as both
-    brand mark and favicon — its geometric simplicity scales cleanly.
+    brand mark and favicon. its geometric simplicity scales cleanly.
     Product icons follow a consistent monoline style. Framework-specific
     marks (Next.js 'N,' Turbo, AI SDK) each have distinctive but
     geometrically related icons. The icon system reflects Swiss-modernist
     principles: reduction, geometric construction, consistent weight.
   graphic_devices: >-
-    The equilateral triangle — Vercel's primary mark. The triangle
+    The equilateral triangle. Vercel's primary mark. The triangle
     references delta (change) in mathematics, appropriate for a deployment
     platform. Its geometric perfection aligns with the Swiss-modernist
-    visual language. Code-as-visual-content — code snippets, terminal
+    visual language. Code-as-visual-content. code snippets, terminal
     outputs, and deployment logs appear as designed visual elements with
     Geist Mono typography, syntax highlighting, and careful layout. This
-    is Vercel's most distinctive graphic approach. Geist Pixel — the
+    is Vercel's most distinctive graphic approach. Geist Pixel. the
     display variant of Geist with 5 pixel-art-inspired sub-variants
     (Square, Grid, Circle, Triangle, Line), providing graphic-device-
     level flexibility for campaigns and events. The monochrome palette
     (#171717 black, #FAFAFA off-white, #0070F3 blue) itself is a
-    graphic device — the restraint creates instant recognition.
+    graphic device. the restraint creates instant recognition.
   motion_language: >-
     Minimal, precise, code-deployment-coded. The triangle logo animates
-    with geometric precision — rotation, reveal, morphing. Deployment
+    with geometric precision. rotation, reveal, morphing. Deployment
     animations (build → deploy → live) create a visual narrative of the
-    product experience. Page transitions use smooth, quick movements —
+    product experience. Page transitions use smooth, quick movements
     reflecting the platform's speed promise. Conference motion graphics
     use generative, code-influenced animations. The motion language is
-    restrained and purposeful — nothing decorative, everything functional.
+    restrained and purposeful. nothing decorative, everything functional.
     Compared to GitHub (more personality-driven motion) or AWS (minimal,
     enterprise-coded), Vercel's motion is the most geometrically precise.
 
@@ -194,7 +194,7 @@ type_treatment:
     - "1.5M+ Google Fonts downloads"
     - "vercel.com (observed February 2026)"
   signature_move: >-
-    Geist (Andrés Briganti + Basement Studio, Buenos Aires, 2023) — a
+    Geist (Andrés Briganti + Basement Studio, Buenos Aires, 2023). a
     typeface family comprising Geist Sans (the primary brand face), Geist
     Mono (for code contexts), and Geist Pixel (display variant with 5
     sub-variants: Square, Grid, Circle, Triangle, Line). Basement Studio
@@ -202,32 +202,32 @@ type_treatment:
     work. Geist replaced Inter (Rasmus Andersson) as Vercel's brand
     typeface. The name 'Geist' (German for 'spirit/mind') reflects the
     intellectual aspiration. Geist Sans has accumulated 1.5M+ downloads
-    on Google Fonts — making it one of the most adopted typefaces by a
+    on Google Fonts. making it one of the most adopted typefaces by a
     developer-tools company. The mono variant is particularly significant
-    — in developer contexts, the code typeface is as important as the
+   in developer contexts, the code typeface is as important as the
     brand typeface. Geist Pixel's five sub-variants (each using different
     pixel constructions) provide campaign-level graphic flexibility.
-    Compared to JetBrains (JetBrains Mono — code-only, no brand face) or
-    GitHub (Monaspace — mono family, no sans companion), Geist is the
+    Compared to JetBrains (JetBrains Mono. code-only, no brand face) or
+    GitHub (Monaspace. mono family, no sans companion), Geist is the
     most complete typeface ecosystem in developer tools.
   what_would_look_wrong: >-
     Inter (now superseded, signals the pre-Geist era). A serif typeface
     (contradicts the geometric, modern register). A rounded, friendly
     typeface (contradicts the Swiss-modernist precision). System monospace
-    fonts in code contexts (Geist Mono is the identity — generic monospace
+    fonts in code contexts (Geist Mono is the identity. generic monospace
     removes brand distinction).
   case_convention: >-
     'Vercel' uses title case. Framework names follow their own conventions
     ('Next.js' with lowercase 'ext' and '.js,' 'Turbo,' 'v0' with
     lowercase 'v'). Body text uses sentence case. The brand mixes case
-    conventions — reflecting the developer world where case is syntactically
+    conventions. reflecting the developer world where case is syntactically
     meaningful (camelCase, PascalCase, kebab-case).
   display_vs_body: >-
-    Display: Geist Pixel for campaign and event headlines — the pixel
+    Display: Geist Pixel for campaign and event headlines. the pixel
     variants provide visual impact and graphic character. Geist Sans at
     heavier weights for standard marketing headlines. Body: Geist Sans at
     regular weight for all brand and product text. Geist Mono for all code
-    contexts — documentation, terminal interfaces, deployment logs. The
+    contexts. documentation, terminal interfaces, deployment logs. The
     three-face system (Sans, Mono, Pixel) provides comprehensive coverage
     for developer-brand contexts.
   type_and_image: >-
@@ -249,21 +249,21 @@ layout:
   signature_composition: >-
     Documentation-centred, code-forward. vercel.com uses a clean, dark-
     theme layout with generous whitespace and code-block-dominant content
-    sections. The Vercel Dashboard uses a developer-tool layout — project
+    sections. The Vercel Dashboard uses a developer-tool layout. project
     cards, deployment logs, analytics charts. Next.js documentation uses
     the standard developer-docs layout: left sidebar navigation, main
     content area with code examples, right sidebar for page navigation.
-    The composition is Swiss-grid-influenced — precise alignment,
+    The composition is Swiss-grid-influenced. precise alignment,
     consistent spacing, modular structure. Compared to Netlify (more
     colourful, more marketing-forward) or AWS (denser, more enterprise-
     portal-coded), Vercel's layout is the most design-refined among
     developer platforms.
   density_and_whitespace: >-
-    Low-to-moderate density. Marketing pages use generous whitespace —
+    Low-to-moderate density. Marketing pages use generous whitespace
     the dark theme creates visual depth. Code sections are compact but
     well-structured. The Dashboard balances project information with
     clean spacing. Documentation is standard developer-docs density.
-    The overall impression is of designed restraint — Swiss-modernist
+    The overall impression is of designed restraint. Swiss-modernist
     precision applied to developer-tool contexts.
   format_preferences: >-
     Desktop-first for developer tools and documentation. The Dashboard
@@ -304,7 +304,7 @@ trend_posture:
         contexts with a single, cohesive family.
       reasoning: >-
         Developer brands need both proportional and monospaced typefaces
-        — code is a primary visual element. Geist's approach of designing
+       code is a primary visual element. Geist's approach of designing
         Sans and Mono as a unified family (rather than pairing unrelated
         typefaces) sets a new standard for developer-brand typography.
 
@@ -329,10 +329,10 @@ collaboration:
     identity and has achieved significant adoption (1.5M+ downloads)
     beyond the brand itself. Vercel x Next.js community: the open-source
     framework's community creates visual content (tutorials, blog posts,
-    templates) that extends the Vercel visual language organically — the
+    templates) that extends the Vercel visual language organically. the
     most significant visual collaboration is the developer community
     itself. Vercel x Evil Rabbit (Nicolás Garro, since 2016): Garro
-    built the entire Vercel visual identity from scratch — from the
+    built the entire Vercel visual identity from scratch. from the
     triangle logo to the Geist commission to the Swiss-modernist visual
     system. This represents one of the most significant founding-
     designer-driven brand identities in developer tools.

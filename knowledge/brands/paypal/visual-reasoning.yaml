@@ -19,9 +19,9 @@ summary: Visual reasoning for PayPal. Why the design choices work.
 
 # ── Data
 type_logic: >-
-  PayPal Pro (custom typeface) provides geometric precision that suggests reliability without coldness. The typeface works equally well at large display sizes and small interface text—suggesting that PayPal's message is consistent across all contexts. The geometric character design (especially in numerals) is critical for financial credibility; ambiguous numbers destroy trust.
+  PayPal Pro (custom typeface) provides geometric precision that suggests reliability without coldness. The typeface works equally well at large display sizes and small interface text. suggesting that PayPal's message is consistent across all contexts. The geometric character design (especially in numerals) is critical for financial credibility; ambiguous numbers destroy trust.
 colour_logic: >-
-  Black (#000000) and white (#FFFFFF) as foundational colors suggest clarity and no-nonsense positioning. Blue (#0070BA) is the primary action color—not corporate navy, not tech cyan, but a specific shade that PayPal owns. The secondary blues (#003087 and #3D95CE) provide hierarchy and depth through the overlapping monogram. The palette deliberately avoids emotional colors (reds, greens, oranges), maintaining focus on function.
+  Black (#000000) and white (#FFFFFF) as foundational colors suggest clarity and no-nonsense positioning. Blue (#0070BA) is the primary action color. not corporate navy, not tech cyan, but a specific shade that PayPal owns. The secondary blues (#003087 and #3D95CE) provide hierarchy and depth through the overlapping monogram. The palette deliberately avoids emotional colors (reds, greens, oranges), maintaining focus on function.
 composition_philosophy: >-
   Modular system where the monogram functions as both logo and compositional anchor. The overlapping geometry shows relationship between different payment methods. Product-forward layout emphasizing interface clarity over lifestyle imagery. Movement language in UI interactions suggests responsive capability rather than static reliability.
 what_would_break_it: >-

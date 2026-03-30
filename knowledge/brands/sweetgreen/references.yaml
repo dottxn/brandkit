@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────
-# sweetgreen — Creative References
+# sweetgreen. Creative References
 # ──────────────────────────────────────────────
 
 studios:
@@ -7,7 +7,7 @@ studios:
     type: branding
     url: "https://www.wearecollins.com/"
     project_url: "https://wearecollins.com/case-studies/sweetgreen/"
-    relationship: "2021 comprehensive rebrand — visual identity, SweetSans typography, illustration system, packaging, store design"
+    relationship: "2021 comprehensive rebrand. visual identity, SweetSans typography, illustration system, packaging, store design"
 
   - name: "MCKL Type"
     type: type-foundry
@@ -17,13 +17,13 @@ studios:
   - name: "Colophon Foundry"
     type: type-foundry
     url: "https://www.colophon-foundry.org/"
-    relationship: "Designed Grenette serif typeface — contemporary cookbook-editorial voice"
+    relationship: "Designed Grenette serif typeface. contemporary cookbook-editorial voice"
 
 people:
   - name: "Jeremy Mickel"
     role: "Founder, MCKL Type / Typeface Designer"
     url: "https://www.mckltype.com/"
-    context: "Designed SweetSans based on LA Silver Lake signage — breakthrough open 'G' that echoes 'S' shape"
+    context: "Designed SweetSans based on LA Silver Lake signage. breakthrough open 'G' that echoes 'S' shape"
 
   - name: "Thomas Wilder"
     role: "Executive Creative Director, In-House"
@@ -43,17 +43,17 @@ people:
 publications:
   - title: "sweetgreen Rebranded by COLLINS"
     author: "It's Nice That"
-    relevance: "Comprehensive coverage of 2021 rebrand — design system, typography, visual language"
+    relevance: "Comprehensive coverage of 2021 rebrand. design system, typography, visual language"
 
 visuals:
   - url: "https://www.wearecollins.com/case-studies/sweetgreen/"
-    label: "COLLINS case study — rebrand strategy, visual system, illustration approach"
+    label: "COLLINS case study. rebrand strategy, visual system, illustration approach"
     section: visual-language
 
   - url: "https://www.mckltype.com/custom/sweetgreen"
-    label: "SweetSans typeface overview — design process, glyphs, text optimization"
+    label: "SweetSans typeface overview. design process, glyphs, text optimization"
     section: visual-language
 
   - url: "https://www.sweetgreen.com"
-    label: "sweetgreen website — SweetSans typography, food photography, chartreuse-on-kale design"
+    label: "sweetgreen website. SweetSans typography, food photography, chartreuse-on-kale design"
     section: visual-language

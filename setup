@@ -1,5 +1,5 @@
 #!/bin/bash
-# brandkit setup — register brand design skills with Claude Code
+# brandkit setup: register brand design skills with Claude Code
 #
 # Install:
 #   git clone https://github.com/dottxn/brandkit.git ~/.claude/skills/brandkit

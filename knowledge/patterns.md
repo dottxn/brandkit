@@ -25,12 +25,12 @@ Extracted from analysing 88 brands across 11 dimensions. These patterns are refe
 
 ### Common Pairings
 
-Creator + Sage — technology brands that build and educate (Stripe, Notion, Figma)
-Creator + Magician — luxury brands that transform through craft (Chanel, Hermes)
-Hero + Magician — performance brands with aspirational reach (Nike)
-Explorer + Creator — brands that discover and build (Airbnb, Rivian)
-Outlaw + Jester — challenger brands with humour (Oatly, Duolingo)
-Ruler + Creator — heritage luxury with craft authority (Rolex, Louis Vuitton)
+Creator + Sage: technology brands that build and educate (Stripe, Notion, Figma)
+Creator + Magician: luxury brands that transform through craft (Chanel, Hermes)
+Hero + Magician: performance brands with aspirational reach (Nike)
+Explorer + Creator: brands that discover and build (Airbnb, Rivian)
+Outlaw + Jester: challenger brands with humour (Oatly, Duolingo)
+Ruler + Creator: heritage luxury with craft authority (Rolex, Louis Vuitton)
 
 ### Pairings That Never Appear
 
@@ -104,7 +104,7 @@ Ruler + Creator — heritage luxury with craft authority (Rolex, Louis Vuitton)
 
 - High theater + high access + high innovation (8+/1-2/8+)
 - Low theater + high exclusivity + high innovation (1-3/8+/8+)
-- The exact center (5/5/5) — every brand picks a direction
+- The exact center (5/5/5). Every brand picks a direction
 
 ---
 
@@ -193,7 +193,7 @@ Ruler + Creator — heritage luxury with craft authority (Rolex, Louis Vuitton)
 - Spotify: "Like a music-obsessed friend with impeccable taste"
 - Wise: "Like someone who has studied banking thoroughly, found it overcharges..."
 
-The character-type guardrails are far more useful than trait lists. They give a writer an immediate mental model — a person you could imagine meeting.
+The character-type guardrails are far more useful than trait lists. They give a writer an immediate mental model, a person you could imagine meeting.
 
 ---
 
@@ -209,12 +209,12 @@ The character-type guardrails are far more useful than trait lists. They give a 
 
 ### What Makes Them Work
 
-1. **Scene before thesis** — open with a concrete scene, then pivot to meaning
-2. **Specific sensory detail** — at least one hyper-specific detail (a name, a number, a texture)
-3. **The reader is in the scene** — use "you" inside the experience
-4. **Paradox in the description** — the feeling contains a tension the brand resolves
-5. **Metaphor from outside the category** — skincare as bookshop, food brand as punk band
-6. **Transformation narrative** — the reader enters one state and exits another
+1. **Scene before thesis.** Open with a concrete scene, then pivot to meaning.
+2. **Specific sensory detail.** At least one hyper-specific detail (a name, a number, a texture).
+3. **The reader is in the scene.** Use "you" inside the experience.
+4. **Paradox in the description.** The feeling contains a tension the brand resolves.
+5. **Metaphor from outside the category.** Skincare as bookshop, food brand as punk band.
+6. **Transformation narrative.** The reader enters one state and exits another.
 
 ### What Makes Them Fail
 
@@ -259,7 +259,7 @@ Apple: radical simplicity housing extraordinary complexity.
 - Nike: "manufactures shoes; athletes manufacture meaning"
 - Aesop: "refusal of scale, now owned by the company that paid $2.525B for it"
 - Prada: "ideas are free; execution costs everything"
-- Oatly: "punk band playing your cafeteria — the system is negotiable"
+- Oatly: "punk band playing your cafeteria, the system is negotiable"
 - Nothing: "retro-futurism (80s IBM mainframe) speaking to contemporary design"
 - Chanel: "revolutionary choices that appear inevitable in retrospect"
 
